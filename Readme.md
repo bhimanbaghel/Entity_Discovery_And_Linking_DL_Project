@@ -36,4 +36,4 @@ Hussain Jagirdar - 17CS60R83
 Nikhil Agarwal - 17CS60R70  
 Lal Sridhar Vaishnava - 17CS60R39
 
-For any clearification contact us @bbaghel123@gmail.com
+For any clarification contact us @bbaghel123@gmail.com
