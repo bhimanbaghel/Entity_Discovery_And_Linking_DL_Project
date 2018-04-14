@@ -20,13 +20,13 @@ For complete instructions to setup and run the project please refer to ReadMe.tx
 
 Directories Description
 ---
-./code/ - contains all required programs and also stores the saved graphs and log files  
-./dataset/ - contains the Rich ERE corpora  
-./ere_dict/ and ./ere_dict_new/ - contains saved dictionaries created fron parsing the dataset  
-./weights/ - contain saved weights of different models  
-./PIC.png - showing needed file  
-./ReadMe.txt - contains all the essential instructions
-./manual.pdf - contains solar setup instructions and glove indexing instructions
+*`./code/` - contains all required programs and also stores the saved graphs and log files  
+*`./dataset/` - contains the Rich ERE corpora  
+*`./ere_dict/` and `./ere_dict_new/` - contains saved dictionaries created fron parsing the dataset  
+*`./weights/` - contain saved weights of different models  
+*`./PIC.png` - showing needed file  
+*`./ReadMe.txt` - contains all the essential instructions
+*`./manual.pdf` - contains solar setup instructions and glove indexing instructions
 
 Authors
 ---
