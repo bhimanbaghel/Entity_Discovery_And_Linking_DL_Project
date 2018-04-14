@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000070" doc_id="ENG_NW_001278_20130429_F00012I7X" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificIndeterminate">
+      <entity_mention id="m-18" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="110" length="14">
+        <mention_text>more survivors</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="115" length="9">survivors</nom_head>
+      </entity_mention>
+      <entity_mention id="m-51" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="219" length="14">
+        <mention_text>more survivors</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="224" length="9">survivors</nom_head>
+      </entity_mention>
+      <entity_mention id="m-75" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="288" length="14">
+        <mention_text>more survivors</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="293" length="9">survivors</nom_head>
+      </entity_mention>
+      <entity_mention id="m-156" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="611" length="22">
+        <mention_text>more trapped survivors</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="624" length="9">survivors</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-24" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-39" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="140" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-57" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="249" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="318" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-168" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="683" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-615" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="1313" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-627" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="2434" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-639" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="2558" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-687" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="2889" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-693" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="2906" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-27" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-45" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="151" length="8">
+        <mention_text>building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="151" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="260" length="8">
+        <mention_text>building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="260" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-87" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="329" length="8">
+        <mention_text>building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="329" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-138" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="499" length="28">
+        <mention_text>the collapsed Dhaka building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="519" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-162" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="666" length="36">
+        <mention_text>the eight-storey Bangladesh building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="694" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-234" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="980" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="984" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-240" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="993" length="10">
+        <mention_text>Rana Plaza</mention_text>
+      </entity_mention>
+      <entity_mention id="m-645" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2660" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2664" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-657" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2761" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2765" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-663" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="2775" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+      <entity_mention id="m-789" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3316" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3320" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-882" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3561" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3565" length="8">building</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-63" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="189" length="4">
+        <mention_text>Naim</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-33" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-93" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="348" length="5">
+        <mention_text>DHAKA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-144" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="513" length="5">
+        <mention_text>Dhaka</mention_text>
+      </entity_mention>
+      <entity_mention id="m-591" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="2365" length="5">
+        <mention_text>Dhaka</mention_text>
+      </entity_mention>
+      <entity_mention id="m-597" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2357" length="7">
+        <mention_text>capital</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2357" length="7">capital</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-36" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-99" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="365" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+      <entity_mention id="m-366" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="1660" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-105" type="PER" specificity="specificGroup">
+      <entity_mention id="m-132" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="376" length="46">
+        <mention_text>Rescuers with cranes and other heavy equipment</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="376" length="8">Rescuers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-150" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="547" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-180" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="737" length="8">
+        <mention_text>rescuers</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="737" length="8">rescuers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-192" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="788" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-246" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1005" length="12">
+        <mention_text>the rescuers</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1009" length="8">rescuers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-258" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="1125" length="3">
+        <mention_text>our</mention_text>
+      </entity_mention>
+      <entity_mention id="m-318" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1380" length="12">
+        <mention_text>the rescuers</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1384" length="8">rescuers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-342" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="1410" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+      <entity_mention id="m-705" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2946" length="8">
+        <mention_text>rescuers</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2946" length="8">rescuers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-108" type="PER" specificity="specificGroup">
+      <entity_mention id="m-174" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="713" length="10">
+        <mention_text>nearly 400</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="720" length="3">400</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-111" type="PER" specificity="specificGroup">
+      <entity_mention id="m-801" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3353" length="28">
+        <mention_text>almost all the death victims</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3374" length="7">victims</nom_head>
+      </entity_mention>
+      <entity_mention id="m-807" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3386" length="25">
+        <mention_text>workers of five factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3386" length="7">workers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-114" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-198" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="810" length="22">
+        <mention_text>a young garment worker</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="826" length="6">worker</nom_head>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="839" length="7">
+        <mention_text>Shahana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-210" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="848" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+      <entity_mention id="m-216" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="871" length="27">
+        <mention_text>the last remaining survivor</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="890" length="8">survivor</nom_head>
+      </entity_mention>
+      <entity_mention id="m-252" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1065" length="52">
+        <mention_text>the female worker who was spotted sometime on Sunday</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1076" length="6">worker</nom_head>
+      </entity_mention>
+      <entity_mention id="m-264" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="1154" length="7">
+        <mention_text>Shahana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-276" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="1270" length="3">
+        <mention_text>her</mention_text>
+      </entity_mention>
+      <entity_mention id="m-435" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="1844" length="7">
+        <mention_text>Shahana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-441" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="1852" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+      <entity_mention id="m-453" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="1929" length="2">
+        <mention_text>me</mention_text>
+      </entity_mention>
+      <entity_mention id="m-459" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="1933" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-477" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="1998" length="7">
+        <mention_text>Shahana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-489" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="2050" length="3">
+        <mention_text>her</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-120" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-270" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1228" length="9">
+        <mention_text>a rescuer</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1230" length="7">rescuer</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-123" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-282" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="1285" length="14">
+        <mention_text>Shahinul Islam</mention_text>
+      </entity_mention>
+      <entity_mention id="m-288" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1301" length="61">
+        <mention_text>director of Bangladesh Army's Inter Services Public Relations</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1301" length="8">director</nom_head>
+      </entity_mention>
+      <entity_mention id="m-312" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="1372" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-126" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-294" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="1331" length="31">
+        <mention_text>Inter Services Public Relations</mention_text>
+      </entity_mention>
+      <entity_mention id="m-300" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="1364" length="4">
+        <mention_text>ISPR</mention_text>
+      </entity_mention>
+      <entity_mention id="m-483" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="2019" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+      <entity_mention id="m-495" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="2082" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+      <entity_mention id="m-507" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="2115" length="4">
+        <mention_text>ISPR</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-129" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-306" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="1313" length="15">
+        <mention_text>Bangladesh Army</mention_text>
+      </entity_mention>
+      <entity_mention id="m-621" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="2434" length="15">
+        <mention_text>Bangladesh Army</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-330" type="PER" specificity="specificGroup">
+      <entity_mention id="m-324" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1394" length="21">
+        <mention_text>at least six of which</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1403" length="3">six</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-333" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-348" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1450" length="50">
+        <mention_text>the scene of the wreckage where the fire broke out</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1454" length="5">scene</nom_head>
+      </entity_mention>
+      <entity_mention id="m-360" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1601" length="26">
+        <mention_text>the burning wreckage scene</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1622" length="5">scene</nom_head>
+      </entity_mention>
+      <entity_mention id="m-399" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1695" length="8">
+        <mention_text>the site</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1699" length="4">site</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-336" type="PER" specificity="specificGroup">
+      <entity_mention id="m-354" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1502" length="17">
+        <mention_text>The fire-fighters</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1506" length="13">fire-fighters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-339" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-372" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1658" length="22">
+        <mention_text>a Xinhua correspondent</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1667" length="13">correspondent</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-378" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-405" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="1706" length="16">
+        <mention_text>Somoy television</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-381" type="PER" specificity="specificGroup">
+      <entity_mention id="m-411" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1738" length="13">
+        <mention_text>some rescuers</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1743" length="8">rescuers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-384" type="PER" specificity="specificGroup">
+      <entity_mention id="m-417" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1777" length="4">
+        <mention_text>some</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1777" length="4">some</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-387" type="PER" specificity="specificGroup">
+      <entity_mention id="m-423" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="1801" length="6">
+        <mention_text>others</mention_text>
+      </entity_mention>
+      <entity_mention id="m-429" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="1830" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-390" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-447" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1908" length="3">
+        <mention_text>Sir</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1908" length="3">Sir</nom_head>
+      </entity_mention>
+      <entity_mention id="m-471" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1961" length="21">
+        <mention_text>a teary- eyed rescuer</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1975" length="7">rescuer</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-393" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-465" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="1938" length="20">
+        <mention_text>a three-year old boy</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="1955" length="3">boy</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-519" type="PER" specificity="specificGroup">
+      <entity_mention id="m-513" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2132" length="24">
+        <mention_text>Dozens of family members</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2132" length="6">Dozens</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-522" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-534" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2186" length="17">
+        <mention_text>the disaster site</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2199" length="4">site</nom_head>
+      </entity_mention>
+      <entity_mention id="m-573" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2310" length="60">
+        <mention_text>the disaster site in Savar on the outskirts of capital Dhaka</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2323" length="4">site</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-525" type="PER" specificity="specificIndeterminate">
+      <entity_mention id="m-540" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2248" length="15">
+        <mention_text>how many people</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2257" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-531" type="PER" specificity="specificGroup">
+      <entity_mention id="m-552" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2289" length="5">
+        <mention_text>press</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2289" length="5">press</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-558" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-579" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="2331" length="5">
+        <mention_text>Savar</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-561" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-603" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="2404" length="26">
+        <mention_text>Chowdhury Hasan Suhrawardy</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-564" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-609" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="2452" length="21">
+        <mention_text>9th Infantry Division</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-567" type="PER" specificity="specificGroup">
+      <entity_mention id="m-633" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2558" length="22">
+        <mention_text>Bangladesh authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2569" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-570" type="PER" specificity="specificIndeterminate">
+      <entity_mention id="m-651" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2704" length="69">
+        <mention_text>anyone clinging to life beneath the sandwiched floors of the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2704" length="6">anyone</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-678" type="PER" specificity="specificGroup">
+      <entity_mention id="m-699" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2932" length="9">
+        <mention_text>officials</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2932" length="9">officials</nom_head>
+      </entity_mention>
+      <entity_mention id="m-723" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="3023" length="4">
+        <mention_text>They</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-681" type="PER" specificity="specificGroup">
+      <entity_mention id="m-711" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2968" length="53">
+        <mention_text>over 2, 500 people including several people on Sunday</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2980" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-684" type="PER" specificity="specificGroup">
+      <entity_mention id="m-717" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2997" length="14">
+        <mention_text>several people</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3005" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-735" type="PER" specificity="specificGroup">
+      <entity_mention id="m-729" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3138" length="11">
+        <mention_text>the workers</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3142" length="7">workers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-777" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3262" length="11">
+        <mention_text>the workers</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3266" length="7">workers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-738" type="PER" specificity="specificGroup">
+      <entity_mention id="m-747" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3169" length="24">
+        <mention_text>the garments authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3182" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-741" type="PER" specificity="specificGroup">
+      <entity_mention id="m-753" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3228" length="26">
+        <mention_text>officials of the factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3228" length="9">officials</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-744" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-759" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3241" length="13">
+        <mention_text>the factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3245" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-822" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3397" length="14">
+        <mention_text>five factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3402" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-870" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="3496" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+      <entity_mention id="m-888" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3581" length="26">
+        <mention_text>the five garment factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3598" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-894" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="3608" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-765" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-783" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3302" length="26">
+        <mention_text>workplaces in the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3302" length="10">workplaces</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-768" type="PER" specificity="specificGroup">
+      <entity_mention id="m-795" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3344" length="7">
+        <mention_text>sources</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3344" length="7">sources</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-771" type="PER" specificity="specificGroup">
+      <entity_mention id="m-3283" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2142" length="6">
+        <mention_text>family</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2142" length="6">family</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-774" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-3247" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3749" length="5">
+        <mention_text>shops</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3749" length="5">shops</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-813" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-828" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="3415" length="16">
+        <mention_text>Phantom Apparels</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-816" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-834" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="3433" length="11">
+        <mention_text>Phantom Tac</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-819" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-840" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="3446" length="9">
+        <mention_text>Ether Tex</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-846" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-858" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="3457" length="14">
+        <mention_text>New Wave Style</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-849" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-864" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="3476" length="16">
+        <mention_text>New Wave Bottoms</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-852" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-876" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3520" length="24">
+        <mention_text>many major global brands</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3538" length="6">brands</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-855" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-900" noun_type="NAM" source="ENG_NW_001278_20130429_F00012I7X" offset="3628" length="5">
+        <mention_text>BGMEA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-912" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-936" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3717" length="15">
+        <mention_text>a bank's branch</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3726" length="6">branch</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-915" type="PER" specificity="specificGroup">
+      <entity_mention id="m-906" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3644" length="20">
+        <mention_text>nearly 3,500 workers</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3657" length="7">workers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-930" noun_type="PRO" source="ENG_NW_001278_20130429_F00012I7X" offset="3676" length="4">
+        <mention_text>them</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-918" type="PER" specificity="specificGroup">
+      <entity_mention id="m-924" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3666" length="20">
+        <mention_text>mostly of them women</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3681" length="5">women</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-921" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-942" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3717" length="6">
+        <mention_text>a bank</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3719" length="4">bank</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-954" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-948" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3737" length="17">
+        <mention_text>hundreds of shops</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3737" length="8">hundreds</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1457" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-501" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2111" length="18">
+        <mention_text>the ISPR spokesman</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2120" length="9">spokesman</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1640" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-3241" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="3547" length="26">
+        <mention_text>Six floors of the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="3551" length="6">floors</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-3238" type="PER" specificity="specificGroup">
+      <entity_mention id="m-3232" noun_type="NOM" source="ENG_NW_001278_20130429_F00012I7X" offset="2142" length="14">
+        <mention_text>family members</mention_text>
+        <nom_head source="ENG_NW_001278_20130429_F00012I7X" offset="2149" length="7">members</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-1245" source="ENG_NW_001278_20130429_F00012I7X" offset="818" length="14" type="title">garment worker</filler>
+    <filler id="f-1285" source="ENG_NW_001278_20130429_F00012I7X" offset="1301" length="8" type="title">director</filler>
+    <filler id="f-1355" source="ENG_NW_001278_20130429_F00012I7X" offset="1506" length="13" type="title">fire-fighters</filler>
+    <filler id="f-1385" source="ENG_NW_001278_20130429_F00012I7X" offset="1667" length="13" type="title">correspondent</filler>
+    <filler id="f-1468" source="ENG_NW_001278_20130429_F00012I7X" offset="2120" length="9" type="title">spokesman</filler>
+    <filler id="f-1508" source="ENG_NW_001278_20130429_F00012I7X" offset="2390" length="13" type="title">Major General</filler>
+    <filler id="f-3271" source="ENG_NW_001278_20130429_F00012I7X" offset="1940" length="14" type="age">three-year old</filler>
+    <filler id="f-1827" source="ENG_NW_001278_20130429_F00012I7X" offset="438" length="40" type="commodity">huge concrete slabs and chunks of debris</filler>
+    <filler id="f-1834" source="ENG_NW_001278_20130429_F00012I7X" offset="479" length="6" type="time" nom_time="2013-04-29">Monday</filler>
+    <filler id="f-1841" source="ENG_NW_001278_20130429_F00012I7X" offset="390" length="32" type="vehicle">cranes and other heavy equipment</filler>
+    <filler id="f-2465" source="ENG_NW_001278_20130429_F00012I7X" offset="1636" length="6" type="time" nom_time="2013-04-29">Monday</filler>
+    <filler id="f-2721" source="ENG_NW_001278_20130429_F00012I7X" offset="2494" length="32" type="vehicle">cranes and other heavy equipment</filler>
+    <filler id="f-2742" source="ENG_NW_001278_20130429_F00012I7X" offset="2606" length="15" type="commodity">heavy machinery</filler>
+    <filler id="f-2792" source="ENG_NW_001278_20130429_F00012I7X" offset="2606" length="15" type="commodity">heavy machinery</filler>
+    <filler id="f-3528" source="ENG_NW_001278_20130429_F00012I7X" offset="2648" length="24" type="commodity">chunks from the building</filler>
+    <filler id="f-2950" source="ENG_NW_001278_20130429_F00012I7X" offset="3215" length="7" type="time" nom_time="2013-04-23">Tuesday</filler>
+    <filler id="f-2978" source="ENG_NW_001278_20130429_F00012I7X" offset="3215" length="7" type="time" nom_time="2013-04-23">Tuesday</filler>
+    <filler id="f-3027" source="ENG_NW_001278_20130429_F00012I7X" offset="3277" length="16" type="time" nom_time="2013-04-24">the next morning</filler>
+    <filler id="f-3125" source="ENG_NW_001278_20130429_F00012I7X" offset="3507" length="8" type="commodity">clothing</filler>
+    <filler id="f-3405" source="ENG_NW_001278_20130429_F00012I7X" offset="2374" length="6" type="time" nom_time="2013-04-28">Sunday</filler>
+    <filler id="f-3484" source="ENG_NW_001278_20130429_F00012I7X" offset="3015" length="6" type="time" nom_time="2013-04-28">Sunday</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1784" type="physical" subtype="locatednear">
+      <relation_mention id="relm-957" realis="true">
+        <rel_arg1 entity_id="ent-27" entity_mention_id="m-45" role="entity">building</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-39" role="loc">Bangladesh</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1017" realis="true">
+        <rel_arg1 entity_id="ent-27" entity_mention_id="m-69" role="entity">building</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-57" role="loc">Bangladesh</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1107" realis="true">
+        <rel_arg1 entity_id="ent-27" entity_mention_id="m-162" role="entity">the eight-storey Bangladesh building</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-168" role="loc">Bangladesh</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1785" type="physical" subtype="locatednear">
+      <relation_mention id="relm-967" realis="false">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-18" role="entity">more survivors</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-45" role="loc">building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="137" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-997" realis="false">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-51" role="entity">more survivors</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-69" role="loc">building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="246" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1027" realis="false">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-75" role="entity">more survivors</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-87" role="loc">building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="315" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1087" realis="false">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-156" role="entity">more trapped survivors</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-138" role="loc">the collapsed Dhaka building</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1786" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1047" realis="true">
+        <rel_arg1 entity_id="ent-105" entity_mention_id="m-132" role="entity">Rescuers with cranes and other heavy equipment</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-138" role="loc">the collapsed Dhaka building</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1147" realis="true">
+        <rel_arg1 entity_id="ent-105" entity_mention_id="m-180" role="entity">rescuers</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-162" role="loc">the eight-storey Bangladesh building</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1257" realis="true">
+        <rel_arg1 entity_id="ent-105" entity_mention_id="m-246" role="entity">the rescuers</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-240" role="loc">Rana Plaza</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1787" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1067" realis="true">
+        <rel_arg1 entity_id="ent-27" entity_mention_id="m-138" role="entity">the collapsed Dhaka building</rel_arg1>
+        <rel_arg2 entity_id="ent-33" entity_mention_id="m-144" role="loc">Dhaka</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1788" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1127" realis="true">
+        <rel_arg1 entity_id="ent-108" entity_mention_id="m-174" role="entity">nearly 400</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-162" role="loc">the eight-storey Bangladesh building</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1789" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1167" realis="true">
+        <rel_arg1 entity_id="ent-114" entity_mention_id="m-198" role="entity">a young garment worker</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-162" role="loc">the eight-storey Bangladesh building</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1267" realis="true">
+        <rel_arg1 entity_id="ent-114" entity_mention_id="m-252" role="entity">the female worker who was spotted sometime on Sunday</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-240" role="loc">Rana Plaza</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1790" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1237" realis="true">
+        <rel_arg1 entity_id="ent-114" entity_mention_id="m-198" role="per">a young garment worker</rel_arg1>
+        <rel_arg2 filler_id="f-1245" role="role">garment worker</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1791" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1277" realis="true">
+        <rel_arg1 entity_id="ent-123" entity_mention_id="m-288" role="per">director of Bangladesh Army's Inter Services Public Relations</rel_arg1>
+        <rel_arg2 filler_id="f-1285" role="role">director</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1792" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1297" realis="true">
+        <rel_arg1 entity_id="ent-123" entity_mention_id="m-288" role="leader">director of Bangladesh Army's Inter Services Public Relations</rel_arg1>
+        <rel_arg2 entity_id="ent-126" entity_mention_id="m-294" role="entity">Inter Services Public Relations</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1301" length="8">director</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1793" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1307" realis="true">
+        <rel_arg1 entity_id="ent-126" entity_mention_id="m-294" role="suborg">Inter Services Public Relations</rel_arg1>
+        <rel_arg2 entity_id="ent-129" entity_mention_id="m-306" role="parent">Bangladesh Army</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1324" length="6">Army's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1794" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1327" realis="true">
+        <rel_arg1 entity_id="ent-105" entity_mention_id="m-318" role="entity">the rescuers</rel_arg1>
+        <rel_arg2 entity_id="ent-333" entity_mention_id="m-348" role="loc">the scene of the wreckage where the fire broke out</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1445" length="4">from</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1795" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1337" realis="true">
+        <rel_arg1 entity_id="ent-330" entity_mention_id="m-324" role="entity">at least six of which</rel_arg1>
+        <rel_arg2 entity_id="ent-333" entity_mention_id="m-348" role="loc">the scene of the wreckage where the fire broke out</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1445" length="4">from</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1796" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1347" realis="true">
+        <rel_arg1 entity_id="ent-336" entity_mention_id="m-354" role="per">The fire-fighters</rel_arg1>
+        <rel_arg2 filler_id="f-1355" role="role">fire-fighters</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1797" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1357" realis="true">
+        <rel_arg1 entity_id="ent-336" entity_mention_id="m-354" role="entity">The fire-fighters</rel_arg1>
+        <rel_arg2 entity_id="ent-333" entity_mention_id="m-360" role="loc">the burning wreckage scene</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1798" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1367" realis="true">
+        <rel_arg1 entity_id="ent-339" entity_mention_id="m-372" role="entity">a Xinhua correspondent</rel_arg1>
+        <rel_arg2 entity_id="ent-333" entity_mention_id="m-399" role="loc">the site</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1690" length="4">from</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1799" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1377" realis="true">
+        <rel_arg1 entity_id="ent-339" entity_mention_id="m-372" role="per">a Xinhua correspondent</rel_arg1>
+        <rel_arg2 filler_id="f-1385" role="role">correspondent</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1800" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1387" realis="true">
+        <rel_arg1 entity_id="ent-339" entity_mention_id="m-372" role="employeemember">a Xinhua correspondent</rel_arg1>
+        <rel_arg2 entity_id="ent-36" entity_mention_id="m-366" role="org">Xinhua</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1667" length="13">correspondent</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1801" type="personalsocial" subtype="family">
+      <relation_mention id="relm-1437" realis="true">
+        <rel_arg1 entity_id="ent-114" entity_mention_id="m-459" role="per">I</rel_arg1>
+        <rel_arg2 entity_id="ent-393" entity_mention_id="m-465" role="per">a three-year old boy</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1933" length="4">I've</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1802" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1447" realis="true">
+        <rel_arg1 entity_id="ent-1457" entity_mention_id="m-501" role="employeemember">the ISPR spokesman</rel_arg1>
+        <rel_arg2 entity_id="ent-126" entity_mention_id="m-507" role="org">ISPR</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2120" length="9">spokesman</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1803" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1460" realis="true">
+        <rel_arg1 entity_id="ent-1457" entity_mention_id="m-501" role="per">the ISPR spokesman</rel_arg1>
+        <rel_arg2 filler_id="f-1468" role="role">spokesman</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1804" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1470" realis="true">
+        <rel_arg1 entity_id="ent-519" entity_mention_id="m-513" role="entity">Dozens of family members</rel_arg1>
+        <rel_arg2 entity_id="ent-522" entity_mention_id="m-534" role="loc">the disaster site</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2183" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1805" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1480" realis="true">
+        <rel_arg1 entity_id="ent-531" entity_mention_id="m-552" role="entity">press</rel_arg1>
+        <rel_arg2 entity_id="ent-522" entity_mention_id="m-573" role="loc">the disaster site in Savar on the outskirts of capital Dhaka</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2307" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1806" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1490" realis="true">
+        <rel_arg1 entity_id="ent-561" entity_mention_id="m-603" role="entity">Chowdhury Hasan Suhrawardy</rel_arg1>
+        <rel_arg2 entity_id="ent-522" entity_mention_id="m-573" role="loc">the disaster site in Savar on the outskirts of capital Dhaka</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2307" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1807" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1500" realis="true">
+        <rel_arg1 entity_id="ent-561" entity_mention_id="m-603" role="per">Chowdhury Hasan Suhrawardy</rel_arg1>
+        <rel_arg2 filler_id="f-1508" role="role">Major General</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1808" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1510" realis="true">
+        <rel_arg1 entity_id="ent-561" entity_mention_id="m-603" role="leader">Chowdhury Hasan Suhrawardy</rel_arg1>
+        <rel_arg2 entity_id="ent-564" entity_mention_id="m-609" role="entity">9th Infantry Division</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2390" length="13">Major General</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1809" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1520" realis="true">
+        <rel_arg1 entity_id="ent-567" entity_mention_id="m-633" role="employeemember">Bangladesh authorities</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-639" role="org">Bangladesh</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2569" length="11">authorities</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1810" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1530" realis="true">
+        <rel_arg1 entity_id="ent-570" entity_mention_id="m-651" role="entity">anyone clinging to life beneath the sandwiched floors of the building</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-657" role="loc">the building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2728" length="7">beneath</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1811" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1540" realis="true">
+        <rel_arg1 entity_id="ent-678" entity_mention_id="m-699" role="employeemember">officials</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-693" role="org">its</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2932" length="9">officials</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1812" type="personalsocial" subtype="business">
+      <relation_mention id="relm-1570" realis="true">
+        <rel_arg1 entity_id="ent-741" entity_mention_id="m-753" role="per">officials of the factories</rel_arg1>
+        <rel_arg2 entity_id="ent-735" entity_mention_id="m-777" role="per">the workers</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1813" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1580" realis="true">
+        <rel_arg1 entity_id="ent-735" entity_mention_id="m-777" role="entity">the workers</rel_arg1>
+        <rel_arg2 entity_id="ent-765" entity_mention_id="m-783" role="loc">workplaces in the building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3297" length="4">join</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1814" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1590" realis="true">
+        <rel_arg1 entity_id="ent-765" entity_mention_id="m-783" role="entity">workplaces in the building</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-789" role="loc">the building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3313" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1815" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1600" realis="true">
+        <rel_arg1 entity_id="ent-111" entity_mention_id="m-807" role="employeemember">workers of five factories</rel_arg1>
+        <rel_arg2 entity_id="ent-744" entity_mention_id="m-822" role="org">five factories</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3394" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1816" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1653" realis="true">
+        <rel_arg1 entity_id="ent-744" entity_mention_id="m-888" role="org">the five garment factories</rel_arg1>
+        <rel_arg2 entity_id="ent-1640" entity_mention_id="m-3241" role="loc">Six floors of the building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3574" length="6">housed</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1817" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-3253" realis="true">
+        <rel_arg1 entity_id="ent-129" entity_mention_id="m-306" role="suborg">Bangladesh Army</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-615" role="parent">Bangladesh</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-3299" realis="true">
+        <rel_arg1 entity_id="ent-129" entity_mention_id="m-621" role="suborg">Bangladesh Army</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-627" role="parent">Bangladesh</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1818" type="generalaffiliation" subtype="personage">
+      <relation_mention id="relm-3263" realis="true">
+        <rel_arg1 entity_id="ent-393" entity_mention_id="m-465" role="per">a three-year old boy</rel_arg1>
+        <rel_arg2 filler_id="f-3271" role="age">three-year old</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1951" length="3">old</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1819" type="personalsocial" subtype="family">
+      <relation_mention id="relm-3273" realis="true">
+        <rel_arg1 entity_id="ent-3238" entity_mention_id="m-3232" role="per">family members</rel_arg1>
+        <rel_arg2 entity_id="ent-771" entity_mention_id="m-3283" role="per">family</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2142" length="6">family</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1820" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-3289" realis="true">
+        <rel_arg1 entity_id="ent-564" entity_mention_id="m-609" role="suborg">9th Infantry Division</rel_arg1>
+        <rel_arg2 entity_id="ent-129" entity_mention_id="m-621" role="parent">Bangladesh Army</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2445" length="6">Army's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1821" type="physical" subtype="locatednear">
+      <relation_mention id="relm-3309" realis="true">
+        <rel_arg1 entity_id="ent-1640" entity_mention_id="m-3241" role="entity">Six floors of the building</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-882" role="loc">the building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3558" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1822" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-3319" realis="true">
+        <rel_arg1 entity_id="ent-915" entity_mention_id="m-906" role="employeemember">nearly 3,500 workers</rel_arg1>
+        <rel_arg2 entity_id="ent-744" entity_mention_id="m-894" role="org">which</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3635" length="8">employed</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1823" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-3329" realis="true">
+        <rel_arg1 entity_id="ent-918" entity_mention_id="m-924" role="employeemember">mostly of them women</rel_arg1>
+        <rel_arg2 entity_id="ent-744" entity_mention_id="m-894" role="org">which</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3635" length="8">employed</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1824" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-3339" realis="true">
+        <rel_arg1 entity_id="ent-921" entity_mention_id="m-942" role="org">a bank</rel_arg1>
+        <rel_arg2 entity_id="ent-912" entity_mention_id="m-936" role="loc">a bank's branch</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3726" length="6">branch</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1825" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-3349" realis="true">
+        <rel_arg1 entity_id="ent-741" entity_mention_id="m-753" role="employeemember">officials of the factories</rel_arg1>
+        <rel_arg2 entity_id="ent-744" entity_mention_id="m-759" role="org">the factories</rel_arg2>
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3238" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-1718">
+      <event_mention id="em-1943" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="724" length="4">dead</trigger>
+        <em_arg entity_id="ent-108" entity_mention_id="m-174" role="victim" realis="true">nearly 400</em_arg>
+        <em_arg entity_id="ent-27" entity_mention_id="m-162" role="place" realis="true">the eight-storey Bangladesh building</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1720">
+      <event_mention id="em-2027" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="793" length="6">failed</trigger>
+        <em_arg entity_id="ent-114" entity_mention_id="m-198" role="victim" realis="true">a young garment worker</em_arg>
+        <em_arg entity_id="ent-27" entity_mention_id="m-162" role="place" realis="true">the eight-storey Bangladesh building</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1722">
+      <event_mention id="em-1802" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="429" length="8">removing</trigger>
+        <em_arg entity_id="ent-105" entity_mention_id="m-132" role="agent" realis="true">Rescuers with cranes and other heavy equipment</em_arg>
+        <em_arg filler_id="f-1827" role="artifact" realis="true">huge concrete slabs and chunks of debris</em_arg>
+        <em_arg filler_id="f-1834" role="time" realis="true">Monday</em_arg>
+        <em_arg filler_id="f-1841" role="instrument" realis="true">cranes and other heavy equipment</em_arg>
+        <em_arg entity_id="ent-27" entity_mention_id="m-138" role="origin" realis="true">the collapsed Dhaka building</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1728">
+      <event_mention id="em-2152" type="movement" subtype="transportperson" realis="other">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1056" length="8">pull out</trigger>
+        <em_arg entity_id="ent-114" entity_mention_id="m-252" role="person" realis="true">the female worker who was spotted sometime on Sunday</em_arg>
+        <em_arg entity_id="ent-105" entity_mention_id="m-246" role="agent" realis="true">the rescuers</em_arg>
+        <em_arg entity_id="ent-27" entity_mention_id="m-240" role="origin" realis="true">Rana Plaza</em_arg>
+      </event_mention>
+      <event_mention id="em-2264" type="movement" subtype="transportperson" realis="other">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1265" length="4">pull</trigger>
+        <em_arg entity_id="ent-120" entity_mention_id="m-270" role="agent" realis="true">a rescuer</em_arg>
+        <em_arg entity_id="ent-114" entity_mention_id="m-276" role="person" realis="true">her</em_arg>
+      </event_mention>
+      <event_mention id="em-2545" type="movement" subtype="transportperson" realis="other">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1920" length="8">pull out</trigger>
+        <em_arg entity_id="ent-114" entity_mention_id="m-453" role="person" realis="true">me</em_arg>
+        <em_arg entity_id="ent-390" entity_mention_id="m-447" role="agent" realis="true">Sir</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1730">
+      <event_mention id="em-2601" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2009" length="6">saying</trigger>
+        <em_arg entity_id="ent-114" entity_mention_id="m-477" role="entity" realis="true">Shahana</em_arg>
+        <em_arg entity_id="ent-390" entity_mention_id="m-471" role="entity" realis="true">a teary- eyed rescuer</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1935">
+      <event_mention id="em-2299" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1280" length="4">said</trigger>
+        <em_arg entity_id="ent-123" entity_mention_id="m-282" role="entity" realis="true">Shahinul Islam</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1939">
+      <event_mention id="em-2356" type="life" subtype="injure" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1421" length="7">injured</trigger>
+        <em_arg entity_id="ent-330" entity_mention_id="m-324" role="victim" realis="true">at least six of which</em_arg>
+        <em_arg entity_id="ent-333" entity_mention_id="m-348" role="place" realis="true">the scene of the wreckage where the fire broke out</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1941">
+      <event_mention id="em-2384" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1437" length="7">retreat</trigger>
+        <em_arg entity_id="ent-105" entity_mention_id="m-342" role="person" realis="true">which</em_arg>
+        <em_arg entity_id="ent-333" entity_mention_id="m-348" role="origin" realis="true">the scene of the wreckage where the fire broke out</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2111">
+      <event_mention id="em-2433" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1681" length="8">reported</trigger>
+        <em_arg entity_id="ent-339" entity_mention_id="m-372" role="entity" realis="true">a Xinhua correspondent</em_arg>
+        <em_arg entity_id="ent-333" entity_mention_id="m-399" role="place" realis="true">the site</em_arg>
+        <em_arg filler_id="f-2465" role="time" realis="true">Monday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2113">
+      <event_mention id="em-2468" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1731" length="6">showed</trigger>
+        <em_arg entity_id="ent-378" entity_mention_id="m-405" role="entity" realis="true">Somoy television</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2115">
+      <event_mention id="em-2496" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1839" length="4">left</trigger>
+        <em_arg entity_id="ent-387" entity_mention_id="m-429" role="person" realis="true">they</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2350">
+      <event_mention id="em-2580" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="1983" length="6">quoted</trigger>
+        <em_arg entity_id="ent-390" entity_mention_id="m-471" role="entity" realis="true">a teary- eyed rescuer</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2352">
+      <event_mention id="em-2629" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2106" length="4">said</trigger>
+        <em_arg entity_id="ent-1457" entity_mention_id="m-501" role="entity" realis="true">the ISPR spokesman</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2650">
+      <event_mention id="em-2704" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2487" length="6">deploy</trigger>
+        <em_arg filler_id="f-2721" role="artifact" realis="true">cranes and other heavy equipment</em_arg>
+        <em_arg entity_id="ent-564" entity_mention_id="m-609" role="agent" realis="true">9th Infantry Division</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2652">
+      <event_mention id="em-2725" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2596" length="9">deploying</trigger>
+        <em_arg filler_id="f-2742" role="artifact" realis="true">heavy machinery</em_arg>
+        <em_arg entity_id="ent-27" entity_mention_id="m-645" role="destination" realis="true">the building</em_arg>
+        <em_arg entity_id="ent-567" entity_mention_id="m-633" role="agent" realis="true">Bangladesh authorities</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2654">
+      <event_mention id="em-2760" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2655" length="4">from</trigger>
+        <em_arg entity_id="ent-27" entity_mention_id="m-645" role="origin" realis="true">the building</em_arg>
+        <em_arg filler_id="f-2792" role="instrument" realis="true">heavy machinery</em_arg>
+        <em_arg filler_id="f-3528" role="artifact" realis="true">chunks from the building</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2656">
+      <event_mention id="em-2795" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2942" length="3">say</trigger>
+        <em_arg entity_id="ent-678" entity_mention_id="m-699" role="entity" realis="true">officials</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2818">
+      <event_mention id="em-2925" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3155" length="9">evacuated</trigger>
+        <em_arg entity_id="ent-735" entity_mention_id="m-729" role="person" realis="true">the workers</em_arg>
+        <em_arg filler_id="f-2950" role="time" realis="true">Tuesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2820">
+      <event_mention id="em-2953" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3194" length="8">declared</trigger>
+        <em_arg entity_id="ent-738" entity_mention_id="m-747" role="entity" realis="true">the garments authorities</em_arg>
+        <em_arg filler_id="f-2978" role="time" realis="true">Tuesday</em_arg>
+        <em_arg entity_id="ent-735" entity_mention_id="m-729" role="audience" realis="true">the workers</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2913">
+      <event_mention id="em-2988" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3297" length="4">join</trigger>
+        <em_arg entity_id="ent-735" entity_mention_id="m-777" role="person" realis="true">the workers</em_arg>
+        <em_arg entity_id="ent-741" entity_mention_id="m-753" role="agent" realis="true">officials of the factories</em_arg>
+        <em_arg entity_id="ent-765" entity_mention_id="m-783" role="destination" realis="true">workplaces in the building</em_arg>
+        <em_arg filler_id="f-3027" role="time" realis="true">the next morning</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2917">
+      <event_mention id="em-3065" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3368" length="5">death</trigger>
+        <em_arg entity_id="ent-111" entity_mention_id="m-801" role="victim" realis="true">almost all the death victims</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2919">
+      <event_mention id="em-3100" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3502" length="4">make</trigger>
+        <em_arg entity_id="ent-744" entity_mention_id="m-870" role="agent" realis="true">which</em_arg>
+        <em_arg filler_id="f-3125" role="artifact" realis="true">clothing</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2921">
+      <event_mention id="em-3128" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3368" length="5">death</trigger>
+        <em_arg entity_id="ent-744" entity_mention_id="m-870" role="entity" realis="true">which</em_arg>
+        <em_arg entity_id="ent-111" entity_mention_id="m-801" role="person" realis="true">almost all the death victims</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2923">
+      <event_mention id="em-3183" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3331" length="9">According</trigger>
+        <em_arg entity_id="ent-768" entity_mention_id="m-795" role="entity" realis="true">sources</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3170">
+      <event_mention id="em-3211" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="3615" length="9">according</trigger>
+        <em_arg entity_id="ent-855" entity_mention_id="m-900" role="entity" realis="true">BGMEA</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3172">
+      <event_mention id="em-2117" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="932" length="6">bodies</trigger>
+        <em_arg entity_id="ent-27" entity_mention_id="m-234" role="place" realis="true">the building</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3174">
+      <event_mention id="em-3366" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2295" length="11">briefingPRA</trigger>
+        <em_arg entity_id="ent-561" entity_mention_id="m-603" role="entity" realis="true">Chowdhury Hasan Suhrawardy</em_arg>
+        <em_arg entity_id="ent-531" entity_mention_id="m-552" role="audience" realis="true">press</em_arg>
+        <em_arg entity_id="ent-522" entity_mention_id="m-573" role="place" realis="true">the disaster site in Savar on the outskirts of capital Dhaka</em_arg>
+        <em_arg filler_id="f-3405" role="time" realis="true">Sunday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3450">
+      <event_mention id="em-3415" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2955" length="6">pulled</trigger>
+        <em_arg entity_id="ent-105" entity_mention_id="m-705" role="agent" realis="true">rescuers</em_arg>
+        <em_arg entity_id="ent-681" entity_mention_id="m-711" role="person" realis="true">over 2, 500 people including several people on Sunday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3487">
+      <event_mention id="em-3452" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130429_F00012I7X" offset="2955" length="6">pulled</trigger>
+        <em_arg entity_id="ent-105" entity_mention_id="m-705" role="agent" realis="true">rescuers</em_arg>
+        <em_arg entity_id="ent-684" entity_mention_id="m-717" role="person" realis="true">several people</em_arg>
+        <em_arg filler_id="f-3484" role="time" realis="true">Sunday</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

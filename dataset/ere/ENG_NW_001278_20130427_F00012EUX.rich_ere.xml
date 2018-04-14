@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000067" doc_id="ENG_NW_001278_20130427_F00012EUX" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="101" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-51" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="214" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="287" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-150" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="573" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-198" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="757" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-219" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="828" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-450" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1470" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-591" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1969" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-606" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2063" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2067" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-729" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="2614" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-912" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="3475" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="specificGroup">
+      <entity_mention id="m-24" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="120" length="27">
+        <mention_text>owners of collapsed factory</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="120" length="6">owners</nom_head>
+      </entity_mention>
+      <entity_mention id="m-57" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="233" length="27">
+        <mention_text>owners of collapsed factory</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="233" length="6">owners</nom_head>
+      </entity_mention>
+      <entity_mention id="m-75" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="306" length="27">
+        <mention_text>owners of collapsed factory</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="306" length="6">owners</nom_head>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="494" length="98">
+        <mention_text>two of the owners of five ready-made garment factories housed in the collapsed Bangladesh building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="494" length="3">two</nom_head>
+      </entity_mention>
+      <entity_mention id="m-156" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="624" length="7">
+        <mention_text>The duo</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="628" length="3">duo</nom_head>
+      </entity_mention>
+      <entity_mention id="m-282" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1040" length="47">
+        <mention_text>owners of New Weave Bottoms and New Weave Style</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1040" length="6">owners</nom_head>
+      </entity_mention>
+      <entity_mention id="m-312" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="1111" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-318" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="1123" length="10">
+        <mention_text>themselves</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="130" length="17">
+        <mention_text>collapsed factory</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="140" length="7">factory</nom_head>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="243" length="17">
+        <mention_text>collapsed factory</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="253" length="7">factory</nom_head>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="316" length="17">
+        <mention_text>collapsed factory</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="326" length="7">factory</nom_head>
+      </entity_mention>
+      <entity_mention id="m-105" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="437" length="8">
+        <mention_text>building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="437" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-144" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="559" length="33">
+        <mention_text>the collapsed Bangladesh building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="584" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-402" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1370" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1374" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-486" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1550" length="8">
+        <mention_text>building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1550" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-504" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1641" length="25">
+        <mention_text>the eight-storey building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1658" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-525" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1687" length="8">
+        <mention_text>building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1687" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-570" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1937" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1941" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-708" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2541" length="14">
+        <mention_text>Savar building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2547" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-777" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2888" length="8">
+        <mention_text>building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2888" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-858" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3254" length="25">
+        <mention_text>The eight-storey building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3271" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-873" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="3280" length="10">
+        <mention_text>Rana Plaza</mention_text>
+      </entity_mention>
+      <entity_mention id="m-879" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="3359" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+      <entity_mention id="m-885" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3400" length="12">
+        <mention_text>The building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3404" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-987" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3813" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3817" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1059" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="4014" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="4018" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-2594" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="3533" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="193" length="4">
+        <mention_text>Naim</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-93" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-87" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="360" length="5">
+        <mention_text>DHAKA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-102" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-96" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="377" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+      <entity_mention id="m-357" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1221" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-117" type="PER" specificity="specificGroup">
+      <entity_mention id="m-111" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="469" length="11">
+        <mention_text>332 workers</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="473" length="7">workers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-132" type="PER" specificity="specificGroup">
+      <entity_mention id="m-126" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="501" length="91">
+        <mention_text>the owners of five ready-made garment factories housed in the collapsed Bangladesh building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="505" length="6">owners</nom_head>
+      </entity_mention>
+      <entity_mention id="m-231" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="921" length="10">
+        <mention_text>the owners</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="925" length="6">owners</nom_head>
+      </entity_mention>
+      <entity_mention id="m-237" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="935" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-243" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="951" length="10">
+        <mention_text>themselves</mention_text>
+      </entity_mention>
+      <entity_mention id="m-927" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3594" length="27">
+        <mention_text>the owners of the factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3598" length="6">owners</nom_head>
+      </entity_mention>
+      <entity_mention id="m-948" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3695" length="32">
+        <mention_text>the owners of the five factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3699" length="6">owners</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-141" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-135" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="515" length="77">
+        <mention_text>five ready-made garment factories housed in the collapsed Bangladesh building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="539" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-531" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1703" length="22">
+        <mention_text>all the five factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1716" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-546" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="1747" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-576" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1954" length="13">
+        <mention_text>the factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1958" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-813" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3100" length="151">
+        <mention_text>the five factories -- Phantom Apparels, Phantom Tac, Ether Tex, New Wave Style and New Wave Bottoms -- which make clothing for many major global brands</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3109" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-933" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3608" length="13">
+        <mention_text>the factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3612" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-954" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3709" length="18">
+        <mention_text>the five factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3718" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-993" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3833" length="105">
+        <mention_text>the five garment factories which, according to BGMEA, employed nearly 3,500 workers, mostly of them women</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3850" length="9">factories</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-168" type="PER" specificity="specificGroup">
+      <entity_mention id="m-162" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="647" length="10">
+        <mention_text>detectives</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="647" length="10">detectives</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-177" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-171" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="685" length="13">
+        <mention_text>Sheikh Hasina</mention_text>
+      </entity_mention>
+      <entity_mention id="m-897" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="3452" length="13">
+        <mention_text>Sheikh Hasina</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-186" type="PER" specificity="specificGroup">
+      <entity_mention id="m-180" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="738" length="157">
+        <mention_text>the leaders of the Bangladesh Garment Manufacturers and Exporters Association (BGMEA) and Bangladesh Knitwear Manufacturers and Exporters Association (BKMEA)</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="742" length="7">leaders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-195" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-189" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="757" length="58">
+        <mention_text>Bangladesh Garment Manufacturers and Exporters Association</mention_text>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="817" length="5">
+        <mention_text>BGMEA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-333" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1140" length="5">
+        <mention_text>BGMEA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-999" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="3880" length="5">
+        <mention_text>BGMEA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-216" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-210" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="828" length="59">
+        <mention_text>Bangladesh Knitwear Manufacturers and Exporters Association</mention_text>
+      </entity_mention>
+      <entity_mention id="m-225" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="889" length="5">
+        <mention_text>BKMEA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-255" type="PER" specificity="specificGroup">
+      <entity_mention id="m-249" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="968" length="10">
+        <mention_text>the police</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="972" length="6">police</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-270" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-264" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="994" length="21">
+        <mention_text>Mahbubur Rahman Tapas</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-279" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-273" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1020" length="18">
+        <mention_text>Bazlul Samad Adnan</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-294" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-288" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1050" length="17">
+        <mention_text>New Weave Bottoms</mention_text>
+      </entity_mention>
+      <entity_mention id="m-843" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="3183" length="16">
+        <mention_text>New Wave Bottoms</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-303" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-297" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1072" length="15">
+        <mention_text>New Weave Style</mention_text>
+      </entity_mention>
+      <entity_mention id="m-837" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="3164" length="14">
+        <mention_text>New Wave Style</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-330" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-324" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1140" length="14">
+        <mention_text>BGMEA building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1146" length="8">building</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-345" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-339" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1188" length="27">
+        <mention_text>a Detective Branch official</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1207" length="8">official</nom_head>
+      </entity_mention>
+      <entity_mention id="m-363" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1247" length="12">
+        <mention_text>The official</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1251" length="8">official</nom_head>
+      </entity_mention>
+      <entity_mention id="m-408" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="1385" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2646" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="1261" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-354" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-258" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="982" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+      <entity_mention id="m-306" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="1105" length="2">
+        <mention_text>us</mention_text>
+      </entity_mention>
+      <entity_mention id="m-348" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1190" length="16">
+        <mention_text>Detective Branch</mention_text>
+      </entity_mention>
+      <entity_mention id="m-369" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="1295" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-381" type="PER" specificity="specificGroup">
+      <entity_mention id="m-375" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1317" length="35">
+        <mention_text>the owners of three other factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1321" length="6">owners</nom_head>
+      </entity_mention>
+      <entity_mention id="m-474" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="1525" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-390" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-384" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1331" length="21">
+        <mention_text>three other factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1343" length="9">factories</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-399" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-393" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1357" length="25">
+        <mention_text>the owner of the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1361" length="5">owner</nom_head>
+      </entity_mention>
+      <entity_mention id="m-480" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1546" length="18">
+        <mention_text>The building owner</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1559" length="5">owner</nom_head>
+      </entity_mention>
+      <entity_mention id="m-492" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1565" length="10">
+        <mention_text>Sohel Rana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-498" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="1607" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-519" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1683" length="18">
+        <mention_text>the building owner</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1696" length="5">owner</nom_head>
+      </entity_mention>
+      <entity_mention id="m-891" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3425" length="79">
+        <mention_text>a leader of Prime Minister Sheikh Hasina's ruling Bangladesh Awami League party</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3427" length="6">leader</nom_head>
+      </entity_mention>
+      <entity_mention id="m-2667" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="3506" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-420" type="PER" specificity="specificGroup">
+      <entity_mention id="m-414" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1393" length="10">
+        <mention_text>detectives</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1393" length="10">detectives</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-429" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-423" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1421" length="12">
+        <mention_text>Aminul Islam</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-438" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-432" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1437" length="16">
+        <mention_text>Phantom Apparels</mention_text>
+      </entity_mention>
+      <entity_mention id="m-819" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="3122" length="16">
+        <mention_text>Phantom Apparels</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-447" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-441" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1458" length="27">
+        <mention_text>Phantom Tac Bangladesh Ltd.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-825" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="3140" length="11">
+        <mention_text>Phantom Tac</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-462" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-456" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1490" length="13">
+        <mention_text>Anisur Rahman</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-471" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-465" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="1507" length="17">
+        <mention_text>Ethertex Textiles</mention_text>
+      </entity_mention>
+      <entity_mention id="m-831" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="3153" length="9">
+        <mention_text>Ether Tex</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-516" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-510" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1645" length="12">
+        <mention_text>eight-storey</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1651" length="6">storey</nom_head>
+      </entity_mention>
+      <entity_mention id="m-864" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3258" length="12">
+        <mention_text>eight-storey</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3264" length="6">storey</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-543" type="PER" specificity="specificGroup">
+      <entity_mention id="m-537" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1747" length="15">
+        <mention_text>their employees</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1753" length="9">employees</nom_head>
+      </entity_mention>
+      <entity_mention id="m-939" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3674" length="7">
+        <mention_text>Workers</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3674" length="7">Workers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-960" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="3735" length="4">
+        <mention_text>them</mention_text>
+      </entity_mention>
+      <entity_mention id="m-975" noun_type="PRO" source="ENG_NW_001278_20130427_F00012EUX" offset="3748" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-558" type="PER" specificity="specificGroup">
+      <entity_mention id="m-552" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1881" length="86">
+        <mention_text>workers demanding capital punishments for the owners of the building and the factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1881" length="7">workers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-567" type="PER" specificity="specificGroup">
+      <entity_mention id="m-561" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1923" length="44">
+        <mention_text>the owners of the building and the factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="1927" length="6">owners</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-588" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-582" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="1969" length="38">
+        <mention_text>Bangladesh's ready-made garment sector</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2001" length="6">sector</nom_head>
+      </entity_mention>
+      <entity_mention id="m-627" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2209" length="18">
+        <mention_text>the garment sector</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2221" length="6">sector</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-603" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-597" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2038" length="36">
+        <mention_text>all the factories across the country</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2046" length="9">factories</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-618" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-612" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2140" length="36">
+        <mention_text>more than 10 associations of workers</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2153" length="12">associations</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-639" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-633" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="2285" length="5">
+        <mention_text>Savar</mention_text>
+      </entity_mention>
+      <entity_mention id="m-714" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="2541" length="5">
+        <mention_text>Savar</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-648" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-642" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="2325" length="5">
+        <mention_text>Dhaka</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2655" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2317" length="7">
+        <mention_text>capital</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2317" length="7">capital</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-657" type="LOC" specificity="specificGroup">
+      <entity_mention id="m-651" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2335" length="23">
+        <mention_text>many other apparel hubs</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2354" length="4">hubs</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-675" type="PER" specificity="specificGroup">
+      <entity_mention id="m-669" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2365" length="20">
+        <mention_text>thousands of workers</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2365" length="9">thousands</nom_head>
+      </entity_mention>
+      <entity_mention id="m-693" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2440" length="17">
+        <mention_text>The angry workers</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2450" length="7">workers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-690" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-684" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2394" length="11">
+        <mention_text>the streets</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2398" length="7">streets</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-705" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-699" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2504" length="13">
+        <mention_text>two factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2508" length="9">factories</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-726" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-720" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2587" length="8">
+        <mention_text>building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2587" length="8">building</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-741" type="PER" specificity="specificGroup">
+      <entity_mention id="m-735" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2626" length="8">
+        <mention_text>rescuers</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2626" length="8">rescuers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-783" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2976" length="8">
+        <mention_text>Rescuers</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2976" length="8">Rescuers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-750" type="PER" specificity="specificGroup">
+      <entity_mention id="m-744" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2660" length="56">
+        <mention_text>about 2,500 people including several on Saturday morning</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2672" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-759" type="PER" specificity="specificGroup">
+      <entity_mention id="m-753" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2689" length="27">
+        <mention_text>several on Saturday morning</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2689" length="7">several</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-768" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-762" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2806" length="44">
+        <mention_text>A police officer who preferred to be unnamed</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2815" length="7">officer</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-795" type="PER" specificity="specificGroup">
+      <entity_mention id="m-789" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3024" length="32">
+        <mention_text>761 people who are still missing</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3028" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-804" type="PER" specificity="specificGroup">
+      <entity_mention id="m-798" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3059" length="25">
+        <mention_text>Almost all the fatalities</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3074" length="10">fatalities</nom_head>
+      </entity_mention>
+      <entity_mention id="m-807" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3089" length="162">
+        <mention_text>workers of the five factories -- Phantom Apparels, Phantom Tac, Ether Tex, New Wave Style and New Wave Bottoms -- which make clothing for many major global brands</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3089" length="7">workers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-855" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-849" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3227" length="24">
+        <mention_text>many major global brands</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3245" length="6">brands</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-909" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-903" noun_type="NAM" source="ENG_NW_001278_20130427_F00012EUX" offset="3475" length="23">
+        <mention_text>Bangladesh Awami League</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2661" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3452" length="52">
+        <mention_text>Sheikh Hasina's ruling Bangladesh Awami League party</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3499" length="5">party</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-924" type="PER" specificity="specificGroup">
+      <entity_mention id="m-918" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3560" length="20">
+        <mention_text>relevant authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3569" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-945" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-966" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3748" length="27">
+        <mention_text>their respective workplaces</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3765" length="10">workplaces</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-972" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-981" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3799" length="26">
+        <mention_text>Six floors of the building</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3803" length="6">floors</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1011" type="PER" specificity="specificGroup">
+      <entity_mention id="m-1005" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3896" length="42">
+        <mention_text>nearly 3,500 workers, mostly of them women</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3909" length="7">workers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1020" type="PER" specificity="specificGroup">
+      <entity_mention id="m-1014" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3933" length="5">
+        <mention_text>women</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3933" length="5">women</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1029" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-1023" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3969" length="15">
+        <mention_text>a bank's branch</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3978" length="6">branch</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1038" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-1032" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3969" length="6">
+        <mention_text>a bank</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3971" length="4">bank</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1047" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-1041" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="3989" length="17">
+        <mention_text>hundreds of shops</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="3989" length="8">hundreds</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1056" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-1050" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="4001" length="5">
+        <mention_text>shops</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="4001" length="5">shops</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2652" type="PER" specificity="nonspecific">
+      <entity_mention id="m-621" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2169" length="7">
+        <mention_text>workers</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2169" length="7">workers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-678" noun_type="NOM" source="ENG_NW_001278_20130427_F00012EUX" offset="2378" length="7">
+        <mention_text>workers</mention_text>
+        <nom_head source="ENG_NW_001278_20130427_F00012EUX" offset="2378" length="7">workers</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-1103" source="ENG_NW_001278_20130427_F00012EUX" offset="670" length="14" type="title">Prime Minister</filler>
+    <filler id="f-1383" source="ENG_NW_001278_20130427_F00012EUX" offset="3437" length="14" type="title">Prime Minister</filler>
+    <filler id="f-1746" source="ENG_NW_001278_20130427_F00012EUX" offset="613" length="8" type="time" nom_time="2013-04-27">Saturday</filler>
+    <filler id="f-1809" source="ENG_NW_001278_20130427_F00012EUX" offset="726" length="6" type="time" nom_time="2013-04-26">Friday</filler>
+    <filler id="f-1839" source="ENG_NW_001278_20130427_F00012EUX" offset="520" length="18" type="commodity">ready-made garment</filler>
+    <filler id="f-1960" source="ENG_NW_001278_20130427_F00012EUX" offset="1177" length="8" type="time" nom_time="2013-04-27">Saturday</filler>
+    <filler id="f-2032" source="ENG_NW_001278_20130427_F00012EUX" offset="1228" length="8" type="time" nom_time="2013-04-27">Saturday</filler>
+    <filler id="f-2175" source="ENG_NW_001278_20130427_F00012EUX" offset="2018" length="6" type="time" nom_time="2013-04-26">Friday</filler>
+    <filler id="f-2355" source="ENG_NW_001278_20130427_F00012EUX" offset="2421" length="17" type="vehicle">over 100 vehicles</filler>
+    <filler id="f-2399" source="ENG_NW_001278_20130427_F00012EUX" offset="2461" length="6" type="time" nom_time="2013-04-26">Friday</filler>
+    <filler id="f-2473" source="ENG_NW_001278_20130427_F00012EUX" offset="2700" length="8" type="time" nom_time="2013-04-27">Saturday</filler>
+    <filler id="f-2547" source="ENG_NW_001278_20130427_F00012EUX" offset="3214" length="8" type="commodity">clothing</filler>
+    <filler id="f-2641" source="ENG_NW_001278_20130427_F00012EUX" offset="3779" length="9" type="time" nom_time="2013-04-24">Wednesday</filler>
+    <filler id="f-2733" source="ENG_NW_001278_20130427_F00012EUX" offset="1982" length="18" type="commodity">ready-made garment</filler>
+    <filler id="f-2778" source="ENG_NW_001278_20130427_F00012EUX" offset="2231" length="6" type="time" nom_time="2013-04-28">Sunday</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1697" type="orgaffiliation" subtype="ownership">
+      <relation_mention id="relm-1065" realis="true">
+        <rel_arg1 entity_id="ent-132" entity_mention_id="m-126" role="owner">the owners of five ready-made garment factories housed in the collapsed Bangladesh building</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-135" role="org">five ready-made garment factories housed in the collapsed Bangladesh building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="505" length="6">owners</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1405" realis="true">
+        <rel_arg1 entity_id="ent-132" entity_mention_id="m-927" role="owner">the owners of the factories</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-933" role="org">the factories</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3598" length="6">owners</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1415" realis="true">
+        <rel_arg1 entity_id="ent-132" entity_mention_id="m-948" role="owner">the owners of the five factories</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-954" role="org">the five factories</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3699" length="6">owners</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1698" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1075" realis="true">
+        <rel_arg1 entity_id="ent-141" entity_mention_id="m-135" role="org">five ready-made garment factories housed in the collapsed Bangladesh building</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-144" role="loc">the collapsed Bangladesh building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="556" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1699" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1085" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-144" role="entity">the collapsed Bangladesh building</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-150" role="loc">Bangladesh</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1700" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1095" realis="true">
+        <rel_arg1 entity_id="ent-177" entity_mention_id="m-171" role="per">Sheikh Hasina</rel_arg1>
+        <rel_arg2 filler_id="f-1103" role="role">Prime Minister</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1375" realis="true">
+        <rel_arg1 entity_id="ent-177" entity_mention_id="m-897" role="per">Sheikh Hasina</rel_arg1>
+        <rel_arg2 filler_id="f-1383" role="role">Prime Minister</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1701" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1105" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-189" role="org">Bangladesh Garment Manufacturers and Exporters Association</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-198" role="loc">Bangladesh</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1702" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1115" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-210" role="org">Bangladesh Knitwear Manufacturers and Exporters Association</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-219" role="loc">Bangladesh</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1703" type="orgaffiliation" subtype="ownership">
+      <relation_mention id="relm-1125" realis="true">
+        <rel_arg1 entity_id="ent-270" entity_mention_id="m-264" role="owner">Mahbubur Rahman Tapas</rel_arg1>
+        <rel_arg2 entity_id="ent-294" entity_mention_id="m-288" role="org">New Weave Bottoms</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1040" length="6">owners</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1704" type="orgaffiliation" subtype="ownership">
+      <relation_mention id="relm-1135" realis="true">
+        <rel_arg1 entity_id="ent-279" entity_mention_id="m-273" role="owner">Bazlul Samad Adnan</rel_arg1>
+        <rel_arg2 entity_id="ent-303" entity_mention_id="m-297" role="org">New Weave Style</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1040" length="6">owners</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1705" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1145" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-333" role="org">BGMEA</rel_arg1>
+        <rel_arg2 entity_id="ent-330" entity_mention_id="m-324" role="loc">BGMEA building</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1706" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1155" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-318" role="entity">themselves</rel_arg1>
+        <rel_arg2 entity_id="ent-330" entity_mention_id="m-324" role="loc">BGMEA building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1137" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1707" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1165" realis="true">
+        <rel_arg1 entity_id="ent-345" entity_mention_id="m-339" role="employeemember">a Detective Branch official</rel_arg1>
+        <rel_arg2 entity_id="ent-354" entity_mention_id="m-348" role="org">Detective Branch</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1207" length="8">official</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1708" type="orgaffiliation" subtype="ownership">
+      <relation_mention id="relm-1175" realis="true">
+        <rel_arg1 entity_id="ent-381" entity_mention_id="m-375" role="owner">the owners of three other factories</rel_arg1>
+        <rel_arg2 entity_id="ent-390" entity_mention_id="m-384" role="org">three other factories</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1321" length="6">owners</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1709" type="orgaffiliation" subtype="ownership">
+      <relation_mention id="relm-1195" realis="true">
+        <rel_arg1 entity_id="ent-429" entity_mention_id="m-423" role="owner">Aminul Islam</rel_arg1>
+        <rel_arg2 entity_id="ent-438" entity_mention_id="m-432" role="org">Phantom Apparels</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1434" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1710" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1215" realis="true">
+        <rel_arg1 entity_id="ent-447" entity_mention_id="m-441" role="org">Phantom Tac Bangladesh Ltd.</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-450" role="loc">Bangladesh</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1711" type="orgaffiliation" subtype="ownership">
+      <relation_mention id="relm-1225" realis="true">
+        <rel_arg1 entity_id="ent-462" entity_mention_id="m-456" role="owner">Anisur Rahman</rel_arg1>
+        <rel_arg2 entity_id="ent-471" entity_mention_id="m-465" role="org">Ethertex Textiles</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1504" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1712" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1235" realis="true">
+        <rel_arg1 entity_id="ent-399" entity_mention_id="m-498" role="entity">he</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-504" role="loc">the eight-storey building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1622" length="4">from</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1713" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1245" realis="true">
+        <rel_arg1 entity_id="ent-516" entity_mention_id="m-510" role="entity">eight-storey</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-504" role="loc">the eight-storey building</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1355" realis="true">
+        <rel_arg1 entity_id="ent-516" entity_mention_id="m-864" role="entity">eight-storey</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-858" role="loc">The eight-storey building</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1714" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1255" realis="true">
+        <rel_arg1 entity_id="ent-543" entity_mention_id="m-537" role="employeemember">their employees</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-546" role="org">their</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1753" length="9">employees</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1715" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1265" realis="true">
+        <rel_arg1 entity_id="ent-588" entity_mention_id="m-582" role="org">Bangladesh's ready-made garment sector</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-591" role="loc">Bangladesh</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1969" length="12">Bangladesh's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1716" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1275" realis="true">
+        <rel_arg1 entity_id="ent-603" entity_mention_id="m-597" role="entity">all the factories across the country</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-606" role="loc">the country</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2056" length="6">across</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1717" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1285" realis="true">
+        <rel_arg1 entity_id="ent-2652" entity_mention_id="m-621" role="employeemember">workers</rel_arg1>
+        <rel_arg2 entity_id="ent-618" entity_mention_id="m-612" role="org">more than 10 associations of workers</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2166" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1718" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1305" realis="true">
+        <rel_arg1 entity_id="ent-675" entity_mention_id="m-669" role="entity">thousands of workers</rel_arg1>
+        <rel_arg2 entity_id="ent-690" entity_mention_id="m-684" role="loc">the streets</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2391" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1719" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1315" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-708" role="entity">Savar building</rel_arg1>
+        <rel_arg2 entity_id="ent-639" entity_mention_id="m-714" role="loc">Savar</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1720" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1325" realis="true">
+        <rel_arg1 entity_id="ent-726" entity_mention_id="m-720" role="entity">building</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-729" role="loc">Bangladesh</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2611" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1721" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1345" realis="true">
+        <rel_arg1 entity_id="ent-804" entity_mention_id="m-807" role="employeemember">workers of the five factories -- Phantom Apparels, Phantom Tac, Ether Tex, New Wave Style and New Wave Bottoms -- which make clothing for many major global brands</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-813" role="org">the five factories -- Phantom Apparels, Phantom Tac, Ether Tex, New Wave Style and New Wave Bottoms -- which make clothing for many major global brands</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3097" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1722" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1365" realis="true">
+        <rel_arg1 entity_id="ent-399" entity_mention_id="m-891" role="leader">a leader of Prime Minister Sheikh Hasina's ruling Bangladesh Awami League party</rel_arg1>
+        <rel_arg2 entity_id="ent-909" entity_mention_id="m-903" role="entity">Bangladesh Awami League</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3427" length="6">leader</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1723" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1385" realis="true">
+        <rel_arg1 entity_id="ent-177" entity_mention_id="m-897" role="employeemember">Sheikh Hasina</rel_arg1>
+        <rel_arg2 entity_id="ent-909" entity_mention_id="m-903" role="org">Bangladesh Awami League</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3459" length="8">Hasina's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1724" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1395" realis="true">
+        <rel_arg1 entity_id="ent-909" entity_mention_id="m-903" role="org">Bangladesh Awami League</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-912" role="loc">Bangladesh</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1725" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1425" realis="true">
+        <rel_arg1 entity_id="ent-543" entity_mention_id="m-960" role="entity">them</rel_arg1>
+        <rel_arg2 entity_id="ent-945" entity_mention_id="m-966" role="loc">their respective workplaces</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3743" length="4">join</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1435" realis="true">
+        <rel_arg1 entity_id="ent-543" entity_mention_id="m-975" role="entity">their</rel_arg1>
+        <rel_arg2 entity_id="ent-945" entity_mention_id="m-966" role="loc">their respective workplaces</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3754" length="10">respective</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1726" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1445" realis="true">
+        <rel_arg1 entity_id="ent-972" entity_mention_id="m-981" role="entity">Six floors of the building</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-987" role="loc">the building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3810" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1727" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1455" realis="true">
+        <rel_arg1 entity_id="ent-141" entity_mention_id="m-993" role="org">the five garment factories which, according to BGMEA, employed nearly 3,500 workers, mostly of them women</rel_arg1>
+        <rel_arg2 entity_id="ent-972" entity_mention_id="m-981" role="loc">Six floors of the building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3826" length="6">housed</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1728" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1465" realis="true">
+        <rel_arg1 entity_id="ent-1011" entity_mention_id="m-1005" role="employeemember">nearly 3,500 workers, mostly of them women</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-993" role="org">the five garment factories which, according to BGMEA, employed nearly 3,500 workers, mostly of them women</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3887" length="8">employed</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1729" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1475" realis="true">
+        <rel_arg1 entity_id="ent-1038" entity_mention_id="m-1032" role="org">a bank</rel_arg1>
+        <rel_arg2 entity_id="ent-1029" entity_mention_id="m-1023" role="loc">a bank's branch</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3978" length="6">branch</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1730" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1485" realis="true">
+        <rel_arg1 entity_id="ent-1029" entity_mention_id="m-1023" role="entity">a bank's branch</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-1059" role="loc">the building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="4007" length="6">inside</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1731" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1495" realis="true">
+        <rel_arg1 entity_id="ent-1047" entity_mention_id="m-1041" role="entity">hundreds of shops</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-1059" role="loc">the building</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="4007" length="6">inside</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1732" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2673" realis="true">
+        <rel_arg1 entity_id="ent-675" entity_mention_id="m-693" role="entity">The angry workers</rel_arg1>
+        <rel_arg2 entity_id="ent-705" entity_mention_id="m-699" role="loc">two factories</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1733" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-2683" realis="true">
+        <rel_arg1 entity_id="ent-177" entity_mention_id="m-897" role="leader">Sheikh Hasina</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-912" role="entity">Bangladesh</rel_arg2>
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3437" length="14">Prime Minister</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1505" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="112" length="7">arrests</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-18" role="agent" realis="true">Bangladesh</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-24" role="person" realis="true">owners of collapsed factory</em_arg>
+      </event_mention>
+      <event_mention id="em-1556" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="225" length="7">arrests</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-51" role="agent" realis="true">Bangladesh</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-57" role="person" realis="true">owners of collapsed factory</em_arg>
+      </event_mention>
+      <event_mention id="em-1605" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="298" length="7">arrests</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-69" role="agent" realis="true">Bangladesh</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-75" role="person" realis="true">owners of collapsed factory</em_arg>
+      </event_mention>
+      <event_mention id="em-1721" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="598" length="8">arrested</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-120" role="person" realis="true">two of the owners of five ready-made garment factories housed in the collapsed Bangladesh building</em_arg>
+        <em_arg filler_id="f-1746" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+      <event_mention id="em-1749" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="632" length="11">surrendered</trigger>
+        <em_arg entity_id="ent-168" entity_mention_id="m-162" role="agent" realis="true">detectives</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-156" role="person" realis="true">The duo</em_arg>
+      </event_mention>
+      <event_mention id="em-1872" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="946" length="4">turn</trigger>
+        <em_arg entity_id="ent-132" entity_mention_id="m-243" role="person" realis="true">themselves</em_arg>
+        <em_arg entity_id="ent-255" entity_mention_id="m-249" role="agent" realis="true">the police</em_arg>
+      </event_mention>
+      <event_mention id="em-1900" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1092" length="9">surrender</trigger>
+        <em_arg entity_id="ent-354" entity_mention_id="m-306" role="agent" realis="true">us</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-282" role="person" realis="true">owners of New Weave Bottoms and New Weave Style</em_arg>
+      </event_mention>
+      <event_mention id="em-1928" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1116" length="6">turned</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-318" role="person" realis="true">themselves</em_arg>
+        <em_arg entity_id="ent-330" entity_mention_id="m-324" role="place" realis="true">BGMEA building</em_arg>
+        <em_arg filler_id="f-1960" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1554">
+      <event_mention id="em-1700" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="481" length="4">dead</trigger>
+        <em_arg entity_id="ent-117" entity_mention_id="m-111" role="victim" realis="true">332 workers</em_arg>
+      </event_mention>
+      <event_mention id="em-2550" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3074" length="10">fatalities</trigger>
+        <em_arg entity_id="ent-804" entity_mention_id="m-798" role="victim" realis="true">Almost all the fatalities</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1675">
+      <event_mention id="em-2083" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1868" length="6">unrest</trigger>
+        <em_arg entity_id="ent-558" entity_mention_id="m-552" role="entity" realis="true">workers demanding capital punishments for the owners of the building and the factories</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1812">
+      <event_mention id="em-1777" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="715" length="7">meeting</trigger>
+        <em_arg entity_id="ent-177" entity_mention_id="m-171" role="entity" realis="true">Sheikh Hasina</em_arg>
+        <em_arg entity_id="ent-186" entity_mention_id="m-180" role="entity" realis="true">the leaders of the Bangladesh Garment Manufacturers and Exporters Association (BGMEA) and Bangladesh Knitwear Manufacturers and Exporters Association (BKMEA)</em_arg>
+        <em_arg filler_id="f-1809" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1849">
+      <event_mention id="em-1814" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="526" length="4">made</trigger>
+        <em_arg entity_id="ent-141" entity_mention_id="m-135" role="agent" realis="true">five ready-made garment factories housed in the collapsed Bangladesh building</em_arg>
+        <em_arg filler_id="f-1839" role="artifact" realis="true">ready-made garment</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-144" role="place" realis="true">the collapsed Bangladesh building</em_arg>
+      </event_mention>
+      <event_mention id="em-2522" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3209" length="4">make</trigger>
+        <em_arg entity_id="ent-141" entity_mention_id="m-813" role="agent" realis="true">the five factories -- Phantom Apparels, Phantom Tac, Ether Tex, New Wave Style and New Wave Bottoms -- which make clothing for many major global brands</em_arg>
+        <em_arg filler_id="f-2547" role="artifact" realis="true">clothing</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1998">
+      <event_mention id="em-1963" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="988" length="5">asked</trigger>
+        <em_arg entity_id="ent-354" entity_mention_id="m-258" role="entity" realis="true">We</em_arg>
+        <em_arg entity_id="ent-270" entity_mention_id="m-264" role="audience" realis="true">Mahbubur Rahman Tapas</em_arg>
+        <em_arg entity_id="ent-279" entity_mention_id="m-273" role="audience" realis="true">Bazlul Samad Adnan</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2035">
+      <event_mention id="em-2000" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1216" length="4">told</trigger>
+        <em_arg entity_id="ent-345" entity_mention_id="m-339" role="entity" realis="true">a Detective Branch official</em_arg>
+        <em_arg entity_id="ent-102" entity_mention_id="m-357" role="entity" realis="true">Xinhua</em_arg>
+        <em_arg filler_id="f-2032" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2058">
+      <event_mention id="em-2037" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1540" length="3">run</trigger>
+        <em_arg entity_id="ent-381" entity_mention_id="m-474" role="agent" realis="true">who</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2081">
+      <event_mention id="em-2060" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1576" length="4">went</trigger>
+        <em_arg entity_id="ent-399" entity_mention_id="m-492" role="agent" realis="true">Sohel Rana</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2125">
+      <event_mention id="em-2104" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1889" length="9">demanding</trigger>
+        <em_arg entity_id="ent-558" entity_mention_id="m-552" role="entity" realis="true">workers demanding capital punishments for the owners of the building and the factories</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2148">
+      <event_mention id="em-2127" type="life" subtype="die" realis="other">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1899" length="19">capital punishments</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-561" role="victim" realis="true">the owners of the building and the factories</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2178">
+      <event_mention id="em-2150" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2008" length="9">announced</trigger>
+        <em_arg entity_id="ent-588" entity_mention_id="m-582" role="entity" realis="true">Bangladesh's ready-made garment sector</em_arg>
+        <em_arg filler_id="f-2175" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2229">
+      <event_mention id="em-2201" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2177" length="6">called</trigger>
+        <em_arg entity_id="ent-618" entity_mention_id="m-612" role="entity" realis="true">more than 10 associations of workers</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2252">
+      <event_mention id="em-2783" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2260" length="5">which</trigger>
+        <em_arg entity_id="ent-639" entity_mention_id="m-633" role="place" realis="true">Savar</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2275">
+      <event_mention id="em-2804" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2260" length="5">which</trigger>
+        <em_arg entity_id="ent-648" entity_mention_id="m-2655" role="place" realis="true">capital</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2298">
+      <event_mention id="em-2825" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2260" length="5">which</trigger>
+        <em_arg entity_id="ent-657" entity_mention_id="m-651" role="place" realis="true">many other apparel hubs</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2328">
+      <event_mention id="em-2300" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2386" length="7">took to</trigger>
+        <em_arg entity_id="ent-675" entity_mention_id="m-669" role="agent" realis="true">thousands of workers</em_arg>
+        <em_arg entity_id="ent-690" entity_mention_id="m-684" role="destination" realis="true">the streets</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2365">
+      <event_mention id="em-2330" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2410" length="10">vandalized</trigger>
+        <em_arg entity_id="ent-675" entity_mention_id="m-669" role="attacker" realis="true">thousands of workers</em_arg>
+        <em_arg filler_id="f-2355" role="target" realis="true">over 100 vehicles</em_arg>
+        <em_arg entity_id="ent-690" entity_mention_id="m-684" role="place" realis="true">the streets</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2402">
+      <event_mention id="em-2367" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2496" length="4">fire</trigger>
+        <em_arg entity_id="ent-675" entity_mention_id="m-693" role="attacker" realis="true">The angry workers</em_arg>
+        <em_arg entity_id="ent-705" entity_mention_id="m-699" role="target" realis="true">two factories</em_arg>
+        <em_arg filler_id="f-2399" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2439">
+      <event_mention id="em-2404" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2647" length="6">pulled</trigger>
+        <em_arg entity_id="ent-741" entity_mention_id="m-735" role="agent" realis="true">rescuers</em_arg>
+        <em_arg entity_id="ent-750" entity_mention_id="m-744" role="person" realis="true">about 2,500 people including several on Saturday morning</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2476">
+      <event_mention id="em-2441" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2647" length="6">pulled</trigger>
+        <em_arg entity_id="ent-741" entity_mention_id="m-735" role="agent" realis="true">rescuers</em_arg>
+        <em_arg entity_id="ent-759" entity_mention_id="m-753" role="person" realis="true">several on Saturday morning</em_arg>
+        <em_arg filler_id="f-2473" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2499">
+      <event_mention id="em-2478" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2851" length="4">said</trigger>
+        <em_arg entity_id="ent-768" entity_mention_id="m-762" role="entity" realis="true">A police officer who preferred to be unnamed</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2607">
+      <event_mention id="em-2573" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3521" length="11">constructed</trigger>
+        <em_arg entity_id="ent-399" entity_mention_id="m-891" role="agent" realis="true">a leader of Prime Minister Sheikh Hasina's ruling Bangladesh Awami League party</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-2594" role="artifact" realis="true">it</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2644">
+      <event_mention id="em-2609" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3743" length="4">join</trigger>
+        <em_arg entity_id="ent-543" entity_mention_id="m-960" role="person" realis="true">them</em_arg>
+        <em_arg entity_id="ent-945" entity_mention_id="m-966" role="destination" realis="true">their respective workplaces</em_arg>
+        <em_arg filler_id="f-2641" role="time" realis="true">Wednesday</em_arg>
+        <em_arg entity_id="ent-132" entity_mention_id="m-948" role="agent" realis="true">the owners of the five factories</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2751">
+      <event_mention id="em-2716" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="1988" length="4">made</trigger>
+        <em_arg filler_id="f-2733" role="artifact" realis="true">ready-made garment</em_arg>
+        <em_arg entity_id="ent-588" entity_mention_id="m-582" role="agent" realis="true">Bangladesh's ready-made garment sector</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-591" role="place" realis="true">Bangladesh</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2781">
+      <event_mention id="em-2753" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="2199" length="6">strike</trigger>
+        <em_arg entity_id="ent-618" entity_mention_id="m-612" role="entity" realis="true">more than 10 associations of workers</em_arg>
+        <em_arg filler_id="f-2778" role="time" realis="true">Sunday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2881">
+      <event_mention id="em-2853" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3586" length="7">assured</trigger>
+        <em_arg entity_id="ent-399" entity_mention_id="m-2667" role="entity" realis="true">who</em_arg>
+        <em_arg entity_id="ent-132" entity_mention_id="m-927" role="entity" realis="true">the owners of the factories</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2927">
+      <event_mention id="em-2906" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130427_F00012EUX" offset="3682" length="7">alleged</trigger>
+        <em_arg entity_id="ent-543" entity_mention_id="m-939" role="entity" realis="true">Workers</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

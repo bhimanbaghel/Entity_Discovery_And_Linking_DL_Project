@@ -1,0 +1,2294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <docId>data.txt</docId>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Narendra</word>
+            <lemma>Narendra</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>Damodardas</word>
+            <lemma>Damodardas</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>Modi</word>
+            <lemma>Modi</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>an</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>Indian</word>
+            <lemma>indian</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>NATIONALITY</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>politician</word>
+            <lemma>politician</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>TITLE</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>who</word>
+            <lemma>who</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>WP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>16th</word>
+            <lemma>16th</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>ORDINAL</NER>
+            <NormalizedNER>16.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>current</word>
+            <lemma>current</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>PRESENT_REF</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DATE">PRESENT_REF</Timex>
+          </token>
+          <token id="14">
+            <word>Prime</word>
+            <lemma>Prime</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>TITLE</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>Minister</word>
+            <lemma>Minister</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>TITLE</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>94</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>India</word>
+            <lemma>India</lemma>
+            <CharacterOffsetBegin>95</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>COUNTRY</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>100</CharacterOffsetBegin>
+            <CharacterOffsetEnd>101</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>102</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>office</word>
+            <lemma>office</lemma>
+            <CharacterOffsetBegin>105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>111</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>since</word>
+            <lemma>since</lemma>
+            <CharacterOffsetBegin>112</CharacterOffsetBegin>
+            <CharacterOffsetEnd>117</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>May</word>
+            <lemma>May</lemma>
+            <CharacterOffsetBegin>118</CharacterOffsetBegin>
+            <CharacterOffsetEnd>121</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>2014-05</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t2" type="DATE">2014-05</Timex>
+          </token>
+          <token id="23">
+            <word>2014</word>
+            <lemma>2014</lemma>
+            <CharacterOffsetBegin>122</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>2014-05</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t2" type="DATE">2014-05</Timex>
+          </token>
+          <token id="24">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>126</CharacterOffsetBegin>
+            <CharacterOffsetEnd>127</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP Narendra) (NNP Damodardas) (NNP Modi)) (VP (VBZ is) (NP (NP (DT an) (JJ Indian) (NN politician)) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (NP (NP (DT the) (JJ 16th)) (CC and) (NP (NP (JJ current) (NNP Prime) (NNP Minister)) (PP (IN of) (NP (NNP India))))) (, ,) (PP (IN in) (NP (NP (NN office)) (PP (IN since) (NP (NNP May) (CD 2014)))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">politician</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Modi</governor>
+            <dependent idx="1">Narendra</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Modi</governor>
+            <dependent idx="2">Damodardas</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">politician</governor>
+            <dependent idx="3">Modi</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="7">politician</governor>
+            <dependent idx="4">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">politician</governor>
+            <dependent idx="5">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">politician</governor>
+            <dependent idx="6">Indian</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">16th</governor>
+            <dependent idx="8">who</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">16th</governor>
+            <dependent idx="9">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">16th</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="7">politician</governor>
+            <dependent idx="11">16th</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="11">16th</governor>
+            <dependent idx="12">and</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">Minister</governor>
+            <dependent idx="13">current</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="15">Minister</governor>
+            <dependent idx="14">Prime</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="11">16th</governor>
+            <dependent idx="15">Minister</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">India</governor>
+            <dependent idx="16">of</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="15">Minister</governor>
+            <dependent idx="17">India</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">16th</governor>
+            <dependent idx="18">,</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">office</governor>
+            <dependent idx="19">in</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="11">16th</governor>
+            <dependent idx="20">office</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="22">May</governor>
+            <dependent idx="21">since</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="20">office</governor>
+            <dependent idx="22">May</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="22">May</governor>
+            <dependent idx="23">2014</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">politician</governor>
+            <dependent idx="24">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">politician</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Modi</governor>
+            <dependent idx="1">Narendra</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Modi</governor>
+            <dependent idx="2">Damodardas</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">politician</governor>
+            <dependent idx="3">Modi</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="7">politician</governor>
+            <dependent idx="4">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">politician</governor>
+            <dependent idx="5">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">politician</governor>
+            <dependent idx="6">Indian</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">16th</governor>
+            <dependent idx="8">who</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">16th</governor>
+            <dependent idx="9">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">16th</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="7">politician</governor>
+            <dependent idx="11">16th</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="11">16th</governor>
+            <dependent idx="12">and</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">Minister</governor>
+            <dependent idx="13">current</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="15">Minister</governor>
+            <dependent idx="14">Prime</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="11">16th</governor>
+            <dependent idx="15">Minister</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">India</governor>
+            <dependent idx="16">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="15">Minister</governor>
+            <dependent idx="17">India</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">16th</governor>
+            <dependent idx="18">,</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">office</governor>
+            <dependent idx="19">in</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="11">16th</governor>
+            <dependent idx="20">office</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="22">May</governor>
+            <dependent idx="21">since</dependent>
+          </dep>
+          <dep type="nmod:since">
+            <governor idx="20">office</governor>
+            <dependent idx="22">May</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="22">May</governor>
+            <dependent idx="23">2014</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">politician</governor>
+            <dependent idx="24">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">politician</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Modi</governor>
+            <dependent idx="1">Narendra</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Modi</governor>
+            <dependent idx="2">Damodardas</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">politician</governor>
+            <dependent idx="3">Modi</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="7">politician</governor>
+            <dependent idx="4">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">politician</governor>
+            <dependent idx="5">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">politician</governor>
+            <dependent idx="6">Indian</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">16th</governor>
+            <dependent idx="8">who</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">16th</governor>
+            <dependent idx="9">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">16th</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="7">politician</governor>
+            <dependent idx="11">16th</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="11">16th</governor>
+            <dependent idx="12">and</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">Minister</governor>
+            <dependent idx="13">current</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="15">Minister</governor>
+            <dependent idx="14">Prime</dependent>
+          </dep>
+          <dep type="acl:relcl" extra="true">
+            <governor idx="7">politician</governor>
+            <dependent idx="15">Minister</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="11">16th</governor>
+            <dependent idx="15">Minister</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">India</governor>
+            <dependent idx="16">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="15">Minister</governor>
+            <dependent idx="17">India</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">16th</governor>
+            <dependent idx="18">,</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">office</governor>
+            <dependent idx="19">in</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="11">16th</governor>
+            <dependent idx="20">office</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="22">May</governor>
+            <dependent idx="21">since</dependent>
+          </dep>
+          <dep type="nmod:since">
+            <governor idx="20">office</governor>
+            <dependent idx="22">May</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="22">May</governor>
+            <dependent idx="23">2014</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">politician</governor>
+            <dependent idx="24">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">politician</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Modi</governor>
+            <dependent idx="1">Narendra</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Modi</governor>
+            <dependent idx="2">Damodardas</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">politician</governor>
+            <dependent idx="3">Modi</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="7">politician</governor>
+            <dependent idx="4">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">politician</governor>
+            <dependent idx="5">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">politician</governor>
+            <dependent idx="6">Indian</dependent>
+          </dep>
+          <dep type="nsubj" extra="true">
+            <governor idx="11">16th</governor>
+            <dependent idx="7">politician</dependent>
+          </dep>
+          <dep type="ref">
+            <governor idx="7">politician</governor>
+            <dependent idx="8">who</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">16th</governor>
+            <dependent idx="9">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">16th</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="7">politician</governor>
+            <dependent idx="11">16th</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="11">16th</governor>
+            <dependent idx="12">and</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">Minister</governor>
+            <dependent idx="13">current</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="15">Minister</governor>
+            <dependent idx="14">Prime</dependent>
+          </dep>
+          <dep type="acl:relcl" extra="true">
+            <governor idx="7">politician</governor>
+            <dependent idx="15">Minister</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="11">16th</governor>
+            <dependent idx="15">Minister</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">India</governor>
+            <dependent idx="16">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="15">Minister</governor>
+            <dependent idx="17">India</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">16th</governor>
+            <dependent idx="18">,</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">office</governor>
+            <dependent idx="19">in</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="11">16th</governor>
+            <dependent idx="20">office</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="22">May</governor>
+            <dependent idx="21">since</dependent>
+          </dep>
+          <dep type="nmod:since">
+            <governor idx="20">office</governor>
+            <dependent idx="22">May</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="22">May</governor>
+            <dependent idx="23">2014</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">politician</governor>
+            <dependent idx="24">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">politician</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Modi</governor>
+            <dependent idx="1">Narendra</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Modi</governor>
+            <dependent idx="2">Damodardas</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">politician</governor>
+            <dependent idx="3">Modi</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="7">politician</governor>
+            <dependent idx="4">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">politician</governor>
+            <dependent idx="5">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">politician</governor>
+            <dependent idx="6">Indian</dependent>
+          </dep>
+          <dep type="nsubj" extra="true">
+            <governor idx="11">16th</governor>
+            <dependent idx="7">politician</dependent>
+          </dep>
+          <dep type="ref">
+            <governor idx="7">politician</governor>
+            <dependent idx="8">who</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">16th</governor>
+            <dependent idx="9">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">16th</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="7">politician</governor>
+            <dependent idx="11">16th</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="11">16th</governor>
+            <dependent idx="12">and</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">Minister</governor>
+            <dependent idx="13">current</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="15">Minister</governor>
+            <dependent idx="14">Prime</dependent>
+          </dep>
+          <dep type="acl:relcl" extra="true">
+            <governor idx="7">politician</governor>
+            <dependent idx="15">Minister</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="11">16th</governor>
+            <dependent idx="15">Minister</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">India</governor>
+            <dependent idx="16">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="15">Minister</governor>
+            <dependent idx="17">India</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">16th</governor>
+            <dependent idx="18">,</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">office</governor>
+            <dependent idx="19">in</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="11">16th</governor>
+            <dependent idx="20">office</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="22">May</governor>
+            <dependent idx="21">since</dependent>
+          </dep>
+          <dep type="nmod:since">
+            <governor idx="20">office</governor>
+            <dependent idx="22">May</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="22">May</governor>
+            <dependent idx="23">2014</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">politician</governor>
+            <dependent idx="24">.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>He</word>
+            <lemma>he</lemma>
+            <CharacterOffsetBegin>128</CharacterOffsetBegin>
+            <CharacterOffsetEnd>130</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>was</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>131</CharacterOffsetBegin>
+            <CharacterOffsetEnd>134</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>135</CharacterOffsetBegin>
+            <CharacterOffsetEnd>138</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>Chief</word>
+            <lemma>Chief</lemma>
+            <CharacterOffsetBegin>139</CharacterOffsetBegin>
+            <CharacterOffsetEnd>144</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>TITLE</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>Minister</word>
+            <lemma>Minister</lemma>
+            <CharacterOffsetBegin>145</CharacterOffsetBegin>
+            <CharacterOffsetEnd>153</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>TITLE</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>154</CharacterOffsetBegin>
+            <CharacterOffsetEnd>156</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>Gujarat</word>
+            <lemma>Gujarat</lemma>
+            <CharacterOffsetBegin>157</CharacterOffsetBegin>
+            <CharacterOffsetEnd>164</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>165</CharacterOffsetBegin>
+            <CharacterOffsetEnd>169</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>2001</word>
+            <lemma>2001</lemma>
+            <CharacterOffsetBegin>170</CharacterOffsetBegin>
+            <CharacterOffsetEnd>174</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>2001/2014</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t3" type="DATE">2001</Timex>
+          </token>
+          <token id="10">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>175</CharacterOffsetBegin>
+            <CharacterOffsetEnd>177</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>2001/2014</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>2014</word>
+            <lemma>2014</lemma>
+            <CharacterOffsetBegin>178</CharacterOffsetBegin>
+            <CharacterOffsetEnd>182</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>2001/2014</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t4" type="DATE">2014</Timex>
+          </token>
+          <token id="12">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>182</CharacterOffsetBegin>
+            <CharacterOffsetEnd>183</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>184</CharacterOffsetBegin>
+            <CharacterOffsetEnd>187</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>188</CharacterOffsetBegin>
+            <CharacterOffsetEnd>190</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>191</CharacterOffsetBegin>
+            <CharacterOffsetEnd>194</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>Member</word>
+            <lemma>Member</lemma>
+            <CharacterOffsetBegin>195</CharacterOffsetBegin>
+            <CharacterOffsetEnd>201</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>202</CharacterOffsetBegin>
+            <CharacterOffsetEnd>204</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>Parliament</word>
+            <lemma>Parliament</lemma>
+            <CharacterOffsetBegin>205</CharacterOffsetBegin>
+            <CharacterOffsetEnd>215</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>216</CharacterOffsetBegin>
+            <CharacterOffsetEnd>219</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>Varanasi</word>
+            <lemma>Varanasi</lemma>
+            <CharacterOffsetBegin>220</CharacterOffsetBegin>
+            <CharacterOffsetEnd>228</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>CITY</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>228</CharacterOffsetBegin>
+            <CharacterOffsetEnd>229</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP He)) (VP (VP (VBD was) (NP (NP (DT the) (NNP Chief) (NNP Minister)) (PP (IN of) (NP (NNP Gujarat)))) (PP (IN from) (NP (CD 2001) (TO to) (CD 2014)))) (, ,) (CC and) (VP (VBZ is) (NP (NP (DT the) (NNP Member)) (PP (IN of) (NP (NP (NNP Parliament)) (PP (IN for) (NP (NNP Varanasi)))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">Minister</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">Minister</governor>
+            <dependent idx="1">He</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">Minister</governor>
+            <dependent idx="2">was</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">Minister</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="5">Minister</governor>
+            <dependent idx="4">Chief</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">Gujarat</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="5">Minister</governor>
+            <dependent idx="7">Gujarat</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">2014</governor>
+            <dependent idx="8">from</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">2014</governor>
+            <dependent idx="9">2001</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">2014</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="5">Minister</governor>
+            <dependent idx="11">2014</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Minister</governor>
+            <dependent idx="12">,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="5">Minister</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="16">Member</governor>
+            <dependent idx="14">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">Member</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">Minister</governor>
+            <dependent idx="16">Member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">Parliament</governor>
+            <dependent idx="17">of</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="16">Member</governor>
+            <dependent idx="18">Parliament</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">Varanasi</governor>
+            <dependent idx="19">for</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="18">Parliament</governor>
+            <dependent idx="20">Varanasi</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Minister</governor>
+            <dependent idx="21">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">Minister</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">Minister</governor>
+            <dependent idx="1">He</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">Minister</governor>
+            <dependent idx="2">was</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">Minister</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="5">Minister</governor>
+            <dependent idx="4">Chief</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">Gujarat</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="5">Minister</governor>
+            <dependent idx="7">Gujarat</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">2014</governor>
+            <dependent idx="8">from</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">2014</governor>
+            <dependent idx="9">2001</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">2014</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="5">Minister</governor>
+            <dependent idx="11">2014</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Minister</governor>
+            <dependent idx="12">,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="5">Minister</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="16">Member</governor>
+            <dependent idx="14">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">Member</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="5">Minister</governor>
+            <dependent idx="16">Member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">Parliament</governor>
+            <dependent idx="17">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="16">Member</governor>
+            <dependent idx="18">Parliament</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">Varanasi</governor>
+            <dependent idx="19">for</dependent>
+          </dep>
+          <dep type="nmod:for">
+            <governor idx="18">Parliament</governor>
+            <dependent idx="20">Varanasi</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Minister</governor>
+            <dependent idx="21">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">Minister</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">Minister</governor>
+            <dependent idx="1">He</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">Minister</governor>
+            <dependent idx="2">was</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">Minister</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="5">Minister</governor>
+            <dependent idx="4">Chief</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">Gujarat</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="5">Minister</governor>
+            <dependent idx="7">Gujarat</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">2014</governor>
+            <dependent idx="8">from</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">2014</governor>
+            <dependent idx="9">2001</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">2014</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="5">Minister</governor>
+            <dependent idx="11">2014</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Minister</governor>
+            <dependent idx="12">,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="5">Minister</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="16">Member</governor>
+            <dependent idx="14">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">Member</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="5">Minister</governor>
+            <dependent idx="16">Member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">Parliament</governor>
+            <dependent idx="17">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="16">Member</governor>
+            <dependent idx="18">Parliament</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">Varanasi</governor>
+            <dependent idx="19">for</dependent>
+          </dep>
+          <dep type="nmod:for">
+            <governor idx="18">Parliament</governor>
+            <dependent idx="20">Varanasi</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Minister</governor>
+            <dependent idx="21">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">Minister</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">Minister</governor>
+            <dependent idx="1">He</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">Minister</governor>
+            <dependent idx="2">was</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">Minister</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="5">Minister</governor>
+            <dependent idx="4">Chief</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">Gujarat</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="5">Minister</governor>
+            <dependent idx="7">Gujarat</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">2014</governor>
+            <dependent idx="8">from</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">2014</governor>
+            <dependent idx="9">2001</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">2014</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="5">Minister</governor>
+            <dependent idx="11">2014</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Minister</governor>
+            <dependent idx="12">,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="5">Minister</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="16">Member</governor>
+            <dependent idx="14">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">Member</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="5">Minister</governor>
+            <dependent idx="16">Member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">Parliament</governor>
+            <dependent idx="17">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="16">Member</governor>
+            <dependent idx="18">Parliament</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">Varanasi</governor>
+            <dependent idx="19">for</dependent>
+          </dep>
+          <dep type="nmod:for">
+            <governor idx="18">Parliament</governor>
+            <dependent idx="20">Varanasi</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Minister</governor>
+            <dependent idx="21">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">Minister</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">Minister</governor>
+            <dependent idx="1">He</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">Minister</governor>
+            <dependent idx="2">was</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">Minister</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="5">Minister</governor>
+            <dependent idx="4">Chief</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">Gujarat</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="5">Minister</governor>
+            <dependent idx="7">Gujarat</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">2014</governor>
+            <dependent idx="8">from</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">2014</governor>
+            <dependent idx="9">2001</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">2014</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="5">Minister</governor>
+            <dependent idx="11">2014</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Minister</governor>
+            <dependent idx="12">,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="5">Minister</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="16">Member</governor>
+            <dependent idx="14">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">Member</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="5">Minister</governor>
+            <dependent idx="16">Member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">Parliament</governor>
+            <dependent idx="17">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="16">Member</governor>
+            <dependent idx="18">Parliament</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">Varanasi</governor>
+            <dependent idx="19">for</dependent>
+          </dep>
+          <dep type="nmod:for">
+            <governor idx="18">Parliament</governor>
+            <dependent idx="20">Varanasi</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">Minister</governor>
+            <dependent idx="21">.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="3">
+        <tokens>
+          <token id="1">
+            <word>Modi</word>
+            <lemma>Modi</lemma>
+            <CharacterOffsetBegin>230</CharacterOffsetBegin>
+            <CharacterOffsetEnd>234</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>234</CharacterOffsetBegin>
+            <CharacterOffsetEnd>235</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>236</CharacterOffsetBegin>
+            <CharacterOffsetEnd>237</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>member</word>
+            <lemma>member</lemma>
+            <CharacterOffsetBegin>238</CharacterOffsetBegin>
+            <CharacterOffsetEnd>244</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>245</CharacterOffsetBegin>
+            <CharacterOffsetEnd>247</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>248</CharacterOffsetBegin>
+            <CharacterOffsetEnd>251</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>Bharatiya</word>
+            <lemma>Bharatiya</lemma>
+            <CharacterOffsetBegin>252</CharacterOffsetBegin>
+            <CharacterOffsetEnd>261</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>Janata</word>
+            <lemma>Janata</lemma>
+            <CharacterOffsetBegin>262</CharacterOffsetBegin>
+            <CharacterOffsetEnd>268</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>Party</word>
+            <lemma>Party</lemma>
+            <CharacterOffsetBegin>269</CharacterOffsetBegin>
+            <CharacterOffsetEnd>274</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>-LRB-</word>
+            <lemma>-lrb-</lemma>
+            <CharacterOffsetBegin>275</CharacterOffsetBegin>
+            <CharacterOffsetEnd>276</CharacterOffsetEnd>
+            <POS>-LRB-</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>BJP</word>
+            <lemma>BJP</lemma>
+            <CharacterOffsetBegin>276</CharacterOffsetBegin>
+            <CharacterOffsetEnd>279</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>-RRB-</word>
+            <lemma>-rrb-</lemma>
+            <CharacterOffsetBegin>279</CharacterOffsetBegin>
+            <CharacterOffsetEnd>280</CharacterOffsetEnd>
+            <POS>-RRB-</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>280</CharacterOffsetBegin>
+            <CharacterOffsetEnd>281</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>282</CharacterOffsetBegin>
+            <CharacterOffsetEnd>284</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>285</CharacterOffsetBegin>
+            <CharacterOffsetEnd>286</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>Hindu</word>
+            <lemma>Hindu</lemma>
+            <CharacterOffsetBegin>287</CharacterOffsetBegin>
+            <CharacterOffsetEnd>292</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>RELIGION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>nationalist</word>
+            <lemma>nationalist</lemma>
+            <CharacterOffsetBegin>293</CharacterOffsetBegin>
+            <CharacterOffsetEnd>304</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>IDEOLOGY</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>305</CharacterOffsetBegin>
+            <CharacterOffsetEnd>308</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>member</word>
+            <lemma>member</lemma>
+            <CharacterOffsetBegin>309</CharacterOffsetBegin>
+            <CharacterOffsetEnd>315</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>316</CharacterOffsetBegin>
+            <CharacterOffsetEnd>318</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>319</CharacterOffsetBegin>
+            <CharacterOffsetEnd>322</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>right-wing</word>
+            <lemma>right-wing</lemma>
+            <CharacterOffsetBegin>323</CharacterOffsetBegin>
+            <CharacterOffsetEnd>333</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>IDEOLOGY</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>Rashtriya</word>
+            <lemma>Rashtriya</lemma>
+            <CharacterOffsetBegin>334</CharacterOffsetBegin>
+            <CharacterOffsetEnd>343</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>Swayamsevak</word>
+            <lemma>Swayamsevak</lemma>
+            <CharacterOffsetBegin>344</CharacterOffsetBegin>
+            <CharacterOffsetEnd>355</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="25">
+            <word>Sangh</word>
+            <lemma>Sangh</lemma>
+            <CharacterOffsetBegin>356</CharacterOffsetBegin>
+            <CharacterOffsetEnd>361</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="26">
+            <word>-LRB-</word>
+            <lemma>-lrb-</lemma>
+            <CharacterOffsetBegin>362</CharacterOffsetBegin>
+            <CharacterOffsetEnd>363</CharacterOffsetEnd>
+            <POS>-LRB-</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="27">
+            <word>RSS</word>
+            <lemma>RSS</lemma>
+            <CharacterOffsetBegin>363</CharacterOffsetBegin>
+            <CharacterOffsetEnd>366</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="28">
+            <word>-RRB-</word>
+            <lemma>-rrb-</lemma>
+            <CharacterOffsetBegin>366</CharacterOffsetBegin>
+            <CharacterOffsetEnd>367</CharacterOffsetEnd>
+            <POS>-RRB-</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="29">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>367</CharacterOffsetBegin>
+            <CharacterOffsetEnd>368</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (NNP Modi)) (, ,) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NP (DT the) (NNP Bharatiya) (NNP Janata) (NNP Party)) (PRN (-LRB- -LRB-) (NP (NNP BJP)) (-RRB- -RRB-))))) (, ,)) (VP (VBZ is) (NP (NP (DT a) (NNP Hindu) (NX (NX (JJ nationalist)) (CC and) (NX (NN member)))) (PP (IN of) (NP (DT the) (JJ right-wing) (NNP Rashtriya) (NNP Swayamsevak) (NNP Sangh))) (PRN (-LRB- -LRB-) (NP (NNP RSS)) (-RRB- -RRB-)))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="17">nationalist</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="1">Modi</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">Modi</governor>
+            <dependent idx="2">,</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">member</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="1">Modi</governor>
+            <dependent idx="4">member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">Party</governor>
+            <dependent idx="5">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">Party</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">Party</governor>
+            <dependent idx="7">Bharatiya</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">Party</governor>
+            <dependent idx="8">Janata</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">member</governor>
+            <dependent idx="9">Party</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">BJP</governor>
+            <dependent idx="10">-LRB-</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="9">Party</governor>
+            <dependent idx="11">BJP</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">BJP</governor>
+            <dependent idx="12">-RRB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">Modi</governor>
+            <dependent idx="13">,</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="14">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="15">a</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="16">Hindu</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="18">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="19">member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="20">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="22">right-wing</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="23">Rashtriya</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="24">Swayamsevak</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="25">Sangh</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="27">RSS</governor>
+            <dependent idx="26">-LRB-</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="27">RSS</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="27">RSS</governor>
+            <dependent idx="28">-RRB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="29">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="17">nationalist</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="1">Modi</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">Modi</governor>
+            <dependent idx="2">,</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">member</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="1">Modi</governor>
+            <dependent idx="4">member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">Party</governor>
+            <dependent idx="5">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">Party</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">Party</governor>
+            <dependent idx="7">Bharatiya</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">Party</governor>
+            <dependent idx="8">Janata</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="4">member</governor>
+            <dependent idx="9">Party</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">BJP</governor>
+            <dependent idx="10">-LRB-</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="9">Party</governor>
+            <dependent idx="11">BJP</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">BJP</governor>
+            <dependent idx="12">-RRB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">Modi</governor>
+            <dependent idx="13">,</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="14">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="15">a</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="16">Hindu</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="18">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="19">member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="20">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="22">right-wing</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="23">Rashtriya</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="24">Swayamsevak</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="25">Sangh</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="27">RSS</governor>
+            <dependent idx="26">-LRB-</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="27">RSS</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="27">RSS</governor>
+            <dependent idx="28">-RRB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="29">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="17">nationalist</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="1">Modi</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">Modi</governor>
+            <dependent idx="2">,</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">member</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="1">Modi</governor>
+            <dependent idx="4">member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">Party</governor>
+            <dependent idx="5">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">Party</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">Party</governor>
+            <dependent idx="7">Bharatiya</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">Party</governor>
+            <dependent idx="8">Janata</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="4">member</governor>
+            <dependent idx="9">Party</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">BJP</governor>
+            <dependent idx="10">-LRB-</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="9">Party</governor>
+            <dependent idx="11">BJP</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">BJP</governor>
+            <dependent idx="12">-RRB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">Modi</governor>
+            <dependent idx="13">,</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="14">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="15">a</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="16">Hindu</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="18">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="19">member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="20">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="22">right-wing</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="23">Rashtriya</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="24">Swayamsevak</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="25">Sangh</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="27">RSS</governor>
+            <dependent idx="26">-LRB-</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="27">RSS</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="27">RSS</governor>
+            <dependent idx="28">-RRB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="29">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="17">nationalist</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="1">Modi</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">Modi</governor>
+            <dependent idx="2">,</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">member</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="1">Modi</governor>
+            <dependent idx="4">member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">Party</governor>
+            <dependent idx="5">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">Party</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">Party</governor>
+            <dependent idx="7">Bharatiya</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">Party</governor>
+            <dependent idx="8">Janata</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="4">member</governor>
+            <dependent idx="9">Party</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">BJP</governor>
+            <dependent idx="10">-LRB-</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="9">Party</governor>
+            <dependent idx="11">BJP</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">BJP</governor>
+            <dependent idx="12">-RRB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">Modi</governor>
+            <dependent idx="13">,</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="14">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="15">a</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="16">Hindu</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="18">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="19">member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="20">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="22">right-wing</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="23">Rashtriya</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="24">Swayamsevak</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="25">Sangh</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="27">RSS</governor>
+            <dependent idx="26">-LRB-</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="27">RSS</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="27">RSS</governor>
+            <dependent idx="28">-RRB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="29">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="17">nationalist</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="1">Modi</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">Modi</governor>
+            <dependent idx="2">,</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">member</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="1">Modi</governor>
+            <dependent idx="4">member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">Party</governor>
+            <dependent idx="5">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">Party</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">Party</governor>
+            <dependent idx="7">Bharatiya</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">Party</governor>
+            <dependent idx="8">Janata</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="4">member</governor>
+            <dependent idx="9">Party</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">BJP</governor>
+            <dependent idx="10">-LRB-</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="9">Party</governor>
+            <dependent idx="11">BJP</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">BJP</governor>
+            <dependent idx="12">-RRB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">Modi</governor>
+            <dependent idx="13">,</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="14">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="15">a</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="16">Hindu</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="18">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="19">member</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="20">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="22">right-wing</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="23">Rashtriya</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="25">Sangh</governor>
+            <dependent idx="24">Swayamsevak</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="25">Sangh</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="27">RSS</governor>
+            <dependent idx="26">-LRB-</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="27">RSS</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="27">RSS</governor>
+            <dependent idx="28">-RRB-</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="17">nationalist</governor>
+            <dependent idx="29">.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>1</start>
+          <end>4</end>
+          <head>3</head>
+          <text>Narendra Damodardas Modi</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>5</start>
+          <end>24</end>
+          <head>7</head>
+          <text>an Indian politician who is the 16th and current Prime Minister of India , in office since May 2014</text>
+        </mention>
+        <mention>
+          <sentence>2</sentence>
+          <start>1</start>
+          <end>2</end>
+          <head>1</head>
+          <text>He</text>
+        </mention>
+        <mention>
+          <sentence>3</sentence>
+          <start>1</start>
+          <end>13</end>
+          <head>1</head>
+          <text>Modi , a member of the Bharatiya Janata Party -LRB- BJP -RRB-</text>
+        </mention>
+        <mention>
+          <sentence>3</sentence>
+          <start>1</start>
+          <end>2</end>
+          <head>1</head>
+          <text>Modi</text>
+        </mention>
+        <mention>
+          <sentence>3</sentence>
+          <start>3</start>
+          <end>13</end>
+          <head>4</head>
+          <text>a member of the Bharatiya Janata Party -LRB- BJP -RRB-</text>
+        </mention>
+      </coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>3</sentence>
+          <start>21</start>
+          <end>26</end>
+          <head>25</head>
+          <text>the right-wing Rashtriya Swayamsevak Sangh</text>
+        </mention>
+        <mention>
+          <sentence>3</sentence>
+          <start>27</start>
+          <end>28</end>
+          <head>27</head>
+          <text>RSS</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

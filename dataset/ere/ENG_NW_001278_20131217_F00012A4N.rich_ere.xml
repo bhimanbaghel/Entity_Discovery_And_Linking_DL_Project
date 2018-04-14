@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000044" doc_id="ENG_NW_001278_20131217_F00012A4N" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="101" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-33" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="219" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-54" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="318" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-208" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="1045" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-214" noun_type="PRO" source="ENG_NW_001278_20131217_F00012A4N" offset="1159" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-220" noun_type="PRO" source="ENG_NW_001278_20131217_F00012A4N" offset="1189" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-284" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="1059" length="29">
+        <mention_text>the third space faring nation</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="1082" length="6">nation</nom_head>
+      </entity_mention>
+      <entity_mention id="m-296" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="1401" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-308" noun_type="PRO" source="ENG_NW_001278_20131217_F00012A4N" offset="1517" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-314" noun_type="PRO" source="ENG_NW_001278_20131217_F00012A4N" offset="1561" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-326" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="1605" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-368" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="540" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-461" noun_type="PRO" source="ENG_NW_001278_20131217_F00012A4N" offset="1719" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-578" noun_type="PRO" source="ENG_NW_001278_20131217_F00012A4N" offset="1631" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="158" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-39" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="276" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-189" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="985" length="8">
+        <mention_text>American</mention_text>
+      </entity_mention>
+      <entity_mention id="m-290" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="1243" length="8">
+        <mention_text>American</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-51" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-45" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="289" length="7">
+        <mention_text>CHICAGO</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-66" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-60" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="377" length="4">
+        <mention_text>Moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-153" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="731" length="4">
+        <mention_text>Moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-168" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="893" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-226" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="1295" length="4">
+        <mention_text>Moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-250" noun_type="PRO" source="ENG_NW_001278_20131217_F00012A4N" offset="1387" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+      <entity_mention id="m-302" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="1480" length="4">
+        <mention_text>Moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-332" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="1704" length="4">
+        <mention_text>Moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-394" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="243" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-536" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="801" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-542" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="125" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-75" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-69" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="430" length="17">
+        <mention_text>Purdue University</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-84" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-78" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="428" length="61">
+        <mention_text>a Purdue University professor of aeronautics and astronautics</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="448" length="9">professor</nom_head>
+      </entity_mention>
+      <entity_mention id="m-97" noun_type="PRO" source="ENG_NW_001278_20131217_F00012A4N" offset="493" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-103" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="652" length="14">
+        <mention_text>James Longuski</mention_text>
+      </entity_mention>
+      <entity_mention id="m-174" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="936" length="8">
+        <mention_text>Longuski</mention_text>
+      </entity_mention>
+      <entity_mention id="m-320" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="1572" length="8">
+        <mention_text>Longuski</mention_text>
+      </entity_mention>
+      <entity_mention id="m-338" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="1739" length="8">
+        <mention_text>Longuski</mention_text>
+      </entity_mention>
+      <entity_mention id="m-409" noun_type="PRO" source="ENG_NW_001278_20131217_F00012A4N" offset="1588" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-467" noun_type="PRO" source="ENG_NW_001278_20131217_F00012A4N" offset="1978" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-503" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="158" length="11">
+        <mention_text>U.S. expert</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="163" length="6">expert</nom_head>
+      </entity_mention>
+      <entity_mention id="m-509" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="276" length="11">
+        <mention_text>U.S. expert</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="281" length="6">expert</nom_head>
+      </entity_mention>
+      <entity_mention id="m-548" noun_type="PRO" source="ENG_NW_001278_20131217_F00012A4N" offset="946" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+      <entity_mention id="m-554" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="958" length="77">
+        <mention_text>an associate fellow of the American Institute of Aeronautics and Astronautics</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="971" length="6">fellow</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-115" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-109" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="688" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-165" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-159" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="828" length="7">
+        <mention_text>Beijing</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-186" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-180" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="985" length="50">
+        <mention_text>American Institute of Aeronautics and Astronautics</mention_text>
+      </entity_mention>
+      <entity_mention id="m-473" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="2040" length="4">
+        <mention_text>AIAA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-479" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="1037" length="4">
+        <mention_text>AIAA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-195" type="PER" specificity="nonspecific">
+      <entity_mention id="m-353" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="2074" length="18">
+        <mention_text>a Rocket Scientist</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="2083" length="9">Scientist</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-238" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-232" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="1346" length="14">
+        <mention_text>Neil Armstrong</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-247" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-241" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="1365" length="11">
+        <mention_text>Buzz Aldrin</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-350" type="PER" specificity="specificGroup">
+      <entity_mention id="m-344" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="2021" length="17">
+        <mention_text>Rocket Scientists</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="2028" length="10">Scientists</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-365" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-359" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="2094" length="8">
+        <mention_text>Springer</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-406" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-400" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="610" length="11">
+        <mention_text>all nations</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="614" length="7">nations</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-421" type="PER" specificity="nonspecific">
+      <entity_mention id="m-415" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="1690" length="6">
+        <mention_text>humans</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="1690" length="6">humans</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-491" type="PER" specificity="nonspecific">
+      <entity_mention id="m-572" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="1457" length="7">
+        <mention_text>a human</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="1459" length="5">human</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-494" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-497" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="143" length="5">
+        <mention_text>space</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="143" length="5">space</nom_head>
+      </entity_mention>
+      <entity_mention id="m-515" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="400" length="5">
+        <mention_text>space</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="400" length="5">space</nom_head>
+      </entity_mention>
+      <entity_mention id="m-530" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="633" length="5">
+        <mention_text>space</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="633" length="5">space</nom_head>
+      </entity_mention>
+      <entity_mention id="m-560" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="1069" length="5">
+        <mention_text>space</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="1069" length="5">space</nom_head>
+      </entity_mention>
+      <entity_mention id="m-566" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="1212" length="18">
+        <mention_text>the final frontier</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="1222" length="8">frontier</nom_head>
+      </entity_mention>
+      <entity_mention id="m-584" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="1646" length="5">
+        <mention_text>space</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="1646" length="5">space</nom_head>
+      </entity_mention>
+      <entity_mention id="m-590" noun_type="NOM" source="ENG_NW_001278_20131217_F00012A4N" offset="1908" length="5">
+        <mention_text>space</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00012A4N" offset="1908" length="5">space</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-527" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-521" noun_type="NAM" source="ENG_NW_001278_20131217_F00012A4N" offset="430" length="6">
+        <mention_text>Purdue</mention_text>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-382" source="ENG_NW_001278_20131217_F00012A4N" offset="646" length="5" type="title">Prof.</filler>
+    <filler id="f-392" source="ENG_NW_001278_20131217_F00012A4N" offset="1733" length="4" type="title">Prof</filler>
+    <filler id="f-634" source="ENG_NW_001278_20131217_F00012A4N" offset="961" length="16" type="title">associate fellow</filler>
+    <filler id="f-654" source="ENG_NW_001278_20131217_F00012A4N" offset="448" length="9" type="title">professor</filler>
+    <filler id="f-714" source="ENG_NW_001278_20131217_F00012A4N" offset="2076" length="16" type="title">Rocket Scientist</filler>
+    <filler id="f-150" source="ENG_NW_001278_20131217_F00012A4N" offset="698" length="6" type="time" nom_time="2013-12-16">Monday</filler>
+    <filler id="f-1055" source="ENG_NW_001278_20131217_F00012A4N" offset="1323" length="17" type="time" nom_time="1969-xx-xx">three years later</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1228" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-87" realis="true">
+        <rel_arg1 entity_id="ent-84" entity_mention_id="m-78" role="employeemember">a Purdue University professor of aeronautics and astronautics</rel_arg1>
+        <rel_arg2 entity_id="ent-75" entity_mention_id="m-69" role="org">Purdue University</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1229" type="personalsocial" subtype="role">
+      <relation_mention id="relm-374" realis="true">
+        <rel_arg1 entity_id="ent-84" entity_mention_id="m-103" role="per">James Longuski</rel_arg1>
+        <rel_arg2 filler_id="f-382" role="role">Prof.</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-384" realis="true">
+        <rel_arg1 entity_id="ent-84" entity_mention_id="m-338" role="per">Longuski</rel_arg1>
+        <rel_arg2 filler_id="f-392" role="role">Prof</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-626" realis="true">
+        <rel_arg1 entity_id="ent-84" entity_mention_id="m-554" role="per">an associate fellow of the American Institute of Aeronautics and Astronautics</rel_arg1>
+        <rel_arg2 filler_id="f-634" role="role">associate fellow</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-646" realis="true">
+        <rel_arg1 entity_id="ent-84" entity_mention_id="m-78" role="per">a Purdue University professor of aeronautics and astronautics</rel_arg1>
+        <rel_arg2 filler_id="f-654" role="role">professor</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1230" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-596" realis="true">
+        <rel_arg1 entity_id="ent-84" entity_mention_id="m-503" role="per">U.S. expert</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-24" role="entity">U.S.</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-606" realis="true">
+        <rel_arg1 entity_id="ent-84" entity_mention_id="m-509" role="per">U.S. expert</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-39" role="entity">U.S.</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1231" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-616" realis="true">
+        <rel_arg1 entity_id="ent-84" entity_mention_id="m-554" role="employeemember">an associate fellow of the American Institute of Aeronautics and Astronautics</rel_arg1>
+        <rel_arg2 entity_id="ent-186" entity_mention_id="m-180" role="org">American Institute of Aeronautics and Astronautics</rel_arg2>
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="971" length="6">fellow</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1232" type="physical" subtype="locatednear">
+      <relation_mention id="relm-666" realis="true">
+        <rel_arg1 entity_id="ent-238" entity_mention_id="m-232" role="entity">Neil Armstrong</rel_arg1>
+        <rel_arg2 entity_id="ent-66" entity_mention_id="m-250" role="loc">it</rel_arg2>
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="1377" length="6">walked</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1233" type="physical" subtype="locatednear">
+      <relation_mention id="relm-676" realis="true">
+        <rel_arg1 entity_id="ent-247" entity_mention_id="m-241" role="entity">Buzz Aldrin</rel_arg1>
+        <rel_arg2 entity_id="ent-66" entity_mention_id="m-250" role="loc">it</rel_arg2>
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="1377" length="6">walked</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1234" type="physical" subtype="locatednear">
+      <relation_mention id="relm-696" realis="false">
+        <rel_arg1 entity_id="ent-421" entity_mention_id="m-415" role="entity">humans</rel_arg1>
+        <rel_arg2 entity_id="ent-66" entity_mention_id="m-332" role="loc">Moon</rel_arg2>
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="1697" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1235" type="personalsocial" subtype="role">
+      <relation_mention id="relm-706" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-353" role="per">a Rocket Scientist</rel_arg1>
+        <rel_arg2 filler_id="f-714" role="role">Rocket Scientist</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1236" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1250" realis="true">
+        <rel_arg1 entity_id="ent-186" entity_mention_id="m-180" role="org">American Institute of Aeronautics and Astronautics</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-189" role="loc">American</rel_arg2>
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="985" length="8">American</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-118" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="673" length="9">interview</trigger>
+        <em_arg entity_id="ent-84" entity_mention_id="m-103" role="entity" realis="true">James Longuski</em_arg>
+        <em_arg entity_id="ent-115" entity_mention_id="m-109" role="entity" realis="true">Xinhua</em_arg>
+        <em_arg filler_id="f-150" role="time" realis="true">Monday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-459">
+      <event_mention id="em-424" type="movement" subtype="transportperson" realis="other">
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="1682" length="7">sending</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-578" role="agent" realis="true">its</em_arg>
+        <em_arg entity_id="ent-421" entity_mention_id="m-415" role="person" realis="true">humans</em_arg>
+        <em_arg entity_id="ent-66" entity_mention_id="m-332" role="destination" realis="true">Moon</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-910">
+      <event_mention id="em-1118" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="1652" length="6">travel</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-578" role="agent" realis="true">its</em_arg>
+        <em_arg entity_id="ent-494" entity_mention_id="m-584" role="destination" realis="true">space</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1014">
+      <event_mention id="em-1016" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="1377" length="6">walked</trigger>
+        <em_arg entity_id="ent-238" entity_mention_id="m-232" role="person" realis="true">Neil Armstrong</em_arg>
+        <em_arg entity_id="ent-247" entity_mention_id="m-241" role="person" realis="true">Buzz Aldrin</em_arg>
+        <em_arg entity_id="ent-66" entity_mention_id="m-250" role="destination" realis="true">it</em_arg>
+        <em_arg filler_id="f-1055" role="time" realis="true">three years later</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1079">
+      <event_mention id="em-1058" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="1426" length="9">announced</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-296" role="entity" realis="true">China</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1116">
+      <event_mention id="em-1081" type="movement" subtype="transportperson" realis="other">
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="1453" length="3">fly</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-296" role="agent" realis="true">China</em_arg>
+        <em_arg entity_id="ent-491" entity_mention_id="m-572" role="person" realis="true"> a human</em_arg>
+        <em_arg entity_id="ent-66" entity_mention_id="m-302" role="destination" realis="true">Moon</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1202">
+      <event_mention id="em-1174" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="2011" length="6">Advice</trigger>
+        <em_arg entity_id="ent-84" entity_mention_id="m-467" role="entity" realis="true">He</em_arg>
+        <em_arg entity_id="ent-350" entity_mention_id="m-344" role="audience" realis="true">Rocket Scientists</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1225">
+      <event_mention id="em-1204" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="1752" length="9">published</trigger>
+        <em_arg entity_id="ent-84" entity_mention_id="m-338" role="entity" realis="true">Longuski</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1248">
+      <event_mention id="em-1227" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131217_F00012A4N" offset="1990" length="9">published</trigger>
+        <em_arg entity_id="ent-84" entity_mention_id="m-467" role="entity" realis="true">He</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

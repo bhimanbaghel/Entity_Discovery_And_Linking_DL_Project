@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000037" doc_id="ENG_NW_001278_20131208_F000131GR" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="153" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-24" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="253" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-30" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="314" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-36" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="432" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-42" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="539" length="24">
+        <mention_text>the saint in their minds</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="543" length="5">saint</nom_head>
+      </entity_mention>
+      <entity_mention id="m-48" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="579" length="7">
+        <mention_text>a saint</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="581" length="5">saint</nom_head>
+      </entity_mention>
+      <entity_mention id="m-54" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="596" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-60" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="575" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-66" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="877" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-72" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="897" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-78" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1001" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-84" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1138" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-90" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1227" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-96" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1437" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-102" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1502" length="20">
+        <mention_text>the former president</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1513" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-108" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1756" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-114" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1881" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="2005" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-126" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="2193" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-132" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2248" length="49">
+        <mention_text>a banner of peace and democracy for )Aall mankind</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2250" length="6">banner</nom_head>
+      </entity_mention>
+      <entity_mention id="m-138" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="2319" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-144" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2335" length="13">
+        <mention_text>the great man</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2345" length="3">man</nom_head>
+      </entity_mention>
+      <entity_mention id="m-150" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2430" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-156" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="2449" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-162" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="2510" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-168" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2592" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-174" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2662" length="15">
+        <mention_text>a nation leader</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2671" length="6">leader</nom_head>
+      </entity_mention>
+      <entity_mention id="m-2175" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1772" length="22">
+        <mention_text>President at that time</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1772" length="9">President</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-186" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-180" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="109" length="9">
+        <mention_text>S. Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-225" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="209" length="9">
+        <mention_text>S. Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-231" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="270" length="9">
+        <mention_text>S. Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-417" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="944" length="14">
+        <mention_text>South Africans</mention_text>
+      </entity_mention>
+      <entity_mention id="m-702" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2380" length="13">
+        <mention_text>South African</mention_text>
+      </entity_mention>
+      <entity_mention id="m-780" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2664" length="6">
+        <mention_text>nation</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2664" length="6">nation</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-195" type="PER" specificity="specificGroup">
+      <entity_mention id="m-189" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="109" length="27">
+        <mention_text>S. Africa Chinese community</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="127" length="9">community</nom_head>
+      </entity_mention>
+      <entity_mention id="m-237" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="209" length="27">
+        <mention_text>S. Africa Chinese community</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="227" length="9">community</nom_head>
+      </entity_mention>
+      <entity_mention id="m-243" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="270" length="27">
+        <mention_text>S. Africa Chinese community</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="288" length="9">community</nom_head>
+      </entity_mention>
+      <entity_mention id="m-291" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="372" length="33">
+        <mention_text>Chinese community in Johannesburg</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="380" length="9">community</nom_head>
+      </entity_mention>
+      <entity_mention id="m-315" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="552" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-321" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="567" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+      <entity_mention id="m-399" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="926" length="32">
+        <mention_text>Dozens of Chinese South Africans</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="926" length="6">Dozens</nom_head>
+      </entity_mention>
+      <entity_mention id="m-423" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="1040" length="4">
+        <mention_text>whom</mention_text>
+      </entity_mention>
+      <entity_mention id="m-492" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1264" length="17">
+        <mention_text>The Chinese group</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1276" length="5">group</nom_head>
+      </entity_mention>
+      <entity_mention id="m-642" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="2039" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+      <entity_mention id="m-648" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2087" length="11">
+        <mention_text>We, Chinese</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2087" length="2">We</nom_head>
+      </entity_mention>
+      <entity_mention id="m-660" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="2137" length="3">
+        <mention_text>our</mention_text>
+      </entity_mention>
+      <entity_mention id="m-684" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="2299" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-198" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-210" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="119" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-249" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="219" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-255" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="280" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="372" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-405" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="936" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-498" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1268" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-528" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1451" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-567" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1562" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-591" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1805" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-654" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2091" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-720" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2491" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-759" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2580" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-798" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2749" length="8">
+        <mention_text>homeland</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2749" length="8">homeland</nom_head>
+      </entity_mention>
+      <entity_mention id="m-962" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="706" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1218" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2399" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2187" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2696" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-204" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-267" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="339" length="12">
+        <mention_text>JOHANNESBURG</mention_text>
+      </entity_mention>
+      <entity_mention id="m-297" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="393" length="12">
+        <mention_text>Johannesburg</mention_text>
+      </entity_mention>
+      <entity_mention id="m-345" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="675" length="12">
+        <mention_text>Johannesburg</mention_text>
+      </entity_mention>
+      <entity_mention id="m-579" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1641" length="12">
+        <mention_text>Johannesburg</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-207" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-309" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="452" length="9">
+        <mention_text>the world</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="456" length="5">world</nom_head>
+      </entity_mention>
+      <entity_mention id="m-333" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="637" length="9">
+        <mention_text>the world</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="641" length="5">world</nom_head>
+      </entity_mention>
+      <entity_mention id="m-792" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2734" length="9">
+        <mention_text>the world</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2738" length="5">world</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-216" type="PER" specificity="nonspecific">
+      <entity_mention id="m-327" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="608" length="6">
+        <mention_text>nobody</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="608" length="6">nobody</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-219" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-339" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="649" length="11">
+        <mention_text>Sun Yaoheng</mention_text>
+      </entity_mention>
+      <entity_mention id="m-672" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2181" length="3">
+        <mention_text>Sun</mention_text>
+      </entity_mention>
+      <entity_mention id="m-690" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2367" length="3">
+        <mention_text>Sun</mention_text>
+      </entity_mention>
+      <entity_mention id="m-936" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="662" length="25">
+        <mention_text>councilor of Johannesburg</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="662" length="9">councilor</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-222" type="PER" specificity="specificGroup">
+      <entity_mention id="m-351" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="701" length="12">
+        <mention_text>many Chinese</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="706" length="7">Chinese</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-273" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-261" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="326" length="11">
+        <mention_text>Guo Xinghua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-282" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-276" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="361" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+      <entity_mention id="m-555" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1540" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+      <entity_mention id="m-708" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2412" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-363" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-303" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="426" length="35">
+        <mention_text>where Nelson Mandela left the world</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="426" length="5">where</nom_head>
+      </entity_mention>
+      <entity_mention id="m-357" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="748" length="18">
+        <mention_text>the Houghton house</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="761" length="5">house</nom_head>
+      </entity_mention>
+      <entity_mention id="m-393" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="873" length="50">
+        <mention_text>the Mandela house where he passed away on Thursday</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="885" length="5">house</nom_head>
+      </entity_mention>
+      <entity_mention id="m-486" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1223" length="17">
+        <mention_text>the Mandela house</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1235" length="5">house</nom_head>
+      </entity_mention>
+      <entity_mention id="m-2160" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="729" length="6">
+        <mention_text>onsite</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="729" length="6">onsite</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-366" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-381" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="752" length="8">
+        <mention_text>Houghton</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-369" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-387" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="845" length="78">
+        <mention_text>the intersection leading to the Mandela house where he passed away on Thursday</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="849" length="12">intersection</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-372" type="PER" specificity="specificGroup">
+      <entity_mention id="m-411" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="936" length="22">
+        <mention_text>Chinese South Africans</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="944" length="14">South Africans</nom_head>
+      </entity_mention>
+      <entity_mention id="m-534" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1447" length="21">
+        <mention_text>The Chinese community</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1459" length="9">community</nom_head>
+      </entity_mention>
+      <entity_mention id="m-714" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2487" length="21">
+        <mention_text>the Chinese community</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2499" length="9">community</nom_head>
+      </entity_mention>
+      <entity_mention id="m-786" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2693" length="64">
+        <mention_text>us Chinese who were on the other side of the world from homeland</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2696" length="7">Chinese</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-435" type="PER" specificity="specificGroup">
+      <entity_mention id="m-429" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="1045" length="4">
+        <mention_text>some</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-438" type="PER" specificity="specificGroup">
+      <entity_mention id="m-444" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="1070" length="4">
+        <mention_text>some</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-441" type="PER" specificity="specificGroup">
+      <entity_mention id="m-450" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="1106" length="4">
+        <mention_text>some</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-456" type="PER" specificity="specificGroup">
+      <entity_mention id="m-462" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1169" length="6">
+        <mention_text>Police</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1169" length="6">Police</nom_head>
+      </entity_mention>
+      <entity_mention id="m-510" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1326" length="15">
+        <mention_text>police officers</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1333" length="8">officers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-459" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-468" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1184" length="78">
+        <mention_text>all the roads several blocks away from the Mandela house except only two lanes</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1192" length="5">roads</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-474" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-480" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1248" length="14">
+        <mention_text>only two lanes</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1257" length="5">lanes</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-477" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-504" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1298" length="8">
+        <mention_text>the lane</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1302" length="4">lane</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-522" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-516" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1326" length="6">
+        <mention_text>police</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1326" length="6">police</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-525" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-540" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1525" length="9">
+        <mention_text>Li Xinzhu</mention_text>
+      </entity_mention>
+      <entity_mention id="m-636" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="1989" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-546" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-561" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1560" length="15">
+        <mention_text>a Chinese child</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1570" length="5">child</nom_head>
+      </entity_mention>
+      <entity_mention id="m-615" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1902" length="10">
+        <mention_text>the victim</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1906" length="6">victim</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-549" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-573" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1634" length="3">
+        <mention_text>CBD</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-552" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-696" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2378" length="28">
+        <mention_text>A South African born Chinese</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2399" length="7">Chinese</nom_head>
+      </entity_mention>
+      <entity_mention id="m-804" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2760" length="4">
+        <mention_text>Zhou</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-603" type="PER" specificity="specificGroup">
+      <entity_mention id="m-597" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1805" length="23">
+        <mention_text>Chinese representatives</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1813" length="15">representatives</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-606" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-609" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="1836" length="14">
+        <mention_text>Union Building</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-627" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-621" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1902" length="17">
+        <mention_text>the victim's home</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1915" length="4">home</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-630" type="PER" specificity="nonspecific">
+      <entity_mention id="m-666" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="2172" length="6">
+        <mention_text>others</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-633" type="PER" specificity="specificGroup">
+      <entity_mention id="m-678" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2285" length="12">
+        <mention_text>Aall mankind</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2290" length="7">mankind</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-732" type="PER" specificity="specificGroup">
+      <entity_mention id="m-726" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2531" length="7">
+        <mention_text>Chinese</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2531" length="7">Chinese</nom_head>
+      </entity_mention>
+      <entity_mention id="m-735" noun_type="PRO" source="ENG_NW_001278_20131208_F000131GR" offset="2549" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-747" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-741" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2549" length="11">
+        <mention_text>their homes</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2555" length="5">homes</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-756" type="PER" specificity="specificGroup">
+      <entity_mention id="m-750" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2575" length="12">
+        <mention_text>many Chinese</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2580" length="7">Chinese</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-771" type="PER" specificity="specificGroup">
+      <entity_mention id="m-765" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2603" length="10">
+        <mention_text>the family</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2607" length="6">family</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-774" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-810" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="2716" length="41">
+        <mention_text>the other side of the world from homeland</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="2726" length="4">side</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-777" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-2133" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="112" length="6">
+        <mention_text>Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2148" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="212" length="6">
+        <mention_text>Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2154" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="273" length="6">
+        <mention_text>Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2166" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="950" length="8">
+        <mention_text>Africans</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2181" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="2386" length="7">
+        <mention_text>African</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2145" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-2139" noun_type="NAM" source="ENG_NW_001278_20131208_F000131GR" offset="181" length="3">
+        <mention_text>郭兴华</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2172" type="PER" specificity="specificGroup">
+      <entity_mention id="m-585" noun_type="NOM" source="ENG_NW_001278_20131208_F000131GR" offset="1683" length="7">
+        <mention_text>Chinese</mention_text>
+        <nom_head source="ENG_NW_001278_20131208_F000131GR" offset="1683" length="7">Chinese</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-950" source="ENG_NW_001278_20131208_F000131GR" offset="662" length="9" type="title">councilor</filler>
+    <filler id="f-1096" source="ENG_NW_001278_20131208_F000131GR" offset="1513" length="9" type="title">president</filler>
+    <filler id="f-1136" source="ENG_NW_001278_20131208_F000131GR" offset="1772" length="9" type="title">President</filler>
+    <filler id="f-1342" source="ENG_NW_001278_20131208_F000131GR" offset="409" length="8" type="time" nom_time="2013-12-07">Saturday</filler>
+    <filler id="f-1414" source="ENG_NW_001278_20131208_F000131GR" offset="409" length="8" type="time" nom_time="2013-12-07">Saturday</filler>
+    <filler id="f-1453" source="ENG_NW_001278_20131208_F000131GR" offset="409" length="8" type="time" nom_time="2013-12-07">Saturday</filler>
+    <filler id="f-1494" source="ENG_NW_001278_20131208_F000131GR" offset="915" length="8" type="time" nom_time="2013-12-05">Thursday</filler>
+    <filler id="f-1522" source="ENG_NW_001278_20131208_F000131GR" offset="409" length="8" type="time" nom_time="2013-12-07">Saturday</filler>
+    <filler id="f-1638" source="ENG_NW_001278_20131208_F000131GR" offset="409" length="8" type="time" nom_time="2013-12-07">Saturday</filler>
+    <filler id="f-1668" source="ENG_NW_001278_20131208_F000131GR" offset="1555" length="4" type="time" nom_time="1998-XX-XX">1998</filler>
+    <filler id="f-1698" source="ENG_NW_001278_20131208_F000131GR" offset="1555" length="4" type="time" nom_time="1998-XX-XX">1998</filler>
+    <filler id="f-1720" source="ENG_NW_001278_20131208_F000131GR" offset="1555" length="4" type="time" nom_time="1998-XX-XX">1998</filler>
+    <filler id="f-1764" source="ENG_NW_001278_20131208_F000131GR" offset="1555" length="4" type="time" nom_time="1998-XX-XX">1998</filler>
+    <filler id="f-2345" source="ENG_NW_001278_20131208_F000131GR" offset="409" length="8" type="time" nom_time="2013-12-07">Saturday</filler>
+    <filler id="f-2352" source="ENG_NW_001278_20131208_F000131GR" offset="473" length="7" type="commodity">flowers</filler>
+    <filler id="f-2359" source="ENG_NW_001278_20131208_F000131GR" offset="482" length="5" type="commodity">cards</filler>
+    <filler id="f-2366" source="ENG_NW_001278_20131208_F000131GR" offset="489" length="7" type="commodity">candles</filler>
+    <filler id="f-2419" source="ENG_NW_001278_20131208_F000131GR" offset="964" length="7" type="commodity">candles</filler>
+    <filler id="f-2426" source="ENG_NW_001278_20131208_F000131GR" offset="973" length="7" type="commodity">flowers</filler>
+    <filler id="f-2433" source="ENG_NW_001278_20131208_F000131GR" offset="986" length="22" type="commodity">photographs of Mandela</filler>
+    <filler id="f-2442" source="ENG_NW_001278_20131208_F000131GR" offset="409" length="8" type="time" nom_time="2013-12-07">Saturday</filler>
+    <filler id="f-2470" source="ENG_NW_001278_20131208_F000131GR" offset="409" length="8" type="time" nom_time="2013-12-07">Saturday</filler>
+    <filler id="f-2521" source="ENG_NW_001278_20131208_F000131GR" offset="1378" length="19" type="commodity">the blessing tokens</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1095" type="physical" subtype="resident">
+      <relation_mention id="relm-816" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-189" role="per">S. Africa Chinese community</rel_arg1>
+        <rel_arg2 entity_id="ent-186" entity_mention_id="m-180" role="loc">S. Africa</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-856" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-237" role="per">S. Africa Chinese community</rel_arg1>
+        <rel_arg2 entity_id="ent-186" entity_mention_id="m-225" role="loc">S. Africa</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-866" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-243" role="per">S. Africa Chinese community</rel_arg1>
+        <rel_arg2 entity_id="ent-186" entity_mention_id="m-231" role="loc">S. Africa</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1096" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-826" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-189" role="per">S. Africa Chinese community</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-210" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="119" length="7">Chinese</trigger>
+      </relation_mention>
+      <relation_mention id="relm-836" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-237" role="per">S. Africa Chinese community</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-249" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="219" length="7">Chinese</trigger>
+      </relation_mention>
+      <relation_mention id="relm-846" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-243" role="per">S. Africa Chinese community</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-255" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="280" length="7">Chinese</trigger>
+      </relation_mention>
+      <relation_mention id="relm-876" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-291" role="per">Chinese community in Johannesburg</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-285" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="372" length="7">Chinese</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1038" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-492" role="per">The Chinese group</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-498" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1268" length="7">Chinese</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1188" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-648" role="per">We, Chinese</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-654" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2091" length="7">Chinese</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1097" type="physical" subtype="resident">
+      <relation_mention id="relm-886" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-291" role="per">Chinese community in Johannesburg</rel_arg1>
+        <rel_arg2 entity_id="ent-204" entity_mention_id="m-297" role="loc">Johannesburg</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="390" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1098" type="physical" subtype="locatednear">
+      <relation_mention id="relm-896" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-291" role="entity">Chinese community in Johannesburg</rel_arg1>
+        <rel_arg2 entity_id="ent-363" entity_mention_id="m-303" role="loc">where Nelson Mandela left the world</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="418" length="4">came</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1099" type="physical" subtype="locatednear">
+      <relation_mention id="relm-906" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-36" role="entity">Nelson Mandela</rel_arg1>
+        <rel_arg2 entity_id="ent-363" entity_mention_id="m-303" role="loc">where Nelson Mandela left the world</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="426" length="5">where</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1100" type="physical" subtype="locatednear">
+      <relation_mention id="relm-916" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-327" role="entity">nobody</rel_arg1>
+        <rel_arg2 entity_id="ent-207" entity_mention_id="m-333" role="loc">the world</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="634" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1101" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-926" realis="true">
+        <rel_arg1 entity_id="ent-219" entity_mention_id="m-936" role="employeemember">councilor of Johannesburg</rel_arg1>
+        <rel_arg2 entity_id="ent-204" entity_mention_id="m-345" role="org">Johannesburg</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="672" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1102" type="personalsocial" subtype="role">
+      <relation_mention id="relm-942" realis="true">
+        <rel_arg1 entity_id="ent-219" entity_mention_id="m-936" role="per">councilor of Johannesburg</rel_arg1>
+        <rel_arg2 filler_id="f-950" role="role">councilor</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1103" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-952" realis="true">
+        <rel_arg1 entity_id="ent-222" entity_mention_id="m-351" role="per">many Chinese</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-962" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="706" length="7">Chinese</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1104" type="physical" subtype="locatednear">
+      <relation_mention id="relm-968" realis="true">
+        <rel_arg1 entity_id="ent-222" entity_mention_id="m-351" role="entity">many Chinese</rel_arg1>
+        <rel_arg2 entity_id="ent-363" entity_mention_id="m-2160" role="loc">onsite</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1105" type="physical" subtype="locatednear">
+      <relation_mention id="relm-978" realis="true">
+        <rel_arg1 entity_id="ent-363" entity_mention_id="m-357" role="entity">the Houghton house</rel_arg1>
+        <rel_arg2 entity_id="ent-366" entity_mention_id="m-381" role="loc">Houghton</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1106" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-998" realis="true">
+        <rel_arg1 entity_id="ent-372" entity_mention_id="m-411" role="per">Chinese South Africans</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-405" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="936" length="7">Chinese</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1078" realis="true">
+        <rel_arg1 entity_id="ent-372" entity_mention_id="m-534" role="per">The Chinese community</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-528" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1451" length="7">Chinese</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1224" realis="true">
+        <rel_arg1 entity_id="ent-372" entity_mention_id="m-714" role="per">the Chinese community</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-720" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2491" length="7">Chinese</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1264" realis="true">
+        <rel_arg1 entity_id="ent-372" entity_mention_id="m-786" role="per">us Chinese who were on the other side of the world from homeland</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-2187" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2696" length="7">Chinese</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1300" realis="true">
+        <rel_arg1 entity_id="ent-372" entity_mention_id="m-786" role="per">us Chinese who were on the other side of the world from homeland</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-798" role="entity">homeland</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2749" length="8">homeland</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1107" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-1008" realis="true">
+        <rel_arg1 entity_id="ent-372" entity_mention_id="m-411" role="per">Chinese South Africans</rel_arg1>
+        <rel_arg2 entity_id="ent-186" entity_mention_id="m-417" role="entity">South Africans</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="944" length="14">South Africans</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1108" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1018" realis="true">
+        <rel_arg1 entity_id="ent-456" entity_mention_id="m-462" role="entity">Police</rel_arg1>
+        <rel_arg2 entity_id="ent-459" entity_mention_id="m-468" role="loc">all the roads several blocks away from the Mandela house except only two lanes</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1176" length="7">blocked</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1109" type="physical" subtype="resident">
+      <relation_mention id="relm-1028" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-66" role="per">Mandela</rel_arg1>
+        <rel_arg2 entity_id="ent-363" entity_mention_id="m-393" role="loc">the Mandela house where he passed away on Thursday</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1110" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1048" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-492" role="entity">The Chinese group</rel_arg1>
+        <rel_arg2 entity_id="ent-477" entity_mention_id="m-504" role="loc">the lane</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1290" length="7">through</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1111" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1058" realis="true">
+        <rel_arg1 entity_id="ent-456" entity_mention_id="m-510" role="entity">police officers</rel_arg1>
+        <rel_arg2 entity_id="ent-477" entity_mention_id="m-504" role="loc">the lane</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1315" length="7">guarded</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1112" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1068" realis="true">
+        <rel_arg1 entity_id="ent-456" entity_mention_id="m-510" role="employeemember">police officers</rel_arg1>
+        <rel_arg2 entity_id="ent-522" entity_mention_id="m-516" role="org">police</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1113" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1088" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-102" role="per">the former president</rel_arg1>
+        <rel_arg2 filler_id="f-1096" role="role">president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1128" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-2175" role="per">President at that time</rel_arg1>
+        <rel_arg2 filler_id="f-1136" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1114" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-1098" realis="true">
+        <rel_arg1 entity_id="ent-546" entity_mention_id="m-561" role="per">a Chinese child</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-567" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1562" length="7">Chinese</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1115" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1108" realis="true">
+        <rel_arg1 entity_id="ent-546" entity_mention_id="m-561" role="entity">a Chinese child</rel_arg1>
+        <rel_arg2 entity_id="ent-549" entity_mention_id="m-573" role="loc">CBD</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1623" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1116" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1118" realis="true">
+        <rel_arg1 entity_id="ent-549" entity_mention_id="m-573" role="entity">CBD</rel_arg1>
+        <rel_arg2 entity_id="ent-204" entity_mention_id="m-579" role="loc">Johannesburg</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1638" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1117" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-1138" realis="true">
+        <rel_arg1 entity_id="ent-603" entity_mention_id="m-597" role="per">Chinese representatives</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-591" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1805" length="7">Chinese</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1118" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1148" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-108" role="entity">Nelson Mandela</rel_arg1>
+        <rel_arg2 entity_id="ent-606" entity_mention_id="m-609" role="loc">Union Building</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1829" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1119" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1158" realis="true">
+        <rel_arg1 entity_id="ent-603" entity_mention_id="m-597" role="entity">Chinese representatives</rel_arg1>
+        <rel_arg2 entity_id="ent-606" entity_mention_id="m-609" role="loc">Union Building</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1829" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1120" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1168" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-114" role="entity">Mandela</rel_arg1>
+        <rel_arg2 entity_id="ent-627" entity_mention_id="m-621" role="loc">the victim's home</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1899" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1121" type="physical" subtype="resident">
+      <relation_mention id="relm-1178" realis="true">
+        <rel_arg1 entity_id="ent-546" entity_mention_id="m-615" role="per">the victim</rel_arg1>
+        <rel_arg2 entity_id="ent-627" entity_mention_id="m-621" role="loc">the victim's home</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1915" length="4">home</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1122" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1198" realis="true">
+        <rel_arg1 entity_id="ent-552" entity_mention_id="m-696" role="entity">A South African born Chinese</rel_arg1>
+        <rel_arg2 entity_id="ent-186" entity_mention_id="m-702" role="loc">South African</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2380" length="13">South African</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1123" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-1208" realis="true">
+        <rel_arg1 entity_id="ent-552" entity_mention_id="m-696" role="per">A South African born Chinese</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-1218" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2399" length="7">Chinese</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1124" type="physical" subtype="resident">
+      <relation_mention id="relm-1234" realis="true">
+        <rel_arg1 entity_id="ent-732" entity_mention_id="m-735" role="per">their</rel_arg1>
+        <rel_arg2 entity_id="ent-747" entity_mention_id="m-741" role="loc">their homes</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2549" length="5">their</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1125" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-1244" realis="true">
+        <rel_arg1 entity_id="ent-756" entity_mention_id="m-750" role="per">many Chinese</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-759" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2580" length="7">Chinese</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1126" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1254" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-174" role="leader">a nation leader</rel_arg1>
+        <rel_arg2 entity_id="ent-186" entity_mention_id="m-780" role="entity">nation</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2671" length="6">leader</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1127" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1280" realis="true">
+        <rel_arg1 entity_id="ent-372" entity_mention_id="m-786" role="entity">us Chinese who were on the other side of the world from homeland</rel_arg1>
+        <rel_arg2 entity_id="ent-774" entity_mention_id="m-810" role="loc">the other side of the world from homeland</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2713" length="2">on</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1128" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1290" realis="true">
+        <rel_arg1 entity_id="ent-774" entity_mention_id="m-810" role="entity">the other side of the world from homeland</rel_arg1>
+        <rel_arg2 entity_id="ent-207" entity_mention_id="m-792" role="loc">the world</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2731" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1129" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2233" realis="true">
+        <rel_arg1 entity_id="ent-363" entity_mention_id="m-303" role="entity">where Nelson Mandela left the world</rel_arg1>
+        <rel_arg2 entity_id="ent-207" entity_mention_id="m-309" role="loc">the world</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1130" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2243" realis="true">
+        <rel_arg1 entity_id="ent-369" entity_mention_id="m-387" role="entity">the intersection leading to the Mandela house where he passed away on Thursday</rel_arg1>
+        <rel_arg2 entity_id="ent-363" entity_mention_id="m-393" role="loc">the Mandela house where he passed away on Thursday</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="862" length="10">leading to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1131" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2263" realis="true">
+        <rel_arg1 entity_id="ent-459" entity_mention_id="m-468" role="entity">all the roads several blocks away from the Mandela house except only two lanes</rel_arg1>
+        <rel_arg2 entity_id="ent-363" entity_mention_id="m-486" role="loc">the Mandela house</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1213" length="4">away</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1132" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2273" realis="true">
+        <rel_arg1 entity_id="ent-474" entity_mention_id="m-480" role="entity">only two lanes</rel_arg1>
+        <rel_arg2 entity_id="ent-459" entity_mention_id="m-468" role="loc">all the roads several blocks away from the Mandela house except only two lanes</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1133" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2283" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-162" role="entity">He</rel_arg1>
+        <rel_arg2 entity_id="ent-747" entity_mention_id="m-741" role="loc">their homes</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2543" length="5">visit</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1134" type="personalsocial" subtype="family">
+      <relation_mention id="relm-2293" realis="true">
+        <rel_arg1 entity_id="ent-756" entity_mention_id="m-750" role="per">many Chinese</rel_arg1>
+        <rel_arg2 entity_id="ent-771" entity_mention_id="m-765" role="per">the family</rel_arg2>
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2607" length="6">family</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1310" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="418" length="4">came</trigger>
+        <em_arg entity_id="ent-195" entity_mention_id="m-291" role="agent" realis="true">Chinese community in Johannesburg</em_arg>
+        <em_arg entity_id="ent-363" entity_mention_id="m-303" role="destination" realis="true">where Nelson Mandela left the world</em_arg>
+        <em_arg filler_id="f-1342" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1380">
+      <event_mention id="em-1352" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="447" length="4">left</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-36" role="victim" realis="true">Nelson Mandela</em_arg>
+        <em_arg entity_id="ent-363" entity_mention_id="m-303" role="place" realis="true">where Nelson Mandela left the world</em_arg>
+      </event_mention>
+      <event_mention id="em-1462" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="900" length="6">passed</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-72" role="victim" realis="true">he</em_arg>
+        <em_arg entity_id="ent-363" entity_mention_id="m-393" role="place" realis="true">the Mandela house where he passed away on Thursday</em_arg>
+        <em_arg filler_id="f-1494" role="time" realis="true">Thursday</em_arg>
+      </event_mention>
+      <event_mention id="em-1562" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1428" length="5">death</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-96" role="victim" realis="true">Mandela</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1417">
+      <event_mention id="em-1382" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="508" length="10">expressing</trigger>
+        <em_arg entity_id="ent-195" entity_mention_id="m-291" role="entity" realis="true">Chinese community in Johannesburg</em_arg>
+        <em_arg entity_id="ent-363" entity_mention_id="m-303" role="place" realis="true">where Nelson Mandela left the world</em_arg>
+        <em_arg filler_id="f-1414" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+      <event_mention id="em-2545" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1402" length="7">express</trigger>
+        <em_arg entity_id="ent-195" entity_mention_id="m-492" role="entity" realis="true">The Chinese group</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1419">
+      <event_mention id="em-1421" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="689" length="4">said</trigger>
+        <em_arg entity_id="ent-219" entity_mention_id="m-936" role="entity" realis="true">councilor of Johannesburg</em_arg>
+        <em_arg entity_id="ent-363" entity_mention_id="m-357" role="place" realis="true">the Houghton house</em_arg>
+        <em_arg filler_id="f-1453" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1525">
+      <event_mention id="em-1497" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1009" length="7">walking</trigger>
+        <em_arg entity_id="ent-195" entity_mention_id="m-399" role="agent" realis="true">Dozens of Chinese South Africans</em_arg>
+        <em_arg filler_id="f-1522" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+      <event_mention id="em-1527" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1282" length="7">marched</trigger>
+        <em_arg entity_id="ent-195" entity_mention_id="m-492" role="agent" realis="true">The Chinese group</em_arg>
+        <em_arg entity_id="ent-477" entity_mention_id="m-504" role="destination" realis="true">the lane</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1604">
+      <event_mention id="em-1583" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1506" length="6">former</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-102" role="person" realis="true">the former president</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1641">
+      <event_mention id="em-1606" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1535" length="4">told</trigger>
+        <em_arg entity_id="ent-525" entity_mention_id="m-540" role="entity" realis="true">Li Xinzhu</em_arg>
+        <em_arg entity_id="ent-282" entity_mention_id="m-555" role="entity" realis="true">Xinhua</em_arg>
+        <em_arg filler_id="f-1638" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1671">
+      <event_mention id="em-1643" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1580" length="6">killed</trigger>
+        <em_arg entity_id="ent-546" entity_mention_id="m-561" role="target" realis="true">a Chinese child</em_arg>
+        <em_arg filler_id="f-1668" role="time" realis="true">1998</em_arg>
+        <em_arg entity_id="ent-549" entity_mention_id="m-573" role="place" realis="true">CBD</em_arg>
+      </event_mention>
+      <event_mention id="em-1904" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1906" length="6">victim</trigger>
+        <em_arg entity_id="ent-546" entity_mention_id="m-615" role="target" realis="true">the victim</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1701">
+      <event_mention id="em-1673" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1580" length="6">killed</trigger>
+        <em_arg entity_id="ent-546" entity_mention_id="m-561" role="victim" realis="true">a Chinese child</em_arg>
+        <em_arg filler_id="f-1698" role="time" realis="true">1998</em_arg>
+        <em_arg entity_id="ent-549" entity_mention_id="m-573" role="place" realis="true">CBD</em_arg>
+      </event_mention>
+      <event_mention id="em-1925" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1906" length="6">victim</trigger>
+        <em_arg entity_id="ent-546" entity_mention_id="m-615" role="victim" realis="true">the victim</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1731">
+      <event_mention id="em-1703" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1606" length="7">robbery</trigger>
+        <em_arg filler_id="f-1720" role="time" realis="true">1998</em_arg>
+        <em_arg entity_id="ent-549" entity_mention_id="m-573" role="place" realis="true">CBD</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1775">
+      <event_mention id="em-1747" type="transaction" subtype="transaction" realis="actual" ways="involuntaryforce">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1606" length="7">robbery</trigger>
+        <em_arg filler_id="f-1764" role="time" realis="true">1998</em_arg>
+        <em_arg entity_id="ent-549" entity_mention_id="m-573" role="place" realis="true">CBD</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1798">
+      <event_mention id="em-1777" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1698" length="13">demonstration</trigger>
+        <em_arg entity_id="ent-2172" entity_mention_id="m-585" role="entity" realis="true">Chinese</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1835">
+      <event_mention id="em-1800" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1796" length="3">met</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-108" role="entity" realis="true">Nelson Mandela</em_arg>
+        <em_arg entity_id="ent-603" entity_mention_id="m-597" role="entity" realis="true">Chinese representatives</em_arg>
+        <em_arg entity_id="ent-606" entity_mention_id="m-609" role="place" realis="true">Union Building</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1872">
+      <event_mention id="em-1837" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1869" length="8">petition</trigger>
+        <em_arg entity_id="ent-603" entity_mention_id="m-597" role="entity" realis="true">Chinese representatives</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-108" role="audience" realis="true">Nelson Mandela</em_arg>
+        <em_arg entity_id="ent-606" entity_mention_id="m-609" role="place" realis="true">Union Building</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1902">
+      <event_mention id="em-1874" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1894" length="4">went</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-114" role="agent" realis="true">Mandela</em_arg>
+        <em_arg entity_id="ent-627" entity_mention_id="m-621" role="destination" realis="true">the victim's home</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1967">
+      <event_mention id="em-1946" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1931" length="7">message</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-114" role="entity" realis="true">Mandela</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2071">
+      <event_mention id="em-2036" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2407" length="4">told</trigger>
+        <em_arg entity_id="ent-552" entity_mention_id="m-696" role="entity" realis="true">A South African born Chinese</em_arg>
+        <em_arg entity_id="ent-282" entity_mention_id="m-708" role="entity" realis="true">Xinhua</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2101">
+      <event_mention id="em-2073" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2519" length="6">talked</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-162" role="entity" realis="true">He</em_arg>
+        <em_arg entity_id="ent-732" entity_mention_id="m-726" role="entity" realis="true">Chinese</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2131">
+      <event_mention id="em-2103" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="2543" length="5">visit</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-162" role="agent" realis="true">He</em_arg>
+        <em_arg entity_id="ent-747" entity_mention_id="m-741" role="destination" realis="true">their homes</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2369">
+      <event_mention id="em-2313" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="465" length="7">present</trigger>
+        <em_arg entity_id="ent-195" entity_mention_id="m-291" role="giver" realis="true">Chinese community in Johannesburg</em_arg>
+        <em_arg entity_id="ent-363" entity_mention_id="m-303" role="place" realis="true">where Nelson Mandela left the world</em_arg>
+        <em_arg filler_id="f-2345" role="time" realis="true">Saturday</em_arg>
+        <em_arg filler_id="f-2352" role="thing" realis="true">flowers</em_arg>
+        <em_arg filler_id="f-2359" role="thing" realis="true">cards</em_arg>
+        <em_arg filler_id="f-2366" role="thing" realis="true">candles</em_arg>
+      </event_mention>
+      <event_mention id="em-2496" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1367" length="10">contribute</trigger>
+        <em_arg entity_id="ent-195" entity_mention_id="m-492" role="giver" realis="true">The Chinese group</em_arg>
+        <em_arg filler_id="f-2521" role="thing" realis="true">the blessing tokens</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2392">
+      <event_mention id="em-2371" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="570" length="4">call</trigger>
+        <em_arg entity_id="ent-195" entity_mention_id="m-321" role="entity" realis="true">We</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2436">
+      <event_mention id="em-2394" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1009" length="7">walking</trigger>
+        <em_arg entity_id="ent-195" entity_mention_id="m-399" role="agent" realis="true">Dozens of Chinese South Africans</em_arg>
+        <em_arg filler_id="f-2419" role="artifact" realis="true">candles</em_arg>
+        <em_arg filler_id="f-2426" role="artifact" realis="true">flowers</em_arg>
+        <em_arg filler_id="f-2433" role="artifact" realis="true">photographs of Mandela</em_arg>
+        <em_arg filler_id="f-2442" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2473">
+      <event_mention id="em-2445" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131208_F000131GR" offset="1111" length="9">cried out</trigger>
+        <em_arg entity_id="ent-441" entity_mention_id="m-450" role="entity" realis="true">some</em_arg>
+        <em_arg filler_id="f-2470" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

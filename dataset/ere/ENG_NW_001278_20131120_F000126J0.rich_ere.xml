@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000064" doc_id="ENG_NW_001278_20131120_F000126J0" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificGroup">
+      <entity_mention id="m-18" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="119" length="18">
+        <mention_text>Nokia shareholders</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="125" length="12">shareholders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-51" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="224" length="18">
+        <mention_text>Nokia shareholders</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="230" length="12">shareholders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-87" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="297" length="18">
+        <mention_text>Nokia shareholders</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="303" length="12">shareholders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-141" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="462" length="33">
+        <mention_text>About 5,000 shareholders of Nokia</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="474" length="12">shareholders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="787" length="16">
+        <mention_text>the shareholders</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="791" length="12">shareholders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="119" length="5">
+        <mention_text>Nokia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-57" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="224" length="5">
+        <mention_text>Nokia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-93" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="297" length="5">
+        <mention_text>Nokia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-108" noun_type="PRO" source="ENG_NW_001278_20131120_F000126J0" offset="337" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-147" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="490" length="5">
+        <mention_text>Nokia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-180" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="596" length="11">
+        <mention_text>the company</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="600" length="7">company</nom_head>
+      </entity_mention>
+      <entity_mention id="m-216" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="869" length="11">
+        <mention_text>the company</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="873" length="7">company</nom_head>
+      </entity_mention>
+      <entity_mention id="m-231" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="973" length="5">
+        <mention_text>Nokia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-276" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="1165" length="5">
+        <mention_text>Nokia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-309" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="1438" length="5">
+        <mention_text>Nokia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-315" noun_type="PRO" source="ENG_NW_001278_20131120_F000126J0" offset="1468" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-321" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="1492" length="5">
+        <mention_text>Nokia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-327" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="1671" length="5">
+        <mention_text>Nokia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-333" noun_type="PRO" source="ENG_NW_001278_20131120_F000126J0" offset="1678" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+      <entity_mention id="m-345" noun_type="PRO" source="ENG_NW_001278_20131120_F000126J0" offset="1724" length="2">
+        <mention_text>us</mention_text>
+      </entity_mention>
+      <entity_mention id="m-357" noun_type="PRO" source="ENG_NW_001278_20131120_F000126J0" offset="1871" length="2">
+        <mention_text>us</mention_text>
+      </entity_mention>
+      <entity_mention id="m-363" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="1962" length="5">
+        <mention_text>Nokia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-384" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="2148" length="5">
+        <mention_text>Nokia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-399" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="2311" length="5">
+        <mention_text>Nokia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-417" noun_type="PRO" source="ENG_NW_001278_20131120_F000126J0" offset="2346" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-423" noun_type="PRO" source="ENG_NW_001278_20131120_F000126J0" offset="2392" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-435" noun_type="PRO" source="ENG_NW_001278_20131120_F000126J0" offset="2471" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-441" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="2553" length="11">
+        <mention_text>the company</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="2557" length="7">company</nom_head>
+      </entity_mention>
+      <entity_mention id="m-447" noun_type="PRO" source="ENG_NW_001278_20131120_F000126J0" offset="2605" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="146" length="9">
+        <mention_text>Microsoft</mention_text>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="251" length="9">
+        <mention_text>Microsoft</mention_text>
+      </entity_mention>
+      <entity_mention id="m-114" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="366" length="9">
+        <mention_text>Microsoft</mention_text>
+      </entity_mention>
+      <entity_mention id="m-282" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="1268" length="9">
+        <mention_text>Microsoft</mention_text>
+      </entity_mention>
+      <entity_mention id="m-429" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="2407" length="9">
+        <mention_text>Microsoft</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="181" length="8">
+        <mention_text>Elina Xu</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-75" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-69" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="267" length="8">
+        <mention_text>HELSINKI</mention_text>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="420" length="19">
+        <mention_text>the Finnish capital</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="432" length="7">capital</nom_head>
+      </entity_mention>
+      <entity_mention id="m-135" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="440" length="8">
+        <mention_text>Helsinki</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-84" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-78" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="286" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-105" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-99" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="337" length="25">
+        <mention_text>its mobile phone business</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="354" length="8">business</nom_head>
+      </entity_mention>
+      <entity_mention id="m-411" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="2346" length="33">
+        <mention_text>its devices and services business</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="2371" length="8">business</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-132" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-126" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="424" length="7">
+        <mention_text>Finnish</mention_text>
+      </entity_mention>
+      <entity_mention id="m-303" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="1429" length="7">
+        <mention_text>Finland</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-159" type="PER" specificity="specificGroup">
+      <entity_mention id="m-153" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="535" length="72">
+        <mention_text>the members of Board of Directors and the Executive Board of the company</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="539" length="7">members</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-168" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-162" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="550" length="18">
+        <mention_text>Board of Directors</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-177" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-171" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="573" length="34">
+        <mention_text>the Executive Board of the company</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="587" length="5">Board</nom_head>
+      </entity_mention>
+      <entity_mention id="m-237" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="979" length="5">
+        <mention_text>Board</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="979" length="5">Board</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-192" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-186" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="631" length="12">
+        <mention_text>Stephen Elop</mention_text>
+      </entity_mention>
+      <entity_mention id="m-210" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="854" length="4">
+        <mention_text>Elop</mention_text>
+      </entity_mention>
+      <entity_mention id="m-243" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="1021" length="4">
+        <mention_text>Elop</mention_text>
+      </entity_mention>
+      <entity_mention id="m-264" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="1104" length="4">
+        <mention_text>Elop</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-201" type="PER" specificity="specificGroup">
+      <entity_mention id="m-195" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="768" length="17">
+        <mention_text>the top officials</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="776" length="9">officials</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-228" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-222" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="956" length="15">
+        <mention_text>Risto Siilasmaa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-249" noun_type="PRO" source="ENG_NW_001278_20131120_F000126J0" offset="1048" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-270" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="1141" length="9">
+        <mention_text>Siilasmaa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-297" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="1364" length="9">
+        <mention_text>Siilasmaa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-351" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="1810" length="9">
+        <mention_text>Siilasmaa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-378" noun_type="PRO" source="ENG_NW_001278_20131120_F000126J0" offset="2052" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1435" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="973" length="36">
+        <mention_text>Nokia Board Chairman and interim CEO</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="1006" length="3">CEO</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1520" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="973" length="36">
+        <mention_text>Nokia Board Chairman and interim CEO</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="985" length="8">Chairman</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-261" type="PER" specificity="nonspecific">
+      <entity_mention id="m-255" noun_type="PRO" source="ENG_NW_001278_20131120_F000126J0" offset="1066" length="6">
+        <mention_text>anyone</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-294" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-288" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="1331" length="9">
+        <mention_text>the world</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="1335" length="5">world</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-375" type="PER" specificity="nonspecific">
+      <entity_mention id="m-339" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="1700" length="12">
+        <mention_text>shareholders</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="1700" length="12">shareholders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-369" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="2037" length="12">
+        <mention_text>shareholders</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="2037" length="12">shareholders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-396" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-390" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="2236" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-453" noun_type="NAM" source="ENG_NW_001278_20131120_F000126J0" offset="2668" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1429" type="PER" specificity="specificGroup">
+      <entity_mention id="m-1423" noun_type="NOM" source="ENG_NW_001278_20131120_F000126J0" offset="559" length="9">
+        <mention_text>Directors</mention_text>
+        <nom_head source="ENG_NW_001278_20131120_F000126J0" offset="559" length="9">Directors</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-577" source="ENG_NW_001278_20131120_F000126J0" offset="627" length="3" type="title">CEO</filler>
+    <filler id="f-637" source="ENG_NW_001278_20131120_F000126J0" offset="985" length="8" type="title">Chairman</filler>
+    <filler id="f-647" source="ENG_NW_001278_20131120_F000126J0" offset="998" length="11" type="title">interim CEO</filler>
+    <filler id="f-816" source="ENG_NW_001278_20131120_F000126J0" offset="452" length="7" type="time" nom_time="2013-11-19">Tuesday</filler>
+    <filler id="f-874" source="ENG_NW_001278_20131120_F000126J0" offset="627" length="3" type="title">CEO</filler>
+    <filler id="f-1219" source="ENG_NW_001278_20131120_F000126J0" offset="2109" length="25" type="time" nom_time="2014-0x-xx">the first quarter of 2014</filler>
+    <filler id="f-1248" source="ENG_NW_001278_20131120_F000126J0" offset="2330" length="7" type="time" nom_time="2013-09-03">Sept. 3</filler>
+    <filler id="f-1320" source="ENG_NW_001278_20131120_F000126J0" offset="2421" length="18" type="money">5.44 billion euros</filler>
+    <filler id="f-1355" source="ENG_NW_001278_20131120_F000126J0" offset="2392" length="11" type="commodity">its patents</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1649" type="orgaffiliation" subtype="investorshareholder">
+      <relation_mention id="relm-459" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-18" role="investorshareholder">Nokia shareholders</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-24" role="org">Nokia</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="125" length="12">shareholders</trigger>
+      </relation_mention>
+      <relation_mention id="relm-469" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-51" role="investorshareholder">Nokia shareholders</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-57" role="org">Nokia</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="230" length="12">shareholders</trigger>
+      </relation_mention>
+      <relation_mention id="relm-479" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-87" role="investorshareholder">Nokia shareholders</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-93" role="org">Nokia</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="303" length="12">shareholders</trigger>
+      </relation_mention>
+      <relation_mention id="relm-529" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-141" role="investorshareholder">About 5,000 shareholders of Nokia</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-147" role="org">Nokia</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="474" length="12">shareholders</trigger>
+      </relation_mention>
+      <relation_mention id="relm-589" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-204" role="investorshareholder">the shareholders</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-216" role="org">the company</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="791" length="12">shareholders</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1650" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-489" realis="true">
+        <rel_arg1 entity_id="ent-105" entity_mention_id="m-99" role="suborg">its mobile phone business</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-108" role="parent">its</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-669" realis="true">
+        <rel_arg1 entity_id="ent-105" entity_mention_id="m-411" role="suborg">its devices and services business</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-417" role="parent">its</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1651" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-499" realis="false">
+        <rel_arg1 entity_id="ent-105" entity_mention_id="m-99" role="suborg">its mobile phone business</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-114" role="parent">Microsoft</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="363" length="2">to</trigger>
+      </relation_mention>
+      <relation_mention id="relm-679" realis="false">
+        <rel_arg1 entity_id="ent-105" entity_mention_id="m-411" role="suborg">its devices and services business</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-429" role="parent">Microsoft</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="2404" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1652" type="physical" subtype="locatednear">
+      <relation_mention id="relm-509" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-87" role="entity">Nokia shareholders</rel_arg1>
+        <rel_arg2 entity_id="ent-75" entity_mention_id="m-120" role="loc">the Finnish capital</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="417" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1653" type="physical" subtype="locatednear">
+      <relation_mention id="relm-519" realis="true">
+        <rel_arg1 entity_id="ent-75" entity_mention_id="m-120" role="entity">the Finnish capital</rel_arg1>
+        <rel_arg2 entity_id="ent-132" entity_mention_id="m-126" role="loc">Finnish</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1654" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-539" realis="true">
+        <rel_arg1 entity_id="ent-168" entity_mention_id="m-162" role="suborg">Board of Directors</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-180" role="parent">the company</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="593" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1655" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-549" realis="true">
+        <rel_arg1 entity_id="ent-177" entity_mention_id="m-171" role="suborg">the Executive Board of the company</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-180" role="parent">the company</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="593" length="2">of</trigger>
+      </relation_mention>
+      <relation_mention id="relm-599" realis="true">
+        <rel_arg1 entity_id="ent-177" entity_mention_id="m-237" role="suborg">Board</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-231" role="parent">Nokia</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1656" type="personalsocial" subtype="role">
+      <relation_mention id="relm-569" realis="true">
+        <rel_arg1 entity_id="ent-192" entity_mention_id="m-186" role="per">Stephen Elop</rel_arg1>
+        <rel_arg2 filler_id="f-577" role="role">CEO</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1657" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-579" realis="true">
+        <rel_arg1 entity_id="ent-192" entity_mention_id="m-186" role="leader">Stephen Elop</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-147" role="entity">Nokia</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="627" length="3">CEO</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1658" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-609" realis="true">
+        <rel_arg1 entity_id="ent-228" entity_mention_id="m-1520" role="leader">Nokia Board Chairman and interim CEO</rel_arg1>
+        <rel_arg2 entity_id="ent-177" entity_mention_id="m-237" role="entity">Board</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="985" length="8">Chairman</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1659" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-619" realis="true">
+        <rel_arg1 entity_id="ent-228" entity_mention_id="m-1435" role="leader">Nokia Board Chairman and interim CEO</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-231" role="entity">Nokia</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="1006" length="3">CEO</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1660" type="personalsocial" subtype="role">
+      <relation_mention id="relm-629" realis="true">
+        <rel_arg1 entity_id="ent-228" entity_mention_id="m-1520" role="per">Nokia Board Chairman and interim CEO</rel_arg1>
+        <rel_arg2 filler_id="f-637" role="role">Chairman</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-639" realis="true">
+        <rel_arg1 entity_id="ent-228" entity_mention_id="m-1435" role="per">Nokia Board Chairman and interim CEO</rel_arg1>
+        <rel_arg2 filler_id="f-647" role="role">interim CEO</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1661" type="orgaffiliation" subtype="investorshareholder">
+      <relation_mention id="relm-649" realis="true">
+        <rel_arg1 entity_id="ent-375" entity_mention_id="m-339" role="investorshareholder">shareholders</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-345" role="org">us</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="1700" length="12">shareholders</trigger>
+      </relation_mention>
+      <relation_mention id="relm-659" realis="true">
+        <rel_arg1 entity_id="ent-375" entity_mention_id="m-369" role="investorshareholder">shareholders</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-363" role="org">Nokia</rel_arg2>
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="2037" length="12">shareholders</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-689" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="156" length="4">deal</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-24" role="giver" realis="true">Nokia</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-33" role="recipient" realis="true">Microsoft</em_arg>
+      </event_mention>
+      <event_mention id="em-710" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="261" length="4">deal</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-57" role="giver" realis="true">Nokia</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-63" role="recipient" realis="true">Microsoft</em_arg>
+      </event_mention>
+      <event_mention id="em-1139" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="1793" length="9">agreement</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-345" role="giver" realis="true">us</em_arg>
+      </event_mention>
+      <event_mention id="em-1181" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="1897" length="11">transaction</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-357" role="giver" realis="true">us</em_arg>
+      </event_mention>
+      <event_mention id="em-1202" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="2066" length="11">transaction</trigger>
+        <em_arg filler_id="f-1219" role="time" realis="true">the first quarter of 2014</em_arg>
+      </event_mention>
+      <event_mention id="em-1381" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="2547" length="4">deal</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-441" role="giver" realis="true">the company</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-759">
+      <event_mention id="em-731" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="329" length="4">sale</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-114" role="recipient" realis="true">Microsoft</em_arg>
+        <em_arg entity_id="ent-105" entity_mention_id="m-99" role="thing" realis="true">its mobile phone business</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-108" role="giver" realis="true">its</em_arg>
+      </event_mention>
+      <event_mention id="em-1032" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="1135" length="4">sale</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-276" role="giver" realis="true">Nokia</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-282" role="recipient" realis="true">Microsoft</em_arg>
+      </event_mention>
+      <event_mention id="em-1253" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="2341" length="4">sell</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-399" role="giver" realis="true">Nokia</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-429" role="recipient" realis="true">Microsoft</em_arg>
+        <em_arg entity_id="ent-105" entity_mention_id="m-411" role="thing" realis="true">its devices and services business</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-782">
+      <event_mention id="em-761" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="329" length="4">sale</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-114" role="giver" realis="true">Microsoft</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-108" role="recipient" realis="true">its</em_arg>
+      </event_mention>
+      <event_mention id="em-1053" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="1135" length="4">sale</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-282" role="giver" realis="true">Microsoft</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-276" role="recipient" realis="true">Nokia</em_arg>
+      </event_mention>
+      <event_mention id="em-1288" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="2341" length="4">sell</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-429" role="giver" realis="true">Microsoft</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-399" role="recipient" realis="true">Nokia</em_arg>
+        <em_arg filler_id="f-1320" role="money" realis="true">5.44 billion euros</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-819">
+      <event_mention id="em-784" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="404" length="7">meeting</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-87" role="entity" realis="true">Nokia shareholders</em_arg>
+        <em_arg entity_id="ent-75" entity_mention_id="m-120" role="place" realis="true">the Finnish capital</em_arg>
+        <em_arg filler_id="f-816" role="time" realis="true">Tuesday</em_arg>
+      </event_mention>
+      <event_mention id="em-821" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="516" length="7">meeting</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-141" role="entity" realis="true">About 5,000 shareholders of Nokia</em_arg>
+      </event_mention>
+      <event_mention id="em-1160" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="1840" length="7">meeting</trigger>
+        <em_arg entity_id="ent-228" entity_mention_id="m-351" role="entity" realis="true">Siilasmaa</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-877">
+      <event_mention id="em-842" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="620" length="6">former</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-147" role="entity" realis="true">Nokia</em_arg>
+        <em_arg entity_id="ent-192" entity_mention_id="m-186" role="person" realis="true">Stephen Elop</em_arg>
+        <em_arg filler_id="f-874" role="position" realis="true">CEO</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-963">
+      <event_mention id="em-942" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="750" length="8">speeches</trigger>
+        <em_arg entity_id="ent-201" entity_mention_id="m-195" role="entity" realis="true">the top officials</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-986">
+      <event_mention id="em-965" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="spontaneous">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="825" length="9">questions</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-204" role="entity" realis="true">the shareholders</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1030">
+      <event_mention id="em-1009" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="1011" length="4">said</trigger>
+        <em_arg entity_id="ent-228" entity_mention_id="m-1435" role="entity" realis="true">Nokia Board Chairman and interim CEO</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1251">
+      <event_mention id="em-1223" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="2317" length="9">announced</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-399" role="entity" realis="true">Nokia</em_arg>
+        <em_arg filler_id="f-1248" role="time" realis="true">Sept. 3</em_arg>
+      </event_mention>
+      <event_mention id="em-1360" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="2527" length="12">announcement</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-441" role="entity" realis="true">the company</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1358">
+      <event_mention id="em-1323" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131120_F000126J0" offset="2384" length="7">license</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-399" role="giver" realis="true">Nokia</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-429" role="recipient" realis="true">Microsoft</em_arg>
+        <em_arg filler_id="f-1355" role="thing" realis="true">its patents</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

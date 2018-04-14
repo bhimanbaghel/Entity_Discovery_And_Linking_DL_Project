@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000025" doc_id="ENG_NW_001278_20131206_F00013SSC" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="101" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-24" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="116" length="40">
+        <mention_text>shining beacon to freedom-loving peoples</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="124" length="6">beacon</nom_head>
+      </entity_mention>
+      <entity_mention id="m-57" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="224" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="239" length="40">
+        <mention_text>shining beacon to freedom-loving peoples</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="247" length="6">beacon</nom_head>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="294" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-75" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="309" length="40">
+        <mention_text>shining beacon to freedom-loving peoples</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="317" length="6">beacon</nom_head>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="438" length="30">
+        <mention_text>former South African President</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="459" length="9">President</nom_head>
+      </entity_mention>
+      <entity_mention id="m-87" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="469" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-93" noun_type="PRO" source="ENG_NW_001278_20131206_F00013SSC" offset="496" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-99" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="503" length="63">
+        <mention_text>a "shining beacon of inspiration to all freedom- loving peoples</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="514" length="6">beacon</nom_head>
+      </entity_mention>
+      <entity_mention id="m-105" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="730" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-111" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="746" length="22">
+        <mention_text>a revered world leader</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="762" length="6">leader</nom_head>
+      </entity_mention>
+      <entity_mention id="m-117" noun_type="PRO" source="ENG_NW_001278_20131206_F00013SSC" offset="845" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-123" noun_type="PRO" source="ENG_NW_001278_20131206_F00013SSC" offset="1140" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-129" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="1158" length="61">
+        <mention_text>a shining beacon of inspiration to all freedom-loving peoples</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="1168" length="6">beacon</nom_head>
+      </entity_mention>
+      <entity_mention id="m-135" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="1365" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-141" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="1416" length="18">
+        <mention_text>the late President</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="1425" length="9">President</nom_head>
+      </entity_mention>
+      <entity_mention id="m-147" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="1435" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-153" noun_type="PRO" source="ENG_NW_001278_20131206_F00013SSC" offset="1470" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-159" noun_type="PRO" source="ENG_NW_001278_20131206_F00013SSC" offset="1498" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-768" noun_type="PRO" source="ENG_NW_001278_20131206_F00013SSC" offset="770" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="nonspecific">
+      <entity_mention id="m-33" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="134" length="22">
+        <mention_text>freedom-loving peoples</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="149" length="7">peoples</nom_head>
+      </entity_mention>
+      <entity_mention id="m-171" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="257" length="22">
+        <mention_text>freedom-loving peoples</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="272" length="7">peoples</nom_head>
+      </entity_mention>
+      <entity_mention id="m-183" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="327" length="22">
+        <mention_text>freedom-loving peoples</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="342" length="7">peoples</nom_head>
+      </entity_mention>
+      <entity_mention id="m-219" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="539" length="27">
+        <mention_text>all freedom- loving peoples</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="559" length="7">peoples</nom_head>
+      </entity_mention>
+      <entity_mention id="m-303" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="1193" length="26">
+        <mention_text>all freedom-loving peoples</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="1212" length="7">peoples</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-45" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-39" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="158" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-177" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="281" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-189" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="351" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-207" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="395" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-225" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="570" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-309" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="1238" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-330" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="1314" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-336" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="1384" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="1388" length="7">country</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-195" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="364" length="6">
+        <mention_text>MANILA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-51" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-201" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="380" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-54" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-213" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="445" length="13">
+        <mention_text>South African</mention_text>
+      </entity_mention>
+      <entity_mention id="m-270" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="778" length="21">
+        <mention_text>his nation and people</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="782" length="6">nation</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-165" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-231" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="581" length="45">
+        <mention_text>Presidential Communications Operations Office</mention_text>
+      </entity_mention>
+      <entity_mention id="m-237" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="628" length="4">
+        <mention_text>PCOO</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-168" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-243" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="644" length="20">
+        <mention_text>Herminio Coloma, Jr.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-291" noun_type="PRO" source="ENG_NW_001278_20131206_F00013SSC" offset="1098" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-297" noun_type="PRO" source="ENG_NW_001278_20131206_F00013SSC" offset="1108" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-255" type="PER" specificity="specificGroup">
+      <entity_mention id="m-249" noun_type="PRO" source="ENG_NW_001278_20131206_F00013SSC" offset="702" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-258" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-264" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="756" length="5">
+        <mention_text>world</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="756" length="5">world</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-261" type="PER" specificity="specificGroup">
+      <entity_mention id="m-276" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="778" length="21">
+        <mention_text>his nation and people</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="793" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-288" type="PER" specificity="nonspecific">
+      <entity_mention id="m-282" noun_type="NOM" source="ENG_NW_001278_20131206_F00013SSC" offset="1051" length="8">
+        <mention_text>a people</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00013SSC" offset="1053" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-321" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-315" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="1249" length="29">
+        <mention_text>Department of Foreign Affairs</mention_text>
+      </entity_mention>
+      <entity_mention id="m-324" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="1280" length="3">
+        <mention_text>DFA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-342" noun_type="NAM" source="ENG_NW_001278_20131206_F00013SSC" offset="1406" length="3">
+        <mention_text>DFA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-354" type="PER" specificity="nonspecific">
+      <entity_mention id="m-348" noun_type="PRO" source="ENG_NW_001278_20131206_F00013SSC" offset="1542" length="3">
+        <mention_text>all</mention_text>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-365" source="ENG_NW_001278_20131206_F00013SSC" offset="459" length="9" type="title">President</filler>
+    <filler id="f-405" source="ENG_NW_001278_20131206_F00013SSC" offset="634" length="9" type="title">Secretary</filler>
+    <filler id="f-465" source="ENG_NW_001278_20131206_F00013SSC" offset="1425" length="9" type="title">President</filler>
+    <filler id="f-520" source="ENG_NW_001278_20131206_F00013SSC" offset="459" length="9" type="title">President</filler>
+    <filler id="f-573" source="ENG_NW_001278_20131206_F00013SSC" offset="693" length="6" type="time" nom_time="2013-12-06">Friday</filler>
+    <filler id="f-705" source="ENG_NW_001278_20131206_F00013SSC" offset="1399" length="4" type="time" nom_time="1996-XX-XX">1996</filler>
+  </fillers>
+  <relations>
+    <relation id="r-805" type="personalsocial" subtype="role">
+      <relation_mention id="relm-357" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-81" role="per">former South African President</rel_arg1>
+        <rel_arg2 filler_id="f-365" role="role">President</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-457" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-141" role="per">the late President</rel_arg1>
+        <rel_arg2 filler_id="f-465" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-806" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-367" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-81" role="leader">former South African President</rel_arg1>
+        <rel_arg2 entity_id="ent-54" entity_mention_id="m-213" role="entity">South African</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="445" length="13">South African</trigger>
+      </relation_mention>
+      <relation_mention id="relm-427" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-768" role="leader">who</rel_arg1>
+        <rel_arg2 entity_id="ent-54" entity_mention_id="m-270" role="entity">his nation and people</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="774" length="3">led</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-807" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-387" realis="true">
+        <rel_arg1 entity_id="ent-165" entity_mention_id="m-231" role="suborg">Presidential Communications Operations Office</rel_arg1>
+        <rel_arg2 entity_id="ent-45" entity_mention_id="m-225" role="parent">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="570" length="10">Philippine</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-808" type="personalsocial" subtype="role">
+      <relation_mention id="relm-397" realis="true">
+        <rel_arg1 entity_id="ent-168" entity_mention_id="m-243" role="per">Herminio Coloma, Jr.</rel_arg1>
+        <rel_arg2 filler_id="f-405" role="role">Secretary</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-809" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-407" realis="true">
+        <rel_arg1 entity_id="ent-168" entity_mention_id="m-243" role="employeemember">Herminio Coloma, Jr.</rel_arg1>
+        <rel_arg2 entity_id="ent-165" entity_mention_id="m-231" role="org">Presidential Communications Operations Office</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="634" length="9">Secretary</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-810" type="physical" subtype="locatednear">
+      <relation_mention id="relm-417" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-111" role="entity">a revered world leader</rel_arg1>
+        <rel_arg2 entity_id="ent-258" entity_mention_id="m-264" role="loc">world</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-811" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-437" realis="true">
+        <rel_arg1 entity_id="ent-321" entity_mention_id="m-315" role="suborg">Department of Foreign Affairs</rel_arg1>
+        <rel_arg2 entity_id="ent-45" entity_mention_id="m-309" role="parent">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="1238" length="10">Philippine</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-812" type="physical" subtype="locatednear">
+      <relation_mention id="relm-447" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-135" role="entity">Mandela</rel_arg1>
+        <rel_arg2 entity_id="ent-45" entity_mention_id="m-336" role="loc">the country</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="1381" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-467" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="429" length="5">death</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-81" role="victim" realis="true">former South African President</em_arg>
+      </event_mention>
+      <event_mention id="em-578" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="721" length="5">death</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-105" role="victim" realis="true">Nelson Mandela</em_arg>
+      </event_mention>
+      <event_mention id="em-622" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="1122" length="5">death</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-123" role="victim" realis="true">he</em_arg>
+      </event_mention>
+      <event_mention id="em-747" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="1420" length="4">late</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-141" role="victim" realis="true">the late President</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-523">
+      <event_mention id="em-488" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="438" length="6">former</trigger>
+        <em_arg entity_id="ent-54" entity_mention_id="m-213" role="entity" realis="true">South African</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-81" role="person" realis="true">former South African President</em_arg>
+        <em_arg filler_id="f-520" role="position" realis="true">President</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-525">
+      <event_mention id="em-527" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="485" length="10">describing</trigger>
+        <em_arg entity_id="ent-45" entity_mention_id="m-207" role="entity" realis="true">Philippines</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-576">
+      <event_mention id="em-548" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="681" length="8">briefing</trigger>
+        <em_arg entity_id="ent-168" entity_mention_id="m-243" role="entity" realis="true">Herminio Coloma, Jr.</em_arg>
+        <em_arg filler_id="f-573" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-620">
+      <event_mention id="em-599" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="867" length="12">imprisonment</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-117" role="person" realis="true">He</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-643">
+      <event_mention id="em-652" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="1295" length="9">statement</trigger>
+        <em_arg entity_id="ent-321" entity_mention_id="m-315" role="entity" realis="true">Department of Foreign Affairs</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-708">
+      <event_mention id="em-673" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131206_F00013SSC" offset="1375" length="5">visit</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-135" role="agent" realis="true">Mandela</em_arg>
+        <em_arg entity_id="ent-45" entity_mention_id="m-336" role="destination" realis="true">the country</em_arg>
+        <em_arg filler_id="f-705" role="time" realis="true">1996</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

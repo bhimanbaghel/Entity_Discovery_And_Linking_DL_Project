@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000081" doc_id="ENG_NW_001278_20130709_F00013NZW" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="109" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-51" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="224" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-75" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="297" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-324" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="1265" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="1269" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-330" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="1331" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-520" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="388" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-722" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="1421" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="1425" length="7">country</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="109" length="27">
+        <mention_text>Egypt's caretaker president</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="127" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-57" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="224" length="27">
+        <mention_text>Egypt's caretaker president</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="242" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="297" length="27">
+        <mention_text>Egypt's caretaker president</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="315" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-117" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="388" length="25">
+        <mention_text>Egypt's interim President</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="404" length="9">President</nom_head>
+      </entity_mention>
+      <entity_mention id="m-123" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="414" length="12">
+        <mention_text>Adli Mansour</mention_text>
+      </entity_mention>
+      <entity_mention id="m-306" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="1198" length="12">
+        <mention_text>Adli Mansour</mention_text>
+      </entity_mention>
+      <entity_mention id="m-312" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="1212" length="44">
+        <mention_text>the head of the Supreme Constitutional Court</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="1216" length="4">head</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="146" length="10">
+        <mention_text>interim PM</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="154" length="2">PM</nom_head>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="261" length="10">
+        <mention_text>interim PM</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="269" length="2">PM</nom_head>
+      </entity_mention>
+      <entity_mention id="m-87" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="334" length="10">
+        <mention_text>interim PM</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="342" length="2">PM</nom_head>
+      </entity_mention>
+      <entity_mention id="m-129" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="465" length="16">
+        <mention_text>Hazem al-Beblawi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-165" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="646" length="10">
+        <mention_text>Al-Beblawi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-171" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="667" length="73">
+        <mention_text>the finance minister in the cabinet of former prime minister Essam Sharaf</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="679" length="8">minister</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-42" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="158" length="14">
+        <mention_text>vice president</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="163" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="273" length="14">
+        <mention_text>vice president</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="278" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-93" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="346" length="14">
+        <mention_text>vice president</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="351" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-150" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="557" length="17">
+        <mention_text>Mohamed ElBaradei</mention_text>
+      </entity_mention>
+      <entity_mention id="m-201" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="779" length="9">
+        <mention_text>ElBaradei</mention_text>
+      </entity_mention>
+      <entity_mention id="m-207" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="790" length="21">
+        <mention_text>the leader of the NSF</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="794" length="6">leader</nom_head>
+      </entity_mention>
+      <entity_mention id="m-237" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="892" length="61">
+        <mention_text>the former head of the International Agency for Atomic Energy</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="903" length="4">head</nom_head>
+      </entity_mention>
+      <entity_mention id="m-345" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="1408" length="9">
+        <mention_text>ElBaradei</mention_text>
+      </entity_mention>
+      <entity_mention id="m-351" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="1421" length="36">
+        <mention_text>the country's interim prime minister</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="1449" length="8">minister</nom_head>
+      </entity_mention>
+      <entity_mention id="m-366" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="1510" length="9">
+        <mention_text>ElBaradei</mention_text>
+      </entity_mention>
+      <entity_mention id="m-372" noun_type="PRO" source="ENG_NW_001278_20130709_F00013NZW" offset="1527" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-414" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="1670" length="9">
+        <mention_text>ElBaradei</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-105" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-99" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="362" length="5">
+        <mention_text>CAIRO</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-114" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-108" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="377" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-141" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-135" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="526" length="24">
+        <mention_text>National Salvation Front</mention_text>
+      </entity_mention>
+      <entity_mention id="m-144" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="552" length="3">
+        <mention_text>NSF</mention_text>
+      </entity_mention>
+      <entity_mention id="m-231" noun_type="PRO" source="ENG_NW_001278_20130709_F00013NZW" offset="813" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+      <entity_mention id="m-626" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="808" length="3">
+        <mention_text>NSF</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-162" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-156" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="616" length="27">
+        <mention_text>the transitional government</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="633" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-183" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-177" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="691" length="49">
+        <mention_text>the cabinet of former prime minister Essam Sharaf</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="695" length="7">cabinet</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-192" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-186" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="728" length="12">
+        <mention_text>Essam Sharaf</mention_text>
+      </entity_mention>
+      <entity_mention id="m-195" noun_type="PRO" source="ENG_NW_001278_20130709_F00013NZW" offset="742" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-219" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-213" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="839" length="47">
+        <mention_text>ousted president Mohamed Morsi's administration</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="872" length="14">administration</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-228" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-222" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="856" length="13">
+        <mention_text>Mohamed Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-252" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="980" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="PRO" source="ENG_NW_001278_20130709_F00013NZW" offset="1073" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-291" noun_type="PRO" source="ENG_NW_001278_20130709_F00013NZW" offset="1127" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-408" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="1641" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-249" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-243" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="915" length="38">
+        <mention_text>International Agency for Atomic Energy</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-264" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-258" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="1000" length="8">
+        <mention_text>the army</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="1004" length="4">army</nom_head>
+      </entity_mention>
+      <entity_mention id="m-297" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="1155" length="16">
+        <mention_text>The armed forces</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="1165" length="6">forces</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-273" type="PER" specificity="specificGroup">
+      <entity_mention id="m-267" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="1015" length="18">
+        <mention_text>millions of people</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="1015" length="8">millions</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-282" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-276" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="1042" length="11">
+        <mention_text>the streets</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="1046" length="7">streets</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-303" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-318" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="1228" length="28">
+        <mention_text>Supreme Constitutional Court</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-342" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-336" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="1331" length="50">
+        <mention_text>Egypt's newly-appointed presidential media adviser</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="1374" length="7">adviser</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-363" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-357" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="1468" length="13">
+        <mention_text>al-Nour Party</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-384" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-378" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="1559" length="25">
+        <mention_text>Freedom and Justice Party</mention_text>
+      </entity_mention>
+      <entity_mention id="m-387" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="1586" length="44">
+        <mention_text>the political wing of the Muslim Brotherhood</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="1600" length="4">wing</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-399" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-393" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="1612" length="18">
+        <mention_text>Muslim Brotherhood</mention_text>
+      </entity_mention>
+      <entity_mention id="m-402" noun_type="PRO" source="ENG_NW_001278_20130709_F00013NZW" offset="1635" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1465" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-1459" noun_type="NAM" source="ENG_NW_001278_20130709_F00013NZW" offset="193" length="6">
+        <mention_text>marwa2</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1474" type="PER" specificity="nonspecific">
+      <entity_mention id="m-1468" noun_type="NOM" source="ENG_NW_001278_20130709_F00013NZW" offset="1027" length="6">
+        <mention_text>people</mention_text>
+        <nom_head source="ENG_NW_001278_20130709_F00013NZW" offset="1027" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-438" source="ENG_NW_001278_20130709_F00013NZW" offset="154" length="2" type="title">PM</filler>
+    <filler id="f-458" source="ENG_NW_001278_20130709_F00013NZW" offset="269" length="2" type="title">PM</filler>
+    <filler id="f-468" source="ENG_NW_001278_20130709_F00013NZW" offset="127" length="9" type="title">president</filler>
+    <filler id="f-478" source="ENG_NW_001278_20130709_F00013NZW" offset="242" length="9" type="title">president</filler>
+    <filler id="f-498" source="ENG_NW_001278_20130709_F00013NZW" offset="315" length="9" type="title">president</filler>
+    <filler id="f-508" source="ENG_NW_001278_20130709_F00013NZW" offset="342" length="2" type="title">PM</filler>
+    <filler id="f-534" source="ENG_NW_001278_20130709_F00013NZW" offset="404" length="9" type="title">President</filler>
+    <filler id="f-544" source="ENG_NW_001278_20130709_F00013NZW" offset="448" length="16" type="title">finance minister</filler>
+    <filler id="f-554" source="ENG_NW_001278_20130709_F00013NZW" offset="485" length="14" type="title">prime minister</filler>
+    <filler id="f-574" source="ENG_NW_001278_20130709_F00013NZW" offset="578" length="34" type="title">vice president for foreign affairs</filler>
+    <filler id="f-594" source="ENG_NW_001278_20130709_F00013NZW" offset="671" length="16" type="title">finance minister</filler>
+    <filler id="f-614" source="ENG_NW_001278_20130709_F00013NZW" offset="713" length="14" type="title">prime minister</filler>
+    <filler id="f-640" source="ENG_NW_001278_20130709_F00013NZW" offset="846" length="9" type="title">president</filler>
+    <filler id="f-710" source="ENG_NW_001278_20130709_F00013NZW" offset="1374" length="7" type="title">adviser</filler>
+    <filler id="f-720" source="ENG_NW_001278_20130709_F00013NZW" offset="1443" length="14" type="title">prime minister</filler>
+    <filler id="f-1485" source="ENG_NW_001278_20130709_F00013NZW" offset="158" length="14" type="title">vice president</filler>
+    <filler id="f-1495" source="ENG_NW_001278_20130709_F00013NZW" offset="273" length="14" type="title">vice president</filler>
+    <filler id="f-1505" source="ENG_NW_001278_20130709_F00013NZW" offset="346" length="14" type="title">vice president</filler>
+    <filler id="f-1072" source="ENG_NW_001278_20130709_F00013NZW" offset="448" length="16" type="title">finance minister</filler>
+    <filler id="f-1102" source="ENG_NW_001278_20130709_F00013NZW" offset="713" length="14" type="title">prime minister</filler>
+    <filler id="f-1132" source="ENG_NW_001278_20130709_F00013NZW" offset="763" length="13" type="time" nom_time="2011-11-XX">November 2011</filler>
+    <filler id="f-1160" source="ENG_NW_001278_20130709_F00013NZW" offset="846" length="9" type="title">president</filler>
+    <filler id="f-1220" source="ENG_NW_001278_20130709_F00013NZW" offset="959" length="9" type="time" nom_time="2013-07-03">Wednesday</filler>
+    <filler id="f-1278" source="ENG_NW_001278_20130709_F00013NZW" offset="1142" length="10" type="time" nom_time="2012-XX-XX">a year ago</filler>
+    <filler id="f-1331" source="ENG_NW_001278_20130709_F00013NZW" offset="1374" length="7" type="title">adviser</filler>
+    <filler id="f-1454" source="ENG_NW_001278_20130709_F00013NZW" offset="1313" length="8" type="time" nom_time="2013-07-06">Saturday</filler>
+    <filler id="f-1552" source="ENG_NW_001278_20130709_F00013NZW" offset="671" length="16" type="title">finance minister</filler>
+  </fillers>
+  <relations>
+    <relation id="r-2096" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-420" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-24" role="leader">Egypt's caretaker president</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-18" role="entity">Egypt</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="127" length="9">president</trigger>
+      </relation_mention>
+      <relation_mention id="relm-440" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-57" role="leader">Egypt's caretaker president</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-51" role="entity">Egypt</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="242" length="9">president</trigger>
+      </relation_mention>
+      <relation_mention id="relm-480" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-81" role="leader">Egypt's caretaker president</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-75" role="entity">Egypt</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="315" length="9">president</trigger>
+      </relation_mention>
+      <relation_mention id="relm-510" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-117" role="leader">Egypt's interim President</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-520" role="entity">Egypt</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="404" length="9">President</trigger>
+      </relation_mention>
+      <relation_mention id="relm-682" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-312" role="leader">the head of the Supreme Constitutional Court</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-324" role="entity">the country</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1261" length="3">run</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2097" type="personalsocial" subtype="role">
+      <relation_mention id="relm-430" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-33" role="per">interim PM</rel_arg1>
+        <rel_arg2 filler_id="f-438" role="role">PM</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-450" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-63" role="per">interim PM</rel_arg1>
+        <rel_arg2 filler_id="f-458" role="role">PM</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-500" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-87" role="per">interim PM</rel_arg1>
+        <rel_arg2 filler_id="f-508" role="role">PM</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-536" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-129" role="per">Hazem al-Beblawi</rel_arg1>
+        <rel_arg2 filler_id="f-544" role="role">finance minister</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-546" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-129" role="per">Hazem al-Beblawi</rel_arg1>
+        <rel_arg2 filler_id="f-554" role="role">prime minister</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="482" length="2">as</trigger>
+      </relation_mention>
+      <relation_mention id="relm-586" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-171" role="per">the finance minister in the cabinet of former prime minister Essam Sharaf</rel_arg1>
+        <rel_arg2 filler_id="f-594" role="role">finance minister</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="657" length="6">served</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2098" type="personalsocial" subtype="role">
+      <relation_mention id="relm-460" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-24" role="per">Egypt's caretaker president</rel_arg1>
+        <rel_arg2 filler_id="f-468" role="role">president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-470" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-57" role="per">Egypt's caretaker president</rel_arg1>
+        <rel_arg2 filler_id="f-478" role="role">president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-490" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-81" role="per">Egypt's caretaker president</rel_arg1>
+        <rel_arg2 filler_id="f-498" role="role">president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-526" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-117" role="per">Egypt's interim President</rel_arg1>
+        <rel_arg2 filler_id="f-534" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-2099" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-556" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-150" role="leader">Mohamed ElBaradei</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-135" role="entity">National Salvation Front</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="504" length="7">leading</trigger>
+      </relation_mention>
+      <relation_mention id="relm-616" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-207" role="leader">the leader of the NSF</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-626" role="entity">NSF</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="794" length="6">leader</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2100" type="personalsocial" subtype="role">
+      <relation_mention id="relm-566" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-150" role="per">Mohamed ElBaradei</rel_arg1>
+        <rel_arg2 filler_id="f-574" role="role">vice president for foreign affairs</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="575" length="2">as</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1477" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-42" role="per">vice president</rel_arg1>
+        <rel_arg2 filler_id="f-1485" role="role">vice president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1487" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-69" role="per">vice president</rel_arg1>
+        <rel_arg2 filler_id="f-1495" role="role">vice president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1497" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-93" role="per">vice president</rel_arg1>
+        <rel_arg2 filler_id="f-1505" role="role">vice president</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-2101" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-576" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-150" role="employeemember">Mohamed ElBaradei</rel_arg1>
+        <rel_arg2 entity_id="ent-162" entity_mention_id="m-156" role="org">the transitional government</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="613" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2102" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-596" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-171" role="employeemember">the finance minister in the cabinet of former prime minister Essam Sharaf</rel_arg1>
+        <rel_arg2 entity_id="ent-183" entity_mention_id="m-177" role="org">the cabinet of former prime minister Essam Sharaf</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="688" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2103" type="personalsocial" subtype="role">
+      <relation_mention id="relm-606" realis="true">
+        <rel_arg1 entity_id="ent-192" entity_mention_id="m-186" role="per">Essam Sharaf</rel_arg1>
+        <rel_arg2 filler_id="f-614" role="role">prime minister</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-2104" type="personalsocial" subtype="role">
+      <relation_mention id="relm-632" realis="true">
+        <rel_arg1 entity_id="ent-228" entity_mention_id="m-222" role="per">Mohamed Morsi</rel_arg1>
+        <rel_arg2 filler_id="f-640" role="role">president</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-2105" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-642" realis="true">
+        <rel_arg1 entity_id="ent-228" entity_mention_id="m-222" role="leader">Mohamed Morsi</rel_arg1>
+        <rel_arg2 entity_id="ent-219" entity_mention_id="m-213" role="entity">ousted president Mohamed Morsi's administration</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="864" length="7">Morsi's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2106" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-652" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-237" role="leader">the former head of the International Agency for Atomic Energy</rel_arg1>
+        <rel_arg2 entity_id="ent-249" entity_mention_id="m-243" role="entity">International Agency for Atomic Energy</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="903" length="4">head</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2107" type="physical" subtype="locatednear">
+      <relation_mention id="relm-662" realis="true">
+        <rel_arg1 entity_id="ent-273" entity_mention_id="m-267" role="entity">millions of people</rel_arg1>
+        <rel_arg2 entity_id="ent-282" entity_mention_id="m-276" role="loc">the streets</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1039" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2108" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-672" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-312" role="leader">the head of the Supreme Constitutional Court</rel_arg1>
+        <rel_arg2 entity_id="ent-303" entity_mention_id="m-318" role="entity">Supreme Constitutional Court</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1216" length="4">head</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2109" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-692" realis="true">
+        <rel_arg1 entity_id="ent-342" entity_mention_id="m-336" role="employeemember">Egypt's newly-appointed presidential media adviser</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-330" role="org">Egypt</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1355" length="26">presidential media adviser</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2110" type="personalsocial" subtype="role">
+      <relation_mention id="relm-702" realis="true">
+        <rel_arg1 entity_id="ent-342" entity_mention_id="m-336" role="per">Egypt's newly-appointed presidential media adviser</rel_arg1>
+        <rel_arg2 filler_id="f-710" role="role">adviser</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-2111" type="personalsocial" subtype="role">
+      <relation_mention id="relm-712" realis="false">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-345" role="per">ElBaradei</rel_arg1>
+        <rel_arg2 filler_id="f-720" role="role">prime minister</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1418" length="2">as</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2112" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-728" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-351" role="leader">the country's interim prime minister</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-722" role="entity">the country</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1443" length="14">prime minister</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2113" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-738" realis="true">
+        <rel_arg1 entity_id="ent-384" entity_mention_id="m-387" role="suborg">the political wing of the Muslim Brotherhood</rel_arg1>
+        <rel_arg2 entity_id="ent-399" entity_mention_id="m-393" role="parent">Muslim Brotherhood</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1605" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2114" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-748" realis="true">
+        <rel_arg1 entity_id="ent-228" entity_mention_id="m-408" role="employeemember">Morsi</rel_arg1>
+        <rel_arg2 entity_id="ent-399" entity_mention_id="m-402" role="org">which</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1647" length="7">belongs</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2115" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1507" realis="true">
+        <rel_arg1 entity_id="ent-162" entity_mention_id="m-156" role="suborg">the transitional government</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-520" role="parent">Egypt</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-2116" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1517" realis="true">
+        <rel_arg1 entity_id="ent-192" entity_mention_id="m-186" role="leader">Essam Sharaf</rel_arg1>
+        <rel_arg2 entity_id="ent-183" entity_mention_id="m-177" role="entity">the cabinet of former prime minister Essam Sharaf</rel_arg2>
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="703" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-1075">
+      <event_mention id="em-1047" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="445" length="2">ex</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-129" role="person" realis="true">Hazem al-Beblawi</em_arg>
+        <em_arg filler_id="f-1072" role="position" realis="true">finance minister</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1105">
+      <event_mention id="em-1077" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="706" length="6">former</trigger>
+        <em_arg entity_id="ent-192" entity_mention_id="m-186" role="person" realis="true">Essam Sharaf</em_arg>
+        <em_arg filler_id="f-1102" role="position" realis="true">prime minister</em_arg>
+      </event_mention>
+      <event_mention id="em-1107" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="746" length="8">resigned</trigger>
+        <em_arg entity_id="ent-192" entity_mention_id="m-195" role="person" realis="true">who</em_arg>
+        <em_arg filler_id="f-1132" role="time" realis="true">November 2011</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1163">
+      <event_mention id="em-1135" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="839" length="6">ousted</trigger>
+        <em_arg entity_id="ent-228" entity_mention_id="m-222" role="person" realis="true">Mohamed Morsi</em_arg>
+        <em_arg filler_id="f-1160" role="position" realis="true">president</em_arg>
+      </event_mention>
+      <event_mention id="em-1195" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="990" length="6">ousted</trigger>
+        <em_arg entity_id="ent-228" entity_mention_id="m-252" role="person" realis="true">Morsi</em_arg>
+        <em_arg filler_id="f-1220" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1193">
+      <event_mention id="em-1165" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="896" length="6">former</trigger>
+        <em_arg entity_id="ent-48" entity_mention_id="m-237" role="person" realis="true">the former head of the International Agency for Atomic Energy</em_arg>
+        <em_arg entity_id="ent-249" entity_mention_id="m-243" role="entity" realis="true">International Agency for Atomic Energy</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1251">
+      <event_mention id="em-1223" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1057" length="7">protest</trigger>
+        <em_arg entity_id="ent-273" entity_mention_id="m-267" role="entity" realis="true">millions of people</em_arg>
+        <em_arg entity_id="ent-282" entity_mention_id="m-276" role="place" realis="true">the streets</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1281">
+      <event_mention id="em-1253" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1130" length="11">took office</trigger>
+        <em_arg entity_id="ent-228" entity_mention_id="m-291" role="person" realis="true">he</em_arg>
+        <em_arg filler_id="f-1278" role="time" realis="true">a year ago</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1304">
+      <event_mention id="em-1283" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1177" length="6">handed</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-306" role="person" realis="true">Adli Mansour</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-324" role="entity" realis="true">the country</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1341">
+      <event_mention id="em-1306" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1345" length="9">appointed</trigger>
+        <em_arg entity_id="ent-342" entity_mention_id="m-336" role="person" realis="true">Egypt's newly-appointed presidential media adviser</em_arg>
+        <em_arg filler_id="f-1331" role="position" realis="true">adviser</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-330" role="entity" realis="true">Egypt</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1457">
+      <event_mention id="em-1429" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1382" length="6">denied</trigger>
+        <em_arg entity_id="ent-342" entity_mention_id="m-336" role="entity" realis="true">Egypt's newly-appointed presidential media adviser</em_arg>
+        <em_arg filler_id="f-1454" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1569">
+      <event_mention id="em-1527" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="706" length="6">former</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-171" role="person" realis="true">the finance minister in the cabinet of former prime minister Essam Sharaf</em_arg>
+        <em_arg filler_id="f-1552" role="position" realis="true">finance minister</em_arg>
+        <em_arg entity_id="ent-183" entity_mention_id="m-177" role="entity" realis="true">the cabinet of former prime minister Essam Sharaf</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1599">
+      <event_mention id="em-1571" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1034" length="7">took to</trigger>
+        <em_arg entity_id="ent-273" entity_mention_id="m-267" role="agent" realis="true">millions of people</em_arg>
+        <em_arg entity_id="ent-282" entity_mention_id="m-276" role="destination" realis="true">the streets</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1629">
+      <event_mention id="em-1608" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1482" length="8">objected</trigger>
+        <em_arg entity_id="ent-363" entity_mention_id="m-357" role="entity" realis="true">al-Nour Party</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1652">
+      <event_mention id="em-1631" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130709_F00013NZW" offset="1661" length="8">rejected</trigger>
+        <em_arg entity_id="ent-399" entity_mention_id="m-402" role="entity" realis="true">which</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

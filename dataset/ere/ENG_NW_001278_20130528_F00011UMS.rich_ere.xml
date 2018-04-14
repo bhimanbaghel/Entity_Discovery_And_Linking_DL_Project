@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000029" doc_id="ENG_NW_001278_20130528_F00011UMS" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="119" length="2">
+        <mention_text>EU</mention_text>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="217" length="2">
+        <mention_text>EU</mention_text>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="272" length="2">
+        <mention_text>EU</mention_text>
+      </entity_mention>
+      <entity_mention id="m-99" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="342" length="14">
+        <mention_text>European Union</mention_text>
+      </entity_mention>
+      <entity_mention id="m-105" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="358" length="2">
+        <mention_text>EU</mention_text>
+      </entity_mention>
+      <entity_mention id="m-129" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="456" length="2">
+        <mention_text>EU</mention_text>
+      </entity_mention>
+      <entity_mention id="m-135" noun_type="PRO" source="ENG_NW_001278_20130528_F00011UMS" offset="489" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-153" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="585" length="2">
+        <mention_text>EU</mention_text>
+      </entity_mention>
+      <entity_mention id="m-195" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="885" length="2">
+        <mention_text>EU</mention_text>
+      </entity_mention>
+      <entity_mention id="m-279" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="1367" length="2">
+        <mention_text>EU</mention_text>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="1497" length="2">
+        <mention_text>EU</mention_text>
+      </entity_mention>
+      <entity_mention id="m-327" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="1916" length="2">
+        <mention_text>EU</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-51" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="149" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-75" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="247" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="302" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-111" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="394" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-123" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="436" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="440" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-219" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="1038" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-297" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="1644" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-321" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="1885" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-33" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-57" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="175" length="7">
+        <mention_text>Sun Wen</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-36" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-87" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="309" length="8">
+        <mention_text>BRUSSELS</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-93" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="327" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-42" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-117" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="411" length="36">
+        <mention_text>the opposition forces in the country</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="426" length="6">forces</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-45" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-141" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="493" length="23">
+        <mention_text>Foreign Affairs Council</mention_text>
+      </entity_mention>
+      <entity_mention id="m-147" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="585" length="26">
+        <mention_text>EU Foreign Affairs Council</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-171" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-165" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="854" length="25">
+        <mention_text>the Bashar al-Asad regime</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="873" length="6">regime</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-174" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-189" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="858" length="14">
+        <mention_text>Bashar al-Asad</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-177" type="ORG" specificity="nonspecific">
+      <entity_mention id="m-201" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="942" length="8">
+        <mention_text>military</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="942" length="8">military</nom_head>
+      </entity_mention>
+      <entity_mention id="m-291" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="1551" length="8">
+        <mention_text>military</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="1551" length="8">military</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-180" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-213" noun_type="NAM" source="ENG_NW_001278_20130528_F00011UMS" offset="1038" length="65">
+        <mention_text>Syrian National Coalition for Opposition and Revolutionary Forces</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-183" type="PER" specificity="nonspecific">
+      <entity_mention id="m-225" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="1139" length="9">
+        <mention_text>civilians</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="1139" length="9">civilians</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-186" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-231" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="1153" length="13">
+        <mention_text>Member States</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="1160" length="6">States</nom_head>
+      </entity_mention>
+      <entity_mention id="m-273" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="1367" length="16">
+        <mention_text>EU member states</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="1377" length="6">states</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-237" type="PER" specificity="nonspecific">
+      <entity_mention id="m-261" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="1293" length="8">
+        <mention_text>end-user</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="1297" length="4">user</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-240" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-267" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="1306" length="17">
+        <mention_text>final destination</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="1312" length="11">destination</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-243" type="ORG" specificity="nonspecific">
+      <entity_mention id="m-303" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="1689" length="19">
+        <mention_text>certain enterprises</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="1697" length="11">enterprises</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-246" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-309" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="1710" length="14">
+        <mention_text>infrastructure</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="1710" length="14">infrastructure</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-249" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-315" noun_type="NOM" source="ENG_NW_001278_20130528_F00011UMS" offset="1862" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="ENG_NW_001278_20130528_F00011UMS" offset="1862" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-528" source="ENG_NW_001278_20130528_F00011UMS" offset="472" length="6" type="time" nom_time="2013-05-27">Monday</filler>
+    <filler id="f-584" source="ENG_NW_001278_20130528_F00011UMS" offset="472" length="6" type="time" nom_time="2013-05-27">Monday</filler>
+    <filler id="f-612" source="ENG_NW_001278_20130528_F00011UMS" offset="472" length="6" type="time" nom_time="2013-05-27">Monday</filler>
+    <filler id="f-674" source="ENG_NW_001278_20130528_F00011UMS" offset="738" length="39" type="weapon">arms and related material and equipment</filler>
+    <filler id="f-709" source="ENG_NW_001278_20130528_F00011UMS" offset="738" length="39" type="weapon">arms and related material and equipment</filler>
+    <filler id="f-759" source="ENG_NW_001278_20130528_F00011UMS" offset="838" length="4" type="weapon">arms</filler>
+    <filler id="f-786" source="ENG_NW_001278_20130528_F00011UMS" offset="942" length="18" type="weapon">military equipment</filler>
+    <filler id="f-794" source="ENG_NW_001278_20130528_F00011UMS" offset="967" length="53" type="commodity">equipment which might be used for internal repression</filler>
+    <filler id="f-878" source="ENG_NW_001278_20130528_F00011UMS" offset="1551" length="33" type="commodity">military technology and equipment</filler>
+    <filler id="f-965" source="ENG_NW_001278_20130528_F00011UMS" offset="1896" length="14" type="time" nom_time="2011-03-XX">mid-March 2011</filler>
+    <filler id="f-1034" source="ENG_NW_001278_20130528_F00011UMS" offset="942" length="18" type="commodity">military equipment</filler>
+    <filler id="f-1042" source="ENG_NW_001278_20130528_F00011UMS" offset="967" length="53" type="commodity">equipment which might be used for internal repression</filler>
+    <filler id="f-1154" source="ENG_NW_001278_20130528_F00011UMS" offset="1955" length="4" type="weapon">arms</filler>
+    <filler id="f-1181" source="ENG_NW_001278_20130528_F00011UMS" offset="2017" length="3" type="commodity">oil</filler>
+    <filler id="f-1189" source="ENG_NW_001278_20130528_F00011UMS" offset="2044" length="10" type="time" nom_time="2013-04-XX">last month</filler>
+  </fillers>
+  <relations>
+    <relation id="r-917" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-343" realis="true">
+        <rel_arg1 entity_id="ent-42" entity_mention_id="m-117" role="org">the opposition forces in the country</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-123" role="loc">the country</rel_arg2>
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="433" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-918" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-353" realis="true">
+        <rel_arg1 entity_id="ent-45" entity_mention_id="m-141" role="suborg">Foreign Affairs Council</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-135" role="parent">its</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-363" realis="true">
+        <rel_arg1 entity_id="ent-45" entity_mention_id="m-147" role="suborg">EU Foreign Affairs Council</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-153" role="parent">EU</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-919" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-383" realis="true">
+        <rel_arg1 entity_id="ent-174" entity_mention_id="m-189" role="leader">Bashar al-Asad</rel_arg1>
+        <rel_arg2 entity_id="ent-171" entity_mention_id="m-165" role="entity">the Bashar al-Asad regime</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-920" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-413" realis="true">
+        <rel_arg1 entity_id="ent-180" entity_mention_id="m-213" role="org">Syrian National Coalition for Opposition and Revolutionary Forces</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-219" role="loc">Syrian</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-921" type="partwhole" subtype="membership">
+      <relation_mention id="relm-463" realis="true">
+        <rel_arg1 entity_id="ent-186" entity_mention_id="m-273" role="member">EU member states</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-279" role="org">EU</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-922" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-473" realis="false">
+        <rel_arg1 entity_id="ent-243" entity_mention_id="m-303" role="org">certain enterprises</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-297" role="loc">Syria</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-923" type="physical" subtype="locatednear">
+      <relation_mention id="relm-483" realis="false">
+        <rel_arg1 entity_id="ent-246" entity_mention_id="m-309" role="entity">infrastructure</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-297" role="loc">Syria</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-924" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-493" realis="true">
+        <rel_arg1 entity_id="ent-249" entity_mention_id="m-315" role="suborg">government</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-321" role="parent">Syria</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-503" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="459" length="9">statement</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-129" role="entity" realis="true">EU</em_arg>
+        <em_arg filler_id="f-528" role="time" realis="true">Monday</em_arg>
+      </event_mention>
+      <event_mention id="em-587" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="544" length="9">statement</trigger>
+        <em_arg entity_id="ent-45" entity_mention_id="m-147" role="entity" realis="true">EU Foreign Affairs Council</em_arg>
+        <em_arg filler_id="f-612" role="time" realis="true">Monday</em_arg>
+      </event_mention>
+      <event_mention id="em-989" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="1800" length="4">said</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-285" role="entity" realis="true">EU</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-538">
+      <event_mention id="em-552" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="517" length="7">meeting</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-135" role="entity" realis="true">its</em_arg>
+        <em_arg entity_id="ent-45" entity_mention_id="m-141" role="entity" realis="true">Foreign Affairs Council</em_arg>
+        <em_arg filler_id="f-584" role="time" realis="true">Monday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-544">
+      <event_mention id="em-657" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="685" length="6">Export</trigger>
+        <em_arg filler_id="f-674" role="artifact" realis="true">arms and related material and equipment</em_arg>
+      </event_mention>
+      <event_mention id="em-769" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="920" length="8">transfer</trigger>
+        <em_arg filler_id="f-786" role="artifact" realis="true">military equipment</em_arg>
+        <em_arg filler_id="f-794" role="artifact" realis="true">equipment which might be used for internal repression</em_arg>
+        <em_arg entity_id="ent-186" entity_mention_id="m-231" role="agent" realis="true">Member States</em_arg>
+      </event_mention>
+      <event_mention id="em-853" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="1540" length="7">exports</trigger>
+        <em_arg entity_id="ent-186" entity_mention_id="m-273" role="agent" realis="true">EU member states</em_arg>
+        <em_arg filler_id="f-878" role="artifact" realis="true">military technology and equipment</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-546">
+      <event_mention id="em-692" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="696" length="6">import</trigger>
+        <em_arg filler_id="f-709" role="artifact" realis="true">arms and related material and equipment</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-548">
+      <event_mention id="em-727" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="843" length="7">flowing</trigger>
+        <em_arg filler_id="f-759" role="artifact" realis="true">arms</em_arg>
+      </event_mention>
+      <event_mention id="em-1129" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="1960" length="7">embargo</trigger>
+        <em_arg filler_id="f-1154" role="artifact" realis="true">arms</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-321" role="destination" realis="true">Syria</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-550">
+      <event_mention id="em-818" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="1331" length="8">delivery</trigger>
+        <em_arg entity_id="ent-186" entity_mention_id="m-231" role="agent" realis="true">Member States</em_arg>
+        <em_arg entity_id="ent-240" entity_mention_id="m-267" role="destination" realis="true">final destination</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-923">
+      <event_mention id="em-933" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="1835" length="7">violent</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-321" role="attacker" realis="true">Syria</em_arg>
+        <em_arg filler_id="f-965" role="time" realis="true">mid-March 2011</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-925">
+      <event_mention id="em-1017" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="906" length="4">sale</trigger>
+        <em_arg filler_id="f-1034" role="thing" realis="true">military equipment</em_arg>
+        <em_arg filler_id="f-1042" role="thing" realis="true">equipment which might be used for internal repression</em_arg>
+        <em_arg entity_id="ent-180" entity_mention_id="m-213" role="recipient" realis="true"> Syrian National Coalition for Opposition and Revolutionary Forces</em_arg>
+        <em_arg entity_id="ent-186" entity_mention_id="m-231" role="giver" realis="true">Member States</em_arg>
+        <em_arg entity_id="ent-183" entity_mention_id="m-225" role="beneficiary" realis="true">civilians</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-927">
+      <event_mention id="em-1066" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="906" length="4">sale</trigger>
+        <em_arg entity_id="ent-186" entity_mention_id="m-231" role="recipient" realis="true">Member States</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-931">
+      <event_mention id="em-881" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="1676" length="9">financing</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-297" role="recipient" realis="true">Syria</em_arg>
+        <em_arg entity_id="ent-186" entity_mention_id="m-273" role="giver" realis="true">EU member states</em_arg>
+        <em_arg entity_id="ent-243" entity_mention_id="m-303" role="beneficiary" realis="false">certain enterprises</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1199">
+      <event_mention id="em-1164" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130528_F00011UMS" offset="2021" length="5">trade</trigger>
+        <em_arg filler_id="f-1181" role="thing" realis="true">oil</em_arg>
+        <em_arg filler_id="f-1189" role="time" realis="true">last month</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-321" role="recipient" realis="true">Syria</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

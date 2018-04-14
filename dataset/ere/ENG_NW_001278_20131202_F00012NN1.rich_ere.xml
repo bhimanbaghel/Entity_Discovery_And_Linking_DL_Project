@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000042" doc_id="ENG_NW_001278_20131202_F00012NN1" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="101" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-33" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="211" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-75" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="468" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-96" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="563" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-129" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="721" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-135" noun_type="NOM" source="ENG_NW_001278_20131202_F00012NN1" offset="739" length="107">
+        <mention_text>the third country in the world after the United States and the former Soviet Union to soft-land on the moon</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012NN1" offset="749" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-234" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="1386" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-240" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="1461" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-291" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="1751" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-45" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-39" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="271" length="7">
+        <mention_text>XICHANG</mention_text>
+      </entity_mention>
+      <entity_mention id="m-90" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="476" length="7">
+        <mention_text>Xichang</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-54" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-48" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="280" length="7">
+        <mention_text>Sichuan</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-63" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-57" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="297" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-72" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-66" noun_type="NOM" source="ENG_NW_001278_20131202_F00012NN1" offset="465" length="8">
+        <mention_text>SW China</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012NN1" offset="468" length="5">China</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-87" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-81" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="476" length="31">
+        <mention_text>Xichang Satellite Launch Center</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-108" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-102" noun_type="NOM" source="ENG_NW_001278_20131202_F00012NN1" offset="606" length="39">
+        <mention_text>the surface of an extraterrestrial body</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012NN1" offset="610" length="7">surface</nom_head>
+      </entity_mention>
+      <entity_mention id="m-207" noun_type="NOM" source="ENG_NW_001278_20131202_F00012NN1" offset="1265" length="7">
+        <mention_text>surface</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012NN1" offset="1265" length="7">surface</nom_head>
+      </entity_mention>
+      <entity_mention id="m-930" noun_type="PRO" source="ENG_NW_001278_20131202_F00012NN1" offset="647" length="5">
+        <mention_text>where</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-117" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-213" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="1332" length="13">
+        <mention_text>Ouyang Ziyuan</mention_text>
+      </entity_mention>
+      <entity_mention id="m-219" noun_type="NOM" source="ENG_NW_001278_20131202_F00012NN1" offset="1347" length="66">
+        <mention_text>senior advisor to the leading group of China's lunar probe program</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012NN1" offset="1354" length="7">advisor</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-126" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-111" noun_type="NOM" source="ENG_NW_001278_20131202_F00012NN1" offset="621" length="24">
+        <mention_text>an extraterrestrial body</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012NN1" offset="641" length="4">body</nom_head>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="684" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-168" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="842" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-174" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="884" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-180" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="957" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-201" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="1233" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-258" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="1652" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-270" noun_type="PRO" source="ENG_NW_001278_20131202_F00012NN1" offset="1699" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-147" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-141" noun_type="NOM" source="ENG_NW_001278_20131202_F00012NN1" offset="760" length="9">
+        <mention_text>the world</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012NN1" offset="764" length="5">world</nom_head>
+      </entity_mention>
+      <entity_mention id="m-246" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="1534" length="5">
+        <mention_text>Earth</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-156" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-150" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="780" length="13">
+        <mention_text>United States</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-165" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-159" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="809" length="12">
+        <mention_text>Soviet Union</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-192" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-186" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="1090" length="12">
+        <mention_text>Sinus Iridum</mention_text>
+      </entity_mention>
+      <entity_mention id="m-195" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="1111" length="15">
+        <mention_text>Bay of Rainbows</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-231" type="PER" specificity="specificGroup">
+      <entity_mention id="m-225" noun_type="NOM" source="ENG_NW_001278_20131202_F00012NN1" offset="1365" length="48">
+        <mention_text>the leading group of China's lunar probe program</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012NN1" offset="1377" length="5">group</nom_head>
+      </entity_mention>
+      <entity_mention id="m-252" noun_type="PRO" source="ENG_NW_001278_20131202_F00012NN1" offset="1636" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+      <entity_mention id="m-264" noun_type="PRO" source="ENG_NW_001278_20131202_F00012NN1" offset="1688" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-282" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-276" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="1722" length="9">
+        <mention_text>Wu Weiren</mention_text>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="NOM" source="ENG_NW_001278_20131202_F00012NN1" offset="1733" length="45">
+        <mention_text>chief designer of China's lunar probe program</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012NN1" offset="1739" length="8">designer</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-942" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-936" noun_type="NAM" source="ENG_NW_001278_20131202_F00012NN1" offset="180" length="14">
+        <mention_text>李宝杰 李志晖 傅双琪 韩乔</mention_text>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-385" source="ENG_NW_001278_20131202_F00012NN1" offset="1347" length="14" type="title">senior advisor</filler>
+    <filler id="f-405" source="ENG_NW_001278_20131202_F00012NN1" offset="1733" length="14" type="title">chief designer</filler>
+    <filler id="f-516" source="ENG_NW_001278_20131202_F00012NN1" offset="518" length="12" type="time" nom_time="2013-12-02">early Monday</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1205" type="physical" subtype="locatednear">
+      <relation_mention id="relm-297" realis="true">
+        <rel_arg1 entity_id="ent-45" entity_mention_id="m-39" role="entity">XICHANG</rel_arg1>
+        <rel_arg2 entity_id="ent-54" entity_mention_id="m-48" role="loc">Sichuan</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1206" type="physical" subtype="locatednear">
+      <relation_mention id="relm-307" realis="true">
+        <rel_arg1 entity_id="ent-72" entity_mention_id="m-66" role="entity">SW China</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-75" role="loc">China</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1207" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-317" realis="true">
+        <rel_arg1 entity_id="ent-87" entity_mention_id="m-81" role="org">Xichang Satellite Launch Center</rel_arg1>
+        <rel_arg2 entity_id="ent-72" entity_mention_id="m-66" role="loc">SW China</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012NN1" offset="465" length="10">SW China's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1208" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-327" realis="true">
+        <rel_arg1 entity_id="ent-87" entity_mention_id="m-81" role="org">Xichang Satellite Launch Center</rel_arg1>
+        <rel_arg2 entity_id="ent-45" entity_mention_id="m-90" role="loc">Xichang</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1209" type="physical" subtype="locatednear">
+      <relation_mention id="relm-337" realis="true">
+        <rel_arg1 entity_id="ent-108" entity_mention_id="m-102" role="entity">the surface of an extraterrestrial body</rel_arg1>
+        <rel_arg2 entity_id="ent-126" entity_mention_id="m-111" role="loc">an extraterrestrial body</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012NN1" offset="618" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1210" type="physical" subtype="locatednear">
+      <relation_mention id="relm-347" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-135" role="entity">the third country in the world after the United States and the former Soviet Union to soft-land on the moon</rel_arg1>
+        <rel_arg2 entity_id="ent-147" entity_mention_id="m-141" role="loc">the world</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012NN1" offset="757" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1211" type="physical" subtype="locatednear">
+      <relation_mention id="relm-357" realis="true">
+        <rel_arg1 entity_id="ent-156" entity_mention_id="m-150" role="entity">United States</rel_arg1>
+        <rel_arg2 entity_id="ent-147" entity_mention_id="m-141" role="loc">the world</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012NN1" offset="757" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1212" type="physical" subtype="locatednear">
+      <relation_mention id="relm-367" realis="true">
+        <rel_arg1 entity_id="ent-165" entity_mention_id="m-159" role="entity">Soviet Union</rel_arg1>
+        <rel_arg2 entity_id="ent-147" entity_mention_id="m-141" role="loc">the world</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012NN1" offset="757" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1213" type="personalsocial" subtype="role">
+      <relation_mention id="relm-377" realis="true">
+        <rel_arg1 entity_id="ent-117" entity_mention_id="m-219" role="per">senior advisor to the leading group of China's lunar probe program</rel_arg1>
+        <rel_arg2 filler_id="f-385" role="role">senior advisor</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1214" type="personalsocial" subtype="business">
+      <relation_mention id="relm-387" realis="true">
+        <rel_arg1 entity_id="ent-117" entity_mention_id="m-219" role="per">senior advisor to the leading group of China's lunar probe program</rel_arg1>
+        <rel_arg2 entity_id="ent-231" entity_mention_id="m-225" role="per">the leading group of China's lunar probe program</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012NN1" offset="1362" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1215" type="personalsocial" subtype="role">
+      <relation_mention id="relm-397" realis="true">
+        <rel_arg1 entity_id="ent-282" entity_mention_id="m-285" role="per">chief designer of China's lunar probe program</rel_arg1>
+        <rel_arg2 filler_id="f-405" role="role">chief designer</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-519">
+      <event_mention id="em-491" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131202_F00012NN1" offset="508" length="9">announced</trigger>
+        <em_arg entity_id="ent-87" entity_mention_id="m-81" role="entity" realis="true">Xichang Satellite Launch Center</em_arg>
+        <em_arg filler_id="f-516" role="time" realis="true">early Monday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-737">
+      <event_mention id="em-716" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131202_F00012NN1" offset="1319" length="9">according</trigger>
+        <em_arg entity_id="ent-117" entity_mention_id="m-213" role="entity" realis="true">Ouyang Ziyuan</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-907">
+      <event_mention id="em-886" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131202_F00012NN1" offset="1717" length="4">said</trigger>
+        <em_arg entity_id="ent-282" entity_mention_id="m-276" role="entity" realis="true">Wu Weiren</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

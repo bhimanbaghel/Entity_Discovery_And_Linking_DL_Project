@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000043" doc_id="NYT_ENG_20131214.0167" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="172" length="5">
+        <mention_text>CHINA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-33" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="238" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-39" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="263" length="50">
+        <mention_text>the third country to land a spacecraft on the moon</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="273" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-60" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="516" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-66" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="662" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-72" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="826" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="1302" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-126" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="1368" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-132" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="1611" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-195" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2427" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-216" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2538" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-222" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="2544" length="18">
+        <mention_text>the second country</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="2555" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-234" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2611" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-240" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2751" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-276" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="3203" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-364" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2392" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-447" noun_type="PRO" source="NYT_ENG_20131214.0167" offset="2622" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-538" noun_type="PRO" source="NYT_ENG_20131214.0167" offset="3055" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-544" noun_type="PRO" source="NYT_ENG_20131214.0167" offset="3117" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-550" noun_type="PRO" source="NYT_ENG_20131214.0167" offset="3149" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-556" noun_type="PRO" source="NYT_ENG_20131214.0167" offset="3232" length="4">
+        <mention_text>They</mention_text>
+      </entity_mention>
+      <entity_mention id="m-562" noun_type="PRO" source="NYT_ENG_20131214.0167" offset="3281" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-568" noun_type="PRO" source="NYT_ENG_20131214.0167" offset="3295" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-679" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="1419" length="26">
+        <mention_text>a globally respected power</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="1440" length="5">power</nom_head>
+      </entity_mention>
+      <entity_mention id="m-821" noun_type="PRO" source="NYT_ENG_20131214.0167" offset="321" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="193" length="8">
+        <mention_text>THE MOON</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="197" length="4">MOON</nom_head>
+      </entity_mention>
+      <entity_mention id="m-48" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="305" length="8">
+        <mention_text>the moon</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="309" length="4">moon</nom_head>
+      </entity_mention>
+      <entity_mention id="m-180" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2234" length="8">
+        <mention_text>the moon</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="2238" length="4">moon</nom_head>
+      </entity_mention>
+      <entity_mention id="m-210" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2502" length="8">
+        <mention_text>the moon</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="2506" length="4">moon</nom_head>
+      </entity_mention>
+      <entity_mention id="m-613" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="855" length="4">
+        <mention_text>moon</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="855" length="4">moon</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-84" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-78" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="956" length="13">
+        <mention_text>United States</mention_text>
+      </entity_mention>
+      <entity_mention id="m-228" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2574" length="13">
+        <mention_text>United States</mention_text>
+      </entity_mention>
+      <entity_mention id="m-246" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2948" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-270" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="3002" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="3006" length="7">country</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-93" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-87" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="974" length="12">
+        <mention_text>Soviet Union</mention_text>
+      </entity_mention>
+      <entity_mention id="m-105" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="1242" length="12">
+        <mention_text>Soviet Union</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-102" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-96" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="991" length="24">
+        <mention_text>the only other countries</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="1006" length="9">countries</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-117" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-111" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="1264" length="10">
+        <mention_text>Mao Zedong</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-144" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-138" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="1871" length="14">
+        <mention_text>Paul D. Spudis</mention_text>
+      </entity_mention>
+      <entity_mention id="m-165" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2121" length="6">
+        <mention_text>Spudis</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1043" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="1887" length="59">
+        <mention_text>a scientist at the Lunar and Planetary Institute in Houston</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="1889" length="9">scientist</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-153" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-147" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="1906" length="29">
+        <mention_text>Lunar and Planetary Institute</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-162" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-156" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="1939" length="7">
+        <mention_text>Houston</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-177" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-54" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="466" length="5">
+        <mention_text>Earth</mention_text>
+      </entity_mention>
+      <entity_mention id="m-171" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2320" length="5">
+        <mention_text>Earth</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-192" type="PER" specificity="specificGroup">
+      <entity_mention id="m-186" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="2422" length="28">
+        <mention_text>Some Chinese space engineers</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="2441" length="9">engineers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-207" type="PER" specificity="specificGroup">
+      <entity_mention id="m-201" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="2488" length="10">
+        <mention_text>astronauts</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="2488" length="10">astronauts</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-258" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-252" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2974" length="12">
+        <mention_text>Rhode Island</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-267" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-261" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2948" length="22">
+        <mention_text>U.S. Naval War College</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-288" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-282" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="3173" length="14">
+        <mention_text>Johnson-Freese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-291" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="2908" length="19">
+        <mention_text>Joan Johnson-Freese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1172" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="2929" length="103">
+        <mention_text>a professor at the U.S. Naval War College on Rhode Island who researches the country’s space activities</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="2931" length="9">professor</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-331" type="PER" specificity="specificGroup">
+      <entity_mention id="m-325" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="1647" length="7">
+        <mention_text>experts</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="1647" length="7">experts</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-444" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-438" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="2622" length="19">
+        <mention_text>its first astronaut</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="2632" length="9">astronaut</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-485" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-479" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="2841" length="14">
+        <mention_text>the government</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="2845" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-574" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="1451" length="14">
+        <mention_text>the government</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="1455" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-607" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="524" length="5">
+        <mention_text>state</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="524" length="5">state</nom_head>
+      </entity_mention>
+      <entity_mention id="m-663" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="384" length="5">
+        <mention_text>state</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="384" length="5">state</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-586" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-580" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="367" length="15">
+        <mention_text>Bay of Rainbows</mention_text>
+      </entity_mention>
+      <entity_mention id="m-589" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="734" length="15">
+        <mention_text>Bay of Rainbows</mention_text>
+      </entity_mention>
+      <entity_mention id="m-595" noun_type="NAM" source="NYT_ENG_20131214.0167" offset="754" length="12">
+        <mention_text>Sinus Iridum</mention_text>
+      </entity_mention>
+      <entity_mention id="m-601" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="768" length="53">
+        <mention_text>a relatively smooth plain formed from solidified lava</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="788" length="5">plain</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-635" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-629" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="1491" length="5">
+        <mention_text>space</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="1491" length="5">space</nom_head>
+      </entity_mention>
+      <entity_mention id="m-685" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="1640" length="5">
+        <mention_text>space</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="1640" length="5">space</nom_head>
+      </entity_mention>
+      <entity_mention id="m-691" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="2647" length="5">
+        <mention_text>space</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="2647" length="5">space</nom_head>
+      </entity_mention>
+      <entity_mention id="m-697" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="2435" length="5">
+        <mention_text>space</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="2435" length="5">space</nom_head>
+      </entity_mention>
+      <entity_mention id="m-703" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="3016" length="5">
+        <mention_text>space</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="3016" length="5">space</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-644" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-638" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="384" length="16">
+        <mention_text>state television</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="390" length="10">television</nom_head>
+      </entity_mention>
+      <entity_mention id="m-647" noun_type="NOM" source="NYT_ENG_20131214.0167" offset="516" length="24">
+        <mention_text>Chinese state television</mention_text>
+        <nom_head source="NYT_ENG_20131214.0167" offset="530" length="10">television</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-342" source="NYT_ENG_20131214.0167" offset="1889" length="9" type="title">scientist</filler>
+    <filler id="f-496" source="NYT_ENG_20131214.0167" offset="2931" length="9" type="title">professor</filler>
+    <filler id="f-322" source="NYT_ENG_20131214.0167" offset="1258" length="4" type="time" nom_time="1976-XX-XX">1976</filler>
+    <filler id="f-474" source="NYT_ENG_20131214.0167" offset="2656" length="4" type="time" nom_time="2003-XX-XX">2003</filler>
+    <filler id="f-886" source="NYT_ENG_20131214.0167" offset="587" length="82" type="vehicle">a solar-powered, robotic rover called the Jade Rabbit, or Yutu in Mandarin Chinese</filler>
+    <filler id="f-1214" source="NYT_ENG_20131214.0167" offset="551" length="27" type="vehicle">The Chang’e-3 landing craft</filler>
+    <filler id="f-1014" source="NYT_ENG_20131214.0167" offset="1802" length="67" type="commodity">a payload more than a dozen times the weight of the 309-pound rover</filler>
+    <filler id="f-1244" source="NYT_ENG_20131214.0167" offset="1756" length="17" type="vehicle">The landing craft</filler>
+    <filler id="f-1066" source="NYT_ENG_20131214.0167" offset="2095" length="7" type="commodity">payload</filler>
+    <filler id="f-1087" source="NYT_ENG_20131214.0167" offset="2205" length="5" type="commodity">rocks</filler>
+    <filler id="f-1095" source="NYT_ENG_20131214.0167" offset="2215" length="27" type="commodity">other samples from the moon</filler>
+    <filler id="f-1207" source="NYT_ENG_20131214.0167" offset="2167" length="11" type="time" nom_time="201X-XX-XX">before 2020</filler>
+    <filler id="f-1251" source="NYT_ENG_20131214.0167" offset="2151" length="7" type="vehicle">Chang’e</filler>
+    <filler id="f-1131" source="NYT_ENG_20131214.0167" offset="2302" length="9" type="vehicle">a vehicle</filler>
+    <filler id="f-1258" source="NYT_ENG_20131214.0167" offset="2263" length="62" type="vehicle">a much larger craft capable of sending a vehicle back to Earth</filler>
+    <filler id="f-1169" source="NYT_ENG_20131214.0167" offset="2355" length="29" type="vehicle">a more powerful launch rocket</filler>
+    <filler id="f-1309" source="NYT_ENG_20131214.0167" offset="2741" length="4" type="time" nom_time="2011-XX-XX">2011</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1216" type="personalsocial" subtype="role">
+      <relation_mention id="relm-334" realis="true">
+        <rel_arg1 entity_id="ent-144" entity_mention_id="m-1043" role="per">a scientist at the Lunar and Planetary Institute in Houston</rel_arg1>
+        <rel_arg2 filler_id="f-342" role="role">scientist</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1217" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-344" realis="true">
+        <rel_arg1 entity_id="ent-144" entity_mention_id="m-138" role="employeemember">Paul D. Spudis</rel_arg1>
+        <rel_arg2 entity_id="ent-153" entity_mention_id="m-147" role="org">Lunar and Planetary Institute</rel_arg2>
+        <trigger source="NYT_ENG_20131214.0167" offset="1899" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1218" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-354" realis="true">
+        <rel_arg1 entity_id="ent-153" entity_mention_id="m-147" role="org">Lunar and Planetary Institute</rel_arg1>
+        <rel_arg2 entity_id="ent-162" entity_mention_id="m-156" role="loc">Houston</rel_arg2>
+        <trigger source="NYT_ENG_20131214.0167" offset="1936" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1219" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-370" realis="true">
+        <rel_arg1 entity_id="ent-192" entity_mention_id="m-186" role="per">Some Chinese space engineers</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-195" role="entity">Chinese</rel_arg2>
+        <trigger source="NYT_ENG_20131214.0167" offset="2427" length="7">Chinese</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1220" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-453" realis="true">
+        <rel_arg1 entity_id="ent-444" entity_mention_id="m-438" role="per">its first astronaut</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-447" role="entity">its</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1221" type="personalsocial" subtype="role">
+      <relation_mention id="relm-488" realis="true">
+        <rel_arg1 entity_id="ent-288" entity_mention_id="m-1172" role="per">a professor at the U.S. Naval War College on Rhode Island who researches the country’s space activities</rel_arg1>
+        <rel_arg2 filler_id="f-496" role="role">professor</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1222" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-498" realis="true">
+        <rel_arg1 entity_id="ent-288" entity_mention_id="m-291" role="employeemember">Joan Johnson-Freese</rel_arg1>
+        <rel_arg2 entity_id="ent-267" entity_mention_id="m-261" role="org">U.S. Naval War College</rel_arg2>
+        <trigger source="NYT_ENG_20131214.0167" offset="2941" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1223" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-508" realis="true">
+        <rel_arg1 entity_id="ent-267" entity_mention_id="m-261" role="suborg">U.S. Naval War College</rel_arg1>
+        <rel_arg2 entity_id="ent-84" entity_mention_id="m-246" role="parent">U.S.</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1224" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-518" realis="true">
+        <rel_arg1 entity_id="ent-267" entity_mention_id="m-261" role="org">U.S. Naval War College</rel_arg1>
+        <rel_arg2 entity_id="ent-258" entity_mention_id="m-252" role="loc">Rhode Island</rel_arg2>
+        <trigger source="NYT_ENG_20131214.0167" offset="2971" length="2">on</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1225" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-619" realis="true">
+        <rel_arg1 entity_id="ent-485" entity_mention_id="m-607" role="suborg">state</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-60" role="parent">Chinese</rel_arg2>
+        <trigger source="NYT_ENG_20131214.0167" offset="516" length="7">Chinese</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1226" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-653" realis="true">
+        <rel_arg1 entity_id="ent-644" entity_mention_id="m-638" role="suborg">state television</rel_arg1>
+        <rel_arg2 entity_id="ent-485" entity_mention_id="m-663" role="parent">state</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-669" realis="true">
+        <rel_arg1 entity_id="ent-644" entity_mention_id="m-647" role="suborg">Chinese state television</rel_arg1>
+        <rel_arg2 entity_id="ent-485" entity_mention_id="m-607" role="parent">state</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1227" type="physical" subtype="locatednear">
+      <relation_mention id="relm-709" realis="true">
+        <rel_arg1 entity_id="ent-444" entity_mention_id="m-438" role="entity">its first astronaut</rel_arg1>
+        <rel_arg2 entity_id="ent-635" entity_mention_id="m-691" role="loc">space</rel_arg2>
+        <trigger source="NYT_ENG_20131214.0167" offset="2642" length="4">into</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-297" type="life" subtype="die" realis="other">
+        <trigger source="NYT_ENG_20131214.0167" offset="1292" length="5">death</trigger>
+        <em_arg entity_id="ent-117" entity_mention_id="m-111" role="victim" realis="true">Mao Zedong</em_arg>
+        <em_arg filler_id="f-322" role="time" realis="true">1976</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-415">
+      <event_mention id="em-380" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20131214.0167" offset="2481" length="6">taking</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-216" role="agent" realis="true">China</em_arg>
+        <em_arg entity_id="ent-207" entity_mention_id="m-201" role="person" realis="true">astronauts</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-210" role="destination" realis="true">the moon</em_arg>
+      </event_mention>
+      <event_mention id="em-1314" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20131214.0167" offset="2827" length="7">landing</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-240" role="agent" realis="true">China</em_arg>
+      </event_mention>
+      <event_mention id="em-1342" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20131214.0167" offset="2894" length="7">mission</trigger>
+        <em_arg entity_id="ent-485" entity_mention_id="m-479" role="agent" realis="true">the government</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-477">
+      <event_mention id="em-417" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20131214.0167" offset="2617" length="4">sent</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-234" role="agent" realis="true">China</em_arg>
+        <em_arg entity_id="ent-444" entity_mention_id="m-438" role="person" realis="true">its first astronaut</em_arg>
+        <em_arg filler_id="f-474" role="time" realis="true">2003</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-777">
+      <event_mention id="em-892" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20131214.0167" offset="401" length="8">reported</trigger>
+        <em_arg entity_id="ent-644" entity_mention_id="m-638" role="entity" realis="true">state television</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-890">
+      <event_mention id="em-869" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="NYT_ENG_20131214.0167" offset="579" length="7">carried</trigger>
+        <em_arg filler_id="f-886" role="artifact" realis="true">a solar-powered, robotic rover called the Jade Rabbit, or Yutu in Mandarin Chinese</em_arg>
+        <em_arg filler_id="f-1214" role="instrument" realis="true">The Chang’e-3 landing craft</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1018">
+      <event_mention id="em-997" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="NYT_ENG_20131214.0167" offset="1793" length="8">carrying</trigger>
+        <em_arg filler_id="f-1014" role="artifact" realis="true">a payload more than a dozen times the weight of the 309-pound rover</em_arg>
+        <em_arg filler_id="f-1244" role="instrument" realis="true">The landing craft</em_arg>
+      </event_mention>
+      <event_mention id="em-1049" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="NYT_ENG_20131214.0167" offset="2103" length="8">delivery</trigger>
+        <em_arg filler_id="f-1066" role="artifact" realis="true">payload</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1041">
+      <event_mention id="em-1020" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20131214.0167" offset="1959" length="5">email</trigger>
+        <em_arg entity_id="ent-144" entity_mention_id="m-1043" role="entity" realis="true">a scientist at the Lunar and Planetary Institute in Houston</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1112">
+      <event_mention id="em-1070" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="NYT_ENG_20131214.0167" offset="2194" length="5">bring</trigger>
+        <em_arg filler_id="f-1087" role="artifact" realis="true">rocks</em_arg>
+        <em_arg filler_id="f-1095" role="artifact" realis="true">other samples from the moon</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-180" role="origin" realis="true">the moon</em_arg>
+        <em_arg filler_id="f-1207" role="time" realis="true">before 2020</em_arg>
+        <em_arg filler_id="f-1251" role="instrument" realis="true">Chang’e</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1142">
+      <event_mention id="em-1114" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="NYT_ENG_20131214.0167" offset="2294" length="7">sending</trigger>
+        <em_arg filler_id="f-1131" role="artifact" realis="true">a vehicle</em_arg>
+        <em_arg entity_id="ent-177" entity_mention_id="m-171" role="destination" realis="true">Earth</em_arg>
+        <em_arg filler_id="f-1258" role="instrument" realis="true">a much larger craft capable of sending a vehicle back to Earth</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1178">
+      <event_mention id="em-1144" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="NYT_ENG_20131214.0167" offset="2401" length="10">developing</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-364" role="agent" realis="true">China</em_arg>
+        <em_arg filler_id="f-1169" role="artifact" realis="true">a more powerful launch rocket</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1201">
+      <event_mention id="em-1180" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20131214.0167" offset="2903" length="4">said</trigger>
+        <em_arg entity_id="ent-288" entity_mention_id="m-291" role="entity" realis="true">Joan Johnson-Freese</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1238">
+      <event_mention id="em-1217" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20131214.0167" offset="1655" length="4">said</trigger>
+        <em_arg entity_id="ent-331" entity_mention_id="m-325" role="entity" realis="true">experts</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1282">
+      <event_mention id="em-1261" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20131214.0167" offset="2704" length="8">missions</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-240" role="agent" realis="true">China</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1312">
+      <event_mention id="em-1284" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20131214.0167" offset="2732" length="5">paper</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-240" role="entity" realis="true">China</em_arg>
+        <em_arg filler_id="f-1309" role="time" realis="true">2011</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

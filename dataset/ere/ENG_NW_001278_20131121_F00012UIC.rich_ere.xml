@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000007" doc_id="ENG_NW_001278_20131121_F00012UIC" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="101" length="4">
+        <mention_text>ICRC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-60" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="221" length="4">
+        <mention_text>ICRC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-84" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="294" length="4">
+        <mention_text>ICRC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-126" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="399" length="40">
+        <mention_text>International Committee of the Red Cross</mention_text>
+      </entity_mention>
+      <entity_mention id="m-132" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="441" length="4">
+        <mention_text>ICRC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-165" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="597" length="4">
+        <mention_text>ICRC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-171" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="618" length="4">
+        <mention_text>ICRC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-222" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="830" length="4">
+        <mention_text>ICRC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-258" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="947" length="4">
+        <mention_text>ICRC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-351" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="1341" length="4">
+        <mention_text>ICRC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-396" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="1830" length="4">
+        <mention_text>ICRC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-402" noun_type="PRO" source="ENG_NW_001278_20131121_F00012UIC" offset="1859" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="specificGroup">
+      <entity_mention id="m-24" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="112" length="44">
+        <mention_text>bereaved families in typhoon-hit Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="121" length="8">families</nom_head>
+      </entity_mention>
+      <entity_mention id="m-66" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="232" length="44">
+        <mention_text>bereaved families in typhoon-hit Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="241" length="8">families</nom_head>
+      </entity_mention>
+      <entity_mention id="m-90" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="305" length="44">
+        <mention_text>bereaved families in typhoon-hit Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="314" length="8">families</nom_head>
+      </entity_mention>
+      <entity_mention id="m-138" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="472" length="123">
+        <mention_text>those who lost contact with their kinsfolks since supertyphoon Haiyan, or Yolanda, devastated central Philippines on Nov. 8</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="472" length="5">those</nom_head>
+      </entity_mention>
+      <entity_mention id="m-270" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="967" length="54">
+        <mention_text>around 35,000 people within the Philippines and beyond</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="981" length="6">people</nom_head>
+      </entity_mention>
+      <entity_mention id="m-309" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="1148" length="61">
+        <mention_text>Families with no information on the whereabouts of loved ones</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="1148" length="8">Families</nom_head>
+      </entity_mention>
+      <entity_mention id="m-321" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="1230" length="6">
+        <mention_text>People</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="1230" length="6">People</nom_head>
+      </entity_mention>
+      <entity_mention id="m-333" noun_type="PRO" source="ENG_NW_001278_20131121_F00012UIC" offset="1288" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-363" noun_type="PRO" source="ENG_NW_001278_20131121_F00012UIC" offset="1370" length="4">
+        <mention_text>They</mention_text>
+      </entity_mention>
+      <entity_mention id="m-965" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="1074" length="6">
+        <mention_text>family</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="1074" length="6">family</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="145" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-72" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="265" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-96" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="338" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-159" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="574" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-195" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="703" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-276" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="999" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-297" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="1044" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-408" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="1886" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specificGroup">
+      <entity_mention id="m-42" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="163" length="9">
+        <mention_text>kinsfolks</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="163" length="9">kinsfolks</nom_head>
+      </entity_mention>
+      <entity_mention id="m-78" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="283" length="9">
+        <mention_text>kinsfolks</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="283" length="9">kinsfolks</nom_head>
+      </entity_mention>
+      <entity_mention id="m-102" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="356" length="9">
+        <mention_text>kinsfolks</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="356" length="9">kinsfolks</nom_head>
+      </entity_mention>
+      <entity_mention id="m-144" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="500" length="15">
+        <mention_text>their kinsfolks</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="506" length="9">kinsfolks</nom_head>
+      </entity_mention>
+      <entity_mention id="m-303" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="1074" length="70">
+        <mention_text>family members who have gone missing in connection with Typhoon Haiyan</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="1081" length="7">members</nom_head>
+      </entity_mention>
+      <entity_mention id="m-315" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="1199" length="10">
+        <mention_text>loved ones</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="1205" length="4">ones</nom_head>
+      </entity_mention>
+      <entity_mention id="m-327" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="1288" length="23">
+        <mention_text>their missing relatives</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="1302" length="9">relatives</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-57" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-51" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="193" length="11">
+        <mention_text>Zhao Jiemin</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-114" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-108" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="367" length="6">
+        <mention_text>MANILA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-264" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="952" length="6">
+        <mention_text>Manila</mention_text>
+      </entity_mention>
+      <entity_mention id="m-357" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="1360" length="6">
+        <mention_text>Manila</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-123" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-117" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="384" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-156" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-150" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="566" length="19">
+        <mention_text>central Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="574" length="11">Philippines</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-183" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-177" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="640" length="17">
+        <mention_text>a forensic expert</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="651" length="6">expert</nom_head>
+      </entity_mention>
+      <entity_mention id="m-210" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="815" length="13">
+        <mention_text>Andres Patino</mention_text>
+      </entity_mention>
+      <entity_mention id="m-216" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="830" length="45">
+        <mention_text>ICRC's expert in humanitarian forensic action</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="837" length="6">expert</nom_head>
+      </entity_mention>
+      <entity_mention id="m-228" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="880" length="51">
+        <mention_text>the first forensic specialist to arrive in Tacloban</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="899" length="10">specialist</nom_head>
+      </entity_mention>
+      <entity_mention id="m-369" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="1493" length="6">
+        <mention_text>Patino</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-192" type="PER" specificity="specificGroup">
+      <entity_mention id="m-186" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="699" length="26">
+        <mention_text>the Philippine authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="714" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-207" type="PER" specificity="specificGroup">
+      <entity_mention id="m-375" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="1586" length="11">
+        <mention_text>the victims</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="1590" length="7">victims</nom_head>
+      </entity_mention>
+      <entity_mention id="m-381" noun_type="PRO" source="ENG_NW_001278_20131121_F00012UIC" offset="1613" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-240" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-234" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="923" length="8">
+        <mention_text>Tacloban</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-255" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-288" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="1044" length="20">
+        <mention_text>Philippine Red Cross</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-294" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-339" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="1319" length="14">
+        <mention_text>Nancy Fournier</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-393" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-387" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="1733" length="15">
+        <mention_text>most facilities</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="1738" length="10">facilities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-420" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-414" noun_type="NAM" source="ENG_NW_001278_20131121_F00012UIC" offset="1907" length="3">
+        <mention_text>WHO</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-971" type="PER" specificity="specificGroup">
+      <entity_mention id="m-345" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="1337" length="29">
+        <mention_text>the ICRC delegation in Manila</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="1346" length="10">delegation</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-974" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-249" noun_type="NOM" source="ENG_NW_001278_20131121_F00012UIC" offset="947" length="18">
+        <mention_text>ICRC Manila office</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00012UIC" offset="959" length="6">office</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-995" source="ENG_NW_001278_20131121_F00012UIC" offset="899" length="10" type="title">specialist</filler>
+    <filler id="f-696" source="ENG_NW_001278_20131121_F00012UIC" offset="607" length="8" type="time" nom_time="2013-11-21">Thursday</filler>
+  </fillers>
+  <relations>
+    <relation id="r-174" type="physical" subtype="locatednear">
+      <relation_mention id="relm-423" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-24" role="entity">bereaved families in typhoon-hit Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-33" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="130" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-443" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-66" role="entity">bereaved families in typhoon-hit Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-72" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="250" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-463" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-90" role="entity">bereaved families in typhoon-hit Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-96" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="323" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-175" type="personalsocial" subtype="family">
+      <relation_mention id="relm-433" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-24" role="per">bereaved families in typhoon-hit Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-42" role="per">kinsfolks</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="163" length="9">kinsfolks</trigger>
+      </relation_mention>
+      <relation_mention id="relm-453" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-66" role="per">bereaved families in typhoon-hit Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-78" role="per">kinsfolks</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="283" length="9">kinsfolks</trigger>
+      </relation_mention>
+      <relation_mention id="relm-473" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-90" role="per">bereaved families in typhoon-hit Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-102" role="per">kinsfolks</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="356" length="9">kinsfolks</trigger>
+      </relation_mention>
+      <relation_mention id="relm-483" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-138" role="per">those who lost contact with their kinsfolks since supertyphoon Haiyan, or Yolanda, devastated central Philippines on Nov. 8</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-144" role="per">their kinsfolks</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="506" length="9">kinsfolks</trigger>
+      </relation_mention>
+      <relation_mention id="relm-583" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-965" role="per">family</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-303" role="per">family members who have gone missing in connection with Typhoon Haiyan</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="1074" length="6">family</trigger>
+      </relation_mention>
+      <relation_mention id="relm-603" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-333" role="per">their</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-327" role="per">their missing relatives</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="1302" length="9">relatives</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-176" type="physical" subtype="locatednear">
+      <relation_mention id="relm-493" realis="true">
+        <rel_arg1 entity_id="ent-156" entity_mention_id="m-150" role="entity">central Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-159" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="566" length="7">central</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-177" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-503" realis="true">
+        <rel_arg1 entity_id="ent-192" entity_mention_id="m-186" role="employeemember">the Philippine authorities</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-195" role="org">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="714" length="11">authorities</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-178" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-513" realis="true">
+        <rel_arg1 entity_id="ent-183" entity_mention_id="m-216" role="employeemember">ICRC's expert in humanitarian forensic action</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-222" role="org">ICRC</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="830" length="6">ICRC's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-179" type="physical" subtype="locatednear">
+      <relation_mention id="relm-523" realis="true">
+        <rel_arg1 entity_id="ent-183" entity_mention_id="m-228" role="entity">the first forensic specialist to arrive in Tacloban</rel_arg1>
+        <rel_arg2 entity_id="ent-240" entity_mention_id="m-234" role="loc">Tacloban</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="920" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-180" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-533" realis="true">
+        <rel_arg1 entity_id="ent-974" entity_mention_id="m-249" role="suborg">ICRC Manila office</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-258" role="parent">ICRC</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="959" length="6">office</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-181" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-543" realis="true">
+        <rel_arg1 entity_id="ent-974" entity_mention_id="m-249" role="org">ICRC Manila office</rel_arg1>
+        <rel_arg2 entity_id="ent-114" entity_mention_id="m-264" role="loc">Manila</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-182" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-573" realis="true">
+        <rel_arg1 entity_id="ent-255" entity_mention_id="m-288" role="org">Philippine Red Cross</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-297" role="loc">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="1044" length="10">Philippine</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-183" type="personalsocial" subtype="unspecified">
+      <relation_mention id="relm-593" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-309" role="per">Families with no information on the whereabouts of loved ones</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-315" role="per">loved ones</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="1199" length="5">loved</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-184" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-613" realis="true">
+        <rel_arg1 entity_id="ent-294" entity_mention_id="m-339" role="employeemember">Nancy Fournier</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-351" role="org">ICRC</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="1334" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-185" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-623" realis="true">
+        <rel_arg1 entity_id="ent-971" entity_mention_id="m-345" role="employeemember">the ICRC delegation in Manila</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-351" role="org">ICRC</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-186" type="physical" subtype="locatednear">
+      <relation_mention id="relm-633" realis="true">
+        <rel_arg1 entity_id="ent-971" entity_mention_id="m-345" role="entity">the ICRC delegation in Manila</rel_arg1>
+        <rel_arg2 entity_id="ent-114" entity_mention_id="m-357" role="loc">Manila</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="1357" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-187" type="personalsocial" subtype="role">
+      <relation_mention id="relm-987" realis="true">
+        <rel_arg1 entity_id="ent-183" entity_mention_id="m-228" role="per">the first forensic specialist to arrive in Tacloban</rel_arg1>
+        <rel_arg2 filler_id="f-995" role="role">specialist</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-643" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="487" length="7">contact</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-138" role="entity" realis="true">those who lost contact with their kinsfolks since supertyphoon Haiyan, or Yolanda, devastated central Philippines on Nov. 8</em_arg>
+        <em_arg entity_id="ent-48" entity_mention_id="m-144" role="entity" realis="true">their kinsfolks</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-699">
+      <event_mention id="em-671" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="602" length="4">said</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-165" role="entity" realis="true">ICRC</em_arg>
+        <em_arg filler_id="f-696" role="time" realis="true">Thursday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-729">
+      <event_mention id="em-701" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="635" length="4">sent</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-171" role="agent" realis="true">ICRC</em_arg>
+        <em_arg entity_id="ent-183" entity_mention_id="m-177" role="person" realis="true">a forensic expert</em_arg>
+      </event_mention>
+      <event_mention id="em-798" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="913" length="6">arrive</trigger>
+        <em_arg entity_id="ent-183" entity_mention_id="m-228" role="agent" realis="true">the first forensic specialist to arrive in Tacloban</em_arg>
+        <em_arg entity_id="ent-240" entity_mention_id="m-234" role="destination" realis="true">Tacloban</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-752">
+      <event_mention id="em-731" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="758" length="4">dead</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-195" role="place" realis="true">Philippine</em_arg>
+      </event_mention>
+      <event_mention id="em-923" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="1590" length="7">victims</trigger>
+        <em_arg entity_id="ent-207" entity_mention_id="m-375" role="victim" realis="true">the victims</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-796">
+      <event_mention id="em-775" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="810" length="4">said</trigger>
+        <em_arg entity_id="ent-183" entity_mention_id="m-210" role="entity" realis="true">Andres Patino</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-847">
+      <event_mention id="em-826" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="934" length="12">According to</trigger>
+        <em_arg entity_id="ent-974" entity_mention_id="m-249" role="entity" realis="true">ICRC Manila office</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-877">
+      <event_mention id="em-849" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="1034" length="5">asked</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-270" role="entity" realis="true">around 35,000 people within the Philippines and beyond</em_arg>
+        <em_arg entity_id="ent-255" entity_mention_id="m-288" role="entity" realis="true">Philippine Red Cross</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-900">
+      <event_mention id="em-879" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131121_F00012UIC" offset="1314" length="4">said</trigger>
+        <em_arg entity_id="ent-294" entity_mention_id="m-339" role="entity" realis="true">Nancy Fournier</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

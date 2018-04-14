@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000051" doc_id="NYT_ENG_20130811.0067" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="172" length="15">
+        <mention_text>LEAKER'S FATHER</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="181" length="6">FATHER</nom_head>
+      </entity_mention>
+      <entity_mention id="m-33" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="193" length="2">
+        <mention_text>HE</mention_text>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="257" length="26">
+        <mention_text>Edward J. Snowden’s father</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="277" length="6">father</nom_head>
+      </entity_mention>
+      <entity_mention id="m-150" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="642" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-156" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="662" length="11">
+        <mention_text>Lon Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-162" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="675" length="10">
+        <mention_text>the father</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="679" length="6">father</nom_head>
+      </entity_mention>
+      <entity_mention id="m-192" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="785" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-198" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="793" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-210" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="804" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-216" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="879" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-222" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="889" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-228" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="925" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-240" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="941" length="2">
+        <mention_text>my</mention_text>
+      </entity_mention>
+      <entity_mention id="m-252" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="1006" length="11">
+        <mention_text>Lon Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-441" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2117" length="11">
+        <mention_text>Lon Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-609" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2708" length="11">
+        <mention_text>Lon Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-615" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="2721" length="101">
+        <mention_text>a Pennsylvania resident who served in the U.S. Coast Guard for about 30 years before retiring in 2009</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="2736" length="8">resident</nom_head>
+      </entity_mention>
+      <entity_mention id="m-645" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="2861" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-663" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="2998" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-669" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="3016" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-681" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="3037" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-942" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3982" length="11">
+        <mention_text>Lon Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-948" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="3998" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-969" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="4057" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-981" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="4123" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1011" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="4242" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="172" length="6">
+        <mention_text>LEAKER</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="172" length="6">LEAKER</nom_head>
+      </entity_mention>
+      <entity_mention id="m-39" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="207" length="3">
+        <mention_text>SON</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="207" length="3">SON</nom_head>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="257" length="17">
+        <mention_text>Edward J. Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-102" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="358" length="34">
+        <mention_text>the former intelligence contractor</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="382" length="10">contractor</nom_head>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="443" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="804" length="7">
+        <mention_text>his son</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="808" length="3">son</nom_head>
+      </entity_mention>
+      <entity_mention id="m-234" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="941" length="6">
+        <mention_text>my son</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="944" length="3">son</nom_head>
+      </entity_mention>
+      <entity_mention id="m-321" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="1251" length="14">
+        <mention_text>Edward Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-342" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="1541" length="6">
+        <mention_text>Edward</mention_text>
+      </entity_mention>
+      <entity_mention id="m-447" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2155" length="14">
+        <mention_text>Edward Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-474" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="2232" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-480" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="2265" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-516" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2389" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-528" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="2421" length="13">
+        <mention_text>the young man</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="2431" length="3">man</nom_head>
+      </entity_mention>
+      <entity_mention id="m-534" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="2501" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-555" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="2524" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-561" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="2537" length="80">
+        <mention_text>an intelligence contractor with access to a huge array of government information</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="2553" length="10">contractor</nom_head>
+      </entity_mention>
+      <entity_mention id="m-591" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="2639" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-657" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="2962" length="17">
+        <mention_text>a wanted fugitive</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="2971" length="8">fugitive</nom_head>
+      </entity_mention>
+      <entity_mention id="m-675" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="3037" length="7">
+        <mention_text>his son</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="3041" length="3">son</nom_head>
+      </entity_mention>
+      <entity_mention id="m-687" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3058" length="6">
+        <mention_text>Edward</mention_text>
+      </entity_mention>
+      <entity_mention id="m-744" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3281" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-762" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3349" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-768" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="3386" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-789" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="3435" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-819" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="3500" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-837" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3686" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-915" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3902" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-921" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="3937" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-975" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="4123" length="7">
+        <mention_text>his son</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="4127" length="3">son</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-51" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-45" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="214" length="6">
+        <mention_text>RUSSIA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-108" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="396" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-453" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2194" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-468" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="2218" length="5">
+        <mention_text>there</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="2218" length="5">there</nom_head>
+      </entity_mention>
+      <entity_mention id="m-522" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2409" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-603" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2691" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-651" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2896" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-726" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3197" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-738" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3240" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-60" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-54" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="244" length="10">
+        <mention_text>WASHINGTON</mention_text>
+      </entity_mention>
+      <entity_mention id="m-369" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="1665" length="10">
+        <mention_text>Washington</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-81" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-75" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="288" length="19">
+        <mention_text>the family’s lawyer</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="301" length="6">lawyer</nom_head>
+      </entity_mention>
+      <entity_mention id="m-258" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="1022" length="19">
+        <mention_text>the family’s lawyer</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="1035" length="6">lawyer</nom_head>
+      </entity_mention>
+      <entity_mention id="m-270" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="1043" length="10">
+        <mention_text>Bruce Fein</mention_text>
+      </entity_mention>
+      <entity_mention id="m-282" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="1108" length="4">
+        <mention_text>Fein</mention_text>
+      </entity_mention>
+      <entity_mention id="m-357" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="1646" length="4">
+        <mention_text>Fein</mention_text>
+      </entity_mention>
+      <entity_mention id="m-363" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="1652" length="86">
+        <mention_text>a well-known Washington lawyer who specializes in constitutional and international law</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="1676" length="6">lawyer</nom_head>
+      </entity_mention>
+      <entity_mention id="m-381" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="1754" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-387" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="1859" length="4">
+        <mention_text>Fein</mention_text>
+      </entity_mention>
+      <entity_mention id="m-393" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="1875" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-399" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="1891" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-423" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="2006" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-429" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="2033" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-435" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2108" length="4">
+        <mention_text>Fein</mention_text>
+      </entity_mention>
+      <entity_mention id="m-495" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2351" length="4">
+        <mention_text>Fein</mention_text>
+      </entity_mention>
+      <entity_mention id="m-501" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="2369" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-90" type="PER" specificity="specificGroup">
+      <entity_mention id="m-84" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="288" length="10">
+        <mention_text>the family</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="292" length="6">family</nom_head>
+      </entity_mention>
+      <entity_mention id="m-264" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="1022" length="10">
+        <mention_text>the family</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="1026" length="6">family</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-99" type="PER" specificity="specificGroup">
+      <entity_mention id="m-93" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="325" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-114" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="422" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-276" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="1076" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-306" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="1147" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-336" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="1517" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-132" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-126" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="464" length="13">
+        <mention_text>United States</mention_text>
+      </entity_mention>
+      <entity_mention id="m-135" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="523" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-186" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="736" length="8">
+        <mention_text>American</mention_text>
+      </entity_mention>
+      <entity_mention id="m-630" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2763" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-732" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3224" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-783" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3417" length="8">
+        <mention_text>American</mention_text>
+      </entity_mention>
+      <entity_mention id="m-795" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="3447" length="4">
+        <mention_text>here</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="3447" length="4">here</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-147" type="PER" specificity="specificGroup">
+      <entity_mention id="m-141" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="553" length="11">
+        <mention_text>journalists</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="553" length="11">journalists</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-174" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-168" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="716" length="10">
+        <mention_text>open court</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="721" length="5">court</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-183" type="PER" specificity="specificGroup">
+      <entity_mention id="m-177" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="732" length="19">
+        <mention_text>the American people</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="745" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-303" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-297" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="976" length="8">
+        <mention_text>ABC News</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-318" type="PER" specificity="specificGroup">
+      <entity_mention id="m-312" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="1223" length="19">
+        <mention_text>federal prosecutors</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="1231" length="11">prosecutors</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-333" type="PER" specificity="nonspecific">
+      <entity_mention id="m-327" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="1407" length="22">
+        <mention_text>an unauthorized person</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="1423" length="6">person</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-354" type="PER" specificity="nonspecific">
+      <entity_mention id="m-348" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="1560" length="78">
+        <mention_text>criminal defense attorneys who’ve got experience in Espionage Act prosecutions</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="1577" length="9">attorneys</nom_head>
+      </entity_mention>
+      <entity_mention id="m-375" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="1740" length="12">
+        <mention_text>Such lawyers</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="1745" length="7">lawyers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-411" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-405" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="1939" length="9">
+        <mention_text>its venue</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="1943" length="5">venue</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-420" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-414" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="1982" length="18">
+        <mention_text>Eric H. Holder Jr.</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-465" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-459" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="2202" length="21">
+        <mention_text>The authorities there</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="2206" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-492" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-486" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2307" length="24">
+        <mention_text>National Security Agency</mention_text>
+      </entity_mention>
+      <entity_mention id="m-597" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2662" length="3">
+        <mention_text>NSA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-831" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3622" length="3">
+        <mention_text>NSA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-513" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-507" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="2389" length="26">
+        <mention_text>Snowden’s lawyer in Russia</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="2399" length="6">lawyer</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-546" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-540" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2510" length="6">
+        <mention_text>Hawaii</mention_text>
+      </entity_mention>
+      <entity_mention id="m-549" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="2518" length="5">
+        <mention_text>where</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-573" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-567" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="2595" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="2595" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-582" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-576" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2622" length="9">
+        <mention_text>Hong Kong</mention_text>
+      </entity_mention>
+      <entity_mention id="m-585" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="2633" length="5">
+        <mention_text>where</mention_text>
+      </entity_mention>
+      <entity_mention id="m-693" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3073" length="9">
+        <mention_text>Hong Kong</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-627" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-621" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2723" length="12">
+        <mention_text>Pennsylvania</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-642" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-636" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="2763" length="16">
+        <mention_text>U.S. Coast Guard</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-705" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-699" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3114" length="12">
+        <mention_text>Barack Obama</mention_text>
+      </entity_mention>
+      <entity_mention id="m-750" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="3302" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-756" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3330" length="5">
+        <mention_text>Obama</mention_text>
+      </entity_mention>
+      <entity_mention id="m-825" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="3538" length="13">
+        <mention_text>the president</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="3542" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-909" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3887" length="5">
+        <mention_text>Obama</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-714" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-708" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3157" length="6">
+        <mention_text>Moscow</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-723" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-717" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3179" length="14">
+        <mention_text>Vladimir Putin</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-780" type="PER" specificity="nonspecific">
+      <entity_mention id="m-774" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="3411" length="22">
+        <mention_text>every American citizen</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="3426" length="7">citizen</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-807" type="ORG" specificity="nonspecific">
+      <entity_mention id="m-801" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="3467" length="9">
+        <mention_text>the court</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="3471" length="5">court</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-816" type="PER" specificity="nonspecific">
+      <entity_mention id="m-810" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="3482" length="8">
+        <mention_text>a lawyer</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="3484" length="6">lawyer</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-849" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-843" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3723" length="13">
+        <mention_text>Peter T. King</mention_text>
+      </entity_mention>
+      <entity_mention id="m-852" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="3749" length="44">
+        <mention_text>a member of the House Intelligence Committee</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="3751" length="6">member</nom_head>
+      </entity_mention>
+      <entity_mention id="m-903" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="3854" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-936" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3958" length="4">
+        <mention_text>King</mention_text>
+      </entity_mention>
+      <entity_mention id="m-954" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="4020" length="4">
+        <mention_text>King</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-864" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-858" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3738" length="1">
+        <mention_text>R</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-873" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-867" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3740" length="4">
+        <mention_text>N.Y.</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-882" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-876" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3765" length="28">
+        <mention_text>House Intelligence Committee</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-891" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-885" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3765" length="5">
+        <mention_text>House</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-900" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-894" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3814" length="8">
+        <mention_text>CBS News</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-933" type="PER" specificity="nonspecific">
+      <entity_mention id="m-927" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="3946" length="9">
+        <mention_text>a patriot</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="3948" length="7">patriot</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-966" type="PER" specificity="specificGroup">
+      <entity_mention id="m-960" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="4031" length="130">
+        <mention_text>the congressional leaders he said had leapt to “absolutely irresponsible” conclusions about his son before any trial had been held</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="4049" length="7">leaders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-987" noun_type="PRO" source="NYT_ENG_20130811.0067" offset="4164" length="4">
+        <mention_text>They</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-999" type="PER" specificity="nonspecific">
+      <entity_mention id="m-993" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="4218" length="21">
+        <mention_text>a potential jury pool</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="4235" length="4">pool</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1008" type="PER" specificity="nonspecific">
+      <entity_mention id="m-1002" noun_type="NOM" source="NYT_ENG_20130811.0067" offset="4230" length="4">
+        <mention_text>jury</mention_text>
+        <nom_head source="NYT_ENG_20130811.0067" offset="4230" length="4">jury</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2615" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-2609" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="976" length="3">
+        <mention_text>ABC</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2624" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-2618" noun_type="NAM" source="NYT_ENG_20130811.0067" offset="3814" length="3">
+        <mention_text>CBS</mention_text>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-1135" source="NYT_ENG_20130811.0067" offset="382" length="10" type="title">contractor</filler>
+    <filler id="f-1164" source="NYT_ENG_20130811.0067" offset="301" length="6" type="title">lawyer</filler>
+    <filler id="f-1184" source="NYT_ENG_20130811.0067" offset="1035" length="6" type="title">lawyer</filler>
+    <filler id="f-1194" source="NYT_ENG_20130811.0067" offset="1577" length="9" type="title">attorneys</filler>
+    <filler id="f-1204" source="NYT_ENG_20130811.0067" offset="1676" length="6" type="title">lawyer</filler>
+    <filler id="f-1224" source="NYT_ENG_20130811.0067" offset="1745" length="7" type="title">lawyers</filler>
+    <filler id="f-1234" source="NYT_ENG_20130811.0067" offset="1231" length="11" type="title">prosecutors</filler>
+    <filler id="f-1244" source="NYT_ENG_20130811.0067" offset="1965" length="16" type="title">Attorney General</filler>
+    <filler id="f-1284" source="NYT_ENG_20130811.0067" offset="2399" length="6" type="title">lawyer</filler>
+    <filler id="f-1320" source="NYT_ENG_20130811.0067" offset="2553" length="10" type="title">contractor</filler>
+    <filler id="f-1440" source="NYT_ENG_20130811.0067" offset="3104" length="9" type="title">President</filler>
+    <filler id="f-1470" source="NYT_ENG_20130811.0067" offset="3169" length="9" type="title">President</filler>
+    <filler id="f-1520" source="NYT_ENG_20130811.0067" offset="3484" length="6" type="title">lawyer</filler>
+    <filler id="f-1530" source="NYT_ENG_20130811.0067" offset="3542" length="9" type="title">president</filler>
+    <filler id="f-1540" source="NYT_ENG_20130811.0067" offset="3718" length="4" type="title">Rep.</filler>
+    <filler id="f-1725" source="NYT_ENG_20130811.0067" offset="313" length="6" type="time" nom_time="2013-08-11">Sunday</filler>
+    <filler id="f-1788" source="NYT_ENG_20130811.0067" offset="343" length="59" type="commodity">visas to visit the former intelligence contractor in Russia</filler>
+    <filler id="f-2203" source="NYT_ENG_20130811.0067" offset="2818" length="4" type="time" nom_time="2009-xx-xx">2009</filler>
+    <filler id="f-2240" source="NYT_ENG_20130811.0067" offset="382" length="10" type="title">contractor</filler>
+    <filler id="f-2416" source="NYT_ENG_20130811.0067" offset="3093" length="9" type="time" nom_time="2013-08-xx">Last week</filler>
+    <filler id="f-2446" source="NYT_ENG_20130811.0067" offset="3322" length="6" type="time" nom_time="2013-08-09">Friday</filler>
+    <filler id="f-2583" source="NYT_ENG_20130811.0067" offset="3800" length="6" type="time" nom_time="2013-08-11">Sunday</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1384" type="personalsocial" subtype="family">
+      <relation_mention id="relm-1017" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-18" role="per">LEAKER'S FATHER</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-24" role="per">LEAKER</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="181" length="6">FATHER</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1047" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-63" role="per">Edward J. Snowden’s father</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-69" role="per">Edward J. Snowden</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="277" length="6">father</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1107" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-204" role="per">his son</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-210" role="per">his</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="808" length="3">son</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1117" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-234" role="per">my son</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-240" role="per">my</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="944" length="3">son</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1412" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-675" role="per">his son</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-681" role="per">his</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="3041" length="3">son</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1582" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-975" role="per">his son</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-981" role="per">his</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="4127" length="3">son</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1683" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-33" role="per">HE</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-39" role="per">SON</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="207" length="3">SON</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1385" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1027" realis="false">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-33" role="entity">HE</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-45" role="loc">RUSSIA</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="211" length="2">IN</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1402" realis="false">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-645" role="entity">he</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-651" role="loc">Russia</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="2893" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1386" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1037" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-39" role="entity">SON</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-45" role="loc">RUSSIA</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="211" length="2">IN</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1077" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-102" role="entity">the former intelligence contractor</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-108" role="loc">Russia</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="393" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1342" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-534" role="entity">him</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-603" role="loc">Russia</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="2688" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1387" type="personalsocial" subtype="business">
+      <relation_mention id="relm-1057" realis="true">
+        <rel_arg1 entity_id="ent-81" entity_mention_id="m-75" role="per">the family’s lawyer</rel_arg1>
+        <rel_arg2 entity_id="ent-90" entity_mention_id="m-84" role="per">the family</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="292" length="8">family’s</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1166" realis="true">
+        <rel_arg1 entity_id="ent-81" entity_mention_id="m-258" role="per">the family’s lawyer</rel_arg1>
+        <rel_arg2 entity_id="ent-90" entity_mention_id="m-264" role="per">the family</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="1026" length="8">family’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1388" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1067" realis="false">
+        <rel_arg1 entity_id="ent-99" entity_mention_id="m-93" role="entity">they</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-108" role="loc">Russia</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="393" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1389" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1087" realis="false">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-120" role="entity">him</rel_arg1>
+        <rel_arg2 entity_id="ent-132" entity_mention_id="m-126" role="loc">United States</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="457" length="2">to</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1492" realis="false">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-789" role="entity">he</rel_arg1>
+        <rel_arg2 entity_id="ent-132" entity_mention_id="m-795" role="loc">here</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="3442" length="4">come</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1390" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-1097" realis="true">
+        <rel_arg1 entity_id="ent-183" entity_mention_id="m-177" role="per">the American people</rel_arg1>
+        <rel_arg2 entity_id="ent-132" entity_mention_id="m-186" role="entity">American</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="736" length="8">American</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1391" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1127" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-102" role="per">the former intelligence contractor</rel_arg1>
+        <rel_arg2 filler_id="f-1135" role="role">contractor</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1312" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-561" role="per">an intelligence contractor with access to a huge array of government information</rel_arg1>
+        <rel_arg2 filler_id="f-1320" role="role">contractor</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1392" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1156" realis="true">
+        <rel_arg1 entity_id="ent-81" entity_mention_id="m-75" role="per">the family’s lawyer</rel_arg1>
+        <rel_arg2 filler_id="f-1164" role="role">lawyer</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1176" realis="true">
+        <rel_arg1 entity_id="ent-81" entity_mention_id="m-258" role="per">the family’s lawyer</rel_arg1>
+        <rel_arg2 filler_id="f-1184" role="role">lawyer</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1196" realis="true">
+        <rel_arg1 entity_id="ent-81" entity_mention_id="m-363" role="per">a well-known Washington lawyer who specializes in constitutional and international law</rel_arg1>
+        <rel_arg2 filler_id="f-1204" role="role">lawyer</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1393" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1186" realis="true">
+        <rel_arg1 entity_id="ent-354" entity_mention_id="m-348" role="per">criminal defense attorneys who’ve got experience in Espionage Act prosecutions</rel_arg1>
+        <rel_arg2 filler_id="f-1194" role="role">attorneys</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1216" realis="true">
+        <rel_arg1 entity_id="ent-354" entity_mention_id="m-375" role="per">Such lawyers</rel_arg1>
+        <rel_arg2 filler_id="f-1224" role="role">lawyers</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1394" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1206" realis="true">
+        <rel_arg1 entity_id="ent-81" entity_mention_id="m-363" role="entity">a well-known Washington lawyer who specializes in constitutional and international law</rel_arg1>
+        <rel_arg2 entity_id="ent-60" entity_mention_id="m-369" role="loc">Washington</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1395" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1226" realis="true">
+        <rel_arg1 entity_id="ent-318" entity_mention_id="m-312" role="per">federal prosecutors</rel_arg1>
+        <rel_arg2 filler_id="f-1234" role="role">prosecutors</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1396" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1236" realis="true">
+        <rel_arg1 entity_id="ent-420" entity_mention_id="m-414" role="per">Eric H. Holder Jr.</rel_arg1>
+        <rel_arg2 filler_id="f-1244" role="role">Attorney General</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1397" type="physical" subtype="resident">
+      <relation_mention id="relm-1246" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-447" role="per">Edward Snowden</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-453" role="loc">Russia</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="2172" length="6">living</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1398" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1256" realis="true">
+        <rel_arg1 entity_id="ent-465" entity_mention_id="m-459" role="org">The authorities there</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-468" role="loc">there</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="2218" length="5">there</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1399" type="personalsocial" subtype="business">
+      <relation_mention id="relm-1266" realis="true">
+        <rel_arg1 entity_id="ent-513" entity_mention_id="m-507" role="per">Snowden’s lawyer in Russia</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-516" role="per">Snowden</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="2389" length="9">Snowden’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1400" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1276" realis="true">
+        <rel_arg1 entity_id="ent-513" entity_mention_id="m-507" role="per">Snowden’s lawyer in Russia</rel_arg1>
+        <rel_arg2 filler_id="f-1284" role="role">lawyer</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1401" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1286" realis="true">
+        <rel_arg1 entity_id="ent-513" entity_mention_id="m-507" role="entity">Snowden’s lawyer in Russia</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-522" role="loc">Russia</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="2406" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1402" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1296" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-555" role="entity">he</rel_arg1>
+        <rel_arg2 entity_id="ent-546" entity_mention_id="m-549" role="loc">where</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="2518" length="5">where</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1352" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-534" role="entity">him</rel_arg1>
+        <rel_arg2 entity_id="ent-546" entity_mention_id="m-540" role="loc">Hawaii</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="2505" length="4">from</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1403" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1332" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-591" role="entity">he</rel_arg1>
+        <rel_arg2 entity_id="ent-582" entity_mention_id="m-585" role="loc">where</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="2633" length="5">where</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1362" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-534" role="entity">him</rel_arg1>
+        <rel_arg2 entity_id="ent-582" entity_mention_id="m-576" role="loc">Hong Kong</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="2619" length="2">to</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1422" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-687" role="entity">Edward</rel_arg1>
+        <rel_arg2 entity_id="ent-582" entity_mention_id="m-693" role="loc">Hong Kong</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="3070" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1404" type="physical" subtype="resident">
+      <relation_mention id="relm-1372" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-615" role="per">a Pennsylvania resident who served in the U.S. Coast Guard for about 30 years before retiring in 2009</rel_arg1>
+        <rel_arg2 entity_id="ent-627" entity_mention_id="m-621" role="loc">Pennsylvania</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="2736" length="8">resident</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1405" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1382" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-615" role="employeemember">a Pennsylvania resident who served in the U.S. Coast Guard for about 30 years before retiring in 2009</rel_arg1>
+        <rel_arg2 entity_id="ent-642" entity_mention_id="m-636" role="org">U.S. Coast Guard</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="2749" length="6">served</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1406" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1392" realis="true">
+        <rel_arg1 entity_id="ent-642" entity_mention_id="m-636" role="suborg">U.S. Coast Guard</rel_arg1>
+        <rel_arg2 entity_id="ent-132" entity_mention_id="m-630" role="parent">U.S.</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1407" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1432" realis="true">
+        <rel_arg1 entity_id="ent-705" entity_mention_id="m-699" role="per">Barack Obama</rel_arg1>
+        <rel_arg2 filler_id="f-1440" role="role">President</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1522" realis="true">
+        <rel_arg1 entity_id="ent-705" entity_mention_id="m-825" role="per">the president</rel_arg1>
+        <rel_arg2 filler_id="f-1530" role="role">president</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1408" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1442" realis="false">
+        <rel_arg1 entity_id="ent-705" entity_mention_id="m-699" role="entity">Barack Obama</rel_arg1>
+        <rel_arg2 entity_id="ent-714" entity_mention_id="m-708" role="loc">Moscow</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="3154" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1409" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1452" realis="false">
+        <rel_arg1 entity_id="ent-723" entity_mention_id="m-717" role="entity">Vladimir Putin</rel_arg1>
+        <rel_arg2 entity_id="ent-714" entity_mention_id="m-708" role="loc">Moscow</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="3154" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1410" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1462" realis="true">
+        <rel_arg1 entity_id="ent-723" entity_mention_id="m-717" role="per">Vladimir Putin</rel_arg1>
+        <rel_arg2 filler_id="f-1470" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1411" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1472" realis="true">
+        <rel_arg1 entity_id="ent-723" entity_mention_id="m-717" role="leader">Vladimir Putin</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-726" role="entity">Russia</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="3169" length="9">President</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1412" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-1482" realis="true">
+        <rel_arg1 entity_id="ent-780" entity_mention_id="m-774" role="per">every American citizen</rel_arg1>
+        <rel_arg2 entity_id="ent-132" entity_mention_id="m-783" role="entity">American</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="3417" length="8">American</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1413" type="personalsocial" subtype="business">
+      <relation_mention id="relm-1502" realis="false">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-789" role="per">he</rel_arg1>
+        <rel_arg2 entity_id="ent-816" entity_mention_id="m-810" role="per">a lawyer</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="3477" length="4">with</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1414" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1512" realis="true">
+        <rel_arg1 entity_id="ent-816" entity_mention_id="m-810" role="per">a lawyer</rel_arg1>
+        <rel_arg2 filler_id="f-1520" role="role">lawyer</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1415" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1532" realis="true">
+        <rel_arg1 entity_id="ent-849" entity_mention_id="m-843" role="per">Peter T. King</rel_arg1>
+        <rel_arg2 filler_id="f-1540" role="role">Rep.</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1416" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1542" realis="true">
+        <rel_arg1 entity_id="ent-849" entity_mention_id="m-843" role="employeemember">Peter T. King</rel_arg1>
+        <rel_arg2 entity_id="ent-864" entity_mention_id="m-858" role="org">R</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1417" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1552" realis="true">
+        <rel_arg1 entity_id="ent-849" entity_mention_id="m-843" role="employeemember">Peter T. King</rel_arg1>
+        <rel_arg2 entity_id="ent-873" entity_mention_id="m-867" role="org">N.Y.</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1418" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1562" realis="true">
+        <rel_arg1 entity_id="ent-849" entity_mention_id="m-852" role="employeemember">a member of the House Intelligence Committee</rel_arg1>
+        <rel_arg2 entity_id="ent-882" entity_mention_id="m-876" role="org">House Intelligence Committee</rel_arg2>
+        <trigger source="NYT_ENG_20130811.0067" offset="3751" length="6">member</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1419" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1572" realis="true">
+        <rel_arg1 entity_id="ent-882" entity_mention_id="m-876" role="suborg">House Intelligence Committee</rel_arg1>
+        <rel_arg2 entity_id="ent-891" entity_mention_id="m-885" role="parent">House</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1420" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-2627" realis="true">
+        <rel_arg1 entity_id="ent-303" entity_mention_id="m-297" role="suborg">ABC News</rel_arg1>
+        <rel_arg2 entity_id="ent-2615" entity_mention_id="m-2609" role="parent">ABC</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1421" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-2647" realis="true">
+        <rel_arg1 entity_id="ent-900" entity_mention_id="m-894" role="suborg">CBS News</rel_arg1>
+        <rel_arg2 entity_id="ent-2624" entity_mention_id="m-2618" role="parent">CBS</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1602" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="188" length="4">SAYS</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-18" role="entity" realis="true">LEAKER'S FATHER</em_arg>
+      </event_mention>
+      <event_mention id="em-1693" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="308" length="4">said</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-63" role="entity" realis="true">Edward J. Snowden’s father</em_arg>
+        <em_arg entity_id="ent-81" entity_mention_id="m-75" role="entity" realis="true">the family’s lawyer</em_arg>
+        <em_arg filler_id="f-1725" role="time" realis="true">Sunday</em_arg>
+      </event_mention>
+      <event_mention id="em-2588" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="4002" length="9">interview</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-948" role="entity" realis="true">his</em_arg>
+      </event_mention>
+      <event_mention id="em-2896" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="1641" length="4">said</trigger>
+        <em_arg entity_id="ent-81" entity_mention_id="m-357" role="entity" realis="true">Fein</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1644">
+      <event_mention id="em-1623" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0067" offset="172" length="6">LEAKER</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-24" role="entity" realis="true">LEAKER</em_arg>
+      </event_mention>
+      <event_mention id="em-1823" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0067" offset="506" length="9">revealing</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-120" role="entity" realis="true">him</em_arg>
+        <em_arg entity_id="ent-147" entity_mention_id="m-141" role="audience" realis="true">journalists</em_arg>
+      </event_mention>
+      <event_mention id="em-1937" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0067" offset="1292" length="13">communication</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-321" role="entity" realis="true">Edward Snowden</em_arg>
+      </event_mention>
+      <event_mention id="em-1960" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0067" offset="1353" length="10">disclosing</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-321" role="entity" realis="true">Edward Snowden</em_arg>
+        <em_arg entity_id="ent-333" entity_mention_id="m-327" role="audience" realis="true">an unauthorized person</em_arg>
+      </event_mention>
+      <event_mention id="em-2245" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0067" offset="2642" length="8">released</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-591" role="entity" realis="true">he</em_arg>
+        <em_arg entity_id="ent-582" entity_mention_id="m-585" role="place" realis="true">where</em_arg>
+      </event_mention>
+      <event_mention id="em-2537" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0067" offset="3696" length="11">revelations</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-837" role="entity" realis="true">Snowden</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1681">
+      <event_mention id="em-1646" type="contact" subtype="meet" realis="other" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="201" length="5">VISIT</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-33" role="entity" realis="true">HE</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-39" role="entity" realis="true">SON</em_arg>
+        <em_arg entity_id="ent-51" entity_mention_id="m-45" role="place" realis="true">RUSSIA</em_arg>
+      </event_mention>
+      <event_mention id="em-1728" type="contact" subtype="meet" realis="other" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="352" length="5">visit</trigger>
+        <em_arg entity_id="ent-99" entity_mention_id="m-93" role="entity" realis="true">they</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-102" role="entity" realis="true">the former intelligence contractor</em_arg>
+        <em_arg entity_id="ent-51" entity_mention_id="m-108" role="place" realis="true">Russia</em_arg>
+      </event_mention>
+      <event_mention id="em-1872" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="1087" length="5">visit</trigger>
+        <em_arg entity_id="ent-99" entity_mention_id="m-276" role="entity" realis="true">they</em_arg>
+      </event_mention>
+      <event_mention id="em-1988" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="1530" length="5">visit</trigger>
+        <em_arg entity_id="ent-99" entity_mention_id="m-336" role="entity" realis="true">We</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-342" role="entity" realis="true">Edward</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1791">
+      <event_mention id="em-1763" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130811.0067" offset="334" length="8">obtained</trigger>
+        <em_arg entity_id="ent-99" entity_mention_id="m-93" role="recipient" realis="true">they</em_arg>
+        <em_arg filler_id="f-1788" role="thing" realis="true">visas to visit the former intelligence contractor in Russia</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1821">
+      <event_mention id="em-1793" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130811.0067" offset="450" length="6">return</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-120" role="agent" realis="true">him</em_arg>
+        <em_arg entity_id="ent-132" entity_mention_id="m-126" role="destination" realis="true">United States</em_arg>
+      </event_mention>
+      <event_mention id="em-1851" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130811.0067" offset="814" length="6">return</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-204" role="agent" realis="true">his son</em_arg>
+      </event_mention>
+      <event_mention id="em-2451" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130811.0067" offset="3442" length="4">come</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-789" role="agent" realis="true">he</em_arg>
+        <em_arg entity_id="ent-132" entity_mention_id="m-795" role="destination" realis="true">here</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1935">
+      <event_mention id="em-1914" type="transaction" subtype="transaction" realis="other" ways="involuntarynoforce">
+        <trigger source="NYT_ENG_20130811.0067" offset="1271" length="5">theft</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-321" role="recipient" realis="true">Edward Snowden</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1958">
+      <event_mention id="em-2016" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="1955" length="6">letter</trigger>
+        <em_arg entity_id="ent-81" entity_mention_id="m-393" role="entity" realis="true">he</em_arg>
+        <em_arg entity_id="ent-420" entity_mention_id="m-414" role="audience" realis="true">Eric H. Holder Jr.</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2065">
+      <event_mention id="em-2044" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0067" offset="2268" length="8">disclose</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-480" role="entity" realis="true">he</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2095">
+      <event_mention id="em-2067" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0067" offset="2381" length="4">told</trigger>
+        <em_arg entity_id="ent-81" entity_mention_id="m-501" role="entity" realis="true">he</em_arg>
+        <em_arg entity_id="ent-513" entity_mention_id="m-507" role="entity" realis="true">Snowden’s lawyer in Russia</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2132">
+      <event_mention id="em-2097" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130811.0067" offset="2483" length="7">odyssey</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-534" role="agent" realis="true">him</em_arg>
+        <em_arg entity_id="ent-546" entity_mention_id="m-540" role="origin" realis="true">Hawaii</em_arg>
+        <em_arg entity_id="ent-582" entity_mention_id="m-576" role="destination" realis="true">Hong Kong</em_arg>
+      </event_mention>
+      <event_mention id="em-2349" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130811.0067" offset="3065" length="4">flew</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-687" role="agent" realis="true">Edward</em_arg>
+        <em_arg entity_id="ent-582" entity_mention_id="m-693" role="destination" realis="true">Hong Kong</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2169">
+      <event_mention id="em-2134" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130811.0067" offset="2685" length="2">on</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-534" role="agent" realis="true">him</em_arg>
+        <em_arg entity_id="ent-582" entity_mention_id="m-576" role="origin" realis="true">Hong Kong</em_arg>
+        <em_arg entity_id="ent-51" entity_mention_id="m-603" role="destination" realis="true">Russia</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2206">
+      <event_mention id="em-2171" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130811.0067" offset="2806" length="8">retiring</trigger>
+        <em_arg entity_id="ent-642" entity_mention_id="m-636" role="entity" realis="true">U.S. Coast Guard</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-615" role="person" realis="true">a Pennsylvania resident who served in the U.S. Coast Guard for about 30 years before retiring in 2009</em_arg>
+        <em_arg filler_id="f-2203" role="time" realis="true">2009</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2243">
+      <event_mention id="em-2208" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130811.0067" offset="362" length="6">former</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-102" role="person" realis="true">the former intelligence contractor</em_arg>
+        <em_arg filler_id="f-2240" role="position" realis="true">contractor</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2294">
+      <event_mention id="em-2273" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="2845" length="10">interviews</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-609" role="entity" realis="true">Lon Snowden</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2317">
+      <event_mention id="em-2296" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0067" offset="3001" length="4">said</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-663" role="entity" realis="true">he</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2347">
+      <event_mention id="em-2319" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0067" offset="3027" length="6">spoken</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-669" role="entity" realis="true">he</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-675" role="entity" realis="true">his son</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2419">
+      <event_mention id="em-2377" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="3146" length="7">meeting</trigger>
+        <em_arg entity_id="ent-705" entity_mention_id="m-699" role="entity" realis="true">Barack Obama</em_arg>
+        <em_arg entity_id="ent-723" entity_mention_id="m-717" role="entity" realis="true">Vladimir Putin</em_arg>
+        <em_arg entity_id="ent-714" entity_mention_id="m-708" role="place" realis="true">Moscow</em_arg>
+        <em_arg filler_id="f-2416" role="time" realis="true">Last week</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2449">
+      <event_mention id="em-2421" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="3311" length="10">conference</trigger>
+        <em_arg entity_id="ent-705" entity_mention_id="m-750" role="entity" realis="true">his</em_arg>
+        <em_arg filler_id="f-2446" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+      <event_mention id="em-2516" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="3566" length="10">conference</trigger>
+        <em_arg entity_id="ent-705" entity_mention_id="m-825" role="entity" realis="true">the president</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2514">
+      <event_mention id="em-2479" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="3460" length="6">before</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-789" role="entity" realis="true">he</em_arg>
+        <em_arg entity_id="ent-807" entity_mention_id="m-801" role="entity" realis="true">the court</em_arg>
+        <em_arg entity_id="ent-816" entity_mention_id="m-810" role="entity" realis="true">a lawyer</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2586">
+      <event_mention id="em-2558" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="3795" length="4">said</trigger>
+        <em_arg entity_id="ent-849" entity_mention_id="m-843" role="entity" realis="true">Peter T. King</em_arg>
+        <em_arg filler_id="f-2583" role="time" realis="true">Sunday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2739">
+      <event_mention id="em-2711" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="930" length="5">share</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-228" role="entity" realis="true">I</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-234" role="entity" realis="true">my son</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2811">
+      <event_mention id="em-2783" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="1067" length="3">say</trigger>
+        <em_arg entity_id="ent-81" entity_mention_id="m-270" role="entity" realis="true">Bruce Fein</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-252" role="entity" realis="true">Lon Snowden</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2834">
+      <event_mention id="em-2813" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="1198" length="9">complaint</trigger>
+        <em_arg entity_id="ent-318" entity_mention_id="m-312" role="entity" realis="true">federal prosecutors</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2894">
+      <event_mention id="em-2866" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0067" offset="3893" length="8">denounce</trigger>
+        <em_arg entity_id="ent-705" entity_mention_id="m-909" role="entity" realis="true">Obama</em_arg>
+        <em_arg entity_id="ent-849" entity_mention_id="m-903" role="audience" realis="true">he</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

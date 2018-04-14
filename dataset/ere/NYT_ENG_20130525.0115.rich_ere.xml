@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000028" doc_id="NYT_ENG_20130525.0115" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="172" length="6">
+        <mention_text>SYRIAN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-87" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="272" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-153" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="361" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-183" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="478" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-225" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="743" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-309" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1153" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-372" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1347" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-408" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1498" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-450" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1669" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-456" noun_type="PRO" source="NYT_ENG_20130525.0115" offset="1676" length="5">
+        <mention_text>where</mention_text>
+      </entity_mention>
+      <entity_mention id="m-660" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="2559" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-735" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="2794" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-741" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2802" length="5">
+        <mention_text>state</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2802" length="5">state</nom_head>
+      </entity_mention>
+      <entity_mention id="m-972" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1228" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-24" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-51" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="172" length="11">
+        <mention_text>SYRIAN ARMY</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-27" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-57" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="188" length="9">
+        <mention_text>HEZBOLLAH</mention_text>
+      </entity_mention>
+      <entity_mention id="m-93" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="294" length="27">
+        <mention_text>the Lebanese militant group</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="316" length="5">group</nom_head>
+      </entity_mention>
+      <entity_mention id="m-99" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="322" length="9">
+        <mention_text>Hezbollah</mention_text>
+      </entity_mention>
+      <entity_mention id="m-213" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="694" length="9">
+        <mention_text>Hezbollah</mention_text>
+      </entity_mention>
+      <entity_mention id="m-237" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="803" length="9">
+        <mention_text>Hezbollah</mention_text>
+      </entity_mention>
+      <entity_mention id="m-243" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="864" length="9">
+        <mention_text>Hezbollah</mention_text>
+      </entity_mention>
+      <entity_mention id="m-261" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="957" length="9">
+        <mention_text>the group</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="961" length="5">group</nom_head>
+      </entity_mention>
+      <entity_mention id="m-291" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1067" length="9">
+        <mention_text>Hezbollah</mention_text>
+      </entity_mention>
+      <entity_mention id="m-297" noun_type="PRO" source="NYT_ENG_20130525.0115" offset="1137" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-390" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1354" length="9">
+        <mention_text>Hezbollah</mention_text>
+      </entity_mention>
+      <entity_mention id="m-438" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1607" length="9">
+        <mention_text>Hezbollah</mention_text>
+      </entity_mention>
+      <entity_mention id="m-474" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1682" length="9">
+        <mention_text>the group</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1686" length="5">group</nom_head>
+      </entity_mention>
+      <entity_mention id="m-696" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="2604" length="9">
+        <mention_text>Hezbollah</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-63" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="217" length="18">
+        <mention_text>A REBEL STRONGHOLD</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="225" length="10">STRONGHOLD</nom_head>
+      </entity_mention>
+      <entity_mention id="m-159" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="378" length="8">
+        <mention_text>the town</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="382" length="4">town</nom_head>
+      </entity_mention>
+      <entity_mention id="m-165" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="390" length="6">
+        <mention_text>Qusair</mention_text>
+      </entity_mention>
+      <entity_mention id="m-396" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1410" length="6">
+        <mention_text>Qusair</mention_text>
+      </entity_mention>
+      <entity_mention id="m-525" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1871" length="6">
+        <mention_text>Qusair</mention_text>
+      </entity_mention>
+      <entity_mention id="m-531" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1899" length="6">
+        <mention_text>Qusair</mention_text>
+      </entity_mention>
+      <entity_mention id="m-618" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="2189" length="9">
+        <mention_text>Al Qusayr</mention_text>
+      </entity_mention>
+      <entity_mention id="m-654" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2507" length="15">
+        <mention_text>a lifeless city</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2518" length="4">city</nom_head>
+      </entity_mention>
+      <entity_mention id="m-708" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="2647" length="6">
+        <mention_text>Qusair</mention_text>
+      </entity_mention>
+      <entity_mention id="m-762" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2883" length="8">
+        <mention_text>the city</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2887" length="4">city</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-36" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-75" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="259" length="6">
+        <mention_text>BEIRUT</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-81" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="268" length="21">
+        <mention_text>The Syrian government</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="279" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-177" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="490" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="490" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-414" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1498" length="17">
+        <mention_text>Syrian government</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1505" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-642" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2372" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2372" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-684" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2580" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2580" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1400" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="781" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="781" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-42" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-105" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="298" length="8">
+        <mention_text>Lebanese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-189" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="558" length="7">
+        <mention_text>Lebanon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-201" noun_type="PRO" source="NYT_ENG_20130525.0115" offset="645" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-432" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1554" length="7">
+        <mention_text>Lebanon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-468" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1694" length="8">
+        <mention_text>Lebanese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-507" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1805" length="7">
+        <mention_text>Lebanon</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-45" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-111" noun_type="PRO" source="NYT_ENG_20130525.0115" offset="344" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specificGroup">
+      <entity_mention id="m-69" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="219" length="5">
+        <mention_text>REBEL</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="219" length="5">REBEL</nom_head>
+      </entity_mention>
+      <entity_mention id="m-117" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="361" length="13">
+        <mention_text>Syrian rebels</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="368" length="6">rebels</nom_head>
+      </entity_mention>
+      <entity_mention id="m-402" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1473" length="10">
+        <mention_text>the rebels</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1477" length="6">rebels</nom_head>
+      </entity_mention>
+      <entity_mention id="m-480" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1724" length="10">
+        <mention_text>the rebels</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1728" length="6">rebels</nom_head>
+      </entity_mention>
+      <entity_mention id="m-714" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2657" length="6">
+        <mention_text>rebels</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2657" length="6">rebels</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-123" type="PER" specificity="specificGroup">
+      <entity_mention id="m-171" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="478" length="32">
+        <mention_text>Syrian anti-government activists</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="501" length="9">activists</nom_head>
+      </entity_mention>
+      <entity_mention id="m-219" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="743" length="27">
+        <mention_text>Syrian opposition activists</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="761" length="9">activists</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-126" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-195" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="614" length="6">
+        <mention_text>Israel</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-129" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-207" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="645" length="19">
+        <mention_text>its southern region</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="658" length="6">region</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-132" type="ORG" specificity="specificIndeterminate">
+      <entity_mention id="m-231" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="781" length="17">
+        <mention_text>government forces</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="792" length="6">forces</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-135" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-249" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="915" length="15">
+        <mention_text>the battlefield</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="919" length="11">battlefield</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-138" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-255" noun_type="PRO" source="NYT_ENG_20130525.0115" offset="951" length="5">
+        <mention_text>where</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-141" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-267" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="957" length="26">
+        <mention_text>the group’s revered leader</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="977" length="6">leader</nom_head>
+      </entity_mention>
+      <entity_mention id="m-273" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="985" length="16">
+        <mention_text>Hassan Nasrallah</mention_text>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="PRO" source="NYT_ENG_20130525.0115" offset="1028" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-144" type="PER" specificity="specificGroup">
+      <entity_mention id="m-279" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1028" length="13">
+        <mention_text>his followers</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1032" length="9">followers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-147" type="PER" specificity="specificGroup">
+      <entity_mention id="m-303" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1137" length="12">
+        <mention_text>its soldiers</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1141" length="8">soldiers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-384" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1354" length="20">
+        <mention_text>Hezbollah’s fighters</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1366" length="8">fighters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-150" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-315" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1190" length="16">
+        <mention_text>Rami Abdulrahman</mention_text>
+      </entity_mention>
+      <entity_mention id="m-582" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="2037" length="11">
+        <mention_text>Abdulrahman</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-321" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-348" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1214" length="7">
+        <mention_text>Britain</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-324" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-354" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1228" length="35">
+        <mention_text>Syrian Observatory for Human Rights</mention_text>
+      </entity_mention>
+      <entity_mention id="m-360" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1265" length="87">
+        <mention_text>an opposition group that tracks the violence through a network of contacts inside Syria</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1279" length="5">group</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-327" type="PER" specificity="specificGroup">
+      <entity_mention id="m-366" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1331" length="21">
+        <mention_text>contacts inside Syria</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1331" length="8">contacts</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-330" type="PER" specificity="nonspecific">
+      <entity_mention id="m-378" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1318" length="34">
+        <mention_text>a network of contacts inside Syria</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1320" length="7">network</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-333" type="PER" specificity="specificGroup">
+      <entity_mention id="m-420" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1498" length="28">
+        <mention_text>Syrian government supporters</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1516" length="10">supporters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-336" type="PER" specificity="specificGroup">
+      <entity_mention id="m-426" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1498" length="42">
+        <mention_text>Syrian government supporters and opponents</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1531" length="9">opponents</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-339" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-444" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1653" length="12">
+        <mention_text>Bashar Assad</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-342" type="PER" specificity="specificGroup">
+      <entity_mention id="m-462" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1682" length="33">
+        <mention_text>the group’s Lebanese Sunni rivals</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1709" length="6">rivals</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-345" type="PER" specificity="specificGroup">
+      <entity_mention id="m-486" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1759" length="2">
+        <mention_text>29</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1759" length="2">29</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-492" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-513" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1805" length="23">
+        <mention_text>Lebanon’s northern city</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1824" length="4">city</nom_head>
+      </entity_mention>
+      <entity_mention id="m-519" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="1832" length="7">
+        <mention_text>Tripoli</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-495" type="PER" specificity="specificGroup">
+      <entity_mention id="m-537" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1943" length="9">
+        <mention_text>22 people</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1946" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-498" type="PER" specificity="specificGroup">
+      <entity_mention id="m-543" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1962" length="6">
+        <mention_text>dozens</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1962" length="6">dozens</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-501" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-549" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1983" length="52">
+        <mention_text>houses and buildings where some civilians are living</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1983" length="6">houses</nom_head>
+      </entity_mention>
+      <entity_mention id="m-636" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2326" length="6">
+        <mention_text>Houses</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2326" length="6">Houses</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-504" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-555" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1994" length="41">
+        <mention_text>buildings where some civilians are living</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1994" length="9">buildings</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-561" type="PER" specificity="specificGroup">
+      <entity_mention id="m-576" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2010" length="14">
+        <mention_text>some civilians</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2015" length="9">civilians</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-564" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-588" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2064" length="28">
+        <mention_text>An opposition media activist</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2084" length="8">activist</nom_head>
+      </entity_mention>
+      <entity_mention id="m-594" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="2094" length="13">
+        <mention_text>Hadi Abdullah</mention_text>
+      </entity_mention>
+      <entity_mention id="m-600" noun_type="PRO" source="NYT_ENG_20130525.0115" offset="2109" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+      <entity_mention id="m-606" noun_type="PRO" source="NYT_ENG_20130525.0115" offset="2125" length="7">
+        <mention_text>himself</mention_text>
+      </entity_mention>
+      <entity_mention id="m-630" noun_type="PRO" source="NYT_ENG_20130525.0115" offset="2315" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-567" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-612" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2136" length="15">
+        <mention_text>the front lines</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2146" length="5">lines</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-570" type="PER" specificity="specificGroup">
+      <entity_mention id="m-624" noun_type="PRO" source="NYT_ENG_20130525.0115" offset="2310" length="2">
+        <mention_text>us</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-573" type="PER" specificity="specificGroup">
+      <entity_mention id="m-648" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2361" length="31">
+        <mention_text>Other anti-government activists</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2361" length="5">Other</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-672" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-666" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2555" length="19">
+        <mention_text>the Syrian military</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2566" length="8">military</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-675" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-690" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2576" length="23">
+        <mention_text>pro-government militias</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2591" length="8">militias</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-678" type="LOC" specificity="specificGroup">
+      <entity_mention id="m-702" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2638" length="15">
+        <mention_text>parts of Qusair</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2638" length="5">parts</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-681" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-720" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2675" length="9">
+        <mention_text>the north</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2679" length="5">north</nom_head>
+      </entity_mention>
+      <entity_mention id="m-756" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2862" length="29">
+        <mention_text>the northern part of the city</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2866" length="8">northern</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-732" type="PER" specificity="specificGroup">
+      <entity_mention id="m-726" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2694" length="18">
+        <mention_text>the two sides each</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2702" length="5">sides</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-753" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-747" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2841" length="8">
+        <mention_text>the army</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2845" length="4">army</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-774" type="PER" specificity="specificGroup">
+      <entity_mention id="m-768" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2901" length="21">
+        <mention_text>numbers of terrorists</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2901" length="7">numbers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-777" noun_type="PRO" source="NYT_ENG_20130525.0115" offset="2937" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-783" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-786" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2937" length="10">
+        <mention_text>their dens</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2943" length="4">dens</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1471" type="PER" specificity="specificGroup">
+      <entity_mention id="m-1465" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="1446" length="6">
+        <mention_text>dozens</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="1446" length="6">dozens</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2704" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-2698" noun_type="NAM" source="NYT_ENG_20130525.0115" offset="2821" length="4">
+        <mention_text>SANA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2707" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2794" length="25">
+        <mention_text>Syria’s state news agency</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2813" length="6">agency</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2746" type="PER" specificity="nonspecific">
+      <entity_mention id="m-2740" noun_type="NOM" source="NYT_ENG_20130525.0115" offset="2912" length="10">
+        <mention_text>terrorists</mention_text>
+        <nom_head source="NYT_ENG_20130525.0115" offset="2912" length="10">terrorists</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-1026" source="NYT_ENG_20130525.0115" offset="1643" length="9" type="title">President</filler>
+    <filler id="f-1286" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-1272" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-1279" source="NYT_ENG_20130525.0115" offset="434" length="8" type="weapon">shelling</filler>
+    <filler id="f-1333" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-1375" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-1763" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-1777" source="NYT_ENG_20130525.0115" offset="1907" length="20" type="weapon">rocket and artillery</filler>
+    <filler id="f-1805" source="NYT_ENG_20130525.0115" offset="1907" length="20" type="weapon">rocket and artillery</filler>
+    <filler id="f-1819" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-1843" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-1858" source="NYT_ENG_20130525.0115" offset="1907" length="20" type="weapon">rocket and artillery</filler>
+    <filler id="f-1991" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-2032" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-2083" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-2539" source="NYT_ENG_20130525.0115" offset="2448" length="7" type="weapon">bombing</filler>
+    <filler id="f-2111" source="NYT_ENG_20130525.0115" offset="2832" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-2195" source="NYT_ENG_20130525.0115" offset="2533" length="20" type="time" nom_time="2013-05-xx">During the last week</filler>
+    <filler id="f-2322" source="NYT_ENG_20130525.0115" offset="1907" length="20" type="weapon">rocket and artillery</filler>
+    <filler id="f-2337" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-2372" source="NYT_ENG_20130525.0115" offset="1907" length="20" type="weapon">rocket and artillery</filler>
+    <filler id="f-2379" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-2406" source="NYT_ENG_20130525.0115" offset="1907" length="20" type="weapon">rocket and artillery</filler>
+    <filler id="f-2414" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2015-05-25">Saturday</filler>
+    <filler id="f-2469" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-2489" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-2497" source="NYT_ENG_20130525.0115" offset="2243" length="43" type="weapon">Hundreds of shells and rockets in all types</filler>
+    <filler id="f-2524" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-2559" source="NYT_ENG_20130525.0115" offset="400" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-2567" source="NYT_ENG_20130525.0115" offset="2435" length="8" type="weapon">shelling</filler>
+    <filler id="f-2587" source="NYT_ENG_20130525.0115" offset="2832" length="8" type="time" nom_time="2023-05-25">Saturday</filler>
+    <filler id="f-2653" source="NYT_ENG_20130525.0115" offset="2832" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-2688" source="NYT_ENG_20130525.0115" offset="2832" length="8" type="time" nom_time="2013-05-25">Saturday</filler>
+    <filler id="f-2695" source="NYT_ENG_20130525.0115" offset="2937" length="10" type="commodity">their dens</filler>
+  </fillers>
+  <relations>
+    <relation id="r-881" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-792" realis="true">
+        <rel_arg1 entity_id="ent-24" entity_mention_id="m-51" role="suborg">SYRIAN ARMY</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-18" role="parent">SYRIAN</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="172" length="6">SYRIAN</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-882" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-802" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-81" role="suborg">The Syrian government</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-87" role="parent">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="272" length="6">Syrian</trigger>
+      </relation_mention>
+      <relation_mention id="relm-852" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-177" role="suborg">government</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-183" role="parent">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="478" length="6">Syrian</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1008" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-414" role="suborg">Syrian government</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-408" role="parent">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1498" length="6">Syrian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-883" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-812" realis="true">
+        <rel_arg1 entity_id="ent-27" entity_mention_id="m-93" role="org">the Lebanese militant group</rel_arg1>
+        <rel_arg2 entity_id="ent-42" entity_mention_id="m-105" role="loc">Lebanese</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="298" length="8">Lebanese</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-884" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-822" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-117" role="per">Syrian rebels</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-153" role="entity">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="361" length="6">Syrian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-885" type="physical" subtype="locatednear">
+      <relation_mention id="relm-832" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-117" role="entity">Syrian rebels</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-159" role="loc">the town</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="375" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-886" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-842" realis="true">
+        <rel_arg1 entity_id="ent-123" entity_mention_id="m-171" role="per">Syrian anti-government activists</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-183" role="entity">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="478" length="6">Syrian</trigger>
+      </relation_mention>
+      <relation_mention id="relm-872" realis="true">
+        <rel_arg1 entity_id="ent-123" entity_mention_id="m-219" role="per">Syrian opposition activists</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-225" role="entity">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="743" length="6">Syrian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-887" type="physical" subtype="locatednear">
+      <relation_mention id="relm-862" realis="true">
+        <rel_arg1 entity_id="ent-129" entity_mention_id="m-207" role="entity">its southern region</rel_arg1>
+        <rel_arg2 entity_id="ent-42" entity_mention_id="m-201" role="loc">its</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-888" type="physical" subtype="locatednear">
+      <relation_mention id="relm-882" realis="true">
+        <rel_arg1 entity_id="ent-144" entity_mention_id="m-279" role="entity">his followers</rel_arg1>
+        <rel_arg2 entity_id="ent-138" entity_mention_id="m-255" role="loc">where</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-889" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-892" realis="true">
+        <rel_arg1 entity_id="ent-141" entity_mention_id="m-267" role="leader">the group’s revered leader</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-261" role="entity">the group</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="977" length="6">leader</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-890" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-902" realis="true">
+        <rel_arg1 entity_id="ent-147" entity_mention_id="m-303" role="employeemember">its soldiers</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-297" role="org">its</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-952" realis="true">
+        <rel_arg1 entity_id="ent-147" entity_mention_id="m-384" role="employeemember">Hezbollah’s fighters</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-390" role="org">Hezbollah</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-891" type="physical" subtype="locatednear">
+      <relation_mention id="relm-912" realis="true">
+        <rel_arg1 entity_id="ent-147" entity_mention_id="m-303" role="entity">its soldiers</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-309" role="loc">Syria</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1150" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-892" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-922" realis="true">
+        <rel_arg1 entity_id="ent-150" entity_mention_id="m-315" role="employeemember">Rami Abdulrahman</rel_arg1>
+        <rel_arg2 entity_id="ent-324" entity_mention_id="m-354" role="org">Syrian Observatory for Human Rights</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1207" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-893" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-932" realis="true">
+        <rel_arg1 entity_id="ent-324" entity_mention_id="m-354" role="org">Syrian Observatory for Human Rights</rel_arg1>
+        <rel_arg2 entity_id="ent-321" entity_mention_id="m-348" role="loc">Britain</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1222" length="5">based</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-894" type="physical" subtype="locatednear">
+      <relation_mention id="relm-942" realis="true">
+        <rel_arg1 entity_id="ent-327" entity_mention_id="m-366" role="entity">contacts inside Syria</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-372" role="loc">Syria</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1340" length="6">inside</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-895" type="physical" subtype="locatednear">
+      <relation_mention id="relm-978" realis="true">
+        <rel_arg1 entity_id="ent-147" entity_mention_id="m-384" role="entity">Hezbollah’s fighters</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-396" role="loc">Qusair</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1407" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-896" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-988" realis="true">
+        <rel_arg1 entity_id="ent-333" entity_mention_id="m-420" role="per">Syrian government supporters</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-408" role="entity">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1498" length="6">Syrian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-897" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-998" realis="true">
+        <rel_arg1 entity_id="ent-336" entity_mention_id="m-426" role="per">Syrian government supporters and opponents</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-408" role="entity">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1498" length="6">Syrian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-898" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1018" realis="true">
+        <rel_arg1 entity_id="ent-339" entity_mention_id="m-444" role="per">Bashar Assad</rel_arg1>
+        <rel_arg2 filler_id="f-1026" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-899" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1028" realis="true">
+        <rel_arg1 entity_id="ent-339" entity_mention_id="m-444" role="entity">Bashar Assad</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-450" role="loc">Syria</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1666" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-900" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-1038" realis="true">
+        <rel_arg1 entity_id="ent-342" entity_mention_id="m-462" role="per">the group’s Lebanese Sunni rivals</rel_arg1>
+        <rel_arg2 entity_id="ent-42" entity_mention_id="m-468" role="entity">Lebanese</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1694" length="8">Lebanese</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-901" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1048" realis="true">
+        <rel_arg1 entity_id="ent-492" entity_mention_id="m-513" role="entity">Lebanon’s northern city</rel_arg1>
+        <rel_arg2 entity_id="ent-42" entity_mention_id="m-507" role="loc">Lebanon</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1805" length="9">Lebanon’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-902" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1058" realis="true">
+        <rel_arg1 entity_id="ent-495" entity_mention_id="m-537" role="entity">22 people</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-531" role="loc">Qusair</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1896" length="2">In</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-903" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1068" realis="true">
+        <rel_arg1 entity_id="ent-498" entity_mention_id="m-543" role="entity">dozens</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-531" role="loc">Qusair</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1896" length="2">In</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-904" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1078" realis="true">
+        <rel_arg1 entity_id="ent-501" entity_mention_id="m-549" role="entity">houses and buildings where some civilians are living</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-531" role="loc">Qusair</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1896" length="2">In</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1138" realis="true">
+        <rel_arg1 entity_id="ent-501" entity_mention_id="m-636" role="entity">Houses</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-618" role="loc">Al Qusayr</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-905" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1088" realis="true">
+        <rel_arg1 entity_id="ent-561" entity_mention_id="m-576" role="entity">some civilians</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-531" role="loc">Qusair</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="1896" length="2">In</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-906" type="physical" subtype="resident">
+      <relation_mention id="relm-1098" realis="true">
+        <rel_arg1 entity_id="ent-561" entity_mention_id="m-576" role="per">some civilians</rel_arg1>
+        <rel_arg2 entity_id="ent-501" entity_mention_id="m-549" role="loc">houses and buildings where some civilians are living</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="2029" length="6">living</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-907" type="physical" subtype="resident">
+      <relation_mention id="relm-1108" realis="true">
+        <rel_arg1 entity_id="ent-561" entity_mention_id="m-576" role="per">some civilians</rel_arg1>
+        <rel_arg2 entity_id="ent-504" entity_mention_id="m-555" role="loc">buildings where some civilians are living</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="2029" length="6">living</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-908" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1118" realis="true">
+        <rel_arg1 entity_id="ent-564" entity_mention_id="m-606" role="entity">himself</rel_arg1>
+        <rel_arg2 entity_id="ent-567" entity_mention_id="m-612" role="loc">the front lines</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="2133" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-909" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1128" realis="true">
+        <rel_arg1 entity_id="ent-570" entity_mention_id="m-624" role="entity">us</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-618" role="loc">Al Qusayr</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-910" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1148" realis="true">
+        <rel_arg1 entity_id="ent-672" entity_mention_id="m-666" role="suborg">the Syrian military</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-660" role="parent">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="2559" length="6">Syrian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-911" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1158" realis="true">
+        <rel_arg1 entity_id="ent-678" entity_mention_id="m-702" role="entity">parts of Qusair</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-708" role="loc">Qusair</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="2644" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-912" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1168" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-714" role="entity">rebels</rel_arg1>
+        <rel_arg2 entity_id="ent-681" entity_mention_id="m-720" role="loc">the north</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="2672" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-913" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1178" realis="true">
+        <rel_arg1 entity_id="ent-681" entity_mention_id="m-756" role="entity">the northern part of the city</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-762" role="loc">the city</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="2880" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-914" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1188" realis="true">
+        <rel_arg1 entity_id="ent-774" entity_mention_id="m-777" role="entity">their</rel_arg1>
+        <rel_arg2 entity_id="ent-783" entity_mention_id="m-786" role="loc">their dens</rel_arg2>
+        <trigger source="NYT_ENG_20130525.0115" offset="2943" length="4">dens</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-915" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1406" realis="true">
+        <rel_arg1 entity_id="ent-132" entity_mention_id="m-231" role="suborg">government forces</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-1400" role="parent">government</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-916" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-2723" realis="true">
+        <rel_arg1 entity_id="ent-2704" entity_mention_id="m-2707" role="suborg">Syria’s state news agency</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-741" role="parent">state</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1198" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="206" length="7">ATTACKS</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-51" role="attacker" realis="true">SYRIAN ARMY</em_arg>
+        <em_arg entity_id="ent-27" entity_mention_id="m-57" role="attacker" realis="true">HEZBOLLAH</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-63" role="target" realis="true">A REBEL STRONGHOLD</em_arg>
+        <em_arg filler_id="f-1286" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+      <event_mention id="em-1233" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="350" length="7">assault</trigger>
+        <em_arg entity_id="ent-45" entity_mention_id="m-111" role="attacker" realis="true">their</em_arg>
+        <em_arg entity_id="ent-48" entity_mention_id="m-117" role="target" realis="true">Syrian rebels</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-159" role="place" realis="true">the town</em_arg>
+        <em_arg filler_id="f-1272" role="time" realis="true">Saturday</em_arg>
+        <em_arg filler_id="f-1279" role="instrument" realis="true">shelling</em_arg>
+      </event_mention>
+      <event_mention id="em-1316" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="530" length="6">battle</trigger>
+        <em_arg filler_id="f-1333" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+      <event_mention id="em-1358" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="834" length="7">attacks</trigger>
+        <em_arg filler_id="f-1375" role="time" realis="true">Saturday</em_arg>
+        <em_arg entity_id="ent-132" entity_mention_id="m-231" role="attacker" realis="true">government forces</em_arg>
+        <em_arg entity_id="ent-27" entity_mention_id="m-237" role="attacker" realis="true">Hezbollah</em_arg>
+        <em_arg entity_id="ent-135" entity_mention_id="m-249" role="place" realis="true">the battlefield</em_arg>
+      </event_mention>
+      <event_mention id="em-1668" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1878" length="8">fighting</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-525" role="place" realis="true">Qusair</em_arg>
+      </event_mention>
+      <event_mention id="em-1710" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1928" length="7">attacks</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-531" role="place" realis="true">Qusair</em_arg>
+        <em_arg filler_id="f-1763" role="time" realis="true">Saturday</em_arg>
+        <em_arg filler_id="f-1777" role="instrument" realis="true">rocket and artillery</em_arg>
+      </event_mention>
+      <event_mention id="em-1952" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="2210" length="9">destroyed</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-618" role="place" realis="true">Al Qusayr</em_arg>
+        <em_arg filler_id="f-1991" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+      <event_mention id="em-2066" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="2448" length="7">bombing</trigger>
+        <em_arg filler_id="f-2083" role="time" realis="true">Saturday</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-654" role="place" realis="true">a lifeless city</em_arg>
+        <em_arg filler_id="f-2539" role="instrument" realis="true">bombing</em_arg>
+      </event_mention>
+      <event_mention id="em-2444" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="2235" length="6">burned</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-618" role="place" realis="true">Al Qusayr</em_arg>
+        <em_arg filler_id="f-2469" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+      <event_mention id="em-2472" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="2291" length="7">falling</trigger>
+        <em_arg filler_id="f-2489" role="time" realis="true">Saturday</em_arg>
+        <em_arg filler_id="f-2497" role="instrument" realis="true">Hundreds of shells and rockets in all types</em_arg>
+        <em_arg entity_id="ent-570" entity_mention_id="m-624" role="target" realis="true">us</em_arg>
+      </event_mention>
+      <event_mention id="em-2542" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="2435" length="8">shelling</trigger>
+        <em_arg filler_id="f-2559" role="time" realis="true">Saturday</em_arg>
+        <em_arg filler_id="f-2567" role="instrument" realis="true">shelling</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1289">
+      <event_mention id="em-1295" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130525.0115" offset="511" length="4">said</trigger>
+        <em_arg entity_id="ent-123" entity_mention_id="m-171" role="entity" realis="true">Syrian anti-government activists</em_arg>
+      </event_mention>
+      <event_mention id="em-1416" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130525.0115" offset="771" length="4">said</trigger>
+        <em_arg entity_id="ent-123" entity_mention_id="m-219" role="entity" realis="true">Syrian opposition activists</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1291">
+      <event_mention id="em-1337" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130525.0115" offset="725" length="7">warfare</trigger>
+        <em_arg entity_id="ent-27" entity_mention_id="m-213" role="attacker" realis="true">Hezbollah</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1293">
+      <event_mention id="em-1437" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130525.0115" offset="1020" length="7">address</trigger>
+        <em_arg entity_id="ent-141" entity_mention_id="m-273" role="entity" realis="true">Hassan Nasrallah</em_arg>
+        <em_arg entity_id="ent-144" entity_mention_id="m-279" role="audience" realis="true">his followers</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1502">
+      <event_mention id="em-1474" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1128" length="5">death</trigger>
+        <em_arg entity_id="ent-147" entity_mention_id="m-303" role="victim" realis="true">its soldiers</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-309" role="place" realis="true">Syria</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1546">
+      <event_mention id="em-1525" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130525.0115" offset="1185" length="4">said</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-315" role="entity" realis="true">Rami Abdulrahman</em_arg>
+      </event_mention>
+      <event_mention id="em-1889" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130525.0115" offset="2049" length="4">said</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-582" role="entity" realis="true">Abdulrahman</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1548">
+      <event_mention id="em-1554" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130525.0115" offset="1301" length="8">violence</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-372" role="place" realis="true">Syria</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1550">
+      <event_mention id="em-1575" type="contact" subtype="contact" realis="generic" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130525.0115" offset="1331" length="8">contacts</trigger>
+        <em_arg entity_id="ent-324" entity_mention_id="m-360" role="entity" realis="true">an opposition group that tracks the violence through a network of contacts inside Syria</em_arg>
+        <em_arg entity_id="ent-327" entity_mention_id="m-366" role="entity" realis="true">contacts inside Syria</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1552">
+      <event_mention id="em-1780" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1936" length="6">killed</trigger>
+        <em_arg entity_id="ent-495" entity_mention_id="m-537" role="victim" realis="true">22 people</em_arg>
+        <em_arg filler_id="f-1805" role="instrument" realis="true">rocket and artillery</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-531" role="place" realis="true">Qusair</em_arg>
+        <em_arg filler_id="f-1819" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1666">
+      <event_mention id="em-1689" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1785" length="7">clashes</trigger>
+        <em_arg entity_id="ent-492" entity_mention_id="m-513" role="place" realis="true">Lebanon’s northern city</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1822">
+      <event_mention id="em-1826" type="life" subtype="injure" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1954" length="7">wounded</trigger>
+        <em_arg filler_id="f-1843" role="time" realis="true">Saturday</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-531" role="place" realis="true">Qusair</em_arg>
+        <em_arg filler_id="f-1858" role="instrument" realis="true">rocket and artillery</em_arg>
+        <em_arg entity_id="ent-498" entity_mention_id="m-543" role="victim" realis="true">dozens</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1824">
+      <event_mention id="em-1931" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130525.0115" offset="2153" length="9">described</trigger>
+        <em_arg entity_id="ent-564" entity_mention_id="m-606" role="entity" realis="true">himself</em_arg>
+      </event_mention>
+      <event_mention id="em-1994" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130525.0115" offset="2318" length="5">wrote</trigger>
+        <em_arg entity_id="ent-564" entity_mention_id="m-630" role="entity" realis="true">he</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2064">
+      <event_mention id="em-2043" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130525.0115" offset="2393" length="6">posted</trigger>
+        <em_arg entity_id="ent-573" entity_mention_id="m-648" role="entity" realis="true">Other anti-government activists</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2115">
+      <event_mention id="em-2094" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130525.0115" offset="2827" length="4">said</trigger>
+        <em_arg filler_id="f-2111" role="time" realis="true">Saturday</em_arg>
+        <em_arg entity_id="ent-2704" entity_mention_id="m-2698" role="entity" realis="true">SANA</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2117">
+      <event_mention id="em-2119" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="2854" length="7">entered</trigger>
+        <em_arg entity_id="ent-753" entity_mention_id="m-747" role="agent" realis="true">the army</em_arg>
+        <em_arg entity_id="ent-681" entity_mention_id="m-756" role="destination" realis="true">the northern part of the city</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2198">
+      <event_mention id="em-2170" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130525.0115" offset="2713" length="7">claimed</trigger>
+        <em_arg entity_id="ent-732" entity_mention_id="m-726" role="entity" realis="true">the two sides each</em_arg>
+        <em_arg filler_id="f-2195" role="time" realis="true">During the last week</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2228">
+      <event_mention id="em-2200" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1128" length="5">death</trigger>
+        <em_arg entity_id="ent-147" entity_mention_id="m-303" role="target" realis="true">its soldiers</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-309" role="place" realis="true">Syria</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2230">
+      <event_mention id="em-1603" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1400" length="6">losses</trigger>
+        <em_arg entity_id="ent-1471" entity_mention_id="m-1465" role="victim" realis="true">dozens</em_arg>
+        <em_arg entity_id="ent-48" entity_mention_id="m-402" role="agent" realis="true">the rebels</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-396" role="place" realis="true">Qusair</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2232">
+      <event_mention id="em-2240" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1400" length="6">losses</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-396" role="place" realis="true">Qusair</em_arg>
+        <em_arg entity_id="ent-1471" entity_mention_id="m-1465" role="target" realis="true">dozens</em_arg>
+        <em_arg entity_id="ent-48" entity_mention_id="m-402" role="attacker" realis="true">the rebels</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2234">
+      <event_mention id="em-1638" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1740" length="5">death</trigger>
+        <em_arg entity_id="ent-345" entity_mention_id="m-486" role="victim" realis="true">29</em_arg>
+        <em_arg entity_id="ent-492" entity_mention_id="m-513" role="place" realis="true">Lebanon’s northern city</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2236">
+      <event_mention id="em-2277" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1740" length="5">death</trigger>
+        <em_arg entity_id="ent-492" entity_mention_id="m-513" role="place" realis="true">Lebanon’s northern city</em_arg>
+        <em_arg entity_id="ent-345" entity_mention_id="m-486" role="target" realis="true">29</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2238">
+      <event_mention id="em-2305" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1936" length="6">killed</trigger>
+        <em_arg filler_id="f-2322" role="instrument" realis="true">rocket and artillery</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-531" role="place" realis="true">Qusair</em_arg>
+        <em_arg filler_id="f-2337" role="time" realis="true">Saturday</em_arg>
+        <em_arg entity_id="ent-495" entity_mention_id="m-537" role="target" realis="true">22 people</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2275">
+      <event_mention id="em-2347" type="life" subtype="injure" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1954" length="7">wounded</trigger>
+        <em_arg entity_id="ent-498" entity_mention_id="m-543" role="victim" realis="true">dozens</em_arg>
+        <em_arg filler_id="f-2372" role="instrument" realis="true">rocket and artillery</em_arg>
+        <em_arg filler_id="f-2379" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2438">
+      <event_mention id="em-2015" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="2349" length="9">destroyed</trigger>
+        <em_arg filler_id="f-2032" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+      <event_mention id="em-2389" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="1973" length="9">destroyed</trigger>
+        <em_arg filler_id="f-2406" role="instrument" realis="true">rocket and artillery</em_arg>
+        <em_arg filler_id="f-2414" role="time" realis="true">Saturday</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-531" role="place" realis="true">Qusair</em_arg>
+        <em_arg entity_id="ent-501" entity_mention_id="m-549" role="target" realis="true">houses and buildings where some civilians are living</em_arg>
+        <em_arg entity_id="ent-504" entity_mention_id="m-555" role="target" realis="true">buildings where some civilians are living</em_arg>
+      </event_mention>
+      <event_mention id="em-2507" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="2337" length="7">burning</trigger>
+        <em_arg filler_id="f-2524" role="time" realis="true">Saturday</em_arg>
+        <em_arg entity_id="ent-501" entity_mention_id="m-636" role="target" realis="true">Houses</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2440">
+      <event_mention id="em-2570" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="2894" length="6">killed</trigger>
+        <em_arg filler_id="f-2587" role="time" realis="true">Saturday</em_arg>
+        <em_arg entity_id="ent-753" entity_mention_id="m-747" role="attacker" realis="true">the army</em_arg>
+        <em_arg entity_id="ent-681" entity_mention_id="m-756" role="place" realis="true">the northern part of the city</em_arg>
+        <em_arg entity_id="ent-774" entity_mention_id="m-768" role="target" realis="true">numbers of terrorists</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2442">
+      <event_mention id="em-2614" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="2894" length="6">killed</trigger>
+        <em_arg entity_id="ent-753" entity_mention_id="m-747" role="agent" realis="true">the army</em_arg>
+        <em_arg entity_id="ent-774" entity_mention_id="m-768" role="victim" realis="true">numbers of terrorists</em_arg>
+        <em_arg entity_id="ent-681" entity_mention_id="m-756" role="place" realis="true">the northern part of the city</em_arg>
+        <em_arg filler_id="f-2653" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2612">
+      <event_mention id="em-2656" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130525.0115" offset="2927" length="9">destroyed</trigger>
+        <em_arg entity_id="ent-753" entity_mention_id="m-747" role="attacker" realis="true">the army</em_arg>
+        <em_arg entity_id="ent-681" entity_mention_id="m-756" role="place" realis="true">the northern part of the city</em_arg>
+        <em_arg filler_id="f-2688" role="time" realis="true">Saturday</em_arg>
+        <em_arg filler_id="f-2695" role="target" realis="true">their dens</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

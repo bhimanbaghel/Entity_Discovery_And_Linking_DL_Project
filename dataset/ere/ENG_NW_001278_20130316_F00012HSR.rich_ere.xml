@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000068" doc_id="ENG_NW_001278_20130316_F00012HSR" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="110" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-60" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="217" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="449" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-246" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1123" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-381" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1545" length="7">
+        <mention_text>Cypriot</mention_text>
+      </entity_mention>
+      <entity_mention id="m-411" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1888" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-417" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="1924" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-453" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="2303" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-489" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="2469" length="7">
+        <mention_text>Cypriot</mention_text>
+      </entity_mention>
+      <entity_mention id="m-507" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="2907" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-513" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="2924" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-519" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="2966" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-525" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3007" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-591" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="3216" length="5">
+        <mention_text>state</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="3216" length="5">state</nom_head>
+      </entity_mention>
+      <entity_mention id="m-609" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3301" length="7">
+        <mention_text>Cypriot</mention_text>
+      </entity_mention>
+      <entity_mention id="m-651" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3613" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-675" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3896" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-750" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4150" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-762" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4236" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-801" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4429" length="6">
+        <mention_text>Cyprus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-813" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4545" length="7">
+        <mention_text>Cypriot</mention_text>
+      </entity_mention>
+      <entity_mention id="m-831" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4629" length="7">
+        <mention_text>Cypriot</mention_text>
+      </entity_mention>
+      <entity_mention id="m-891" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="3097" length="32">
+        <mention_text>the eastern Mediterranean island</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="3123" length="6">island</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-24" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="155" length="5">
+        <mention_text>banks</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="155" length="5">banks</nom_head>
+      </entity_mention>
+      <entity_mention id="m-84" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="332" length="17">
+        <mention_text>cooperative banks</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="344" length="5">banks</nom_head>
+      </entity_mention>
+      <entity_mention id="m-90" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="262" length="5">
+        <mention_text>banks</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="262" length="5">banks</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-33" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-54" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="181" length="10">
+        <mention_text>huangyanan</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-36" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-66" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="269" length="7">
+        <mention_text>NICOSIA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-72" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="288" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-42" type="PER" specificity="specificGroup">
+      <entity_mention id="m-78" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="299" length="22">
+        <mention_text>Hundreds of depositors</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="299" length="8">Hundreds</nom_head>
+      </entity_mention>
+      <entity_mention id="m-96" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="146" length="5">
+        <mention_text>flock</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="146" length="5">flock</nom_head>
+      </entity_mention>
+      <entity_mention id="m-102" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="253" length="5">
+        <mention_text>flock</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="253" length="5">flock</nom_head>
+      </entity_mention>
+      <entity_mention id="m-108" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="395" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-126" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="479" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-45" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-114" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="423" length="8">
+        <mention_text>Eurozone</mention_text>
+      </entity_mention>
+      <entity_mention id="m-627" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3517" length="8">
+        <mention_text>eurozone</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-132" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="529" length="9">
+        <mention_text>Eurogroup</mention_text>
+      </entity_mention>
+      <entity_mention id="m-222" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1009" length="9">
+        <mention_text>Eurogroup</mention_text>
+      </entity_mention>
+      <entity_mention id="m-465" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="2354" length="10">
+        <mention_text>euro group</mention_text>
+      </entity_mention>
+      <entity_mention id="m-669" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3837" length="9">
+        <mention_text>Eurogroup</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-51" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-138" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="539" length="8">
+        <mention_text>Brussels</mention_text>
+      </entity_mention>
+      <entity_mention id="m-240" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1090" length="8">
+        <mention_text>Brussels</mention_text>
+      </entity_mention>
+      <entity_mention id="m-477" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="2396" length="8">
+        <mention_text>Brussels</mention_text>
+      </entity_mention>
+      <entity_mention id="m-597" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3248" length="8">
+        <mention_text>Brussels</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-144" type="PER" specificity="specificGroup">
+      <entity_mention id="m-174" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="680" length="21">
+        <mention_text>the entire population</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="691" length="10">population</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-147" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-192" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="831" length="17">
+        <mention_text>Cooperative banks</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="843" length="5">banks</nom_head>
+      </entity_mention>
+      <entity_mention id="m-198" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="853" length="65">
+        <mention_text>the only monetary institutions offering bank services on Saturday</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="871" length="12">institutions</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-150" type="PER" specificity="specificGroup">
+      <entity_mention id="m-186" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="766" length="11">
+        <mention_text>authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="766" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-153" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-216" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="983" length="5">
+        <mention_text>banks</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="983" length="5">banks</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-156" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-210" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="926" length="16">
+        <mention_text>commercial banks</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="937" length="5">banks</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-159" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-180" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="734" length="4">
+        <mention_text>bank</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="734" length="4">bank</nom_head>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="893" length="4">
+        <mention_text>bank</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="893" length="4">bank</nom_head>
+      </entity_mention>
+      <entity_mention id="m-288" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="1262" length="4">
+        <mention_text>bank</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="1262" length="4">bank</nom_head>
+      </entity_mention>
+      <entity_mention id="m-375" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="1545" length="13">
+        <mention_text>Cypriot banks</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="1553" length="5">banks</nom_head>
+      </entity_mention>
+      <entity_mention id="m-399" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="1697" length="4">
+        <mention_text>bank</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="1697" length="4">bank</nom_head>
+      </entity_mention>
+      <entity_mention id="m-405" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="1736" length="4">
+        <mention_text>bank</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="1736" length="4">bank</nom_head>
+      </entity_mention>
+      <entity_mention id="m-807" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="4545" length="12">
+        <mention_text>Cypriot bank</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="4553" length="4">bank</nom_head>
+      </entity_mention>
+      <entity_mention id="m-3655" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="1660" length="4">
+        <mention_text>bank</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="1660" length="4">bank</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-162" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-228" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1023" length="27">
+        <mention_text>International Monetary Fund</mention_text>
+      </entity_mention>
+      <entity_mention id="m-435" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="2189" length="27">
+        <mention_text>International Monetary Fund</mention_text>
+      </entity_mention>
+      <entity_mention id="m-441" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="2218" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+      <entity_mention id="m-447" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="2292" length="3">
+        <mention_text>IMF</mention_text>
+      </entity_mention>
+      <entity_mention id="m-579" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3182" length="27">
+        <mention_text>International Monetary Fund</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-165" type="PER" specificity="specificGroup">
+      <entity_mention id="m-234" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="1009" length="89">
+        <mention_text>Eurogroup and International Monetary Fund officials working through the night in Brussels</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="1051" length="9">officials</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-168" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-252" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1140" length="18">
+        <mention_text>Nicos Anastasiades</mention_text>
+      </entity_mention>
+      <entity_mention id="m-603" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="3297" length="21">
+        <mention_text>the Cypriot president</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="3309" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-621" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="3444" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-171" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-258" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1177" length="8">
+        <mention_text>European</mention_text>
+      </entity_mention>
+      <entity_mention id="m-312" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1372" length="8">
+        <mention_text>European</mention_text>
+      </entity_mention>
+      <entity_mention id="m-780" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4303" length="8">
+        <mention_text>European</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-270" type="PER" specificity="specificGroup">
+      <entity_mention id="m-264" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="1262" length="52">
+        <mention_text>bank depositors whose savings exceeded 100,000 euros</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="1267" length="10">depositors</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-273" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-306" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="1367" length="23">
+        <mention_text>Some European countries</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="1381" length="9">countries</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-276" type="PER" specificity="specificGroup">
+      <entity_mention id="m-300" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="1335" length="5">
+        <mention_text>those</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-279" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-318" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1405" length="7">
+        <mention_text>Germany</mention_text>
+      </entity_mention>
+      <entity_mention id="m-633" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3570" length="7">
+        <mention_text>Germany</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-282" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-324" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1418" length="11">
+        <mention_text>Netherlands</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-285" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-330" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1434" length="7">
+        <mention_text>Finland</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-336" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-363" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1504" length="7">
+        <mention_text>Russian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-738" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4066" length="7">
+        <mention_text>Russian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-744" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4134" length="7">
+        <mention_text>Russian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-768" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4292" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-786" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4374" length="6">
+        <mention_text>Moscow</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-339" type="PER" specificity="specificGroup">
+      <entity_mention id="m-369" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="1504" length="54">
+        <mention_text>Russian "oligarchs" with fat deposits in Cypriot banks</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="1513" length="9">oligarchs</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-342" type="PER" specificity="specificGroup">
+      <entity_mention id="m-387" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="1633" length="14">
+        <mention_text>all depositors</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="1637" length="10">depositors</nom_head>
+      </entity_mention>
+      <entity_mention id="m-393" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="1650" length="23">
+        <mention_text>Owners of bank accounts</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="1650" length="6">Owners</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-345" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-423" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="1971" length="2">
+        <mention_text>EU</mention_text>
+      </entity_mention>
+      <entity_mention id="m-573" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3162" length="2">
+        <mention_text>EU</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-348" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-429" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="2158" length="14">
+        <mention_text>euro countries</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="2163" length="9">countries</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-351" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-459" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="2349" length="25">
+        <mention_text>some euro group countries</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="2365" length="9">countries</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-357" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-495" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="2465" length="22">
+        <mention_text>the Cypriot parliament</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="2477" length="10">parliament</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-543" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-537" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="3097" length="45">
+        <mention_text>the eastern Mediterranean island's government</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="3132" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-546" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-567" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="3146" length="27">
+        <mention_text>hard bargaining EU partners</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="3165" length="8">partners</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-549" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-585" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="3212" length="21">
+        <mention_text>The state broadcaster</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="3222" length="11">broadcaster</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-552" type="PER" specificity="specificGroup">
+      <entity_mention id="m-615" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="3410" length="20">
+        <mention_text>political associates</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="3420" length="10">associates</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-555" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-639" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="3582" length="28">
+        <mention_text>other tough-playing partners</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="3602" length="8">partners</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-558" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-645" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="3613" length="23">
+        <mention_text>Cyprus finance minister</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="3628" length="8">minister</nom_head>
+      </entity_mention>
+      <entity_mention id="m-657" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="3798" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-663" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="3814" length="7">
+        <mention_text>himself</mention_text>
+      </entity_mention>
+      <entity_mention id="m-681" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="3906" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-687" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="3913" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-693" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="3923" length="23">
+        <mention_text>the minister to do this</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="3927" length="8">minister</nom_head>
+      </entity_mention>
+      <entity_mention id="m-699" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3949" length="6">
+        <mention_text>Sarris</mention_text>
+      </entity_mention>
+      <entity_mention id="m-714" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3996" length="6">
+        <mention_text>Sarris</mention_text>
+      </entity_mention>
+      <entity_mention id="m-756" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="4062" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-561" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-720" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4018" length="6">
+        <mention_text>Moscow</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-564" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-726" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="4062" length="23">
+        <mention_text>his Russian counterpart</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="4074" length="11">counterpart</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-705" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-774" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4359" length="9">
+        <mention_text>Ohli Rehn</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-711" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-819" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4571" length="6">
+        <mention_text>Greece</mention_text>
+      </entity_mention>
+      <entity_mention id="m-843" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4706" length="5">
+        <mention_text>Greek</mention_text>
+      </entity_mention>
+      <entity_mention id="m-867" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4832" length="6">
+        <mention_text>Greece</mention_text>
+      </entity_mention>
+      <entity_mention id="m-873" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="4875" length="5">
+        <mention_text>Greek</mention_text>
+      </entity_mention>
+      <entity_mention id="m-879" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="4970" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="4974" length="7">country</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-792" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-825" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="4613" length="29">
+        <mention_text>The two largest Cypriot banks</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="4637" length="5">banks</nom_head>
+      </entity_mention>
+      <entity_mention id="m-855" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="4740" length="13">
+        <mention_text>The two banks</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="4748" length="5">banks</nom_head>
+      </entity_mention>
+      <entity_mention id="m-861" noun_type="PRO" source="ENG_NW_001278_20130316_F00012HSR" offset="4816" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-795" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-837" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="4706" length="31">
+        <mention_text>Greek businesses and households</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="4712" length="10">businesses</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-798" type="PER" specificity="specificGroup">
+      <entity_mention id="m-849" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="4706" length="31">
+        <mention_text>Greek businesses and households</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="4727" length="10">households</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-903" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-897" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="3101" length="21">
+        <mention_text>eastern Mediterranean</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="3109" length="13">Mediterranean</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-912" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-906" noun_type="NAM" source="ENG_NW_001278_20130316_F00012HSR" offset="3109" length="13">
+        <mention_text>Mediterranean</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-3652" type="PER" specificity="nonspecific">
+      <entity_mention id="m-3646" noun_type="NOM" source="ENG_NW_001278_20130316_F00012HSR" offset="311" length="10">
+        <mention_text>depositors</mention_text>
+        <nom_head source="ENG_NW_001278_20130316_F00012HSR" offset="311" length="10">depositors</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-1078" source="ENG_NW_001278_20130316_F00012HSR" offset="1130" length="9" type="title">President</filler>
+    <filler id="f-1328" source="ENG_NW_001278_20130316_F00012HSR" offset="3309" length="9" type="title">president</filler>
+    <filler id="f-1388" source="ENG_NW_001278_20130316_F00012HSR" offset="3620" length="16" type="title">finance minister</filler>
+    <filler id="f-1408" source="ENG_NW_001278_20130316_F00012HSR" offset="3927" length="8" type="title">minister</filler>
+    <filler id="f-1468" source="ENG_NW_001278_20130316_F00012HSR" offset="4303" length="55" type="title">European Commissioner for economic and monetary affairs</filler>
+    <filler id="f-1654" source="ENG_NW_001278_20130316_F00012HSR" offset="374" length="8" type="time" nom_time="2013-03-16">Saturday</filler>
+    <filler id="f-1696" source="ENG_NW_001278_20130316_F00012HSR" offset="374" length="8" type="time" nom_time="2013-03-16">Saturday</filler>
+    <filler id="f-1731" source="ENG_NW_001278_20130316_F00012HSR" offset="374" length="8" type="time" nom_time="2013-03-16">Saturday</filler>
+    <filler id="f-1801" source="ENG_NW_001278_20130316_F00012HSR" offset="554" length="40" type="time" nom_time="2013-03-1X">concluded in the early hours of Saturday</filler>
+    <filler id="f-2042" source="ENG_NW_001278_20130316_F00012HSR" offset="1130" length="9" type="title">President</filler>
+    <filler id="f-2350" source="ENG_NW_001278_20130316_F00012HSR" offset="1697" length="10" type="commodity">bank stock</filler>
+    <filler id="f-2521" source="ENG_NW_001278_20130316_F00012HSR" offset="2017" length="26" type="money">just under 6 billion euros</filler>
+    <filler id="f-2613" source="ENG_NW_001278_20130316_F00012HSR" offset="2251" length="17" type="money">one billion euros</filler>
+    <filler id="f-2661" source="ENG_NW_001278_20130316_F00012HSR" offset="2442" length="8" type="time" nom_time="2013-03-19">March 19</filler>
+    <filler id="f-2732" source="ENG_NW_001278_20130316_F00012HSR" offset="2540" length="19" type="time" nom_time="2013-03-1X">Sunday or on Monday</filler>
+    <filler id="f-2767" source="ENG_NW_001278_20130316_F00012HSR" offset="2748" length="24" type="money">200 million euros a year</filler>
+    <filler id="f-3163" source="ENG_NW_001278_20130316_F00012HSR" offset="4028" length="9" type="time" nom_time="2013-03-20">Wednesday</filler>
+    <filler id="f-3205" source="ENG_NW_001278_20130316_F00012HSR" offset="4028" length="9" type="time" nom_time="2013-03-20">Wednesday</filler>
+    <filler id="f-3276" source="ENG_NW_001278_20130316_F00012HSR" offset="4117" length="16" type="money">2.5 billion euro</filler>
+    <filler id="f-3368" source="ENG_NW_001278_20130316_F00012HSR" offset="4267" length="14" type="money">2 billion euro</filler>
+    <filler id="f-3476" source="ENG_NW_001278_20130316_F00012HSR" offset="4545" length="32" type="commodity">Cypriot bank interests in Greece</filler>
+    <filler id="f-3504" source="ENG_NW_001278_20130316_F00012HSR" offset="4582" length="28" type="money">an estimated 2 billion euros</filler>
+    <filler id="f-3546" source="ENG_NW_001278_20130316_F00012HSR" offset="4686" length="16" type="money">25 billion euros</filler>
+    <filler id="f-3574" source="ENG_NW_001278_20130316_F00012HSR" offset="4767" length="22" type="money">about 10 billion euros</filler>
+    <filler id="f-3919" source="ENG_NW_001278_20130316_F00012HSR" offset="2106" length="23" type="money">around 10 billion euros</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1734" type="physical" subtype="locatednear">
+      <relation_mention id="relm-940" realis="true">
+        <rel_arg1 entity_id="ent-42" entity_mention_id="m-78" role="entity">Hundreds of depositors</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-84" role="loc">cooperative banks</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="329" length="2">to</trigger>
+      </relation_mention>
+      <relation_mention id="relm-3661" realis="true">
+        <rel_arg1 entity_id="ent-42" entity_mention_id="m-96" role="entity">flock</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-24" role="loc">banks</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="152" length="2">to</trigger>
+      </relation_mention>
+      <relation_mention id="relm-3671" realis="true">
+        <rel_arg1 entity_id="ent-42" entity_mention_id="m-102" role="entity">flock</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-90" role="loc">banks</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="259" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1735" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-980" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-132" role="org">Eurogroup</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-138" role="loc">Brussels</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1736" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1020" realis="true">
+        <rel_arg1 entity_id="ent-165" entity_mention_id="m-234" role="entity">Eurogroup and International Monetary Fund officials working through the night in Brussels</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-240" role="loc">Brussels</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1087" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1737" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1070" realis="true">
+        <rel_arg1 entity_id="ent-168" entity_mention_id="m-252" role="per">Nicos Anastasiades</rel_arg1>
+        <rel_arg2 filler_id="f-1078" role="role">President</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1320" realis="true">
+        <rel_arg1 entity_id="ent-168" entity_mention_id="m-603" role="per">the Cypriot president</rel_arg1>
+        <rel_arg2 filler_id="f-1328" role="role">president</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1738" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1080" realis="true">
+        <rel_arg1 entity_id="ent-168" entity_mention_id="m-252" role="leader">Nicos Anastasiades</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-246" role="entity">Cyprus</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1130" length="9">President</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1330" realis="true">
+        <rel_arg1 entity_id="ent-168" entity_mention_id="m-603" role="leader">the Cypriot president</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-609" role="entity">Cypriot</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3309" length="9">president</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1739" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1160" realis="true">
+        <rel_arg1 entity_id="ent-279" entity_mention_id="m-318" role="entity">Germany</rel_arg1>
+        <rel_arg2 entity_id="ent-171" entity_mention_id="m-312" role="loc">European</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1740" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1170" realis="true">
+        <rel_arg1 entity_id="ent-282" entity_mention_id="m-324" role="entity">Netherlands</rel_arg1>
+        <rel_arg2 entity_id="ent-171" entity_mention_id="m-312" role="loc">European</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1741" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1180" realis="true">
+        <rel_arg1 entity_id="ent-285" entity_mention_id="m-330" role="entity">Finland</rel_arg1>
+        <rel_arg2 entity_id="ent-171" entity_mention_id="m-312" role="loc">European</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1742" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-1190" realis="true">
+        <rel_arg1 entity_id="ent-339" entity_mention_id="m-369" role="per">Russian "oligarchs" with fat deposits in Cypriot banks</rel_arg1>
+        <rel_arg2 entity_id="ent-336" entity_mention_id="m-363" role="entity">Russian</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1743" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1200" realis="true">
+        <rel_arg1 entity_id="ent-159" entity_mention_id="m-375" role="org">Cypriot banks</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-381" role="loc">Cypriot</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1230" realis="true">
+        <rel_arg1 entity_id="ent-159" entity_mention_id="m-405" role="org">bank</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-411" role="loc">Cyprus</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1480" realis="true">
+        <rel_arg1 entity_id="ent-159" entity_mention_id="m-807" role="org">Cypriot bank</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-813" role="loc">Cypriot</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4545" length="7">Cypriot</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1744" type="orgaffiliation" subtype="investorshareholder">
+      <relation_mention id="relm-1220" realis="false">
+        <rel_arg1 entity_id="ent-342" entity_mention_id="m-393" role="investorshareholder">Owners of bank accounts</rel_arg1>
+        <rel_arg2 entity_id="ent-159" entity_mention_id="m-399" role="org">bank</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1702" length="11">stock issue</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1745" type="partwhole" subtype="membership">
+      <relation_mention id="relm-1240" realis="true">
+        <rel_arg1 entity_id="ent-351" entity_mention_id="m-459" role="member">some euro group countries</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-465" role="org">euro group</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1746" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1250" realis="true">
+        <rel_arg1 entity_id="ent-357" entity_mention_id="m-495" role="suborg">the Cypriot parliament</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-489" role="parent">Cypriot</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2469" length="7">Cypriot</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1747" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1270" realis="true">
+        <rel_arg1 entity_id="ent-543" entity_mention_id="m-537" role="suborg">the eastern Mediterranean island's government</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-891" role="parent">the eastern Mediterranean island</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1748" type="partwhole" subtype="membership">
+      <relation_mention id="relm-1290" realis="true">
+        <rel_arg1 entity_id="ent-546" entity_mention_id="m-567" role="member">hard bargaining EU partners</rel_arg1>
+        <rel_arg2 entity_id="ent-345" entity_mention_id="m-573" role="org">EU</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1749" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1300" realis="true">
+        <rel_arg1 entity_id="ent-549" entity_mention_id="m-585" role="suborg">The state broadcaster</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-591" role="parent">state</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1750" type="personalsocial" subtype="business">
+      <relation_mention id="relm-1340" realis="true">
+        <rel_arg1 entity_id="ent-168" entity_mention_id="m-603" role="per">the Cypriot president</rel_arg1>
+        <rel_arg2 entity_id="ent-552" entity_mention_id="m-615" role="per">political associates</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3420" length="10">associates</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1751" type="partwhole" subtype="membership">
+      <relation_mention id="relm-1370" realis="true">
+        <rel_arg1 entity_id="ent-555" entity_mention_id="m-639" role="member">other tough-playing partners</rel_arg1>
+        <rel_arg2 entity_id="ent-45" entity_mention_id="m-627" role="org">eurozone</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1752" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1380" realis="true">
+        <rel_arg1 entity_id="ent-558" entity_mention_id="m-645" role="per">Cyprus finance minister</rel_arg1>
+        <rel_arg2 filler_id="f-1388" role="role">finance minister</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1400" realis="true">
+        <rel_arg1 entity_id="ent-558" entity_mention_id="m-693" role="per">the minister to do this</rel_arg1>
+        <rel_arg2 filler_id="f-1408" role="role">minister</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1753" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1390" realis="true">
+        <rel_arg1 entity_id="ent-558" entity_mention_id="m-645" role="employeemember">Cyprus finance minister</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-651" role="org">Cyprus</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3628" length="8">minister</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1754" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1410" realis="false">
+        <rel_arg1 entity_id="ent-558" entity_mention_id="m-714" role="entity">Sarris</rel_arg1>
+        <rel_arg2 entity_id="ent-561" entity_mention_id="m-720" role="loc">Moscow</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4015" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1755" type="personalsocial" subtype="business">
+      <relation_mention id="relm-1420" realis="true">
+        <rel_arg1 entity_id="ent-558" entity_mention_id="m-756" role="per">his</rel_arg1>
+        <rel_arg2 entity_id="ent-564" entity_mention_id="m-726" role="per">his Russian counterpart</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4074" length="11">counterpart</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1756" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1440" realis="true">
+        <rel_arg1 entity_id="ent-564" entity_mention_id="m-726" role="employeemember">his Russian counterpart</rel_arg1>
+        <rel_arg2 entity_id="ent-336" entity_mention_id="m-738" role="org">Russian</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1757" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1460" realis="true">
+        <rel_arg1 entity_id="ent-705" entity_mention_id="m-774" role="per">Ohli Rehn</rel_arg1>
+        <rel_arg2 filler_id="f-1468" role="role">European Commissioner for economic and monetary affairs</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1758" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1510" realis="true">
+        <rel_arg1 entity_id="ent-792" entity_mention_id="m-825" role="org">The two largest Cypriot banks</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-831" role="loc">Cypriot</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4629" length="7">Cypriot</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1759" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1520" realis="true">
+        <rel_arg1 entity_id="ent-795" entity_mention_id="m-837" role="org">Greek businesses and households</rel_arg1>
+        <rel_arg2 entity_id="ent-711" entity_mention_id="m-843" role="loc">Greek</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1760" type="physical" subtype="resident">
+      <relation_mention id="relm-1530" realis="true">
+        <rel_arg1 entity_id="ent-798" entity_mention_id="m-849" role="per">Greek businesses and households</rel_arg1>
+        <rel_arg2 entity_id="ent-711" entity_mention_id="m-843" role="loc">Greek</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1761" type="physical" subtype="locatednear">
+      <relation_mention id="relm-3681" realis="true">
+        <rel_arg1 entity_id="ent-273" entity_mention_id="m-306" role="entity">Some European countries</rel_arg1>
+        <rel_arg2 entity_id="ent-171" entity_mention_id="m-312" role="loc">European</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1372" length="8">European</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1762" type="physical" subtype="locatednear">
+      <relation_mention id="relm-3691" realis="true">
+        <rel_arg1 entity_id="ent-903" entity_mention_id="m-897" role="entity">eastern Mediterranean</rel_arg1>
+        <rel_arg2 entity_id="ent-912" entity_mention_id="m-906" role="loc">Mediterranean</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3101" length="7">eastern</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1763" type="physical" subtype="locatednear">
+      <relation_mention id="relm-3701" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-891" role="entity">the eastern Mediterranean island</rel_arg1>
+        <rel_arg2 entity_id="ent-903" entity_mention_id="m-897" role="loc">eastern Mediterranean</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1764" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-3711" realis="true">
+        <rel_arg1 entity_id="ent-549" entity_mention_id="m-585" role="org">The state broadcaster</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-597" role="loc">Brussels</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3243" length="4">from</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1765" type="partwhole" subtype="membership">
+      <relation_mention id="relm-3721" realis="true">
+        <rel_arg1 entity_id="ent-279" entity_mention_id="m-633" role="member">Germany</rel_arg1>
+        <rel_arg2 entity_id="ent-45" entity_mention_id="m-627" role="org">eurozone</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1766" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-3731" realis="true">
+        <rel_arg1 entity_id="ent-705" entity_mention_id="m-774" role="per">Ohli Rehn</rel_arg1>
+        <rel_arg2 entity_id="ent-171" entity_mention_id="m-780" role="entity">European</rel_arg2>
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4303" length="8">European</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1550" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="152" length="2">to</trigger>
+        <em_arg entity_id="ent-42" entity_mention_id="m-96" role="agent" realis="true">flock</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-24" role="destination" realis="true">banks</em_arg>
+      </event_mention>
+      <event_mention id="em-1594" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="259" length="2">to</trigger>
+        <em_arg entity_id="ent-42" entity_mention_id="m-102" role="agent" realis="true">flock</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-90" role="destination" realis="true">banks</em_arg>
+      </event_mention>
+      <event_mention id="em-1622" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="329" length="2">to</trigger>
+        <em_arg entity_id="ent-42" entity_mention_id="m-78" role="agent" realis="true">Hundreds of depositors</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-84" role="destination" realis="true">cooperative banks</em_arg>
+        <em_arg filler_id="f-1654" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1578">
+      <event_mention id="em-1657" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="386" length="8">withdraw</trigger>
+        <em_arg entity_id="ent-42" entity_mention_id="m-78" role="recipient" realis="true">Hundreds of depositors</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-84" role="place" realis="true">cooperative banks</em_arg>
+        <em_arg filler_id="f-1696" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1580">
+      <event_mention id="em-1699" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="469" length="4">told</trigger>
+        <em_arg entity_id="ent-42" entity_mention_id="m-126" role="entity" realis="true">their</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-84" role="place" realis="true">cooperative banks</em_arg>
+        <em_arg filler_id="f-1731" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1584">
+      <event_mention id="em-1762" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="612" length="11">negotiation</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-186" role="entity" realis="true">authorities</em_arg>
+        <em_arg entity_id="ent-48" entity_mention_id="m-132" role="entity" realis="true">Eurogroup</em_arg>
+        <em_arg entity_id="ent-51" entity_mention_id="m-138" role="place" realis="true">Brussels</em_arg>
+        <em_arg filler_id="f-1801" role="time" realis="true">concluded in the early hours of Saturday</em_arg>
+      </event_mention>
+      <event_mention id="em-3279" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3286" length="10">bargaining</trigger>
+        <em_arg entity_id="ent-168" entity_mention_id="m-603" role="entity" realis="true">the Cypriot president</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1588">
+      <event_mention id="em-2052" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1238" length="4">levy</trigger>
+        <em_arg entity_id="ent-270" entity_mention_id="m-264" role="giver" realis="true">bank depositors whose savings exceeded 100,000 euros</em_arg>
+        <em_arg entity_id="ent-276" entity_mention_id="m-300" role="giver" realis="true">those</em_arg>
+        <em_arg entity_id="ent-48" entity_mention_id="m-222" role="recipient" realis="true">Eurogroup</em_arg>
+        <em_arg entity_id="ent-162" entity_mention_id="m-228" role="recipient" realis="true">International Monetary Fund</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-246" role="place" realis="true">Cyprus</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1590">
+      <event_mention id="em-1873" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="739" length="8">deposits</trigger>
+        <em_arg entity_id="ent-159" entity_mention_id="m-180" role="recipient" realis="true">bank</em_arg>
+      </event_mention>
+      <event_mention id="em-2381" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1741" length="8">deposits</trigger>
+        <em_arg entity_id="ent-159" entity_mention_id="m-405" role="recipient" realis="true">bank</em_arg>
+      </event_mention>
+      <event_mention id="em-2442" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1787" length="8">deposits</trigger>
+        <em_arg entity_id="ent-159" entity_mention_id="m-405" role="recipient" realis="true">bank</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-411" role="place" realis="true">Cyprus</em_arg>
+      </event_mention>
+      <event_mention id="em-3874" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1637" length="10">depositors</trigger>
+        <em_arg entity_id="ent-342" entity_mention_id="m-387" role="giver" realis="true">all depositors</em_arg>
+        <em_arg entity_id="ent-159" entity_mention_id="m-375" role="recipient" realis="true">Cypriot banks</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1592">
+      <event_mention id="em-1901" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="778" length="4">said</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-186" role="entity" realis="true">authorities</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1832">
+      <event_mention id="em-1929" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="816" length="12">negotiations</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-186" role="entity" realis="true">authorities</em_arg>
+      </event_mention>
+      <event_mention id="em-2171" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1486" length="12">negotiations</trigger>
+        <em_arg entity_id="ent-273" entity_mention_id="m-306" role="entity" realis="true">Some European countries</em_arg>
+        <em_arg entity_id="ent-279" entity_mention_id="m-318" role="entity" realis="true">Germany</em_arg>
+        <em_arg entity_id="ent-282" entity_mention_id="m-324" role="entity" realis="true">Netherlands</em_arg>
+        <em_arg entity_id="ent-285" entity_mention_id="m-330" role="entity" realis="true">Finland</em_arg>
+      </event_mention>
+      <event_mention id="em-2866" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3151" length="10">bargaining</trigger>
+        <em_arg entity_id="ent-543" entity_mention_id="m-537" role="entity" realis="true">the eastern Mediterranean island's government</em_arg>
+        <em_arg entity_id="ent-546" entity_mention_id="m-567" role="entity" realis="true">hard bargaining EU partners</em_arg>
+        <em_arg entity_id="ent-162" entity_mention_id="m-579" role="entity" realis="true">International Monetary Fund</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1834">
+      <event_mention id="em-1975" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1186" length="7">meeting</trigger>
+        <em_arg entity_id="ent-168" entity_mention_id="m-252" role="entity" realis="true">Nicos Anastasiades</em_arg>
+        <em_arg entity_id="ent-165" entity_mention_id="m-234" role="entity" realis="true">Eurogroup and International Monetary Fund officials working through the night in Brussels</em_arg>
+        <em_arg entity_id="ent-171" entity_mention_id="m-258" role="place" realis="true">European</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1836">
+      <event_mention id="em-2017" type="personnel" subtype="elect" realis="actual">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1115" length="7">elected</trigger>
+        <em_arg entity_id="ent-168" entity_mention_id="m-252" role="person" realis="true">Nicos Anastasiades</em_arg>
+        <em_arg filler_id="f-2042" role="position" realis="true">President</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-246" role="place" realis="true">Cyprus</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1957">
+      <event_mention id="em-2504" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1988" length="4">levy</trigger>
+        <em_arg filler_id="f-2521" role="money" realis="true"> just under 6 billion euros</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-417" role="place" realis="true">its</em_arg>
+      </event_mention>
+      <event_mention id="em-2644" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2423" length="4">levy</trigger>
+        <em_arg filler_id="f-2661" role="time" realis="false">March 19</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-489" role="place" realis="true">Cypriot</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1959">
+      <event_mention id="em-2101" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1267" length="10">depositors</trigger>
+        <em_arg entity_id="ent-270" entity_mention_id="m-264" role="giver" realis="true">bank depositors whose savings exceeded 100,000 euros</em_arg>
+        <em_arg entity_id="ent-159" entity_mention_id="m-288" role="recipient" realis="true">bank</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-246" role="place" realis="true">Cyprus</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1961">
+      <event_mention id="em-2136" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1356" length="8">deposits</trigger>
+        <em_arg entity_id="ent-276" entity_mention_id="m-300" role="giver" realis="true">those</em_arg>
+        <em_arg entity_id="ent-159" entity_mention_id="m-288" role="recipient" realis="true">bank</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-246" role="place" realis="true">Cyprus</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1965">
+      <event_mention id="em-2213" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1579" length="4">loss</trigger>
+        <em_arg entity_id="ent-339" entity_mention_id="m-369" role="giver" realis="true">Russian "oligarchs" with fat deposits in Cypriot banks</em_arg>
+        <em_arg entity_id="ent-273" entity_mention_id="m-306" role="beneficiary" realis="true">Some European countries</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1967">
+      <event_mention id="em-2248" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1579" length="4">loss</trigger>
+        <em_arg entity_id="ent-342" entity_mention_id="m-387" role="giver" realis="true">all depositors</em_arg>
+        <em_arg entity_id="ent-273" entity_mention_id="m-306" role="beneficiary" realis="true">Some European countries</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1969">
+      <event_mention id="em-2283" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1533" length="8">deposits</trigger>
+        <em_arg entity_id="ent-339" entity_mention_id="m-369" role="giver" realis="true">Russian "oligarchs" with fat deposits in Cypriot banks</em_arg>
+        <em_arg entity_id="ent-159" entity_mention_id="m-375" role="recipient" realis="true">Cypriot banks</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-381" role="place" realis="true">Cypriot</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1971">
+      <event_mention id="em-2318" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1682" length="11">compensated</trigger>
+        <em_arg entity_id="ent-159" entity_mention_id="m-399" role="giver" realis="true">bank</em_arg>
+        <em_arg entity_id="ent-342" entity_mention_id="m-393" role="recipient" realis="true">Owners of bank accounts</em_arg>
+        <em_arg filler_id="f-2350" role="thing" realis="true">bank stock</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2430">
+      <event_mention id="em-2476" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="1775" length="8">interest</trigger>
+        <em_arg entity_id="ent-159" entity_mention_id="m-405" role="giver" realis="true">bank</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2434">
+      <event_mention id="em-2560" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2149" length="5">given</trigger>
+        <em_arg entity_id="ent-348" entity_mention_id="m-429" role="giver" realis="true">euro countries</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2436">
+      <event_mention id="em-2588" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2240" length="10">contribute</trigger>
+        <em_arg entity_id="ent-162" entity_mention_id="m-441" role="giver" realis="true">which</em_arg>
+        <em_arg filler_id="f-2613" role="money" realis="true">one billion euros</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2440">
+      <event_mention id="em-2693" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2501" length="4">meet</trigger>
+        <em_arg entity_id="ent-357" entity_mention_id="m-495" role="entity" realis="true">the Cypriot parliament</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-489" role="place" realis="true">Cypriot</em_arg>
+        <em_arg filler_id="f-2732" role="time" realis="false">Sunday or on Monday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2742">
+      <event_mention id="em-2750" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2706" length="3">tax</trigger>
+        <em_arg filler_id="f-2767" role="money" realis="true">200 million euros a year</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-489" role="place" realis="true">Cypriot</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2744">
+      <event_mention id="em-2778" type="transaction" subtype="transfermoney" realis="actual" ways="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2819" length="3">tax</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-507" role="place" realis="true">Cyprus</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2748">
+      <event_mention id="em-2824" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2783" length="6">salary</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-507" role="place" realis="true">Cyprus</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2820">
+      <event_mention id="em-2845" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2794" length="7">pension</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-507" role="place" realis="true">Cyprus</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2901">
+      <event_mention id="em-2911" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3234" length="8">reported</trigger>
+        <em_arg entity_id="ent-549" entity_mention_id="m-585" role="entity" realis="true">The state broadcaster</em_arg>
+        <em_arg entity_id="ent-51" entity_mention_id="m-597" role="place" realis="true">Brussels</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2903">
+      <event_mention id="em-2946" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3323" length="10">threatened</trigger>
+        <em_arg entity_id="ent-168" entity_mention_id="m-603" role="entity" realis="true">the Cypriot president</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2905">
+      <event_mention id="em-2988" type="movement" subtype="transportperson" realis="other">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3349" length="5">leave</trigger>
+        <em_arg entity_id="ent-168" entity_mention_id="m-603" role="person" realis="true">the Cypriot president</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2909">
+      <event_mention id="em-3044" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3558" length="8">dictated</trigger>
+        <em_arg entity_id="ent-168" entity_mention_id="m-621" role="audience" realis="true">he</em_arg>
+        <em_arg entity_id="ent-279" entity_mention_id="m-633" role="entity" realis="true">Germany</em_arg>
+        <em_arg entity_id="ent-555" entity_mention_id="m-639" role="entity" realis="true">other tough-playing partners</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3100">
+      <event_mention id="em-3079" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3637" length="4">said</trigger>
+        <em_arg entity_id="ent-558" entity_mention_id="m-645" role="entity" realis="true">Cyprus finance minister</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3125">
+      <event_mention id="em-3131" type="movement" subtype="transportperson" realis="other">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4008" length="6">travel</trigger>
+        <em_arg entity_id="ent-558" entity_mention_id="m-714" role="agent" realis="true">Sarris</em_arg>
+        <em_arg entity_id="ent-561" entity_mention_id="m-720" role="destination" realis="true">Moscow</em_arg>
+        <em_arg filler_id="f-3163" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3127">
+      <event_mention id="em-3166" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4052" length="4">deal</trigger>
+        <em_arg entity_id="ent-558" entity_mention_id="m-756" role="entity" realis="true">his</em_arg>
+        <em_arg entity_id="ent-564" entity_mention_id="m-726" role="entity" realis="true">his Russian counterpart</em_arg>
+        <em_arg entity_id="ent-561" entity_mention_id="m-720" role="place" realis="true">Moscow</em_arg>
+        <em_arg filler_id="f-3205" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3129">
+      <event_mention id="em-3216" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4142" length="4">loan</trigger>
+        <em_arg entity_id="ent-336" entity_mention_id="m-744" role="giver" realis="true">Russian</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-750" role="recipient" realis="true">Cyprus</em_arg>
+        <em_arg filler_id="f-3276" role="money" realis="true">2.5 billion euro</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3208">
+      <event_mention id="em-3244" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4200" length="8">interest</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-750" role="giver" realis="true">Cyprus</em_arg>
+        <em_arg entity_id="ent-336" entity_mention_id="m-744" role="recipient" realis="true">Russian</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3212">
+      <event_mention id="em-3300" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4247" length="5">asked</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-762" role="entity" realis="true">Cyprus</em_arg>
+        <em_arg entity_id="ent-336" entity_mention_id="m-768" role="entity" realis="true">Russia</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3214">
+      <event_mention id="em-3336" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4282" length="4">loan</trigger>
+        <em_arg entity_id="ent-336" entity_mention_id="m-768" role="giver" realis="true">Russia</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-762" role="recipient" realis="true">Cyprus</em_arg>
+        <em_arg filler_id="f-3368" role="money" realis="true">2 billion euro</em_arg>
+      </event_mention>
+      <event_mention id="em-3392" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4405" length="10">contribute</trigger>
+        <em_arg entity_id="ent-336" entity_mention_id="m-786" role="giver" realis="true">Moscow</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-801" role="beneficiary" realis="true">Cyprus</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3328">
+      <event_mention id="em-3371" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4369" length="4">said</trigger>
+        <em_arg entity_id="ent-705" entity_mention_id="m-774" role="entity" realis="true">Ohli Rehn</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3332">
+      <event_mention id="em-3451" type="transaction" subtype="transferownership" realis="other" ways="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4537" length="7">selling</trigger>
+        <em_arg entity_id="ent-159" entity_mention_id="m-807" role="giver" realis="true">Cypriot bank</em_arg>
+        <em_arg filler_id="f-3476" role="thing" realis="true">Cypriot bank interests in Greece</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3334">
+      <event_mention id="em-3479" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4537" length="7">selling</trigger>
+        <em_arg entity_id="ent-159" entity_mention_id="m-807" role="recipient" realis="true">Cypriot bank</em_arg>
+        <em_arg filler_id="f-3504" role="money" realis="true">an estimated 2 billion euros</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3420">
+      <event_mention id="em-3507" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4671" length="5">loans</trigger>
+        <em_arg entity_id="ent-792" entity_mention_id="m-825" role="giver" realis="true">The two largest Cypriot banks</em_arg>
+        <em_arg entity_id="ent-795" entity_mention_id="m-837" role="recipient" realis="true">Greek businesses and households</em_arg>
+        <em_arg entity_id="ent-798" entity_mention_id="m-849" role="recipient" realis="true">Greek businesses and households</em_arg>
+        <em_arg filler_id="f-3546" role="money" realis="true">25 billion euros</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3422">
+      <event_mention id="em-3549" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4793" length="12">recapitalize</trigger>
+        <em_arg entity_id="ent-792" entity_mention_id="m-855" role="recipient" realis="true">The two banks</em_arg>
+        <em_arg filler_id="f-3574" role="money" realis="true">about 10 billion euros</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3424">
+      <event_mention id="em-3577" type="transaction" subtype="transfermoney" realis="actual" ways="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4822" length="6">losses</trigger>
+        <em_arg entity_id="ent-792" entity_mention_id="m-861" role="giver" realis="true">their</em_arg>
+        <em_arg entity_id="ent-711" entity_mention_id="m-867" role="place" realis="true">Greece</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3428">
+      <event_mention id="em-3741" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="117" length="7">bailout</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-18" role="beneficiary" realis="true">Cyprus</em_arg>
+      </event_mention>
+      <event_mention id="em-3762" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="224" length="7">bailout</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-60" role="beneficiary" realis="true">Cyprus</em_arg>
+      </event_mention>
+      <event_mention id="em-3804" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="432" length="7">bailout</trigger>
+        <em_arg entity_id="ent-45" entity_mention_id="m-114" role="giver" realis="true">Eurozone</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-120" role="beneficiary" realis="true">Cyprus</em_arg>
+      </event_mention>
+      <event_mention id="em-3839" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="808" length="7">bailout</trigger>
+        <em_arg entity_id="ent-48" entity_mention_id="m-132" role="giver" realis="true">Eurogroup</em_arg>
+      </event_mention>
+      <event_mention id="em-3902" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2066" length="7">bailout</trigger>
+        <em_arg filler_id="f-3919" role="money" realis="true">around 10 billion euros</em_arg>
+      </event_mention>
+      <event_mention id="em-3923" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2310" length="7">bailout</trigger>
+        <em_arg entity_id="ent-162" entity_mention_id="m-447" role="giver" realis="true">IMF</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-453" role="beneficiary" realis="true">Cyprus</em_arg>
+      </event_mention>
+      <event_mention id="em-3972" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2870" length="7">bailout</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-507" role="beneficiary" realis="true">Cyprus</em_arg>
+      </event_mention>
+      <event_mention id="em-3993" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="2994" length="7">bailout</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-525" role="beneficiary" realis="true">Cyprus</em_arg>
+      </event_mention>
+      <event_mention id="em-4056" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="4984" length="7">bailout</trigger>
+        <em_arg entity_id="ent-711" entity_mention_id="m-879" role="beneficiary" realis="true">the country</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3605">
+      <event_mention id="em-1734" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="485" length="8">deposits</trigger>
+        <em_arg entity_id="ent-42" entity_mention_id="m-126" role="giver" realis="true">their</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-84" role="place" realis="true">cooperative banks</em_arg>
+      </event_mention>
+      <event_mention id="em-3783" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="401" length="8">deposits</trigger>
+        <em_arg entity_id="ent-42" entity_mention_id="m-108" role="giver" realis="true">their</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3607">
+      <event_mention id="em-2967" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3376" length="5">asked</trigger>
+        <em_arg entity_id="ent-168" entity_mention_id="m-603" role="entity" realis="true">the Cypriot president</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3609">
+      <event_mention id="em-3016" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="spontaneous">
+        <trigger source="ENG_NW_001278_20130316_F00012HSR" offset="3397" length="7">consult</trigger>
+        <em_arg entity_id="ent-168" entity_mention_id="m-603" role="entity" realis="true">the Cypriot president</em_arg>
+        <em_arg entity_id="ent-552" entity_mention_id="m-615" role="entity" realis="true">political associates</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

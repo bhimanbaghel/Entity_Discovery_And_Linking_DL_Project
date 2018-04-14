@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000026" doc_id="ENG_NW_001278_20131215_F00011PM5" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificGroup">
+      <entity_mention id="m-18" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="115" length="11">
+        <mention_text>our leaders</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="119" length="7">leaders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-57" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="213" length="11">
+        <mention_text>our leaders</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="217" length="7">leaders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="269" length="11">
+        <mention_text>our leaders</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="273" length="7">leaders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="115" length="3">
+        <mention_text>our</mention_text>
+      </entity_mention>
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="128" length="10">
+        <mention_text>S. African</mention_text>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="213" length="3">
+        <mention_text>our</mention_text>
+      </entity_mention>
+      <entity_mention id="m-75" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="226" length="10">
+        <mention_text>S. African</mention_text>
+      </entity_mention>
+      <entity_mention id="m-87" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="269" length="3">
+        <mention_text>our</mention_text>
+      </entity_mention>
+      <entity_mention id="m-99" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="282" length="10">
+        <mention_text>S. African</mention_text>
+      </entity_mention>
+      <entity_mention id="m-123" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="345" length="13">
+        <mention_text>South African</mention_text>
+      </entity_mention>
+      <entity_mention id="m-354" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1194" length="12">
+        <mention_text>South Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-372" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="1312" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+      <entity_mention id="m-378" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="1360" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+      <entity_mention id="m-510" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="1879" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+      <entity_mention id="m-585" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2151" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+      <entity_mention id="m-597" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2182" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1065" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="3692" length="12">
+        <mention_text>South Africa</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="128" length="27">
+        <mention_text>S. African deputy president</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="146" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="226" length="27">
+        <mention_text>S. African deputy president</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="244" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-93" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="282" length="27">
+        <mention_text>S. African deputy president</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="300" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-129" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="376" length="17">
+        <mention_text>Kgalema Motlanthe</mention_text>
+      </entity_mention>
+      <entity_mention id="m-201" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="576" length="9">
+        <mention_text>Motlanthe</mention_text>
+      </entity_mention>
+      <entity_mention id="m-312" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1030" length="9">
+        <mention_text>Motlanthe</mention_text>
+      </entity_mention>
+      <entity_mention id="m-318" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1047" length="9">
+        <mention_text>Motlanthe</mention_text>
+      </entity_mention>
+      <entity_mention id="m-666" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2405" length="9">
+        <mention_text>Motlanthe</mention_text>
+      </entity_mention>
+      <entity_mention id="m-705" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2488" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-735" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="2621" length="20">
+        <mention_text>The deputy president</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="2632" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-840" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="3013" length="9">
+        <mention_text>Motlanthe</mention_text>
+      </entity_mention>
+      <entity_mention id="m-846" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3025" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-930" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="3217" length="9">
+        <mention_text>Motlanthe</mention_text>
+      </entity_mention>
+      <entity_mention id="m-936" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3236" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-960" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="3344" length="9">
+        <mention_text>Motlanthe</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1071" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="3712" length="9">
+        <mention_text>Motlanthe</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1077" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3724" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-54" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-48" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="176" length="6">
+        <mention_text>guyuan</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-111" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-105" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="311" length="12">
+        <mention_text>JOHANNESBURG</mention_text>
+      </entity_mention>
+      <entity_mention id="m-195" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="562" length="12">
+        <mention_text>Johannesburg</mention_text>
+      </entity_mention>
+      <entity_mention id="m-423" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1495" length="12">
+        <mention_text>Johannesburg</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-120" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-114" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="334" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-141" type="PER" specificity="nonspecific">
+      <entity_mention id="m-135" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="416" length="6">
+        <mention_text>people</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="416" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-150" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-153" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="464" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-189" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="527" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-333" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1116" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-366" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1277" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-399" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1452" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-435" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1612" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-441" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="1621" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+      <entity_mention id="m-456" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1689" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-468" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1768" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-516" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1904" length="6">
+        <mention_text>Madiba</mention_text>
+      </entity_mention>
+      <entity_mention id="m-543" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2033" length="6">
+        <mention_text>Madiba</mention_text>
+      </entity_mention>
+      <entity_mention id="m-555" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2070" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-561" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2083" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-567" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="2090" length="16">
+        <mention_text>a man of honesty</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="2092" length="3">man</nom_head>
+      </entity_mention>
+      <entity_mention id="m-591" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2174" length="6">
+        <mention_text>Madiba</mention_text>
+      </entity_mention>
+      <entity_mention id="m-603" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2198" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-615" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2250" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-654" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2329" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-660" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2380" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-672" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2420" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-684" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2454" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-699" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2479" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-741" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2653" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-756" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2701" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-762" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="2708" length="28">
+        <mention_text>a member of ANC Youth League</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="2710" length="6">member</nom_head>
+      </entity_mention>
+      <entity_mention id="m-783" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2741" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-789" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="2748" length="22">
+        <mention_text>the volunteer in chief</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="2752" length="9">volunteer</nom_head>
+      </entity_mention>
+      <entity_mention id="m-795" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2772" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-813" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2898" length="6">
+        <mention_text>Madiba</mention_text>
+      </entity_mention>
+      <entity_mention id="m-819" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2943" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-834" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2967" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-852" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="3033" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-876" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3045" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-912" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="3191" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-924" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3203" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-942" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="3248" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-948" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3262" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-954" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3312" length="7">
+        <mention_text>himself</mention_text>
+      </entity_mention>
+      <entity_mention id="m-966" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="3359" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-990" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3467" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1011" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3518" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1017" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3525" length="12">
+        <mention_text>a strategist</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3527" length="10">strategist</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1053" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3638" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1059" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3649" length="3">
+        <mention_text>His</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1083" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="3732" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1089" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3744" length="76">
+        <mention_text>a hands-on person who would visit the party branches to get the real stories</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3755" length="6">person</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-165" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-159" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="502" length="10">
+        <mention_text>Jacob Zuma</mention_text>
+      </entity_mention>
+      <entity_mention id="m-429" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1529" length="4">
+        <mention_text>Zuma</mention_text>
+      </entity_mention>
+      <entity_mention id="m-462" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1731" length="4">
+        <mention_text>Zuma</mention_text>
+      </entity_mention>
+      <entity_mention id="m-522" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1953" length="4">
+        <mention_text>Zuma</mention_text>
+      </entity_mention>
+      <entity_mention id="m-528" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1965" length="4">
+        <mention_text>Zuma</mention_text>
+      </entity_mention>
+      <entity_mention id="m-579" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2121" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-609" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2209" length="4">
+        <mention_text>Zuma</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-186" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-180" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="527" length="31">
+        <mention_text>Nelson Mandela Center of Memory</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-213" type="PER" specificity="specificGroup">
+      <entity_mention id="m-207" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="591" length="11">
+        <mention_text>many people</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="596" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-222" type="PER" specificity="nonspecific">
+      <entity_mention id="m-216" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="622" length="53">
+        <mention_text>the leadership of the African National Congress (ANC)</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="626" length="10">leadership</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-231" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-225" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="644" length="25">
+        <mention_text>African National Congress</mention_text>
+      </entity_mention>
+      <entity_mention id="m-243" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="671" length="3">
+        <mention_text>ANC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-474" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1797" length="25">
+        <mention_text>African National Congress</mention_text>
+      </entity_mention>
+      <entity_mention id="m-486" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1824" length="3">
+        <mention_text>ANC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-777" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2720" length="3">
+        <mention_text>ANC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-801" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2828" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1104" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3782" length="5">
+        <mention_text>party</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3782" length="5">party</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-240" type="PER" specificity="nonspecific">
+      <entity_mention id="m-807" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="2838" length="58">
+        <mention_text>a person who would go underground to organize the struggle</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="2840" length="6">person</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-297" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-291" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="991" length="9">
+        <mention_text>Kaal Marx</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-306" type="PER" specificity="specificGroup">
+      <entity_mention id="m-729" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="2610" length="8">
+        <mention_text>the poor</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="2614" length="4">poor</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-309" type="PER" specificity="nonspecific">
+      <entity_mention id="m-273" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="854" length="10">
+        <mention_text>the people</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="858" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-330" type="PER" specificity="nonspecific">
+      <entity_mention id="m-324" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="1085" length="42">
+        <mention_text>a better leadership in the pro-Mandela era</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="1094" length="10">leadership</nom_head>
+      </entity_mention>
+      <entity_mention id="m-360" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="1213" length="19">
+        <mention_text>a better leadership</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="1222" length="10">leadership</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-345" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-348" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1166" length="11">
+        <mention_text>Thabo Mbeki</mention_text>
+      </entity_mention>
+      <entity_mention id="m-384" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1418" length="5">
+        <mention_text>Mbeki</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-411" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-405" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1467" length="14">
+        <mention_text>Calvary Church</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-420" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-414" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1486" length="7">
+        <mention_text>Midrand</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-453" type="PER" specificity="nonspecific">
+      <entity_mention id="m-447" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="1659" length="19">
+        <mention_text>Certain politicians</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="1667" length="11">politicians</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-498" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-492" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1836" length="25">
+        <mention_text>Waterkloof Air Force Base</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-507" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-501" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1867" length="8">
+        <mention_text>Pretoria</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-540" type="PER" specificity="nonspecific">
+      <entity_mention id="m-534" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2011" length="3">
+        <mention_text>you</mention_text>
+      </entity_mention>
+      <entity_mention id="m-549" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2044" length="3">
+        <mention_text>you</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-627" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-621" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2282" length="15">
+        <mention_text>Mthatha Airport</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-636" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-630" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2303" length="4">
+        <mention_text>Qunu</mention_text>
+      </entity_mention>
+      <entity_mention id="m-648" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="2323" length="5">
+        <mention_text>where</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-645" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-639" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2309" length="12">
+        <mention_text>Eastern Cape</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-696" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-690" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2471" length="5">
+        <mention_text>earth</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-717" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-711" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="2557" length="7">
+        <mention_text>clinics</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="2557" length="7">clinics</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-726" type="PER" specificity="nonspecific">
+      <entity_mention id="m-720" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="2576" length="8">
+        <mention_text>students</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="2576" length="8">students</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-753" type="PER" specificity="nonspecific">
+      <entity_mention id="m-747" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="2679" length="7">
+        <mention_text>mankind</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="2679" length="7">mankind</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-774" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-768" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="2720" length="16">
+        <mention_text>ANC Youth League</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-831" type="PER" specificity="specificGroup">
+      <entity_mention id="m-825" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="2967" length="10">
+        <mention_text>his family</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="2971" length="6">family</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-864" type="PER" specificity="specificGroup">
+      <entity_mention id="m-858" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3045" length="16">
+        <mention_text>his prison mates</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3056" length="5">mates</nom_head>
+      </entity_mention>
+      <entity_mention id="m-918" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3203" length="12">
+        <mention_text>his comrades</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3207" length="8">comrades</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-873" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-867" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3049" length="6">
+        <mention_text>prison</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3049" length="6">prison</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-888" type="PER" specificity="specificGroup">
+      <entity_mention id="m-882" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3067" length="13">
+        <mention_text>their lawyers</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3073" length="7">lawyers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-906" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3118" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-897" type="PER" specificity="specificGroup">
+      <entity_mention id="m-891" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3067" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-900" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3089" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-978" type="PER" specificity="nonspecific">
+      <entity_mention id="m-972" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3409" length="18">
+        <mention_text>the most difficult</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3418" length="9">difficult</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-987" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-981" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="3453" length="13">
+        <mention_text>Robben Island</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1002" type="PER" specificity="nonspecific">
+      <entity_mention id="m-996" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3481" length="22">
+        <mention_text>us who were young then</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3481" length="2">us</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1005" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3514" length="2">
+        <mention_text>us</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1029" type="PER" specificity="nonspecific">
+      <entity_mention id="m-1023" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3552" length="15">
+        <mention_text>other prisoners</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3558" length="9">prisoners</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1038" type="PER" specificity="nonspecific">
+      <entity_mention id="m-1032" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3595" length="14">
+        <mention_text>prison warders</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3602" length="7">warders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1047" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="3618" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1101" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-1095" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3778" length="18">
+        <mention_text>the party branches</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3788" length="8">branches</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1356" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-1350" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1847" length="9">
+        <mention_text>Air Force</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1375" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-1369" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="644" length="7">
+        <mention_text>African</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1378" noun_type="NAM" source="ENG_NW_001278_20131215_F00011PM5" offset="1797" length="7">
+        <mention_text>African</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2552" type="PER" specificity="nonspecific">
+      <entity_mention id="m-249" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="698" length="16">
+        <mention_text>Every generation</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="704" length="10">generation</nom_head>
+      </entity_mention>
+      <entity_mention id="m-255" noun_type="PRO" source="ENG_NW_001278_20131215_F00011PM5" offset="731" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2555" type="PER" specificity="nonspecific">
+      <entity_mention id="m-261" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="764" length="20">
+        <mention_text>different leadership</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="774" length="10">leadership</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2558" type="PER" specificity="nonspecific">
+      <entity_mention id="m-267" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="815" length="11">
+        <mention_text>each leader</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="820" length="6">leader</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2561" type="PER" specificity="nonspecific">
+      <entity_mention id="m-279" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="896" length="7">
+        <mention_text>Leaders</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="896" length="7">Leaders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2564" type="PER" specificity="nonspecific">
+      <entity_mention id="m-285" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="930" length="10">
+        <mention_text>one leader</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="934" length="6">leader</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2567" type="PER" specificity="specificGroup">
+      <entity_mention id="m-573" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="2111" length="8">
+        <mention_text>Comrades</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="2111" length="8">Comrades</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2570" type="PER" specificity="specificGroup">
+      <entity_mention id="m-678" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="2437" length="10">
+        <mention_text>the people</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="2441" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2573" type="PER" specificity="nonspecific">
+      <entity_mention id="m-300" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="1018" length="9">
+        <mention_text>the needy</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="1022" length="5">needy</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2909" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-1041" noun_type="NOM" source="ENG_NW_001278_20131215_F00011PM5" offset="3595" length="6">
+        <mention_text>prison</mention_text>
+        <nom_head source="ENG_NW_001278_20131215_F00011PM5" offset="3595" length="6">prison</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-1128" source="ENG_NW_001278_20131215_F00011PM5" offset="139" length="16" type="title">deputy president</filler>
+    <filler id="f-1158" source="ENG_NW_001278_20131215_F00011PM5" offset="237" length="16" type="title">deputy president</filler>
+    <filler id="f-1188" source="ENG_NW_001278_20131215_F00011PM5" offset="293" length="16" type="title">deputy president</filler>
+    <filler id="f-1208" source="ENG_NW_001278_20131215_F00011PM5" offset="359" length="16" type="title">Deputy President</filler>
+    <filler id="f-1228" source="ENG_NW_001278_20131215_F00011PM5" offset="454" length="9" type="title">president</filler>
+    <filler id="f-1238" source="ENG_NW_001278_20131215_F00011PM5" offset="492" length="9" type="title">President</filler>
+    <filler id="f-1278" source="ENG_NW_001278_20131215_F00011PM5" offset="1156" length="9" type="title">President</filler>
+    <filler id="f-1338" source="ENG_NW_001278_20131215_F00011PM5" offset="1654" length="2" type="age">95</filler>
+    <filler id="f-1452" source="ENG_NW_001278_20131215_F00011PM5" offset="2625" length="16" type="title">deputy president</filler>
+    <filler id="f-1532" source="ENG_NW_001278_20131215_F00011PM5" offset="3073" length="7" type="title">lawyers</filler>
+    <filler id="f-2392" source="ENG_NW_001278_20131215_F00011PM5" offset="3602" length="7" type="title">warders</filler>
+    <filler id="f-2654" source="ENG_NW_001278_20131215_F00011PM5" offset="2752" length="18" type="title">volunteer in chief</filler>
+    <filler id="f-1619" source="ENG_NW_001278_20131215_F00011PM5" offset="402" length="8" type="time" nom_time="2013-12-14">Saturday</filler>
+    <filler id="f-1670" source="ENG_NW_001278_20131215_F00011PM5" offset="454" length="9" type="title">president</filler>
+    <filler id="f-1749" source="ENG_NW_001278_20131215_F00011PM5" offset="1156" length="9" type="title">President</filler>
+    <filler id="f-1779" source="ENG_NW_001278_20131215_F00011PM5" offset="1130" length="17" type="time" nom_time="2013-12-xx">Earlier this week</filler>
+    <filler id="f-1844" source="ENG_NW_001278_20131215_F00011PM5" offset="1511" length="9" type="time" nom_time="2013-12-11">Wednesday</filler>
+    <filler id="f-1872" source="ENG_NW_001278_20131215_F00011PM5" offset="1537" length="8" type="time" nom_time="2013-12-14">Saturday</filler>
+    <filler id="f-1923" source="ENG_NW_001278_20131215_F00011PM5" offset="1633" length="6" type="time" nom_time="2013-12-05">Dec. 5</filler>
+    <filler id="f-2007" source="ENG_NW_001278_20131215_F00011PM5" offset="1768" length="14" type="commodity">Mandela's body</filler>
+    <filler id="f-2078" source="ENG_NW_001278_20131215_F00011PM5" offset="2250" length="14" type="commodity">Mandela's body</filler>
+    <filler id="f-2436" source="ENG_NW_001278_20131215_F00011PM5" offset="3575" length="14" type="commodity">old newspapers</filler>
+    <filler id="f-2487" source="ENG_NW_001278_20131215_F00011PM5" offset="3575" length="14" type="commodity">old newspapers</filler>
+    <filler id="f-2748" source="ENG_NW_001278_20131215_F00011PM5" offset="1511" length="9" type="time" nom_time="2013-12-11">Wednesday</filler>
+  </fillers>
+  <relations>
+    <relation id="r-813" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1110" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-18" role="leader">our leaders</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-24" role="entity">our</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="119" length="7">leaders</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1140" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-57" role="leader">our leaders</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-63" role="entity">our</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="217" length="7">leaders</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1170" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-81" role="leader">our leaders</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-87" role="entity">our</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="273" length="7">leaders</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-814" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1120" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-33" role="per">S. African deputy president</rel_arg1>
+        <rel_arg2 filler_id="f-1128" role="role">deputy president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1150" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-69" role="per">S. African deputy president</rel_arg1>
+        <rel_arg2 filler_id="f-1158" role="role">deputy president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1180" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-93" role="per">S. African deputy president</rel_arg1>
+        <rel_arg2 filler_id="f-1188" role="role">deputy president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1200" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-129" role="per">Kgalema Motlanthe</rel_arg1>
+        <rel_arg2 filler_id="f-1208" role="role">Deputy President</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1444" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-735" role="per">The deputy president</rel_arg1>
+        <rel_arg2 filler_id="f-1452" role="role">deputy president</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-815" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1130" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-33" role="leader">S. African deputy president</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-42" role="entity">S. African</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="139" length="16">deputy president</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1160" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-69" role="leader">S. African deputy president</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-75" role="entity">S. African</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="237" length="16">deputy president</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1190" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-93" role="leader">S. African deputy president</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-99" role="entity">S. African</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="293" length="16">deputy president</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1210" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-129" role="leader">Kgalema Motlanthe</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-123" role="entity">South African</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="359" length="16">Deputy President</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-816" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1220" realis="true">
+        <rel_arg1 entity_id="ent-150" entity_mention_id="m-153" role="per">Nelson Mandela</rel_arg1>
+        <rel_arg2 filler_id="f-1228" role="role">president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-2646" realis="true">
+        <rel_arg1 entity_id="ent-150" entity_mention_id="m-789" role="per">the volunteer in chief</rel_arg1>
+        <rel_arg2 filler_id="f-2654" role="role">volunteer in chief</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-817" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1230" realis="true">
+        <rel_arg1 entity_id="ent-165" entity_mention_id="m-159" role="per">Jacob Zuma</rel_arg1>
+        <rel_arg2 filler_id="f-1238" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-818" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1240" realis="true">
+        <rel_arg1 entity_id="ent-186" entity_mention_id="m-180" role="entity">Nelson Mandela Center of Memory</rel_arg1>
+        <rel_arg2 entity_id="ent-111" entity_mention_id="m-195" role="loc">Johannesburg</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="559" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-819" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1250" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-201" role="entity">Motlanthe</rel_arg1>
+        <rel_arg2 entity_id="ent-186" entity_mention_id="m-180" role="loc">Nelson Mandela Center of Memory</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="524" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-820" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1260" realis="true">
+        <rel_arg1 entity_id="ent-222" entity_mention_id="m-216" role="leader">the leadership of the African National Congress (ANC)</rel_arg1>
+        <rel_arg2 entity_id="ent-231" entity_mention_id="m-225" role="entity">African National Congress</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="626" length="10">leadership</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-821" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1270" realis="true">
+        <rel_arg1 entity_id="ent-345" entity_mention_id="m-348" role="per">Thabo Mbeki</rel_arg1>
+        <rel_arg2 filler_id="f-1278" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-822" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1280" realis="false">
+        <rel_arg1 entity_id="ent-330" entity_mention_id="m-360" role="leader">a better leadership</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-354" role="entity">South Africa</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1222" length="10">leadership</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-823" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1290" realis="true">
+        <rel_arg1 entity_id="ent-345" entity_mention_id="m-384" role="entity">Mbeki</rel_arg1>
+        <rel_arg2 entity_id="ent-411" entity_mention_id="m-405" role="loc">Calvary Church</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1460" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-824" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1310" realis="true">
+        <rel_arg1 entity_id="ent-411" entity_mention_id="m-405" role="entity">Calvary Church</rel_arg1>
+        <rel_arg2 entity_id="ent-420" entity_mention_id="m-414" role="loc">Midrand</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1483" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-825" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1320" realis="true">
+        <rel_arg1 entity_id="ent-420" entity_mention_id="m-414" role="entity">Midrand</rel_arg1>
+        <rel_arg2 entity_id="ent-111" entity_mention_id="m-423" role="loc">Johannesburg</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-826" type="generalaffiliation" subtype="personage">
+      <relation_mention id="relm-1330" realis="true">
+        <rel_arg1 entity_id="ent-150" entity_mention_id="m-441" role="per">who</rel_arg1>
+        <rel_arg2 filler_id="f-1338" role="age">95</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1647" length="3">age</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-827" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1340" realis="true">
+        <rel_arg1 entity_id="ent-165" entity_mention_id="m-462" role="entity">Zuma</rel_arg1>
+        <rel_arg2 entity_id="ent-498" entity_mention_id="m-492" role="loc">Waterkloof Air Force Base</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1829" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-828" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1359" realis="true">
+        <rel_arg1 entity_id="ent-1356" entity_mention_id="m-1350" role="org">Air Force</rel_arg1>
+        <rel_arg2 entity_id="ent-498" entity_mention_id="m-492" role="loc">Waterkloof Air Force Base</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-829" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1384" realis="true">
+        <rel_arg1 entity_id="ent-231" entity_mention_id="m-225" role="org">African National Congress</rel_arg1>
+        <rel_arg2 entity_id="ent-1375" entity_mention_id="m-1369" role="loc">African</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-2616" realis="true">
+        <rel_arg1 entity_id="ent-231" entity_mention_id="m-474" role="org">African National Congress</rel_arg1>
+        <rel_arg2 entity_id="ent-1375" entity_mention_id="m-1378" role="loc">African</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1797" length="7">African</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-830" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1404" realis="true">
+        <rel_arg1 entity_id="ent-498" entity_mention_id="m-492" role="entity">Waterkloof Air Force Base</rel_arg1>
+        <rel_arg2 entity_id="ent-507" entity_mention_id="m-501" role="loc">Pretoria</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1862" length="4">near</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-831" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1414" realis="true">
+        <rel_arg1 entity_id="ent-627" entity_mention_id="m-621" role="entity">Mthatha Airport</rel_arg1>
+        <rel_arg2 entity_id="ent-636" entity_mention_id="m-630" role="loc">Qunu</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="2298" length="4">near</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-832" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1424" realis="true">
+        <rel_arg1 entity_id="ent-636" entity_mention_id="m-630" role="entity">Qunu</rel_arg1>
+        <rel_arg2 entity_id="ent-645" entity_mention_id="m-639" role="loc">Eastern Cape</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-833" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1434" realis="true">
+        <rel_arg1 entity_id="ent-150" entity_mention_id="m-684" role="entity">his</rel_arg1>
+        <rel_arg2 entity_id="ent-696" entity_mention_id="m-690" role="loc">earth</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="2468" length="2">on</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-834" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1454" realis="true">
+        <rel_arg1 entity_id="ent-150" entity_mention_id="m-762" role="employeemember">a member of ANC Youth League</rel_arg1>
+        <rel_arg2 entity_id="ent-774" entity_mention_id="m-768" role="org">ANC Youth League</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="2710" length="6">member</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-835" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1464" realis="true">
+        <rel_arg1 entity_id="ent-774" entity_mention_id="m-768" role="suborg">ANC Youth League</rel_arg1>
+        <rel_arg2 entity_id="ent-231" entity_mention_id="m-777" role="parent">ANC</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-836" type="personalsocial" subtype="family">
+      <relation_mention id="relm-1474" realis="true">
+        <rel_arg1 entity_id="ent-150" entity_mention_id="m-834" role="per">his</rel_arg1>
+        <rel_arg2 entity_id="ent-831" entity_mention_id="m-825" role="per">his family</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="2971" length="6">family</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-837" type="personalsocial" subtype="unspecified">
+      <relation_mention id="relm-1484" realis="true">
+        <rel_arg1 entity_id="ent-150" entity_mention_id="m-876" role="per">his</rel_arg1>
+        <rel_arg2 entity_id="ent-864" entity_mention_id="m-858" role="per">his prison mates</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3056" length="5">mates</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1534" realis="true">
+        <rel_arg1 entity_id="ent-150" entity_mention_id="m-924" role="per">his</rel_arg1>
+        <rel_arg2 entity_id="ent-864" entity_mention_id="m-918" role="per">his comrades</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3207" length="8">comrades</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-838" type="physical" subtype="resident">
+      <relation_mention id="relm-1494" realis="true">
+        <rel_arg1 entity_id="ent-864" entity_mention_id="m-858" role="per">his prison mates</rel_arg1>
+        <rel_arg2 entity_id="ent-873" entity_mention_id="m-867" role="loc">prison</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-839" type="physical" subtype="resident">
+      <relation_mention id="relm-1504" realis="true">
+        <rel_arg1 entity_id="ent-150" entity_mention_id="m-876" role="per">his</rel_arg1>
+        <rel_arg2 entity_id="ent-873" entity_mention_id="m-867" role="loc">prison</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-840" type="personalsocial" subtype="business">
+      <relation_mention id="relm-1514" realis="true">
+        <rel_arg1 entity_id="ent-897" entity_mention_id="m-891" role="per">their</rel_arg1>
+        <rel_arg2 entity_id="ent-888" entity_mention_id="m-882" role="per">their lawyers</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3073" length="7">lawyers</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-841" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1524" realis="true">
+        <rel_arg1 entity_id="ent-888" entity_mention_id="m-882" role="per">their lawyers</rel_arg1>
+        <rel_arg2 filler_id="f-1532" role="role">lawyers</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-842" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1554" realis="true">
+        <rel_arg1 entity_id="ent-150" entity_mention_id="m-990" role="entity">he</rel_arg1>
+        <rel_arg2 entity_id="ent-987" entity_mention_id="m-981" role="loc">Robben Island</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3450" length="2">On</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-843" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1564" realis="true">
+        <rel_arg1 entity_id="ent-1038" entity_mention_id="m-1032" role="employeemember">prison warders</rel_arg1>
+        <rel_arg2 entity_id="ent-2909" entity_mention_id="m-1041" role="org">prison</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3602" length="7">warders</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-844" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1574" realis="true">
+        <rel_arg1 entity_id="ent-1101" entity_mention_id="m-1095" role="suborg">the party branches</rel_arg1>
+        <rel_arg2 entity_id="ent-231" entity_mention_id="m-1104" role="parent">party</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3788" length="8">branches</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-845" type="personalsocial" subtype="role">
+      <relation_mention id="relm-2384" realis="true">
+        <rel_arg1 entity_id="ent-1038" entity_mention_id="m-1032" role="per">prison warders</rel_arg1>
+        <rel_arg2 filler_id="f-2392" role="role">warders</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-846" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2394" realis="true">
+        <rel_arg1 entity_id="ent-1002" entity_mention_id="m-996" role="entity">us who were young then</rel_arg1>
+        <rel_arg2 entity_id="ent-987" entity_mention_id="m-981" role="loc">Robben Island</rel_arg2>
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3450" length="2">On</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1594" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="394" length="4">said</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-129" role="entity" realis="true">Kgalema Motlanthe</em_arg>
+        <em_arg filler_id="f-1619" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+      <event_mention id="em-1675" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="515" length="8">Speaking</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-201" role="entity" realis="true">Motlanthe</em_arg>
+        <em_arg entity_id="ent-186" entity_mention_id="m-180" role="place" realis="true">Nelson Mandela Center of Memory</em_arg>
+      </event_mention>
+      <event_mention id="em-1703" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1061" length="8">speaking</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-318" role="entity" realis="true">Motlanthe</em_arg>
+      </event_mention>
+      <event_mention id="em-2091" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="2415" length="4">said</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-666" role="entity" realis="true">Motlanthe</em_arg>
+      </event_mention>
+      <event_mention id="em-2837" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="2491" length="4">said</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-705" role="entity" realis="true">he</em_arg>
+      </event_mention>
+      <event_mention id="em-2858" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="2642" length="10">chronicled</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-735" role="entity" realis="true">The deputy president</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1643">
+      <event_mention id="em-1622" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="442" length="4">late</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-153" role="victim" realis="true">Nelson Mandela</em_arg>
+      </event_mention>
+      <event_mention id="em-1784" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1287" length="5">death</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-366" role="victim" realis="true">Mandela</em_arg>
+      </event_mention>
+      <event_mention id="em-1877" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1603" length="5">death</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-435" role="victim" realis="true">Mandela</em_arg>
+      </event_mention>
+      <event_mention id="em-1898" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1625" length="4">died</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-441" role="victim" realis="true">who</em_arg>
+        <em_arg filler_id="f-1923" role="time" realis="true">Dec. 5</em_arg>
+      </event_mention>
+      <event_mention id="em-1926" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1699" length="5">death</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-456" role="victim" realis="true">Mandela</em_arg>
+      </event_mention>
+      <event_mention id="em-2019" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1913" length="7">passing</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-516" role="victim" realis="true">Madiba</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1673">
+      <event_mention id="em-1645" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="447" length="6">former</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-153" role="person" realis="true">Nelson Mandela</em_arg>
+        <em_arg filler_id="f-1670" role="position" realis="true">president</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1752">
+      <event_mention id="em-1724" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1149" length="6">former</trigger>
+        <em_arg entity_id="ent-345" entity_mention_id="m-348" role="person" realis="true">Thabo Mbeki</em_arg>
+        <em_arg filler_id="f-1749" role="position" realis="true">President</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1782">
+      <event_mention id="em-1754" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1189" length="4">said</trigger>
+        <em_arg entity_id="ent-345" entity_mention_id="m-348" role="entity" realis="true">Thabo Mbeki</em_arg>
+        <em_arg filler_id="f-1779" role="time" realis="true">Earlier this week</em_arg>
+      </event_mention>
+      <event_mention id="em-1805" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1424" length="4">told</trigger>
+        <em_arg entity_id="ent-345" entity_mention_id="m-384" role="entity" realis="true">Mbeki</em_arg>
+        <em_arg entity_id="ent-411" entity_mention_id="m-405" role="place" realis="true">Calvary Church</em_arg>
+        <em_arg filler_id="f-1844" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1875">
+      <event_mention id="em-1847" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1546" length="6">warned</trigger>
+        <em_arg entity_id="ent-165" entity_mention_id="m-429" role="entity" realis="true">Zuma</em_arg>
+        <em_arg filler_id="f-1872" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+      <event_mention id="em-1947" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1736" length="4">said</trigger>
+        <em_arg entity_id="ent-165" entity_mention_id="m-462" role="entity" realis="true">Zuma</em_arg>
+        <em_arg entity_id="ent-498" entity_mention_id="m-492" role="place" realis="true">Waterkloof Air Force Base</em_arg>
+        <em_arg entity_id="ent-231" entity_mention_id="m-474" role="audience" realis="true">African National Congress</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2017">
+      <event_mention id="em-1982" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1758" length="9">hand over</trigger>
+        <em_arg entity_id="ent-231" entity_mention_id="m-474" role="recipient" realis="true">African National Congress</em_arg>
+        <em_arg filler_id="f-2007" role="thing" realis="true">Mandela's body</em_arg>
+        <em_arg entity_id="ent-498" entity_mention_id="m-492" role="place" realis="true">Waterkloof Air Force Base</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2089">
+      <event_mention id="em-2061" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="2269" length="5">flown</trigger>
+        <em_arg filler_id="f-2078" role="artifact" realis="true">Mandela's body</em_arg>
+        <em_arg entity_id="ent-627" entity_mention_id="m-621" role="destination" realis="true">Mthatha Airport</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2156">
+      <event_mention id="em-2135" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="2548" length="8">building</trigger>
+        <em_arg entity_id="ent-717" entity_mention_id="m-711" role="artifact" realis="true">clinics</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2179">
+      <event_mention id="em-2881" type="contact" subtype="meet" realis="generic" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3772" length="5">visit</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-1089" role="entity" realis="true">a hands-on person who would visit the party branches to get the real stories</em_arg>
+        <em_arg entity_id="ent-1101" entity_mention_id="m-1095" role="entity" realis="true">the party branches</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2202">
+      <event_mention id="em-2181" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="2999" length="6">arrest</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-819" role="person" realis="true">he</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2239">
+      <event_mention id="em-2204" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3049" length="6">prison</trigger>
+        <em_arg entity_id="ent-864" entity_mention_id="m-858" role="person" realis="true">his prison mates</em_arg>
+        <em_arg entity_id="ent-873" entity_mention_id="m-867" role="place" realis="true">prison</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2276">
+      <event_mention id="em-2241" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3062" length="4">told</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-852" role="entity" realis="true">Mandela</em_arg>
+        <em_arg entity_id="ent-864" entity_mention_id="m-858" role="entity" realis="true">his prison mates</em_arg>
+        <em_arg entity_id="ent-888" entity_mention_id="m-882" role="entity" realis="true">their lawyers</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2322">
+      <event_mention id="em-2301" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3335" length="6">arrest</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-954" role="person" realis="true">himself</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2359">
+      <event_mention id="em-2324" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3476" length="4">talk</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-990" role="entity" realis="true">he</em_arg>
+        <em_arg entity_id="ent-1002" entity_mention_id="m-996" role="entity" realis="true">us who were young then</em_arg>
+        <em_arg entity_id="ent-987" entity_mention_id="m-981" role="place" realis="true">Robben Island</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2382">
+      <event_mention id="em-2361" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3558" length="9">prisoners</trigger>
+        <em_arg entity_id="ent-1029" entity_mention_id="m-1023" role="person" realis="true">other prisoners</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2446">
+      <event_mention id="em-2404" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3571" length="3">get</trigger>
+        <em_arg entity_id="ent-1038" entity_mention_id="m-1032" role="giver" realis="true">prison warders</em_arg>
+        <em_arg entity_id="ent-1029" entity_mention_id="m-1023" role="recipient" realis="true">other prisoners</em_arg>
+        <em_arg filler_id="f-2436" role="thing" realis="true">old newspapers</em_arg>
+        <em_arg entity_id="ent-150" entity_mention_id="m-1011" role="beneficiary" realis="true">He</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2490">
+      <event_mention id="em-2455" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3633" length="4">give</trigger>
+        <em_arg entity_id="ent-1038" entity_mention_id="m-1047" role="giver" realis="true">they</em_arg>
+        <em_arg entity_id="ent-150" entity_mention_id="m-1053" role="recipient" realis="true">him</em_arg>
+        <em_arg filler_id="f-2487" role="thing" realis="true">old newspapers</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2550">
+      <event_mention id="em-2522" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="3813" length="7">stories</trigger>
+        <em_arg entity_id="ent-150" entity_mention_id="m-1089" role="audience" realis="true">a hands-on person who would visit the party branches to get the real stories</em_arg>
+        <em_arg entity_id="ent-1101" entity_mention_id="m-1095" role="entity" realis="true">the party branches</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2714">
+      <event_mention id="em-2679" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1746" length="8">ceremony</trigger>
+        <em_arg entity_id="ent-165" entity_mention_id="m-462" role="entity" realis="true">Zuma</em_arg>
+        <em_arg entity_id="ent-231" entity_mention_id="m-474" role="entity" realis="true">African National Congress</em_arg>
+        <em_arg entity_id="ent-498" entity_mention_id="m-492" role="place" realis="true">Waterkloof Air Force Base</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2751">
+      <event_mention id="em-2716" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131215_F00011PM5" offset="1440" length="7">service</trigger>
+        <em_arg entity_id="ent-345" entity_mention_id="m-384" role="entity" realis="true">Mbeki</em_arg>
+        <em_arg entity_id="ent-411" entity_mention_id="m-405" role="place" realis="true">Calvary Church</em_arg>
+        <em_arg filler_id="f-2748" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

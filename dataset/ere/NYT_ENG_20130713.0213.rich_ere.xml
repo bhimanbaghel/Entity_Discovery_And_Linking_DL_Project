@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000063" doc_id="NYT_ENG_20130713.0213" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="ORG" specificity="nonspecific">
+      <entity_mention id="m-1830" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2442" length="30">
+        <mention_text>groups fighting the government</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2442" length="6">groups</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-411" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1739" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1739" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-648" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2458" length="14">
+        <mention_text>the government</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2462" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-744" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2834" length="14">
+        <mention_text>the government</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2838" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="265" length="5">
+        <mention_text>TIMES</mention_text>
+      </entity_mention>
+      <entity_mention id="m-42" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="348" length="14">
+        <mention_text>New York Times</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-54" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-48" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="375" length="6">
+        <mention_text>BEIRUT</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-69" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-63" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="412" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-111" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="691" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-192" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="901" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-228" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1197" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-348" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1559" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-375" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1609" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-453" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1843" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-765" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="2886" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-84" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="205" length="5">
+        <mention_text>ASSAD</mention_text>
+      </entity_mention>
+      <entity_mention id="m-78" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="571" length="12">
+        <mention_text>Bashar Assad</mention_text>
+      </entity_mention>
+      <entity_mention id="m-198" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="954" length="5">
+        <mention_text>Assad</mention_text>
+      </entity_mention>
+      <entity_mention id="m-678" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="2606" length="5">
+        <mention_text>Assad</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-93" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-87" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="657" length="23">
+        <mention_text>a Western-aligned group</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="675" length="5">group</nom_head>
+      </entity_mention>
+      <entity_mention id="m-96" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="686" length="16">
+        <mention_text>Free Syrian Army</mention_text>
+      </entity_mention>
+      <entity_mention id="m-186" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="896" length="16">
+        <mention_text>Free Syrian Army</mention_text>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="1005" length="6">
+        <mention_text>itself</mention_text>
+      </entity_mention>
+      <entity_mention id="m-333" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1554" length="16">
+        <mention_text>Free Syrian Army</mention_text>
+      </entity_mention>
+      <entity_mention id="m-369" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1604" length="16">
+        <mention_text>Free Syrian Army</mention_text>
+      </entity_mention>
+      <entity_mention id="m-420" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="1791" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+      <entity_mention id="m-426" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="1806" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+      <entity_mention id="m-447" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1838" length="16">
+        <mention_text>Free Syrian Army</mention_text>
+      </entity_mention>
+      <entity_mention id="m-483" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1945" length="9">
+        <mention_text>the group</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1949" length="5">group</nom_head>
+      </entity_mention>
+      <entity_mention id="m-759" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="2881" length="16">
+        <mention_text>Free Syrian Army</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-108" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-102" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="659" length="7">
+        <mention_text>Western</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-147" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-141" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="773" length="4">
+        <mention_text>Iraq</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-156" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-150" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="782" length="7">
+        <mention_text>Al Sham</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-165" type="PER" specificity="specificGroup">
+      <entity_mention id="m-159" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="801" length="73">
+        <mention_text>the suspected killers of a prominent commander who was shot down Thursday</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="815" length="7">killers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-183" type="PER" specificity="specificGroup">
+      <entity_mention id="m-177" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="876" length="36">
+        <mention_text>Commanders with the Free Syrian Army</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="876" length="10">Commanders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-216" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-117" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="718" length="32">
+        <mention_text>an al-Qaida-linked rebel faction</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="743" length="7">faction</nom_head>
+      </entity_mention>
+      <entity_mention id="m-126" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="752" length="37">
+        <mention_text>the Islamic State of Iraq and Al Sham</mention_text>
+      </entity_mention>
+      <entity_mention id="m-210" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1020" length="13">
+        <mention_text>Islamic State</mention_text>
+      </entity_mention>
+      <entity_mention id="m-489" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1982" length="13">
+        <mention_text>Islamic State</mention_text>
+      </entity_mention>
+      <entity_mention id="m-525" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="2070" length="4">
+        <mention_text>them</mention_text>
+      </entity_mention>
+      <entity_mention id="m-564" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="2191" length="13">
+        <mention_text>Islamic State</mention_text>
+      </entity_mention>
+      <entity_mention id="m-615" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="2352" length="13">
+        <mention_text>Islamic State</mention_text>
+      </entity_mention>
+      <entity_mention id="m-880" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1517" length="13">
+        <mention_text>Islamic State</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-240" type="GPE" specificity="nonspecific">
+      <entity_mention id="m-234" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1207" length="77">
+        <mention_text>places like the northeastern province of Raqqa and the divided city of Aleppo</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1207" length="6">places</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-249" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-243" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1219" length="25">
+        <mention_text>the northeastern province</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1236" length="8">province</nom_head>
+      </entity_mention>
+      <entity_mention id="m-252" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1248" length="5">
+        <mention_text>Raqqa</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-264" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-258" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1258" length="16">
+        <mention_text>the divided city</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1270" length="4">city</nom_head>
+      </entity_mention>
+      <entity_mention id="m-267" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1278" length="6">
+        <mention_text>Aleppo</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-279" type="PER" specificity="nonspecific">
+      <entity_mention id="m-18" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="172" length="5">
+        <mention_text>REBEL</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="172" length="5">REBEL</nom_head>
+      </entity_mention>
+      <entity_mention id="m-273" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1286" length="6">
+        <mention_text>rebels</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1286" length="6">rebels</nom_head>
+      </entity_mention>
+      <entity_mention id="m-282" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="1307" length="10">
+        <mention_text>each other</mention_text>
+      </entity_mention>
+      <entity_mention id="m-288" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="1322" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-300" type="PER" specificity="specificGroup">
+      <entity_mention id="m-294" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1322" length="16">
+        <mention_text>their supporters</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1328" length="10">supporters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-309" type="PER" specificity="nonspecific">
+      <entity_mention id="m-303" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1385" length="8">
+        <mention_text>recruits</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1385" length="8">recruits</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-318" type="GPE" specificity="nonspecific">
+      <entity_mention id="m-312" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1449" length="16">
+        <mention_text>the future state</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1460" length="5">state</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-345" type="PER" specificity="specificGroup">
+      <entity_mention id="m-339" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1550" length="35">
+        <mention_text>the Free Syrian Army higher command</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1578" length="7">command</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-360" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-354" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1588" length="12">
+        <mention_text>Ahmed Farzat</mention_text>
+      </entity_mention>
+      <entity_mention id="m-363" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1602" length="29">
+        <mention_text>a Free Syrian Army lieutenant</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1621" length="10">lieutenant</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-387" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-381" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1668" length="16">
+        <mention_text>the central city</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1680" length="4">city</nom_head>
+      </entity_mention>
+      <entity_mention id="m-390" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1688" length="4">
+        <mention_text>Homs</mention_text>
+      </entity_mention>
+      <entity_mention id="m-396" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="1694" length="5">
+        <mention_text>where</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-408" type="PER" specificity="specificGroup">
+      <entity_mention id="m-402" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1700" length="6">
+        <mention_text>rebels</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1700" length="6">rebels</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-438" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-168" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="826" length="48">
+        <mention_text>a prominent commander who was shot down Thursday</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="838" length="9">commander</nom_head>
+      </entity_mention>
+      <entity_mention id="m-432" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1820" length="12">
+        <mention_text>Kamal Hamami</mention_text>
+      </entity_mention>
+      <entity_mention id="m-441" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1834" length="81">
+        <mention_text>the Free Syrian Army commander killed Thursday in the coastal province of Latakia</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1855" length="9">commander</nom_head>
+      </entity_mention>
+      <entity_mention id="m-501" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="2022" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-513" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="2402" length="6">
+        <mention_text>Hamami</mention_text>
+      </entity_mention>
+      <entity_mention id="m-519" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="2162" length="6">
+        <mention_text>Hamami</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-465" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-459" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1884" length="20">
+        <mention_text>the coastal province</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1896" length="8">province</nom_head>
+      </entity_mention>
+      <entity_mention id="m-468" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="1908" length="7">
+        <mention_text>Latakia</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-480" type="PER" specificity="specificGroup">
+      <entity_mention id="m-474" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1935" length="19">
+        <mention_text>others in the group</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1935" length="6">others</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-537" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-531" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="2081" length="4">
+        <mention_text>Anas</mention_text>
+      </entity_mention>
+      <entity_mention id="m-540" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2087" length="73">
+        <mention_text>another activist who witnessed the attack and posted a video of it online</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2095" length="8">activist</nom_head>
+      </entity_mention>
+      <entity_mention id="m-600" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="2333" length="4">
+        <mention_text>Anas</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-552" type="PER" specificity="specificGroup">
+      <entity_mention id="m-546" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2162" length="12">
+        <mention_text>Hamami’s men</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2171" length="3">men</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-561" type="PER" specificity="specificGroup">
+      <entity_mention id="m-555" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2191" length="87">
+        <mention_text>Islamic State fighters angry that a checkpoint had been set up without their permission</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2205" length="8">fighters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-576" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="2262" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-588" type="PER" specificity="specificGroup">
+      <entity_mention id="m-582" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2289" length="32">
+        <mention_text>The commanders of the two groups</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2293" length="10">commanders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-597" type="PER" specificity="specificGroup">
+      <entity_mention id="m-591" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2307" length="14">
+        <mention_text>the two groups</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2315" length="6">groups</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-612" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-606" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2348" length="27">
+        <mention_text>the Islamic State commander</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2366" length="9">commander</nom_head>
+      </entity_mention>
+      <entity_mention id="m-627" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="2377" length="18">
+        <mention_text>Abu Ayman al-Iraqi</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-639" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-57" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="384" length="33">
+        <mention_text>Competing rebel factions in Syria</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="400" length="8">factions</nom_head>
+      </entity_mention>
+      <entity_mention id="m-72" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="445" length="10">
+        <mention_text>each other</mention_text>
+      </entity_mention>
+      <entity_mention id="m-633" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2424" length="48">
+        <mention_text>The collection of groups fighting the government</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2428" length="10">collection</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1779" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2489" length="18">
+        <mention_text>an uneasy alliance</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2499" length="8">alliance</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-660" type="PER" specificity="specificGroup">
+      <entity_mention id="m-654" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2513" length="11">
+        <mention_text>some rebels</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2518" length="6">rebels</nom_head>
+      </entity_mention>
+      <entity_mention id="m-663" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="2540" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-675" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-669" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2564" length="23">
+        <mention_text>the more radical groups</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2581" length="6">groups</nom_head>
+      </entity_mention>
+      <entity_mention id="m-684" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="2619" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-696" type="PER" specificity="nonspecific">
+      <entity_mention id="m-690" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="2712" length="2">
+        <mention_text>us</mention_text>
+      </entity_mention>
+      <entity_mention id="m-699" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="2739" length="2">
+        <mention_text>us</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-711" type="PER" specificity="nonspecific">
+      <entity_mention id="m-705" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2719" length="9">
+        <mention_text>the enemy</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2723" length="5">enemy</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-720" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-714" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="2749" length="20">
+        <mention_text>Sheik Jassem al-Awad</mention_text>
+      </entity_mention>
+      <entity_mention id="m-723" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2771" length="24">
+        <mention_text>a tribal leader in Raqqa</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2780" length="6">leader</nom_head>
+      </entity_mention>
+      <entity_mention id="m-738" noun_type="PRO" source="NYT_ENG_20130713.0213" offset="2809" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-735" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-729" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="2790" length="5">
+        <mention_text>Raqqa</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-756" type="PER" specificity="specificGroup">
+      <entity_mention id="m-750" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="2853" length="21">
+        <mention_text>the radical Islamists</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="2865" length="9">Islamists</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-807" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-801" noun_type="NAM" source="NYT_ENG_20130713.0213" offset="721" length="8">
+        <mention_text>al-Qaida</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1846" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-219" noun_type="NOM" source="NYT_ENG_20130713.0213" offset="1178" length="24">
+        <mention_text>the battlefield in Syria</mention_text>
+        <nom_head source="NYT_ENG_20130713.0213" offset="1182" length="11">battlefield</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-799" source="NYT_ENG_20130713.0213" offset="561" length="9" type="title">President</filler>
+    <filler id="f-1793" source="NYT_ENG_20130713.0213" offset="1621" length="10" type="title">lieutenant</filler>
+    <filler id="f-1235" source="NYT_ENG_20130713.0213" offset="561" length="9" type="title">President</filler>
+    <filler id="f-1478" source="NYT_ENG_20130713.0213" offset="1872" length="8" type="time" nom_time="2013-07-11">Thursday</filler>
+    <filler id="f-1515" source="NYT_ENG_20130713.0213" offset="1872" length="8" type="time" nom_time="2013-07-11">Thursday</filler>
+    <filler id="f-1589" source="NYT_ENG_20130713.0213" offset="1969" length="7" type="weapon">weapons</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1634" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-771" realis="true">
+        <rel_arg1 entity_id="ent-639" entity_mention_id="m-57" role="org">Competing rebel factions in Syria</rel_arg1>
+        <rel_arg2 entity_id="ent-69" entity_mention_id="m-63" role="loc">Syria</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="409" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1635" type="personalsocial" subtype="role">
+      <relation_mention id="relm-791" realis="true">
+        <rel_arg1 entity_id="ent-84" entity_mention_id="m-78" role="per">Bashar Assad</rel_arg1>
+        <rel_arg2 filler_id="f-799" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1636" type="generalaffiliation" subtype="opra">
+      <relation_mention id="relm-810" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-117" role="org">an al-Qaida-linked rebel faction</rel_arg1>
+        <rel_arg2 entity_id="ent-807" entity_mention_id="m-801" role="entity">al-Qaida</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="730" length="6">linked</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1637" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-830" realis="true">
+        <rel_arg1 entity_id="ent-93" entity_mention_id="m-96" role="org">Free Syrian Army</rel_arg1>
+        <rel_arg2 entity_id="ent-69" entity_mention_id="m-111" role="loc">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="691" length="6">Syrian</trigger>
+      </relation_mention>
+      <relation_mention id="relm-840" realis="true">
+        <rel_arg1 entity_id="ent-93" entity_mention_id="m-186" role="org">Free Syrian Army</rel_arg1>
+        <rel_arg2 entity_id="ent-69" entity_mention_id="m-192" role="loc">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="901" length="6">Syrian</trigger>
+      </relation_mention>
+      <relation_mention id="relm-886" realis="true">
+        <rel_arg1 entity_id="ent-93" entity_mention_id="m-333" role="org">Free Syrian Army</rel_arg1>
+        <rel_arg2 entity_id="ent-69" entity_mention_id="m-348" role="loc">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="1559" length="6">Syrian</trigger>
+      </relation_mention>
+      <relation_mention id="relm-906" realis="true">
+        <rel_arg1 entity_id="ent-93" entity_mention_id="m-369" role="org">Free Syrian Army</rel_arg1>
+        <rel_arg2 entity_id="ent-69" entity_mention_id="m-375" role="loc">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="1609" length="6">Syrian</trigger>
+      </relation_mention>
+      <relation_mention id="relm-926" realis="true">
+        <rel_arg1 entity_id="ent-93" entity_mention_id="m-447" role="org">Free Syrian Army</rel_arg1>
+        <rel_arg2 entity_id="ent-69" entity_mention_id="m-453" role="loc">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="1843" length="6">Syrian</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1006" realis="true">
+        <rel_arg1 entity_id="ent-93" entity_mention_id="m-759" role="org">Free Syrian Army</rel_arg1>
+        <rel_arg2 entity_id="ent-69" entity_mention_id="m-765" role="loc">Syrian</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="2886" length="6">Syrian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1638" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-850" realis="true">
+        <rel_arg1 entity_id="ent-183" entity_mention_id="m-177" role="employeemember">Commanders with the Free Syrian Army</rel_arg1>
+        <rel_arg2 entity_id="ent-93" entity_mention_id="m-186" role="org">Free Syrian Army</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="876" length="10">Commanders</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1639" type="physical" subtype="locatednear">
+      <relation_mention id="relm-860" realis="true">
+        <rel_arg1 entity_id="ent-1846" entity_mention_id="m-219" role="entity">the battlefield in Syria</rel_arg1>
+        <rel_arg2 entity_id="ent-69" entity_mention_id="m-228" role="loc">Syria</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="1194" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1640" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-896" realis="true">
+        <rel_arg1 entity_id="ent-360" entity_mention_id="m-363" role="employeemember">a Free Syrian Army lieutenant</rel_arg1>
+        <rel_arg2 entity_id="ent-93" entity_mention_id="m-369" role="org">Free Syrian Army</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="1621" length="10">lieutenant</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1641" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-916" realis="true">
+        <rel_arg1 entity_id="ent-438" entity_mention_id="m-441" role="leader">the Free Syrian Army commander killed Thursday in the coastal province of Latakia</rel_arg1>
+        <rel_arg2 entity_id="ent-93" entity_mention_id="m-447" role="entity">Free Syrian Army</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="1855" length="9">commander</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1642" type="physical" subtype="locatednear">
+      <relation_mention id="relm-936" realis="true">
+        <rel_arg1 entity_id="ent-438" entity_mention_id="m-441" role="entity">the Free Syrian Army commander killed Thursday in the coastal province of Latakia</rel_arg1>
+        <rel_arg2 entity_id="ent-465" entity_mention_id="m-459" role="loc">the coastal province</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="1881" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1643" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-946" realis="true">
+        <rel_arg1 entity_id="ent-480" entity_mention_id="m-474" role="employeemember">others in the group</rel_arg1>
+        <rel_arg2 entity_id="ent-93" entity_mention_id="m-483" role="org">the group</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="1942" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1644" type="personalsocial" subtype="unspecified">
+      <relation_mention id="relm-966" realis="true">
+        <rel_arg1 entity_id="ent-552" entity_mention_id="m-546" role="per">Hamami’s men</rel_arg1>
+        <rel_arg2 entity_id="ent-438" entity_mention_id="m-519" role="per">Hamami</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="2162" length="8">Hamami’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1645" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-976" realis="true">
+        <rel_arg1 entity_id="ent-561" entity_mention_id="m-555" role="employeemember">Islamic State fighters angry that a checkpoint had been set up without their permission</rel_arg1>
+        <rel_arg2 entity_id="ent-216" entity_mention_id="m-564" role="org">Islamic State</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="2205" length="8">fighters</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1646" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-986" realis="true">
+        <rel_arg1 entity_id="ent-612" entity_mention_id="m-606" role="leader">the Islamic State commander</rel_arg1>
+        <rel_arg2 entity_id="ent-216" entity_mention_id="m-615" role="entity">Islamic State</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="2366" length="9">commander</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1647" type="physical" subtype="locatednear">
+      <relation_mention id="relm-996" realis="true">
+        <rel_arg1 entity_id="ent-720" entity_mention_id="m-723" role="entity">a tribal leader in Raqqa</rel_arg1>
+        <rel_arg2 entity_id="ent-735" entity_mention_id="m-729" role="loc">Raqqa</rel_arg2>
+        <trigger source="NYT_ENG_20130713.0213" offset="2787" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1648" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1785" realis="true">
+        <rel_arg1 entity_id="ent-360" entity_mention_id="m-363" role="per">a Free Syrian Army lieutenant</rel_arg1>
+        <rel_arg2 filler_id="f-1793" role="role">lieutenant</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1016" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130713.0213" offset="178" length="10">INFIGHTING</trigger>
+        <em_arg entity_id="ent-279" entity_mention_id="m-18" role="attacker" realis="true">REBEL</em_arg>
+      </event_mention>
+      <event_mention id="em-1037" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130713.0213" offset="435" length="9">attacking</trigger>
+        <em_arg entity_id="ent-639" entity_mention_id="m-57" role="attacker" realis="true">Competing rebel factions in Syria</em_arg>
+        <em_arg entity_id="ent-69" entity_mention_id="m-63" role="place" realis="true">Syria</em_arg>
+      </event_mention>
+      <event_mention id="em-1291" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130713.0213" offset="1297" length="9">attacking</trigger>
+        <em_arg entity_id="ent-279" entity_mention_id="m-273" role="attacker" realis="true">rebels</em_arg>
+        <em_arg entity_id="ent-300" entity_mention_id="m-294" role="target" realis="true">their supporters</em_arg>
+        <em_arg entity_id="ent-1846" entity_mention_id="m-219" role="place" realis="true">the battlefield in Syria</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1238">
+      <event_mention id="em-1210" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130713.0213" offset="554" length="6">topple</trigger>
+        <em_arg entity_id="ent-84" entity_mention_id="m-78" role="person" realis="true">Bashar Assad</em_arg>
+        <em_arg filler_id="f-1235" role="position" realis="true">President</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1268">
+      <event_mention id="em-1240" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130713.0213" offset="815" length="7">killers</trigger>
+        <em_arg entity_id="ent-438" entity_mention_id="m-168" role="victim" realis="true">a prominent commander who was shot down Thursday</em_arg>
+        <em_arg entity_id="ent-165" entity_mention_id="m-159" role="agent" realis="false">the suspected killers of a prominent commander who was shot down Thursday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1384">
+      <event_mention id="em-1356" type="life" subtype="die" realis="other">
+        <trigger source="NYT_ENG_20130713.0213" offset="1540" length="9">eliminate</trigger>
+        <em_arg entity_id="ent-216" entity_mention_id="m-880" role="agent" realis="true">Islamic State</em_arg>
+        <em_arg entity_id="ent-345" entity_mention_id="m-339" role="victim" realis="true">the Free Syrian Army higher command</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1414">
+      <event_mention id="em-1386" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130713.0213" offset="1644" length="9">interview</trigger>
+        <em_arg entity_id="ent-360" entity_mention_id="m-363" role="entity" realis="true">a Free Syrian Army lieutenant</em_arg>
+        <em_arg entity_id="ent-387" entity_mention_id="m-381" role="place" realis="true">the central city</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1451">
+      <event_mention id="em-1416" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130713.0213" offset="1750" length="7">assault</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-411" role="attacker" realis="true">government</em_arg>
+        <em_arg entity_id="ent-408" entity_mention_id="m-402" role="target" realis="true">rebels</em_arg>
+        <em_arg entity_id="ent-387" entity_mention_id="m-396" role="place" realis="true">where</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1488">
+      <event_mention id="em-1453" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130713.0213" offset="1865" length="6">killed</trigger>
+        <em_arg entity_id="ent-438" entity_mention_id="m-441" role="target" realis="true">the Free Syrian Army commander killed Thursday in the coastal province of Latakia</em_arg>
+        <em_arg filler_id="f-1478" role="time" realis="true">Thursday</em_arg>
+        <em_arg entity_id="ent-465" entity_mention_id="m-459" role="place" realis="true">the coastal province</em_arg>
+      </event_mention>
+      <event_mention id="em-1638" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130713.0213" offset="2397" length="4">shot</trigger>
+        <em_arg entity_id="ent-612" entity_mention_id="m-627" role="attacker" realis="true">Abu Ayman al-Iraqi</em_arg>
+        <em_arg entity_id="ent-438" entity_mention_id="m-513" role="target" realis="true">Hamami</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1525">
+      <event_mention id="em-1490" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130713.0213" offset="1865" length="6">killed</trigger>
+        <em_arg entity_id="ent-438" entity_mention_id="m-441" role="victim" realis="true">the Free Syrian Army commander killed Thursday in the coastal province of Latakia</em_arg>
+        <em_arg filler_id="f-1515" role="time" realis="true">Thursday</em_arg>
+        <em_arg entity_id="ent-465" entity_mention_id="m-459" role="place" realis="true">the coastal province</em_arg>
+      </event_mention>
+      <event_mention id="em-1668" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130713.0213" offset="2409" length="4">dead</trigger>
+        <em_arg entity_id="ent-612" entity_mention_id="m-627" role="agent" realis="true">Abu Ayman al-Iraqi</em_arg>
+        <em_arg entity_id="ent-438" entity_mention_id="m-513" role="victim" realis="true">Hamami</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1555">
+      <event_mention id="em-1527" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130713.0213" offset="1926" length="3">met</trigger>
+        <em_arg entity_id="ent-438" entity_mention_id="m-441" role="entity" realis="true">the Free Syrian Army commander killed Thursday in the coastal province of Latakia</em_arg>
+        <em_arg entity_id="ent-480" entity_mention_id="m-474" role="entity" realis="true">others in the group</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1592">
+      <event_mention id="em-1557" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130713.0213" offset="1961" length="7">getting</trigger>
+        <em_arg entity_id="ent-438" entity_mention_id="m-441" role="recipient" realis="true">the Free Syrian Army commander killed Thursday in the coastal province of Latakia</em_arg>
+        <em_arg entity_id="ent-480" entity_mention_id="m-474" role="giver" realis="true">others in the group</em_arg>
+        <em_arg filler_id="f-1589" role="thing" realis="true">weapons</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1636">
+      <event_mention id="em-1615" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130713.0213" offset="2076" length="4">said</trigger>
+        <em_arg entity_id="ent-537" entity_mention_id="m-531" role="entity" realis="true">Anas</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1724">
+      <event_mention id="em-1696" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130713.0213" offset="2449" length="8">fighting</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-1830" role="attacker" realis="true">groups fighting the government</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-648" role="target" realis="true">the government</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1754">
+      <event_mention id="em-1726" type="conflict" subtype="attack" realis="other">
+        <trigger source="NYT_ENG_20130713.0213" offset="2557" length="6">battle</trigger>
+        <em_arg entity_id="ent-660" entity_mention_id="m-663" role="attacker" realis="true">they</em_arg>
+        <em_arg entity_id="ent-675" entity_mention_id="m-669" role="target" realis="true">the more radical groups</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1777">
+      <event_mention id="em-1756" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130713.0213" offset="2744" length="4">said</trigger>
+        <em_arg entity_id="ent-720" entity_mention_id="m-714" role="entity" realis="true">Sheik Jassem al-Awad</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

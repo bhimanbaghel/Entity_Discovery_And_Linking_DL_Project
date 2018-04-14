@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000009" doc_id="ENG_NW_001278_20131110_F00011W6D" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificGroup">
+      <entity_mention id="m-18" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="110" length="14">
+        <mention_text>4.4 mln people</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="118" length="6">people</nom_head>
+      </entity_mention>
+      <entity_mention id="m-51" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="232" length="14">
+        <mention_text>4.4 mln people</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="240" length="6">people</nom_head>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="302" length="14">
+        <mention_text>4.4 mln people</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="310" length="6">people</nom_head>
+      </entity_mention>
+      <entity_mention id="m-129" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="448" length="24">
+        <mention_text>about 4.4 million people</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="466" length="6">people</nom_head>
+      </entity_mention>
+      <entity_mention id="m-144" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="560" length="12">
+        <mention_text>these people</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="566" length="6">people</nom_head>
+      </entity_mention>
+      <entity_mention id="m-816" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2946" length="33">
+        <mention_text>the victims in disaster-hit areas</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2950" length="7">victims</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="149" length="13">
+        <mention_text>C. Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-57" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="271" length="13">
+        <mention_text>C. Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-75" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="341" length="13">
+        <mention_text>C. Philippine</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="152" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="274" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="344" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-123" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="391" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-186" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="764" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-192" noun_type="PRO" source="ENG_NW_001278_20131110_F00011W6D" offset="779" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-537" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1900" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-552" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1920" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-645" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2239" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-768" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2739" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-810" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2917" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="190" length="4">
+        <mention_text>VIRE</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-93" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-87" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="363" length="6">
+        <mention_text>MANILA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-102" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-96" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="380" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-111" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-105" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="391" length="44">
+        <mention_text>Philippine government disaster relief agency</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="429" length="6">agency</nom_head>
+      </entity_mention>
+      <entity_mention id="m-174" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="656" length="55">
+        <mention_text>National Disaster Risk Reduction and Management Council</mention_text>
+      </entity_mention>
+      <entity_mention id="m-180" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="713" length="6">
+        <mention_text>NDRRMC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-462" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1584" length="6">
+        <mention_text>NDRRMC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-516" noun_type="PRO" source="ENG_NW_001278_20131110_F00011W6D" offset="1820" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-120" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-114" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="391" length="21">
+        <mention_text>Philippine government</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="402" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-141" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-135" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="497" length="33">
+        <mention_text>areas hit by super typhoon Haiyan</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="497" length="5">areas</nom_head>
+      </entity_mention>
+      <entity_mention id="m-822" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2961" length="18">
+        <mention_text>disaster-hit areas</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2974" length="5">areas</nom_head>
+      </entity_mention>
+      <entity_mention id="m-828" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="137" length="32">
+        <mention_text>typhoon-hit C. Philippine region</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="163" length="6">region</nom_head>
+      </entity_mention>
+      <entity_mention id="m-834" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="259" length="32">
+        <mention_text>typhoon-hit C. Philippine region</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="285" length="6">region</nom_head>
+      </entity_mention>
+      <entity_mention id="m-840" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="329" length="32">
+        <mention_text>typhoon-hit C. Philippine region</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="355" length="6">region</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-156" type="PER" specificity="specificGroup">
+      <entity_mention id="m-150" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="574" length="15">
+        <mention_text>86,513 families</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="581" length="8">families</nom_head>
+      </entity_mention>
+      <entity_mention id="m-159" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="593" length="15">
+        <mention_text>403,503 persons</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="601" length="7">persons</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-171" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-165" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="624" length="24">
+        <mention_text>1,425 evacuation centers</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="641" length="7">centers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-204" type="LOC" specificity="specificGroup">
+      <entity_mention id="m-198" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="801" length="100">
+        <mention_text>many areas in Leyte, Eastern Samar, Western and Central Visayas, Bicol and Northern Mindanao regions</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="806" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-213" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-207" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="815" length="5">
+        <mention_text>Leyte</mention_text>
+      </entity_mention>
+      <entity_mention id="m-387" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1253" length="5">
+        <mention_text>Leyte</mention_text>
+      </entity_mention>
+      <entity_mention id="m-522" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1853" length="5">
+        <mention_text>Leyte</mention_text>
+      </entity_mention>
+      <entity_mention id="m-666" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2304" length="16">
+        <mention_text>Leyte provinc)ne</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-222" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-216" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="822" length="13">
+        <mention_text>Eastern Samar</mention_text>
+      </entity_mention>
+      <entity_mention id="m-315" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="999" length="13">
+        <mention_text>Eastern Samar</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-231" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-225" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="830" length="5">
+        <mention_text>Samar</mention_text>
+      </entity_mention>
+      <entity_mention id="m-321" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1007" length="5">
+        <mention_text>Samar</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-240" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-2153" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="837" length="7">
+        <mention_text>Western</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-249" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-243" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="849" length="15">
+        <mention_text>Central Visayas</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-258" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-252" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="857" length="7">
+        <mention_text>Visayas</mention_text>
+      </entity_mention>
+      <entity_mention id="m-354" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1094" length="7">
+        <mention_text>Visayas</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-267" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-261" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="866" length="5">
+        <mention_text>Bicol</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-276" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-270" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="876" length="17">
+        <mention_text>Northern Mindanao</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-285" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-279" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="885" length="8">
+        <mention_text>Mindanao</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-294" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-288" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="909" length="3">
+        <mention_text>sea</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="909" length="3">sea</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-303" type="PER" specificity="specificGroup">
+      <entity_mention id="m-297" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="952" length="10">
+        <mention_text>the people</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="956" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-312" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-306" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="979" length="12">
+        <mention_text>Leo Dacaynos</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-333" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-327" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="999" length="56">
+        <mention_text>Eastern Samar provincial disaster risk reduction council</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-342" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-336" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1072" length="29">
+        <mention_text>many parts of Eastern Visayas</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1077" length="5">parts</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-351" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-345" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1086" length="15">
+        <mention_text>Eastern Visayas</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-366" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-360" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1140" length="24">
+        <mention_text>communication facilities</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1154" length="10">facilities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-375" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-369" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1211" length="13">
+        <mention_text>Tacloban City</mention_text>
+      </entity_mention>
+      <entity_mention id="m-429" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1489" length="13">
+        <mention_text>Tacloban City</mention_text>
+      </entity_mention>
+      <entity_mention id="m-477" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1640" length="13">
+        <mention_text>Tacloban City</mention_text>
+      </entity_mention>
+      <entity_mention id="m-504" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1788" length="8">
+        <mention_text>Tacloban</mention_text>
+      </entity_mention>
+      <entity_mention id="m-609" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2051" length="13">
+        <mention_text>Tacloban City</mention_text>
+      </entity_mention>
+      <entity_mention id="m-660" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2287" length="13">
+        <mention_text>Tacloban City</mention_text>
+      </entity_mention>
+      <entity_mention id="m-732" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2597" length="13">
+        <mention_text>Tacloban City</mention_text>
+      </entity_mention>
+      <entity_mention id="m-756" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2704" length="8">
+        <mention_text>the city</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2708" length="4">city</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-384" type="LOC" specificity="specificGroup">
+      <entity_mention id="m-378" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1229" length="29">
+        <mention_text>other affected areas in Leyte</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1244" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-399" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-393" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1260" length="8">
+        <mention_text>official</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1260" length="8">official</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-408" type="PER" specificity="specificGroup">
+      <entity_mention id="m-402" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1282" length="9">
+        <mention_text>officials</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1282" length="9">officials</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-417" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-411" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1328" length="8">
+        <mention_text>military</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1328" length="8">military</nom_head>
+      </entity_mention>
+      <entity_mention id="m-510" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1802" length="8">
+        <mention_text>military</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1802" length="8">military</nom_head>
+      </entity_mention>
+      <entity_mention id="m-708" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2507" length="12">
+        <mention_text>The military</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2511" length="8">military</nom_head>
+      </entity_mention>
+      <entity_mention id="m-762" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2719" length="31">
+        <mention_text>Armed Forces of the Philippines</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-426" type="PER" specificity="specificGroup">
+      <entity_mention id="m-420" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1429" length="11">
+        <mention_text>authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1429" length="11">authorities</nom_head>
+      </entity_mention>
+      <entity_mention id="m-591" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2013" length="11">
+        <mention_text>authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2013" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-441" type="LOC" specificity="specificGroup">
+      <entity_mention id="m-435" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1507" length="21">
+        <mention_text>other worse-hit areas</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1523" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-450" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-444" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1530" length="11">
+        <mention_text>Local media</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1536" length="5">media</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-459" type="PER" specificity="specificGroup">
+      <entity_mention id="m-453" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1551" length="13">
+        <mention_text>10,000 people</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1558" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-474" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-468" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1624" length="10">
+        <mention_text>Rey Balido</mention_text>
+      </entity_mention>
+      <entity_mention id="m-567" noun_type="PRO" source="ENG_NW_001278_20131110_F00011W6D" offset="1945" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-489" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-483" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1640" length="21">
+        <mention_text>Tacloban City airport</mention_text>
+      </entity_mention>
+      <entity_mention id="m-492" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1705" length="12">
+        <mention_text>the facility</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1709" length="8">facility</nom_head>
+      </entity_mention>
+      <entity_mention id="m-498" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1765" length="5">
+        <mention_text>there</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1765" length="5">there</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-534" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-528" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1900" length="15">
+        <mention_text>Philippine Navy</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-549" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-543" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1920" length="22">
+        <mention_text>Philippine Coast Guard</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-564" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-558" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="1931" length="5">
+        <mention_text>Coast</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="1931" length="5">Coast</nom_head>
+      </entity_mention>
+      <entity_mention id="m-630" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2146" length="9">
+        <mention_text>the coast</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2150" length="5">coast</nom_head>
+      </entity_mention>
+      <entity_mention id="m-636" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2196" length="12">
+        <mention_text>the seashore</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2200" length="8">seashore</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-579" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-573" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1955" length="29">
+        <mention_text>Interior and Local Government</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-588" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-582" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="1995" length="12">
+        <mention_text>Manuel Roxas</mention_text>
+      </entity_mention>
+      <entity_mention id="m-615" noun_type="PRO" source="ENG_NW_001278_20131110_F00011W6D" offset="2102" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-606" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-600" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2038" length="26">
+        <mention_text>the roads in Tacloban City</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2042" length="5">roads</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-627" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-621" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2110" length="45">
+        <mention_text>homes made of light materials along the coast</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2110" length="5">homes</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-657" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-651" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2260" length="18">
+        <mention_text>Benigno Aquino III</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-678" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-672" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2357" length="10">
+        <mention_text>Roxas City</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-687" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-681" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2371" length="14">
+        <mention_text>Capiz province</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-696" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-690" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2414" length="33">
+        <mention_text>those places hardly hit by Haiyan</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2420" length="6">places</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-705" type="PER" specificity="specificGroup">
+      <entity_mention id="m-699" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2482" length="22">
+        <mention_text>the affected residents</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2495" length="9">residents</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-720" type="PER" specificity="specificGroup">
+      <entity_mention id="m-714" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2529" length="12">
+        <mention_text>100 soldiers</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2533" length="8">soldiers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-729" type="PER" specificity="specificGroup">
+      <entity_mention id="m-723" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2550" length="6">
+        <mention_text>police</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2550" length="6">police</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-744" type="PER" specificity="specificGroup">
+      <entity_mention id="m-738" noun_type="NOM" source="ENG_NW_001278_20131110_F00011W6D" offset="2615" length="15">
+        <mention_text>local residents</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00011W6D" offset="2621" length="9">residents</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-753" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-747" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2642" length="12">
+        <mention_text>Gaisano mall</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-780" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-774" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2719" length="53">
+        <mention_text>Armed Forces of the Philippines Public Affairs Office</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-789" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-783" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2779" length="12">
+        <mention_text>Ramon Zagala</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-798" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-792" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2798" length="14">
+        <mention_text>United Kingdom</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-807" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-801" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="2891" length="3">
+        <mention_text>U.S</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2469" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-2463" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="196" length="4">
+        <mention_text>CEMU</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2472" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-2475" noun_type="NAM" source="ENG_NW_001278_20131110_F00011W6D" offset="202" length="4">
+        <mention_text>MICA</mention_text>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-1094" source="ENG_NW_001278_20131110_F00011W6D" offset="1591" length="18" type="title">operations officer</filler>
+    <filler id="f-1104" source="ENG_NW_001278_20131110_F00011W6D" offset="1614" length="9" type="title">spokesman</filler>
+    <filler id="f-1184" source="ENG_NW_001278_20131110_F00011W6D" offset="1985" length="9" type="title">Secretary</filler>
+    <filler id="f-1244" source="ENG_NW_001278_20131110_F00011W6D" offset="2250" length="9" type="title">President</filler>
+    <filler id="f-1334" source="ENG_NW_001278_20131110_F00011W6D" offset="2533" length="8" type="title">soldiers</filler>
+    <filler id="f-2257" source="ENG_NW_001278_20131110_F00011W6D" offset="2773" length="5" type="title">chief</filler>
+    <filler id="f-1438" source="ENG_NW_001278_20131110_F00011W6D" offset="441" length="6" type="time" nom_time="2013-11-10">Sunday</filler>
+    <filler id="f-1704" source="ENG_NW_001278_20131110_F00011W6D" offset="1836" length="12" type="commodity">relief goods</filler>
+    <filler id="f-1718" source="ENG_NW_001278_20131110_F00011W6D" offset="1885" length="57" type="vehicle">vessels of the Philippine Navy and Philippine Coast Guard</filler>
+    <filler id="f-1822" source="ENG_NW_001278_20131110_F00011W6D" offset="2321" length="6" type="time" nom_time="2013-11-10">Sunday</filler>
+    <filler id="f-1852" source="ENG_NW_001278_20131110_F00011W6D" offset="2386" length="16" type="time" nom_time="2013-11-10">later in the day</filler>
+    <filler id="f-1874" source="ENG_NW_001278_20131110_F00011W6D" offset="2466" length="12" type="commodity">relief goods</filler>
+    <filler id="f-1949" source="ENG_NW_001278_20131110_F00011W6D" offset="2386" length="16" type="time" nom_time="2013-11-10">later in the day</filler>
+    <filler id="f-1926" source="ENG_NW_001278_20131110_F00011W6D" offset="2466" length="12" type="commodity">relief goods</filler>
+    <filler id="f-1933" source="ENG_NW_001278_20131110_F00011W6D" offset="2386" length="16" type="time" nom_time="2013-11-10">later in the day</filler>
+    <filler id="f-2104" source="ENG_NW_001278_20131110_F00011W6D" offset="2816" length="6" type="time" nom_time="2013-11-10">Sunday</filler>
+    <filler id="f-2148" source="ENG_NW_001278_20131110_F00011W6D" offset="2850" length="53" type="money">at least 414 million pesos (9.58 million U.S. dollars</filler>
+  </fillers>
+  <relations>
+    <relation id="r-212" type="physical" subtype="locatednear">
+      <relation_mention id="relm-846" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-18" role="entity">4.4 mln people</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-828" role="loc">typhoon-hit C. Philippine region</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="134" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-876" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-51" role="entity">4.4 mln people</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-834" role="loc">typhoon-hit C. Philippine region</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="256" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-906" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-69" role="entity">4.4 mln people</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-840" role="loc">typhoon-hit C. Philippine region</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="326" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1396" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-816" role="entity">the victims in disaster-hit areas</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-822" role="loc">disaster-hit areas</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2958" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-213" type="physical" subtype="locatednear">
+      <relation_mention id="relm-856" realis="true">
+        <rel_arg1 entity_id="ent-141" entity_mention_id="m-828" role="entity">typhoon-hit C. Philippine region</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-24" role="loc">C. Philippine</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-886" realis="true">
+        <rel_arg1 entity_id="ent-141" entity_mention_id="m-834" role="entity">typhoon-hit C. Philippine region</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-57" role="loc">C. Philippine</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-916" realis="true">
+        <rel_arg1 entity_id="ent-141" entity_mention_id="m-840" role="entity">typhoon-hit C. Philippine region</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-75" role="loc">C. Philippine</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-214" type="physical" subtype="locatednear">
+      <relation_mention id="relm-866" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-24" role="entity">C. Philippine</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-33" role="loc">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="149" length="2">C.</trigger>
+      </relation_mention>
+      <relation_mention id="relm-896" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-57" role="entity">C. Philippine</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-63" role="loc">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="271" length="2">C.</trigger>
+      </relation_mention>
+      <relation_mention id="relm-926" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-75" role="entity">C. Philippine</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-81" role="loc">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="341" length="2">C.</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-215" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-936" realis="true">
+        <rel_arg1 entity_id="ent-111" entity_mention_id="m-105" role="suborg">Philippine government disaster relief agency</rel_arg1>
+        <rel_arg2 entity_id="ent-120" entity_mention_id="m-114" role="parent">Philippine government</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-216" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-946" realis="true">
+        <rel_arg1 entity_id="ent-120" entity_mention_id="m-114" role="suborg">Philippine government</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-123" role="parent">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="391" length="10">Philippine</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-217" type="physical" subtype="resident">
+      <relation_mention id="relm-956" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-129" role="per">about 4.4 million people</rel_arg1>
+        <rel_arg2 entity_id="ent-141" entity_mention_id="m-135" role="loc">areas hit by super typhoon Haiyan</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="494" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-218" type="physical" subtype="locatednear">
+      <relation_mention id="relm-966" realis="true">
+        <rel_arg1 entity_id="ent-156" entity_mention_id="m-159" role="entity">403,503 persons</rel_arg1>
+        <rel_arg2 entity_id="ent-171" entity_mention_id="m-165" role="loc">1,425 evacuation centers</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="621" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-219" type="physical" subtype="locatednear">
+      <relation_mention id="relm-976" realis="true">
+        <rel_arg1 entity_id="ent-240" entity_mention_id="m-2153" role="entity">Western</rel_arg1>
+        <rel_arg2 entity_id="ent-258" entity_mention_id="m-252" role="loc">Visayas</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="837" length="7">Western</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-220" type="physical" subtype="locatednear">
+      <relation_mention id="relm-986" realis="true">
+        <rel_arg1 entity_id="ent-249" entity_mention_id="m-243" role="entity">Central Visayas</rel_arg1>
+        <rel_arg2 entity_id="ent-258" entity_mention_id="m-252" role="loc">Visayas</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="849" length="7">Central</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-221" type="physical" subtype="locatednear">
+      <relation_mention id="relm-996" realis="true">
+        <rel_arg1 entity_id="ent-222" entity_mention_id="m-216" role="entity">Eastern Samar</rel_arg1>
+        <rel_arg2 entity_id="ent-231" entity_mention_id="m-225" role="loc">Samar</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="822" length="7">Eastern</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1036" realis="true">
+        <rel_arg1 entity_id="ent-222" entity_mention_id="m-315" role="entity">Eastern Samar</rel_arg1>
+        <rel_arg2 entity_id="ent-231" entity_mention_id="m-321" role="loc">Samar</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="999" length="7">Eastern</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-222" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1006" realis="true">
+        <rel_arg1 entity_id="ent-276" entity_mention_id="m-270" role="entity">Northern Mindanao</rel_arg1>
+        <rel_arg2 entity_id="ent-285" entity_mention_id="m-279" role="loc">Mindanao</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="876" length="8">Northern</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-223" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1016" realis="true">
+        <rel_arg1 entity_id="ent-312" entity_mention_id="m-306" role="employeemember">Leo Dacaynos</rel_arg1>
+        <rel_arg2 entity_id="ent-333" entity_mention_id="m-327" role="org">Eastern Samar provincial disaster risk reduction council</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="992" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-224" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1026" realis="true">
+        <rel_arg1 entity_id="ent-333" entity_mention_id="m-327" role="suborg">Eastern Samar provincial disaster risk reduction council</rel_arg1>
+        <rel_arg2 entity_id="ent-222" entity_mention_id="m-315" role="parent">Eastern Samar</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-225" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1046" realis="true">
+        <rel_arg1 entity_id="ent-342" entity_mention_id="m-336" role="entity">many parts of Eastern Visayas</rel_arg1>
+        <rel_arg2 entity_id="ent-351" entity_mention_id="m-345" role="loc">Eastern Visayas</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1083" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-226" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1056" realis="true">
+        <rel_arg1 entity_id="ent-351" entity_mention_id="m-345" role="entity">Eastern Visayas</rel_arg1>
+        <rel_arg2 entity_id="ent-258" entity_mention_id="m-354" role="loc">Visayas</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1086" length="7">Eastern</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-227" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1066" realis="true">
+        <rel_arg1 entity_id="ent-384" entity_mention_id="m-378" role="entity">other affected areas in Leyte</rel_arg1>
+        <rel_arg2 entity_id="ent-213" entity_mention_id="m-387" role="loc">Leyte</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1250" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-228" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1076" realis="true">
+        <rel_arg1 entity_id="ent-375" entity_mention_id="m-369" role="entity">Tacloban City</rel_arg1>
+        <rel_arg2 entity_id="ent-213" entity_mention_id="m-387" role="loc">Leyte</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1250" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1256" realis="true">
+        <rel_arg1 entity_id="ent-375" entity_mention_id="m-660" role="entity">Tacloban City</rel_arg1>
+        <rel_arg2 entity_id="ent-213" entity_mention_id="m-666" role="loc">Leyte provinc)ne</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2301" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-229" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1086" realis="true">
+        <rel_arg1 entity_id="ent-474" entity_mention_id="m-468" role="per">Rey Balido</rel_arg1>
+        <rel_arg2 filler_id="f-1094" role="role">operations officer</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1096" realis="true">
+        <rel_arg1 entity_id="ent-474" entity_mention_id="m-468" role="per">Rey Balido</rel_arg1>
+        <rel_arg2 filler_id="f-1104" role="role">spokesman</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-230" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1106" realis="true">
+        <rel_arg1 entity_id="ent-474" entity_mention_id="m-468" role="employeemember">Rey Balido</rel_arg1>
+        <rel_arg2 entity_id="ent-111" entity_mention_id="m-462" role="org">NDRRMC</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1591" length="18">operations officer</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-231" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1116" realis="true">
+        <rel_arg1 entity_id="ent-489" entity_mention_id="m-483" role="entity">Tacloban City airport</rel_arg1>
+        <rel_arg2 entity_id="ent-375" entity_mention_id="m-477" role="loc">Tacloban City</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-232" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1136" realis="true">
+        <rel_arg1 entity_id="ent-534" entity_mention_id="m-528" role="suborg">Philippine Navy</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-537" role="parent">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1900" length="10">Philippine</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-233" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1146" realis="true">
+        <rel_arg1 entity_id="ent-549" entity_mention_id="m-543" role="suborg">Philippine Coast Guard</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-552" role="parent">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1920" length="10">Philippine</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-234" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1156" realis="true">
+        <rel_arg1 entity_id="ent-564" entity_mention_id="m-558" role="entity">Coast</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-552" role="loc">Philippine</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-235" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1166" realis="true">
+        <rel_arg1 entity_id="ent-588" entity_mention_id="m-582" role="leader">Manuel Roxas</rel_arg1>
+        <rel_arg2 entity_id="ent-579" entity_mention_id="m-573" role="entity">Interior and Local Government</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1985" length="9">Secretary</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-236" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1176" realis="true">
+        <rel_arg1 entity_id="ent-588" entity_mention_id="m-582" role="per">Manuel Roxas</rel_arg1>
+        <rel_arg2 filler_id="f-1184" role="role">Secretary</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-237" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1186" realis="true">
+        <rel_arg1 entity_id="ent-426" entity_mention_id="m-591" role="entity">authorities</rel_arg1>
+        <rel_arg2 entity_id="ent-606" entity_mention_id="m-600" role="loc">the roads in Tacloban City</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-238" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1196" realis="true">
+        <rel_arg1 entity_id="ent-606" entity_mention_id="m-600" role="entity">the roads in Tacloban City</rel_arg1>
+        <rel_arg2 entity_id="ent-375" entity_mention_id="m-609" role="loc">Tacloban City</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2048" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-239" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1206" realis="true">
+        <rel_arg1 entity_id="ent-627" entity_mention_id="m-621" role="entity">homes made of light materials along the coast</rel_arg1>
+        <rel_arg2 entity_id="ent-564" entity_mention_id="m-630" role="loc">the coast</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2140" length="5">along</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-240" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1226" realis="true">
+        <rel_arg1 entity_id="ent-657" entity_mention_id="m-651" role="leader">Benigno Aquino III</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-645" role="entity">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2250" length="9">President</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-241" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1236" realis="true">
+        <rel_arg1 entity_id="ent-657" entity_mention_id="m-651" role="per">Benigno Aquino III</rel_arg1>
+        <rel_arg2 filler_id="f-1244" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-242" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1246" realis="true">
+        <rel_arg1 entity_id="ent-657" entity_mention_id="m-651" role="entity">Benigno Aquino III</rel_arg1>
+        <rel_arg2 entity_id="ent-375" entity_mention_id="m-660" role="loc">Tacloban City</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2284" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-243" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1266" realis="false">
+        <rel_arg1 entity_id="ent-657" entity_mention_id="m-651" role="entity">Benigno Aquino III</rel_arg1>
+        <rel_arg2 entity_id="ent-678" entity_mention_id="m-672" role="loc">Roxas City</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2351" length="5">visit</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-244" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1276" realis="true">
+        <rel_arg1 entity_id="ent-678" entity_mention_id="m-672" role="entity">Roxas City</rel_arg1>
+        <rel_arg2 entity_id="ent-687" entity_mention_id="m-681" role="loc">Capiz province</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2368" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-245" type="physical" subtype="resident">
+      <relation_mention id="relm-1286" realis="true">
+        <rel_arg1 entity_id="ent-705" entity_mention_id="m-699" role="per">the affected residents</rel_arg1>
+        <rel_arg2 entity_id="ent-696" entity_mention_id="m-690" role="loc">those places hardly hit by Haiyan</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2495" length="9">residents</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-246" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1296" realis="true">
+        <rel_arg1 entity_id="ent-720" entity_mention_id="m-714" role="employeemember">100 soldiers</rel_arg1>
+        <rel_arg2 entity_id="ent-417" entity_mention_id="m-708" role="org">The military</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-247" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1306" realis="true">
+        <rel_arg1 entity_id="ent-720" entity_mention_id="m-714" role="entity">100 soldiers</rel_arg1>
+        <rel_arg2 entity_id="ent-375" entity_mention_id="m-732" role="loc">Tacloban City</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2594" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-248" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1316" realis="true">
+        <rel_arg1 entity_id="ent-729" entity_mention_id="m-723" role="entity">police</rel_arg1>
+        <rel_arg2 entity_id="ent-375" entity_mention_id="m-732" role="loc">Tacloban City</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2594" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-249" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1326" realis="true">
+        <rel_arg1 entity_id="ent-720" entity_mention_id="m-714" role="per">100 soldiers</rel_arg1>
+        <rel_arg2 filler_id="f-1334" role="role">soldiers</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-250" type="physical" subtype="resident">
+      <relation_mention id="relm-1336" realis="true">
+        <rel_arg1 entity_id="ent-744" entity_mention_id="m-738" role="per">local residents</rel_arg1>
+        <rel_arg2 entity_id="ent-375" entity_mention_id="m-732" role="loc">Tacloban City</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2621" length="9">residents</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-251" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1346" realis="true">
+        <rel_arg1 entity_id="ent-744" entity_mention_id="m-738" role="entity">local residents</rel_arg1>
+        <rel_arg2 entity_id="ent-753" entity_mention_id="m-747" role="loc">Gaisano mall</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-252" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1356" realis="true">
+        <rel_arg1 entity_id="ent-753" entity_mention_id="m-747" role="entity">Gaisano mall</rel_arg1>
+        <rel_arg2 entity_id="ent-375" entity_mention_id="m-732" role="loc">Tacloban City</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-253" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1366" realis="true">
+        <rel_arg1 entity_id="ent-417" entity_mention_id="m-762" role="suborg">Armed Forces of the Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-768" role="parent">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2732" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-254" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1376" realis="true">
+        <rel_arg1 entity_id="ent-780" entity_mention_id="m-774" role="suborg">Armed Forces of the Philippines Public Affairs Office</rel_arg1>
+        <rel_arg2 entity_id="ent-417" entity_mention_id="m-762" role="parent">Armed Forces of the Philippines</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-255" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1386" realis="true">
+        <rel_arg1 entity_id="ent-789" entity_mention_id="m-783" role="leader">Ramon Zagala</rel_arg1>
+        <rel_arg2 entity_id="ent-780" entity_mention_id="m-774" role="entity">Armed Forces of the Philippines Public Affairs Office</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2773" length="5">chief</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-256" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2159" realis="true">
+        <rel_arg1 entity_id="ent-213" entity_mention_id="m-207" role="entity">Leyte</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-186" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="757" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-257" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2169" realis="true">
+        <rel_arg1 entity_id="ent-222" entity_mention_id="m-216" role="entity">Eastern Samar</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-186" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="757" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-258" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2179" realis="true">
+        <rel_arg1 entity_id="ent-240" entity_mention_id="m-2153" role="entity">Western</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-186" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="757" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-259" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2189" realis="true">
+        <rel_arg1 entity_id="ent-249" entity_mention_id="m-243" role="entity">Central Visayas</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-186" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="757" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-260" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2199" realis="true">
+        <rel_arg1 entity_id="ent-267" entity_mention_id="m-261" role="entity">Bicol</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-186" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="757" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-261" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2209" realis="true">
+        <rel_arg1 entity_id="ent-276" entity_mention_id="m-270" role="entity">Northern Mindanao</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-186" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="757" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-262" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2239" realis="true">
+        <rel_arg1 entity_id="ent-696" entity_mention_id="m-690" role="entity">those places hardly hit by Haiyan</rel_arg1>
+        <rel_arg2 entity_id="ent-678" entity_mention_id="m-672" role="loc">Roxas City</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-263" type="personalsocial" subtype="role">
+      <relation_mention id="relm-2249" realis="true">
+        <rel_arg1 entity_id="ent-789" entity_mention_id="m-783" role="per">Ramon Zagala</rel_arg1>
+        <rel_arg2 filler_id="f-2257" role="role">chief</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1406" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="436" length="4">said</trigger>
+        <em_arg entity_id="ent-111" entity_mention_id="m-105" role="entity" realis="true">Philippine government disaster relief agency</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-123" role="place" realis="true">Philippine</em_arg>
+        <em_arg filler_id="f-1438" role="time" realis="true">Sunday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1476">
+      <event_mention id="em-1441" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="630" length="10">evacuation</trigger>
+        <em_arg entity_id="ent-156" entity_mention_id="m-159" role="person" realis="true">403,503 persons</em_arg>
+        <em_arg entity_id="ent-171" entity_mention_id="m-165" role="destination" realis="true">1,425 evacuation centers</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1499">
+      <event_mention id="em-1478" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="966" length="5">drown</trigger>
+        <em_arg entity_id="ent-303" entity_mention_id="m-297" role="victim" realis="true">the people</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1529">
+      <event_mention id="em-1501" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="974" length="4">said</trigger>
+        <em_arg entity_id="ent-312" entity_mention_id="m-306" role="entity" realis="true">Leo Dacaynos</em_arg>
+        <em_arg entity_id="ent-222" entity_mention_id="m-315" role="place" realis="true">Eastern Samar</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1552">
+      <event_mention id="em-1531" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1269" length="4">said</trigger>
+        <em_arg entity_id="ent-399" entity_mention_id="m-393" role="entity" realis="true">official</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1575">
+      <event_mention id="em-1554" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1360" length="6">deaths</trigger>
+        <em_arg entity_id="ent-375" entity_mention_id="m-429" role="place" realis="true">Tacloban City</em_arg>
+      </event_mention>
+      <event_mention id="em-1614" type="life" subtype="die" realis="other">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1577" length="4">dead</trigger>
+        <em_arg entity_id="ent-459" entity_mention_id="m-453" role="victim" realis="true">10,000 people</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1612">
+      <event_mention id="em-1577" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1542" length="8">reported</trigger>
+        <em_arg entity_id="ent-450" entity_mention_id="m-444" role="entity" realis="true">Local media</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1656">
+      <event_mention id="em-1635" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1635" length="4">said</trigger>
+        <em_arg entity_id="ent-474" entity_mention_id="m-468" role="entity" realis="true">Rey Balido</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1721">
+      <event_mention id="em-1679" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1827" length="8">bringing</trigger>
+        <em_arg entity_id="ent-111" entity_mention_id="m-516" role="agent" realis="true">We</em_arg>
+        <em_arg filler_id="f-1704" role="artifact" realis="true">relief goods</em_arg>
+        <em_arg entity_id="ent-213" entity_mention_id="m-522" role="destination" realis="true">Leyte</em_arg>
+        <em_arg filler_id="f-1718" role="instrument" realis="true">vessels of the Philippine Navy and Philippine Coast Guard</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1744">
+      <event_mention id="em-1723" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2008" length="4">said</trigger>
+        <em_arg entity_id="ent-588" entity_mention_id="m-582" role="entity" realis="true">Manuel Roxas</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1788">
+      <event_mention id="em-1767" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2116" length="4">made</trigger>
+        <em_arg entity_id="ent-627" entity_mention_id="m-621" role="artifact" realis="true">homes made of light materials along the coast</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1825">
+      <event_mention id="em-1790" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2279" length="4">flew</trigger>
+        <em_arg entity_id="ent-657" entity_mention_id="m-651" role="person" realis="true">Benigno Aquino III</em_arg>
+        <em_arg entity_id="ent-375" entity_mention_id="m-660" role="destination" realis="true">Tacloban City</em_arg>
+        <em_arg filler_id="f-1822" role="time" realis="true">Sunday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1855">
+      <event_mention id="em-1827" type="movement" subtype="transportperson" realis="other">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2351" length="5">visit</trigger>
+        <em_arg entity_id="ent-678" entity_mention_id="m-672" role="destination" realis="true">Roxas City</em_arg>
+        <em_arg filler_id="f-1852" role="time" realis="false">later in the day</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1885">
+      <event_mention id="em-1857" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2455" length="10">distribute</trigger>
+        <em_arg filler_id="f-1874" role="artifact" realis="true">relief goods</em_arg>
+        <em_arg entity_id="ent-696" entity_mention_id="m-690" role="destination" realis="true">those places hardly hit by Haiyan</em_arg>
+        <em_arg entity_id="ent-657" entity_mention_id="m-651" role="agent" realis="true">Benigno Aquino III</em_arg>
+        <em_arg filler_id="f-1949" role="time" realis="true">later in the day</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1936">
+      <event_mention id="em-1887" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2455" length="10">distribute</trigger>
+        <em_arg entity_id="ent-657" entity_mention_id="m-651" role="giver" realis="true">Benigno Aquino III</em_arg>
+        <em_arg entity_id="ent-705" entity_mention_id="m-699" role="recipient" realis="true">the affected residents</em_arg>
+        <em_arg entity_id="ent-696" entity_mention_id="m-690" role="place" realis="true">those places hardly hit by Haiyan</em_arg>
+        <em_arg filler_id="f-1926" role="thing" realis="true">relief goods</em_arg>
+        <em_arg filler_id="f-1933" role="time" realis="true">later in the day</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1987">
+      <event_mention id="em-1952" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2524" length="4">sent</trigger>
+        <em_arg entity_id="ent-417" entity_mention_id="m-708" role="agent" realis="true">The military</em_arg>
+        <em_arg entity_id="ent-720" entity_mention_id="m-714" role="person" realis="true">100 soldiers</em_arg>
+        <em_arg entity_id="ent-375" entity_mention_id="m-732" role="destination" realis="true">Tacloban City</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2017">
+      <event_mention id="em-1989" type="transaction" subtype="transferownership" realis="actual" ways="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2631" length="6">looted</trigger>
+        <em_arg entity_id="ent-744" entity_mention_id="m-738" role="recipient" realis="true">local residents</em_arg>
+        <em_arg entity_id="ent-753" entity_mention_id="m-747" role="place" realis="true">Gaisano mall</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2054">
+      <event_mention id="em-2019" type="transaction" subtype="transfermoney" realis="actual" ways="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2659" length="5">stole</trigger>
+        <em_arg entity_id="ent-744" entity_mention_id="m-738" role="recipient" realis="true">local residents</em_arg>
+        <em_arg entity_id="ent-375" entity_mention_id="m-756" role="place" realis="true">the city</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2077">
+      <event_mention id="em-2056" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2714" length="4">said</trigger>
+        <em_arg entity_id="ent-789" entity_mention_id="m-783" role="entity" realis="true">Ramon Zagala</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2107">
+      <event_mention id="em-2079" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2823" length="9">announced</trigger>
+        <em_arg entity_id="ent-798" entity_mention_id="m-792" role="entity" realis="true">United Kingdom</em_arg>
+        <em_arg filler_id="f-2104" role="time" realis="true">Sunday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2151">
+      <event_mention id="em-2109" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="2837" length="9">provision</trigger>
+        <em_arg entity_id="ent-798" entity_mention_id="m-792" role="giver" realis="true">United Kingdom</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-810" role="recipient" realis="true">Philippine</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-816" role="beneficiary" realis="true">the victims in disaster-hit areas</em_arg>
+        <em_arg filler_id="f-2148" role="money" realis="true">at least 414 million pesos (9.58 million U.S. dollars</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2294">
+      <event_mention id="em-2259" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1140" length="13">communication</trigger>
+        <em_arg entity_id="ent-375" entity_mention_id="m-369" role="place" realis="true">Tacloban City</em_arg>
+        <em_arg entity_id="ent-408" entity_mention_id="m-402" role="entity" realis="true">officials</em_arg>
+        <em_arg entity_id="ent-384" entity_mention_id="m-378" role="place" realis="true">other affected areas in Leyte</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2331">
+      <event_mention id="em-2340" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1317" length="6">phones</trigger>
+        <em_arg entity_id="ent-408" entity_mention_id="m-402" role="entity" realis="true">officials</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2426">
+      <event_mention id="em-2405" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00011W6D" offset="1360" length="6">deaths</trigger>
+        <em_arg entity_id="ent-441" entity_mention_id="m-435" role="place" realis="true">other worse-hit areas</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

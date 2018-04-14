@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000041" doc_id="ENG_NW_001278_20131217_F00013BWF" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-132" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="448" length="16">
+        <mention_text>Norodom Sihamoni</mention_text>
+      </entity_mention>
+      <entity_mention id="m-195" noun_type="PRO" source="ENG_NW_001278_20131217_F00013BWF" offset="627" length="2">
+        <mention_text>me</mention_text>
+      </entity_mention>
+      <entity_mention id="m-267" noun_type="NOM" source="ENG_NW_001278_20131217_F00013BWF" offset="949" length="8">
+        <mention_text>the king</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00013BWF" offset="953" length="4">king</nom_head>
+      </entity_mention>
+      <entity_mention id="m-273" noun_type="PRO" source="ENG_NW_001278_20131217_F00013BWF" offset="966" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-297" noun_type="PRO" source="ENG_NW_001278_20131217_F00013BWF" offset="1107" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="101" length="9">
+        <mention_text>Cambodian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-66" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="231" length="9">
+        <mention_text>Cambodian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-90" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="316" length="9">
+        <mention_text>Cambodian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-126" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="433" length="9">
+        <mention_text>Cambodian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-189" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="613" length="8">
+        <mention_text>Cambodia</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="130" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-72" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="260" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-96" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="345" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-138" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="483" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-255" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="803" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="1061" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-291" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="980" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-324" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="1340" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-330" noun_type="NOM" source="ENG_NW_001278_20131217_F00013BWF" offset="1346" length="99">
+        <mention_text>the third country after former Soviet Union and the United States to put a spacecraft on lunar soil</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00013BWF" offset="1356" length="7">country</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="180" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-78" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="310" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-102" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="395" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-261" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="890" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-303" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="1188" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1050" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="1282" length="4">
+        <mention_text>moon</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-57" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-51" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="205" length="9">
+        <mention_text>phnompenh</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-114" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-108" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="401" length="10">
+        <mention_text>PHNOM PENH</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-123" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-117" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="422" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-156" type="PER" specificity="specificGroup">
+      <entity_mention id="m-150" noun_type="NOM" source="ENG_NW_001278_20131217_F00013BWF" offset="556" length="16">
+        <mention_text>The Royal Family</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00013BWF" offset="566" length="6">Family</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-165" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-159" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="578" length="16">
+        <mention_text>Royal Government</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-186" type="PER" specificity="specificGroup">
+      <entity_mention id="m-180" noun_type="NOM" source="ENG_NW_001278_20131217_F00013BWF" offset="599" length="22">
+        <mention_text>the people of Cambodia</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00013BWF" offset="603" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-207" type="PER" specificity="specificGroup">
+      <entity_mention id="m-201" noun_type="PRO" source="ENG_NW_001278_20131217_F00013BWF" offset="643" length="3">
+        <mention_text>our</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-216" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-210" noun_type="NOM" source="ENG_NW_001278_20131217_F00013BWF" offset="688" length="15">
+        <mention_text>Your Excellency</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00013BWF" offset="688" length="4">Your</nom_head>
+      </entity_mention>
+      <entity_mention id="m-279" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="998" length="10">
+        <mention_text>Xi Jinping</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-225" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-219" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="709" length="15">
+        <mention_text>Communist Party</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-234" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-228" noun_type="NOM" source="ENG_NW_001278_20131217_F00013BWF" offset="726" length="14">
+        <mention_text>the Government</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00013BWF" offset="730" length="10">Government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-243" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-237" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="746" length="24">
+        <mention_text>People's Liberation Army</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-252" type="PER" specificity="specificGroup">
+      <entity_mention id="m-246" noun_type="NOM" source="ENG_NW_001278_20131217_F00013BWF" offset="772" length="36">
+        <mention_text>the great and heroic people of China</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00013BWF" offset="793" length="6">people</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1041" noun_type="NOM" source="ENG_NW_001278_20131217_F00013BWF" offset="746" length="6">
+        <mention_text>People</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00013BWF" offset="746" length="6">People</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-315" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-309" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="1215" length="7">
+        <mention_text>Beijing</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-342" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-336" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="1377" length="12">
+        <mention_text>Soviet Union</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-351" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-345" noun_type="NAM" source="ENG_NW_001278_20131217_F00013BWF" offset="1398" length="13">
+        <mention_text>United States</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1029" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-1023" noun_type="NOM" source="ENG_NW_001278_20131217_F00013BWF" offset="1091" length="5">
+        <mention_text>space</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00013BWF" offset="1091" length="5">space</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1032" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-144" noun_type="NOM" source="ENG_NW_001278_20131217_F00013BWF" offset="539" length="13">
+        <mention_text>lunar surface</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00013BWF" offset="545" length="7">surface</nom_head>
+      </entity_mention>
+      <entity_mention id="m-318" noun_type="NOM" source="ENG_NW_001278_20131217_F00013BWF" offset="1282" length="12">
+        <mention_text>moon surface</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00013BWF" offset="1287" length="7">surface</nom_head>
+      </entity_mention>
+      <entity_mention id="m-354" noun_type="NOM" source="ENG_NW_001278_20131217_F00013BWF" offset="1435" length="10">
+        <mention_text>lunar soil</mention_text>
+        <nom_head source="ENG_NW_001278_20131217_F00013BWF" offset="1441" length="4">soil</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-438" source="ENG_NW_001278_20131217_F00013BWF" offset="443" length="4" type="title">King</filler>
+    <filler id="f-488" source="ENG_NW_001278_20131217_F00013BWF" offset="953" length="4" type="title">king</filler>
+    <filler id="f-508" source="ENG_NW_001278_20131217_F00013BWF" offset="988" length="9" type="title">President</filler>
+    <filler id="f-518" source="ENG_NW_001278_20131217_F00013BWF" offset="693" length="10" type="title">Excellency</filler>
+    <filler id="f-857" source="ENG_NW_001278_20131217_F00013BWF" offset="1012" length="6" type="time" nom_time="2013-12-16">Monday</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1198" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-420" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-132" role="leader">Norodom Sihamoni</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-126" role="entity">Cambodian</rel_arg2>
+        <trigger source="ENG_NW_001278_20131217_F00013BWF" offset="443" length="4">King</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1199" type="personalsocial" subtype="role">
+      <relation_mention id="relm-430" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-132" role="per">Norodom Sihamoni</rel_arg1>
+        <rel_arg2 filler_id="f-438" role="role">King</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-480" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-267" role="per">the king</rel_arg1>
+        <rel_arg2 filler_id="f-488" role="role">king</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1200" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-460" realis="true">
+        <rel_arg1 entity_id="ent-186" entity_mention_id="m-180" role="per">the people of Cambodia</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-189" role="entity">Cambodia</rel_arg2>
+        <trigger source="ENG_NW_001278_20131217_F00013BWF" offset="610" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1201" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-470" realis="true">
+        <rel_arg1 entity_id="ent-252" entity_mention_id="m-246" role="per">the great and heroic people of China</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-255" role="entity">China</rel_arg2>
+        <trigger source="ENG_NW_001278_20131217_F00013BWF" offset="800" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1202" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-490" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-279" role="leader">Xi Jinping</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-291" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131217_F00013BWF" offset="988" length="9">President</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1203" type="personalsocial" subtype="role">
+      <relation_mention id="relm-500" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-279" role="per">Xi Jinping</rel_arg1>
+        <rel_arg2 filler_id="f-508" role="role">President</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-510" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-210" role="per">Your Excellency</rel_arg1>
+        <rel_arg2 filler_id="f-518" role="role">Excellency</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1204" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1072" realis="true">
+        <rel_arg1 entity_id="ent-1032" entity_mention_id="m-318" role="entity">moon surface</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-1050" role="loc">moon</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-520" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131217_F00013BWF" offset="116" length="13">congratulates</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-33" role="audience" realis="true">China</em_arg>
+      </event_mention>
+      <event_mention id="em-585" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131217_F00013BWF" offset="246" length="13">congratulates</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-72" role="audience" realis="true">China</em_arg>
+      </event_mention>
+      <event_mention id="em-648" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131217_F00013BWF" offset="331" length="13">congratulates</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-96" role="audience" realis="true">China</em_arg>
+      </event_mention>
+      <event_mention id="em-711" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131217_F00013BWF" offset="469" length="13">congratulated</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-132" role="entity" realis="true">Norodom Sihamoni</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-138" role="audience" realis="true">China</em_arg>
+      </event_mention>
+      <event_mention id="em-825" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131217_F00013BWF" offset="970" length="6">letter</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-273" role="entity" realis="true">his</em_arg>
+        <em_arg entity_id="ent-216" entity_mention_id="m-279" role="audience" realis="true">Xi Jinping</em_arg>
+        <em_arg filler_id="f-857" role="time" realis="true">Monday</em_arg>
+      </event_mention>
+      <event_mention id="em-1092" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131217_F00013BWF" offset="655" length="14">congratulation</trigger>
+        <em_arg entity_id="ent-207" entity_mention_id="m-201" role="entity" realis="true">our</em_arg>
+        <em_arg entity_id="ent-216" entity_mention_id="m-210" role="audience" realis="true">Your Excellency</em_arg>
+        <em_arg entity_id="ent-225" entity_mention_id="m-219" role="audience" realis="true">Communist Party</em_arg>
+        <em_arg entity_id="ent-234" entity_mention_id="m-228" role="audience" realis="true">the Government</em_arg>
+        <em_arg entity_id="ent-243" entity_mention_id="m-237" role="audience" realis="true">People's Liberation Army</em_arg>
+        <em_arg entity_id="ent-252" entity_mention_id="m-246" role="audience" realis="true">the great and heroic people of China</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

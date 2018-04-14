@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000020" doc_id="ENG_NW_001278_20131031_F00011W2Q" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificGroup">
+      <entity_mention id="m-18" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="110" length="17">
+        <mention_text>Egyptian students</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="119" length="8">students</nom_head>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="230" length="17">
+        <mention_text>Egyptian students</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="239" length="8">students</nom_head>
+      </entity_mention>
+      <entity_mention id="m-135" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="308" length="17">
+        <mention_text>Egyptian students</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="317" length="8">students</nom_head>
+      </entity_mention>
+      <entity_mention id="m-147" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="404" length="43">
+        <mention_text>Students who support the Muslim Brotherhood</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="404" length="8">Students</nom_head>
+      </entity_mention>
+      <entity_mention id="m-222" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="647" length="12">
+        <mention_text>the students</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="651" length="8">students</nom_head>
+      </entity_mention>
+      <entity_mention id="m-303" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="793" length="17">
+        <mention_text>the MB supporters</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="800" length="10">supporters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-426" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1214" length="12">
+        <mention_text>The students</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1218" length="8">students</nom_head>
+      </entity_mention>
+      <entity_mention id="m-444" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1361" length="111">
+        <mention_text>the students supporting the Brotherhood group and demanding the reinstatement of ousted president Mohamed Morsi</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1365" length="8">students</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1035" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3576" length="53">
+        <mention_text>university students and professors who supports Morsi</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="3587" length="8">students</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="110" length="8">
+        <mention_text>Egyptian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-87" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="230" length="8">
+        <mention_text>Egyptian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-129" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="308" length="8">
+        <mention_text>Egyptian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-216" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="620" length="8">
+        <mention_text>Egyptian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-345" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="924" length="5">
+        <mention_text>state</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="924" length="5">state</nom_head>
+      </entity_mention>
+      <entity_mention id="m-585" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1867" length="8">
+        <mention_text>Egyptian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-630" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2076" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-636" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2083" length="5">
+        <mention_text>state</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2083" length="5">state</nom_head>
+      </entity_mention>
+      <entity_mention id="m-735" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2454" length="8">
+        <mention_text>Egyptian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1071" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3693" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="3697" length="7">country</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="142" length="18">
+        <mention_text>Muslim Brotherhood</mention_text>
+      </entity_mention>
+      <entity_mention id="m-99" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="262" length="18">
+        <mention_text>Muslim Brotherhood</mention_text>
+      </entity_mention>
+      <entity_mention id="m-117" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="340" length="18">
+        <mention_text>Muslim Brotherhood</mention_text>
+      </entity_mention>
+      <entity_mention id="m-159" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="429" length="18">
+        <mention_text>Muslim Brotherhood</mention_text>
+      </entity_mention>
+      <entity_mention id="m-165" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="449" length="2">
+        <mention_text>MB</mention_text>
+      </entity_mention>
+      <entity_mention id="m-210" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="571" length="2">
+        <mention_text>MB</mention_text>
+      </entity_mention>
+      <entity_mention id="m-309" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="797" length="2">
+        <mention_text>MB</mention_text>
+      </entity_mention>
+      <entity_mention id="m-450" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1385" length="21">
+        <mention_text>the Brotherhood group</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1401" length="5">group</nom_head>
+      </entity_mention>
+      <entity_mention id="m-468" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1389" length="11">
+        <mention_text>Brotherhood</mention_text>
+      </entity_mention>
+      <entity_mention id="m-603" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1991" length="11">
+        <mention_text>Brotherhood</mention_text>
+      </entity_mention>
+      <entity_mention id="m-678" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2267" length="11">
+        <mention_text>Brotherhood</mention_text>
+      </entity_mention>
+      <entity_mention id="m-684" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="2293" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-696" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="2359" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-723" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2415" length="2">
+        <mention_text>MB</mention_text>
+      </entity_mention>
+      <entity_mention id="m-762" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2490" length="2">
+        <mention_text>MB</mention_text>
+      </entity_mention>
+      <entity_mention id="m-825" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2681" length="2">
+        <mention_text>MB</mention_text>
+      </entity_mention>
+      <entity_mention id="m-906" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2910" length="11">
+        <mention_text>Brotherhood</mention_text>
+      </entity_mention>
+      <entity_mention id="m-966" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3140" length="11">
+        <mention_text>Brotherhood</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1011" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3366" length="51">
+        <mention_text>the group that still continues their demonstrations</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="3370" length="5">group</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1083" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3722" length="11">
+        <mention_text>Brotherhood</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1119" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3944" length="11">
+        <mention_text>Brotherhood</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1714" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2530" length="11">
+        <mention_text>Brotherhood</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-51" type="PER" specificity="specificGroup">
+      <entity_mention id="m-69" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="142" length="26">
+        <mention_text>Muslim Brotherhood leaders</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="161" length="7">leaders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-105" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="262" length="26">
+        <mention_text>Muslim Brotherhood leaders</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="281" length="7">leaders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-111" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="340" length="26">
+        <mention_text>Muslim Brotherhood leaders</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="359" length="7">leaders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="567" length="23">
+        <mention_text>the MB's senior members</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="583" length="7">members</nom_head>
+      </entity_mention>
+      <entity_mention id="m-747" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2490" length="22">
+        <mention_text>MB leaders and members</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2493" length="7">leaders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-918" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2906" length="25">
+        <mention_text>the Brotherhood's leaders</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2924" length="7">leaders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-54" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-75" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="198" length="6">
+        <mention_text>cairo3</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-57" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-141" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="377" length="5">
+        <mention_text>CAIRO</mention_text>
+      </entity_mention>
+      <entity_mention id="m-189" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="522" length="5">
+        <mention_text>Cairo</mention_text>
+      </entity_mention>
+      <entity_mention id="m-894" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2885" length="5">
+        <mention_text>Cairo</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-60" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-171" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="461" length="87">
+        <mention_text>an administrative building at Al-Azhar University in eastern Cairo's Nasr City district</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="479" length="8">building</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-63" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-249" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="707" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-315" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="831" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-66" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-183" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="514" length="13">
+        <mention_text>eastern Cairo</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="522" length="5">Cairo</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-201" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-195" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="530" length="9">
+        <mention_text>Nasr City</mention_text>
+      </entity_mention>
+      <entity_mention id="m-4394" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="514" length="34">
+        <mention_text>eastern Cairo's Nasr City district</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="540" length="8">district</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-240" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-234" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="669" length="25">
+        <mention_text>the university 's offices</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="687" length="7">offices</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-243" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-255" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="707" length="12">
+        <mention_text>its chairman</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="711" length="8">chairman</nom_head>
+      </entity_mention>
+      <entity_mention id="m-261" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="721" length="12">
+        <mention_text>Osama el-Abd</mention_text>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="738" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-321" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="831" length="12">
+        <mention_text>its chairman</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="835" length="8">chairman</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-246" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-267" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="738" length="10">
+        <mention_text>his office</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="742" length="6">office</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-273" type="PER" specificity="specificGroup">
+      <entity_mention id="m-291" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="751" length="6">
+        <mention_text>Police</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="751" length="6">Police</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-276" type="PER" specificity="specificGroup">
+      <entity_mention id="m-327" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="845" length="18">
+        <mention_text>Twenty-five people</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="857" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-279" type="PER" specificity="specificGroup">
+      <entity_mention id="m-333" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="896" length="26">
+        <mention_text>security at the university</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="896" length="8">security</nom_head>
+      </entity_mention>
+      <entity_mention id="m-438" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1276" length="15">
+        <mention_text>security forces</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1285" length="6">forces</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-282" type="PER" specificity="specificGroup">
+      <entity_mention id="m-351" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="967" length="18">
+        <mention_text>judicial officials</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="976" length="9">officials</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-357" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-177" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="491" length="19">
+        <mention_text>Al-Azhar University</mention_text>
+      </entity_mention>
+      <entity_mention id="m-228" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="669" length="14">
+        <mention_text>the university</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="673" length="10">university</nom_head>
+      </entity_mention>
+      <entity_mention id="m-297" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="766" length="14">
+        <mention_text>the university</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="770" length="10">university</nom_head>
+      </entity_mention>
+      <entity_mention id="m-339" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="908" length="14">
+        <mention_text>the university</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="912" length="10">university</nom_head>
+      </entity_mention>
+      <entity_mention id="m-378" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="998" length="37">
+        <mention_text>The top Islamic education institution</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1024" length="11">institution</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-360" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-384" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1074" length="22">
+        <mention_text>Rabaa Al-Adawia Square</mention_text>
+      </entity_mention>
+      <entity_mention id="m-390" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1098" length="114">
+        <mention_text>the main spot for Morsi's supporters where they had camped before authorities cleared out their sit-ins on Aug. 14</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1107" length="4">spot</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-363" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-396" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1116" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-462" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1459" length="13">
+        <mention_text>Mohamed Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-792" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2601" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1005" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3325" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1053" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3624" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1089" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3796" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-366" type="PER" specificity="specificGroup">
+      <entity_mention id="m-402" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1116" length="18">
+        <mention_text>Morsi's supporters</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1124" length="10">supporters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-369" type="PER" specificity="specificGroup">
+      <entity_mention id="m-414" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1164" length="11">
+        <mention_text>authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1164" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-372" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-474" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1505" length="14">
+        <mention_text>the Delta city</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1515" length="4">city</nom_head>
+      </entity_mention>
+      <entity_mention id="m-492" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1523" length="8">
+        <mention_text>Mansoura</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1568" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1601" length="8">
+        <mention_text>Mansoura</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-375" type="PER" specificity="specificGroup">
+      <entity_mention id="m-498" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1533" length="13">
+        <mention_text>the Islamists</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1537" length="9">Islamists</nom_head>
+      </entity_mention>
+      <entity_mention id="m-522" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="1670" length="4">
+        <mention_text>them</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-480" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-504" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1580" length="42">
+        <mention_text>The president of the Mansoura's university</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1584" length="9">president</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-483" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-510" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1601" length="21">
+        <mention_text>Mansoura's university</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-486" type="PER" specificity="specificGroup">
+      <entity_mention id="m-516" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1640" length="17">
+        <mention_text>the police forces</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1651" length="6">forces</nom_head>
+      </entity_mention>
+      <entity_mention id="m-555" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1811" length="6">
+        <mention_text>police</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1811" length="6">police</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-489" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-528" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1701" length="13">
+        <mention_text>the buildings</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1705" length="9">buildings</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-534" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-543" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1720" length="21">
+        <mention_text>the interior ministry</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1733" length="8">ministry</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-537" type="PER" specificity="nonspecific">
+      <entity_mention id="m-549" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1760" length="11">
+        <mention_text>prosecution</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1760" length="11">prosecution</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-540" type="PER" specificity="specificGroup">
+      <entity_mention id="m-561" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1842" length="8">
+        <mention_text>students</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1842" length="8">students</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-573" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-567" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1853" length="35">
+        <mention_text>Several other Egyptian universities</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1876" length="12">universities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-576" type="PER" specificity="specificGroup">
+      <entity_mention id="m-591" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1963" length="39">
+        <mention_text>supporters and opponents of Brotherhood</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1963" length="10">supporters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-708" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2411" length="17">
+        <mention_text>the MB supporters</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2418" length="10">supporters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-729" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="2438" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-954" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3126" length="25">
+        <mention_text>supporters of Brotherhood</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="3126" length="10">supporters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1077" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3722" length="22">
+        <mention_text>Brotherhood supporters</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="3734" length="10">supporters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1113" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3944" length="22">
+        <mention_text>Brotherhood supporters</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="3956" length="10">supporters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-579" type="PER" specificity="specificGroup">
+      <entity_mention id="m-597" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1963" length="39">
+        <mention_text>supporters and opponents of Brotherhood</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1978" length="9">opponents</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-582" type="PER" specificity="specificGroup">
+      <entity_mention id="m-609" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2019" length="9">
+        <mention_text>27 people</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2022" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-615" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-642" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2114" length="27">
+        <mention_text>a Ministry of Health source</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2135" length="6">source</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-618" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-654" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2217" length="12">
+        <mention_text>universities</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2217" length="12">universities</nom_head>
+      </entity_mention>
+      <entity_mention id="m-690" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2311" length="12">
+        <mention_text>universities</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2311" length="12">universities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-621" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-660" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2168" length="13">
+        <mention_text>Hazem Beblawi</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-672" type="PER" specificity="specificGroup">
+      <entity_mention id="m-666" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2249" length="8">
+        <mention_text>Analysts</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2249" length="8">Analysts</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-675" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-702" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2383" length="22">
+        <mention_text>the interim government</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2395" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-714" type="PER" specificity="specificGroup">
+      <entity_mention id="m-741" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2454" length="20">
+        <mention_text>Egyptian authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2463" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-759" type="PER" specificity="specificGroup">
+      <entity_mention id="m-753" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2490" length="22">
+        <mention_text>MB leaders and members</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2505" length="7">members</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-768" type="PER" specificity="specificGroup">
+      <entity_mention id="m-780" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2514" length="47">
+        <mention_text>More than 2,000 Brotherhood members and leaders</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2542" length="7">members</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-771" type="PER" specificity="specificGroup">
+      <entity_mention id="m-786" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2514" length="47">
+        <mention_text>More than 2,000 Brotherhood members and leaders</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2554" length="7">leaders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-774" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-798" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2619" length="21">
+        <mention_text>Another senior leader</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2634" length="6">leader</nom_head>
+      </entity_mention>
+      <entity_mention id="m-813" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2641" length="14">
+        <mention_text>Essam al-Erian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-819" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2657" length="54">
+        <mention_text>deputy president of the MB's Freedom and Justice Party</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2664" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-855" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="2800" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-861" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2816" length="8">
+        <mention_text>Al-Erian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-924" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="2954" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-999" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3256" length="8">
+        <mention_text>al-Arian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1017" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="3427" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1023" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3447" length="8">
+        <mention_text>al-Erian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-3818" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="3567" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-777" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-831" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2686" length="25">
+        <mention_text>Freedom and Justice Party</mention_text>
+      </entity_mention>
+      <entity_mention id="m-837" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2713" length="3">
+        <mention_text>FJP</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-804" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-843" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2754" length="59">
+        <mention_text>an apartment in the New Cairo district, where he was hiding</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2757" length="9">apartment</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-807" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-849" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2774" length="9">
+        <mention_text>New Cairo</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-810" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-867" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2849" length="41">
+        <mention_text>the Tora prison complex in southern Cairo</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2865" length="7">complex</nom_head>
+      </entity_mention>
+      <entity_mention id="m-882" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2853" length="11">
+        <mention_text>Tora prison</mention_text>
+      </entity_mention>
+      <entity_mention id="m-4400" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="2892" length="5">
+        <mention_text>where</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-873" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-4204" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2853" length="4">
+        <mention_text>Tora</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-876" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-888" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2876" length="14">
+        <mention_text>southern Cairo</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2885" length="5">Cairo</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-879" type="PER" specificity="specificGroup">
+      <entity_mention id="m-912" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2898" length="33">
+        <mention_text>many of the Brotherhood's leaders</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2898" length="4">many</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-936" type="PER" specificity="specificGroup">
+      <entity_mention id="m-930" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3106" length="15">
+        <mention_text>local residents</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="3112" length="9">residents</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-942" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-960" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3155" length="4">
+        <mention_text>Giza</mention_text>
+      </entity_mention>
+      <entity_mention id="m-978" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3204" length="4">
+        <mention_text>Giza</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-945" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-972" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3162" length="15">
+        <mention_text>Beyn el-Sarayat</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-948" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-984" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3211" length="18">
+        <mention_text>Al-Istiqama Mosque</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-951" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-1029" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3513" length="10">
+        <mention_text>Al-Jazeera</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-990" type="ORG" specificity="nonspecific">
+      <entity_mention id="m-1041" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3576" length="10">
+        <mention_text>university</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="3576" length="10">university</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-993" type="PER" specificity="specificGroup">
+      <entity_mention id="m-1047" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3576" length="53">
+        <mention_text>university students and professors who supports Morsi</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="3600" length="10">professors</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-996" type="PER" specificity="specificGroup">
+      <entity_mention id="m-1059" noun_type="PRO" source="ENG_NW_001278_20131031_F00011W2Q" offset="3647" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1101" type="PER" specificity="specificGroup">
+      <entity_mention id="m-1095" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3870" length="46">
+        <mention_text>protesters in front of the Presidential Palace</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="3870" length="10">protesters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1104" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-1107" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3897" length="19">
+        <mention_text>Presidential Palace</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2860" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-624" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2056" length="25">
+        <mention_text>universities around Egypt</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="2056" length="12">universities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-3047" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-1065" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="3693" length="26">
+        <mention_text>the country's universities</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="3707" length="12">universities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-4182" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-4176" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="393" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-4191" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-432" noun_type="NOM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1262" length="8">
+        <mention_text>the camp</mention_text>
+        <nom_head source="ENG_NW_001278_20131031_F00011W2Q" offset="1266" length="4">camp</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-4210" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-648" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="2116" length="18">
+        <mention_text>Ministry of Health</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-4229" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-4223" noun_type="NAM" source="ENG_NW_001278_20131031_F00011W2Q" offset="1509" length="5">
+        <mention_text>Delta</mention_text>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-1546" source="ENG_NW_001278_20131031_F00011W2Q" offset="1449" length="9" type="title">president</filler>
+    <filler id="f-1602" source="ENG_NW_001278_20131031_F00011W2Q" offset="1584" length="9" type="title">president</filler>
+    <filler id="f-1672" source="ENG_NW_001278_20131031_F00011W2Q" offset="2153" length="14" type="title">Prime Minister</filler>
+    <filler id="f-1768" source="ENG_NW_001278_20131031_F00011W2Q" offset="2657" length="16" type="title">deputy president</filler>
+    <filler id="f-4260" source="ENG_NW_001278_20131031_F00011W2Q" offset="3600" length="10" type="title">professors</filler>
+    <filler id="f-2054" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2061" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2068" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-1982" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2019" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2047" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2103" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2138" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2173" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2249" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2275" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2367" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2433" source="ENG_NW_001278_20131031_F00011W2Q" offset="1205" length="7" type="time" nom_time="2013-08-14">Aug. 14</filler>
+    <filler id="f-2485" source="ENG_NW_001278_20131031_F00011W2Q" offset="1449" length="9" type="title">president</filler>
+    <filler id="f-3180" source="ENG_NW_001278_20131031_F00011W2Q" offset="2610" length="6" type="time" nom_time="2013-07-03">July 3</filler>
+    <filler id="f-2547" source="ENG_NW_001278_20131031_F00011W2Q" offset="1449" length="9" type="title">president</filler>
+    <filler id="f-2616" source="ENG_NW_001278_20131031_F00011W2Q" offset="1632" length="7" type="time" nom_time="2013-10-29">Tuesday</filler>
+    <filler id="f-2658" source="ENG_NW_001278_20131031_F00011W2Q" offset="1632" length="7" type="time" nom_time="2013-10-29">Tuesday</filler>
+    <filler id="f-2867" source="ENG_NW_001278_20131031_F00011W2Q" offset="2008" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2938" source="ENG_NW_001278_20131031_F00011W2Q" offset="2008" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-2931" source="ENG_NW_001278_20131031_F00011W2Q" offset="2008" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-3008" source="ENG_NW_001278_20131031_F00011W2Q" offset="2190" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-3173" source="ENG_NW_001278_20131031_F00011W2Q" offset="2610" length="6" type="time" nom_time="2013-07-03">July 3</filler>
+    <filler id="f-3215" source="ENG_NW_001278_20131031_F00011W2Q" offset="2741" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-3297" source="ENG_NW_001278_20131031_F00011W2Q" offset="3050" length="20" type="crime">instigating violence</filler>
+    <filler id="f-3305" source="ENG_NW_001278_20131031_F00011W2Q" offset="3075" length="7" type="crime">killing</filler>
+    <filler id="f-3312" source="ENG_NW_001278_20131031_F00011W2Q" offset="3001" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-3411" source="ENG_NW_001278_20131031_F00011W2Q" offset="3190" length="4" type="time" nom_time="2013-07-xx">July</filler>
+    <filler id="f-3467" source="ENG_NW_001278_20131031_F00011W2Q" offset="3233" length="6" type="time" nom_time="2013-08-xx">August</filler>
+    <filler id="f-3509" source="ENG_NW_001278_20131031_F00011W2Q" offset="3190" length="4" type="time" nom_time="2013-07-xx">July</filler>
+    <filler id="f-3555" source="ENG_NW_001278_20131031_F00011W2Q" offset="3233" length="6" type="time" nom_time="2013-08-xx">August</filler>
+    <filler id="f-3601" source="ENG_NW_001278_20131031_F00011W2Q" offset="3233" length="6" type="time" nom_time="2013-08-xx">August</filler>
+    <filler id="f-3636" source="ENG_NW_001278_20131031_F00011W2Q" offset="3190" length="4" type="time" nom_time="2013-07-xx">July</filler>
+    <filler id="f-3678" source="ENG_NW_001278_20131031_F00011W2Q" offset="3233" length="6" type="time" nom_time="2013-08-xx">August</filler>
+    <filler id="f-3708" source="ENG_NW_001278_20131031_F00011W2Q" offset="2741" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+    <filler id="f-3884" source="ENG_NW_001278_20131031_F00011W2Q" offset="3784" length="6" type="time" nom_time="2013-11-04">Nov. 4</filler>
+    <filler id="f-3943" source="ENG_NW_001278_20131031_F00011W2Q" offset="3917" length="13" type="time" nom_time="2012-12-xx">last December</filler>
+    <filler id="f-3978" source="ENG_NW_001278_20131031_F00011W2Q" offset="3917" length="13" type="time" nom_time="2012-12-xx">last December</filler>
+    <filler id="f-4020" source="ENG_NW_001278_20131031_F00011W2Q" offset="3917" length="13" type="time" nom_time="2012-12-xx">last December</filler>
+    <filler id="f-4055" source="ENG_NW_001278_20131031_F00011W2Q" offset="3917" length="13" type="time" nom_time="2012-12-xx">last December</filler>
+    <filler id="f-4301" source="ENG_NW_001278_20131031_F00011W2Q" offset="608" length="9" type="time" nom_time="2013-10-30">Wednesday</filler>
+  </fillers>
+  <relations>
+    <relation id="r-615" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-1125" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-18" role="per">Egyptian students</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-24" role="entity">Egyptian</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="110" length="8">Egyptian</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1210" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-81" role="per">Egyptian students</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-87" role="entity">Egyptian</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="230" length="8">Egyptian</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1328" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-135" role="per">Egyptian students</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-129" role="entity">Egyptian</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="308" length="8">Egyptian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-616" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1135" realis="true">
+        <rel_arg1 entity_id="ent-51" entity_mention_id="m-69" role="leader">Muslim Brotherhood leaders</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-42" role="entity">Muslim Brotherhood</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="161" length="7">leaders</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1220" realis="true">
+        <rel_arg1 entity_id="ent-51" entity_mention_id="m-105" role="leader">Muslim Brotherhood leaders</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-99" role="entity">Muslim Brotherhood</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="281" length="7">leaders</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1338" realis="true">
+        <rel_arg1 entity_id="ent-51" entity_mention_id="m-111" role="leader">Muslim Brotherhood leaders</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-117" role="entity">Muslim Brotherhood</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="359" length="7">leaders</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1398" realis="true">
+        <rel_arg1 entity_id="ent-51" entity_mention_id="m-204" role="leader">the MB's senior members</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-210" role="entity">MB</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="576" length="6">senior</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1684" realis="true">
+        <rel_arg1 entity_id="ent-51" entity_mention_id="m-747" role="leader">MB leaders and members</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-762" role="entity">MB</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2493" length="7">leaders</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1840" realis="true">
+        <rel_arg1 entity_id="ent-51" entity_mention_id="m-918" role="leader">the Brotherhood's leaders</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-906" role="entity">Brotherhood</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2924" length="7">leaders</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-617" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1348" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-147" role="entity">Students who support the Muslim Brotherhood</rel_arg1>
+        <rel_arg2 entity_id="ent-60" entity_mention_id="m-171" role="loc">an administrative building at Al-Azhar University in eastern Cairo's Nasr City district</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="453" length="7">stormed</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-618" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1358" realis="true">
+        <rel_arg1 entity_id="ent-60" entity_mention_id="m-171" role="entity">an administrative building at Al-Azhar University in eastern Cairo's Nasr City district</rel_arg1>
+        <rel_arg2 entity_id="ent-357" entity_mention_id="m-177" role="loc">Al-Azhar University</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="488" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-619" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1368" realis="true">
+        <rel_arg1 entity_id="ent-357" entity_mention_id="m-177" role="entity">Al-Azhar University</rel_arg1>
+        <rel_arg2 entity_id="ent-201" entity_mention_id="m-195" role="loc">Nasr City</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="511" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-620" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1378" realis="true">
+        <rel_arg1 entity_id="ent-201" entity_mention_id="m-195" role="entity">Nasr City</rel_arg1>
+        <rel_arg2 entity_id="ent-66" entity_mention_id="m-183" role="loc">eastern Cairo</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="522" length="7">Cairo's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-621" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1388" realis="true">
+        <rel_arg1 entity_id="ent-66" entity_mention_id="m-183" role="entity">eastern Cairo</rel_arg1>
+        <rel_arg2 entity_id="ent-57" entity_mention_id="m-189" role="loc">Cairo</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="514" length="7">eastern</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-622" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1408" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-222" role="entity">the students</rel_arg1>
+        <rel_arg2 entity_id="ent-240" entity_mention_id="m-234" role="loc">the university 's offices</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="660" length="8">storming</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-623" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1418" realis="true">
+        <rel_arg1 entity_id="ent-240" entity_mention_id="m-234" role="entity">the university 's offices</rel_arg1>
+        <rel_arg2 entity_id="ent-357" entity_mention_id="m-228" role="loc">the university</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="673" length="13">university 's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-624" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1428" realis="true">
+        <rel_arg1 entity_id="ent-243" entity_mention_id="m-255" role="leader">its chairman</rel_arg1>
+        <rel_arg2 entity_id="ent-63" entity_mention_id="m-249" role="entity">its</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1468" realis="true">
+        <rel_arg1 entity_id="ent-243" entity_mention_id="m-321" role="leader">its chairman</rel_arg1>
+        <rel_arg2 entity_id="ent-63" entity_mention_id="m-315" role="entity">its</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="835" length="8">chairman</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-625" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1438" realis="true">
+        <rel_arg1 entity_id="ent-243" entity_mention_id="m-285" role="entity">his</rel_arg1>
+        <rel_arg2 entity_id="ent-246" entity_mention_id="m-267" role="loc">his office</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="735" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-626" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1448" realis="true">
+        <rel_arg1 entity_id="ent-273" entity_mention_id="m-291" role="entity">Police</rel_arg1>
+        <rel_arg2 entity_id="ent-357" entity_mention_id="m-297" role="loc">the university</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="758" length="7">entered</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-627" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1458" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-303" role="entity">the MB supporters</rel_arg1>
+        <rel_arg2 entity_id="ent-357" entity_mention_id="m-297" role="loc">the university</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="784" length="8">disperse</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-628" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1478" realis="true">
+        <rel_arg1 entity_id="ent-276" entity_mention_id="m-327" role="entity">Twenty-five people</rel_arg1>
+        <rel_arg2 entity_id="ent-357" entity_mention_id="m-339" role="loc">the university</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="905" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-629" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1488" realis="true">
+        <rel_arg1 entity_id="ent-279" entity_mention_id="m-333" role="entity">security at the university</rel_arg1>
+        <rel_arg2 entity_id="ent-357" entity_mention_id="m-339" role="loc">the university</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="905" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-630" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1498" realis="true">
+        <rel_arg1 entity_id="ent-357" entity_mention_id="m-378" role="entity">The top Islamic education institution</rel_arg1>
+        <rel_arg2 entity_id="ent-360" entity_mention_id="m-384" role="loc">Rabaa Al-Adawia Square</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1039" length="7">located</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-631" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1508" realis="true">
+        <rel_arg1 entity_id="ent-366" entity_mention_id="m-402" role="entity">Morsi's supporters</rel_arg1>
+        <rel_arg2 entity_id="ent-360" entity_mention_id="m-390" role="loc">the main spot for Morsi's supporters where they had camped before authorities cleared out their sit-ins on Aug. 14</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1150" length="6">camped</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-632" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1518" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-426" role="entity">The students</rel_arg1>
+        <rel_arg2 entity_id="ent-4191" entity_mention_id="m-432" role="loc">the camp</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1254" length="7">restore</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-633" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1538" realis="true">
+        <rel_arg1 entity_id="ent-363" entity_mention_id="m-462" role="per">Mohamed Morsi</rel_arg1>
+        <rel_arg2 filler_id="f-1546" role="role">president</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-634" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1548" realis="true">
+        <rel_arg1 entity_id="ent-375" entity_mention_id="m-498" role="entity">the Islamists</rel_arg1>
+        <rel_arg2 entity_id="ent-372" entity_mention_id="m-492" role="loc">Mansoura</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1502" length="2">In</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-635" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1558" realis="true">
+        <rel_arg1 entity_id="ent-483" entity_mention_id="m-510" role="org">Mansoura's university</rel_arg1>
+        <rel_arg2 entity_id="ent-372" entity_mention_id="m-1568" role="loc">Mansoura</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1601" length="10">Mansoura's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-636" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1584" realis="true">
+        <rel_arg1 entity_id="ent-480" entity_mention_id="m-504" role="leader">The president of the Mansoura's university</rel_arg1>
+        <rel_arg2 entity_id="ent-483" entity_mention_id="m-510" role="entity">Mansoura's university</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1584" length="9">president</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-637" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1594" realis="true">
+        <rel_arg1 entity_id="ent-480" entity_mention_id="m-504" role="per">The president of the Mansoura's university</rel_arg1>
+        <rel_arg2 filler_id="f-1602" role="role">president</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-638" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1634" realis="true">
+        <rel_arg1 entity_id="ent-582" entity_mention_id="m-609" role="entity">27 people</rel_arg1>
+        <rel_arg2 entity_id="ent-2860" entity_mention_id="m-624" role="loc">universities around Egypt</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2053" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-639" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1644" realis="true">
+        <rel_arg1 entity_id="ent-2860" entity_mention_id="m-624" role="entity">universities around Egypt</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-630" role="loc">Egypt</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2069" length="6">around</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-640" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1654" realis="true">
+        <rel_arg1 entity_id="ent-615" entity_mention_id="m-642" role="employeemember">a Ministry of Health source</rel_arg1>
+        <rel_arg2 entity_id="ent-4210" entity_mention_id="m-648" role="org">Ministry of Health</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-641" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1664" realis="true">
+        <rel_arg1 entity_id="ent-621" entity_mention_id="m-660" role="per">Hazem Beblawi</rel_arg1>
+        <rel_arg2 filler_id="f-1672" role="role">Prime Minister</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-642" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1674" realis="true">
+        <rel_arg1 entity_id="ent-714" entity_mention_id="m-741" role="employeemember">Egyptian authorities</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-735" role="org">Egyptian</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2454" length="8">Egyptian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-643" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1694" realis="true">
+        <rel_arg1 entity_id="ent-759" entity_mention_id="m-753" role="employeemember">MB leaders and members</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-762" role="org">MB</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2505" length="7">members</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-644" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1704" realis="true">
+        <rel_arg1 entity_id="ent-768" entity_mention_id="m-780" role="employeemember">More than 2,000 Brotherhood members and leaders</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-1714" role="org">Brotherhood</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2542" length="7">members</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-645" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1720" realis="true">
+        <rel_arg1 entity_id="ent-771" entity_mention_id="m-786" role="leader">More than 2,000 Brotherhood members and leaders</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-1714" role="entity">Brotherhood</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2554" length="7">leaders</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-646" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1740" realis="true">
+        <rel_arg1 entity_id="ent-777" entity_mention_id="m-831" role="suborg">Freedom and Justice Party</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-825" role="parent">MB</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2681" length="4">MB's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-647" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1750" realis="true">
+        <rel_arg1 entity_id="ent-774" entity_mention_id="m-819" role="leader">deputy president of the MB's Freedom and Justice Party</rel_arg1>
+        <rel_arg2 entity_id="ent-777" entity_mention_id="m-831" role="entity">Freedom and Justice Party</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2657" length="16">deputy president</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-648" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1760" realis="true">
+        <rel_arg1 entity_id="ent-774" entity_mention_id="m-819" role="per">deputy president of the MB's Freedom and Justice Party</rel_arg1>
+        <rel_arg2 filler_id="f-1768" role="role">deputy president</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-649" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1770" realis="true">
+        <rel_arg1 entity_id="ent-774" entity_mention_id="m-855" role="entity">he</rel_arg1>
+        <rel_arg2 entity_id="ent-804" entity_mention_id="m-843" role="loc">an apartment in the New Cairo district, where he was hiding</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2807" length="6">hiding</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-650" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1780" realis="true">
+        <rel_arg1 entity_id="ent-774" entity_mention_id="m-861" role="entity">Al-Erian</rel_arg1>
+        <rel_arg2 entity_id="ent-810" entity_mention_id="m-867" role="loc">the Tora prison complex in southern Cairo</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2846" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-651" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1790" realis="true">
+        <rel_arg1 entity_id="ent-573" entity_mention_id="m-567" role="org">Several other Egyptian universities</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-585" role="loc">Egyptian</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1867" length="8">Egyptian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-652" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1810" realis="true">
+        <rel_arg1 entity_id="ent-810" entity_mention_id="m-867" role="entity">the Tora prison complex in southern Cairo</rel_arg1>
+        <rel_arg2 entity_id="ent-876" entity_mention_id="m-888" role="loc">southern Cairo</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2873" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-653" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1820" realis="true">
+        <rel_arg1 entity_id="ent-876" entity_mention_id="m-888" role="entity">southern Cairo</rel_arg1>
+        <rel_arg2 entity_id="ent-57" entity_mention_id="m-894" role="loc">Cairo</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-654" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1830" realis="true">
+        <rel_arg1 entity_id="ent-51" entity_mention_id="m-918" role="entity">the Brotherhood's leaders</rel_arg1>
+        <rel_arg2 entity_id="ent-810" entity_mention_id="m-867" role="loc">the Tora prison complex in southern Cairo</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2940" length="8">detained</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-655" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1860" realis="true">
+        <rel_arg1 entity_id="ent-945" entity_mention_id="m-972" role="entity">Beyn el-Sarayat</rel_arg1>
+        <rel_arg2 entity_id="ent-942" entity_mention_id="m-960" role="loc">Giza</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3155" length="6">Giza's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-656" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1870" realis="true">
+        <rel_arg1 entity_id="ent-948" entity_mention_id="m-984" role="entity">Al-Istiqama Mosque</rel_arg1>
+        <rel_arg2 entity_id="ent-942" entity_mention_id="m-978" role="loc">Giza</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3204" length="6">Giza's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-657" type="orgaffiliation" subtype="studentalum">
+      <relation_mention id="relm-1910" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-1035" role="studentalumni">university students and professors who supports Morsi</rel_arg1>
+        <rel_arg2 entity_id="ent-990" entity_mention_id="m-1041" role="org">university</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3587" length="8">students</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-658" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1920" realis="true">
+        <rel_arg1 entity_id="ent-993" entity_mention_id="m-1047" role="employeemember">university students and professors who supports Morsi</rel_arg1>
+        <rel_arg2 entity_id="ent-990" entity_mention_id="m-1041" role="org">university</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3600" length="10">professors</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-659" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1930" realis="true">
+        <rel_arg1 entity_id="ent-3047" entity_mention_id="m-1065" role="org">the country's universities</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-1071" role="loc">the country</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3697" length="9">country's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-660" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1940" realis="true">
+        <rel_arg1 entity_id="ent-1101" entity_mention_id="m-1095" role="entity">protesters in front of the Presidential Palace</rel_arg1>
+        <rel_arg2 entity_id="ent-1104" entity_mention_id="m-1107" role="loc">Presidential Palace</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3884" length="5">front</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-661" type="physical" subtype="locatednear">
+      <relation_mention id="relm-4213" realis="true">
+        <rel_arg1 entity_id="ent-372" entity_mention_id="m-474" role="entity">the Delta city</rel_arg1>
+        <rel_arg2 entity_id="ent-4229" entity_mention_id="m-4223" role="loc">Delta</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-662" type="physical" subtype="locatednear">
+      <relation_mention id="relm-4232" realis="true">
+        <rel_arg1 entity_id="ent-804" entity_mention_id="m-843" role="entity">an apartment in the New Cairo district, where he was hiding</rel_arg1>
+        <rel_arg2 entity_id="ent-807" entity_mention_id="m-849" role="loc">New Cairo</rel_arg2>
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2767" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-663" type="physical" subtype="locatednear">
+      <relation_mention id="relm-4242" realis="true">
+        <rel_arg1 entity_id="ent-810" entity_mention_id="m-882" role="entity">Tora prison</rel_arg1>
+        <rel_arg2 entity_id="ent-873" entity_mention_id="m-4204" role="loc">Tora</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-664" type="personalsocial" subtype="role">
+      <relation_mention id="relm-4252" realis="true">
+        <rel_arg1 entity_id="ent-993" entity_mention_id="m-1047" role="per">university students and professors who supports Morsi</rel_arg1>
+        <rel_arg2 filler_id="f-4260" role="role">professors</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1145" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="128" length="7">protest</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-18" role="entity" realis="true">Egyptian students</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-24" role="place" realis="true">Egyptian</em_arg>
+      </event_mention>
+      <event_mention id="em-1230" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="248" length="7">protest</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-81" role="entity" realis="true">Egyptian students</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-87" role="place" realis="true">Egyptian</em_arg>
+      </event_mention>
+      <event_mention id="em-1279" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="326" length="7">protest</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-135" role="entity" realis="true">Egyptian students</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-129" role="place" realis="true">Egyptian</em_arg>
+      </event_mention>
+      <event_mention id="em-1987" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="453" length="7">stormed</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-147" role="entity" realis="true">Students who support the Muslim Brotherhood</em_arg>
+        <em_arg entity_id="ent-60" entity_mention_id="m-171" role="place" realis="true">an administrative building at Al-Azhar University in eastern Cairo's Nasr City district</em_arg>
+        <em_arg filler_id="f-2019" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-2071" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="660" length="8">storming</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-222" role="entity" realis="true">the students</em_arg>
+        <em_arg entity_id="ent-240" entity_mention_id="m-234" role="place" realis="true">the university 's offices</em_arg>
+        <em_arg filler_id="f-2103" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1201">
+      <event_mention id="em-1173" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="169" length="8">arrested</trigger>
+        <em_arg entity_id="ent-51" entity_mention_id="m-69" role="person" realis="true">Muslim Brotherhood leaders</em_arg>
+        <em_arg filler_id="f-2054" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-1258" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="289" length="8">arrested</trigger>
+        <em_arg entity_id="ent-51" entity_mention_id="m-105" role="person" realis="true">Muslim Brotherhood leaders</em_arg>
+        <em_arg filler_id="f-2061" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-1307" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="367" length="8">arrested</trigger>
+        <em_arg entity_id="ent-51" entity_mention_id="m-111" role="person" realis="true">Muslim Brotherhood leaders</em_arg>
+        <em_arg filler_id="f-2068" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-2022" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="596" length="8">arrested</trigger>
+        <em_arg entity_id="ent-51" entity_mention_id="m-204" role="person" realis="true">the MB's senior members</em_arg>
+        <em_arg filler_id="f-2047" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1985">
+      <event_mention id="em-1950" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="453" length="7">stormed</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-147" role="agent" realis="true">Students who support the Muslim Brotherhood</em_arg>
+        <em_arg entity_id="ent-60" entity_mention_id="m-171" role="destination" realis="true">an administrative building at Al-Azhar University in eastern Cairo's Nasr City district</em_arg>
+        <em_arg filler_id="f-1982" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-2106" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="660" length="8">storming</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-222" role="agent" realis="true">the students</em_arg>
+        <em_arg entity_id="ent-240" entity_mention_id="m-234" role="destination" realis="true">the university 's offices</em_arg>
+        <em_arg filler_id="f-2138" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2176">
+      <event_mention id="em-2141" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="758" length="7">entered</trigger>
+        <em_arg entity_id="ent-273" entity_mention_id="m-291" role="agent" realis="true">Police</em_arg>
+        <em_arg entity_id="ent-357" entity_mention_id="m-297" role="destination" realis="true">the university</em_arg>
+        <em_arg filler_id="f-2173" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2178">
+      <event_mention id="em-2182" type="movement" subtype="transportperson" realis="other">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="784" length="8">disperse</trigger>
+        <em_arg entity_id="ent-273" entity_mention_id="m-291" role="agent" realis="true">Police</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-303" role="person" realis="true">the MB supporters</em_arg>
+        <em_arg entity_id="ent-357" entity_mention_id="m-297" role="origin" realis="true">the university</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2180">
+      <event_mention id="em-2217" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="spontaneous">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="818" length="7">request</trigger>
+        <em_arg entity_id="ent-243" entity_mention_id="m-321" role="entity" realis="true">its chairman</em_arg>
+        <em_arg entity_id="ent-273" entity_mention_id="m-291" role="entity" realis="true">Police</em_arg>
+        <em_arg filler_id="f-2249" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2252">
+      <event_mention id="em-2258" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="869" length="8">arrested</trigger>
+        <em_arg filler_id="f-2275" role="time" realis="true">Wednesday</em_arg>
+        <em_arg entity_id="ent-276" entity_mention_id="m-327" role="person" realis="true">Twenty-five people</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2254">
+      <event_mention id="em-2286" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="883" length="7">clashes</trigger>
+        <em_arg entity_id="ent-276" entity_mention_id="m-327" role="attacker" realis="true">Twenty-five people</em_arg>
+        <em_arg entity_id="ent-279" entity_mention_id="m-333" role="attacker" realis="true">security at the university</em_arg>
+        <em_arg entity_id="ent-357" entity_mention_id="m-339" role="place" realis="true">the university</em_arg>
+        <em_arg filler_id="f-2367" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2391">
+      <event_mention id="em-2395" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="960" length="6">quotes</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-345" role="entity" realis="true">state</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2393">
+      <event_mention id="em-2370" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="989" length="6">saying</trigger>
+        <em_arg entity_id="ent-282" entity_mention_id="m-351" role="entity" realis="true">judicial officials</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2458">
+      <event_mention id="em-2416" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1176" length="7">cleared</trigger>
+        <em_arg filler_id="f-2433" role="time" realis="true">Aug. 14</em_arg>
+        <em_arg entity_id="ent-369" entity_mention_id="m-414" role="agent" realis="true">authorities</em_arg>
+        <em_arg entity_id="ent-366" entity_mention_id="m-402" role="person" realis="true">Morsi's supporters</em_arg>
+        <em_arg entity_id="ent-360" entity_mention_id="m-390" role="origin" realis="true">the main spot for Morsi's supporters where they had camped before authorities cleared out their sit-ins on Aug. 14</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2488">
+      <event_mention id="em-2460" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1442" length="6">ousted</trigger>
+        <em_arg entity_id="ent-363" entity_mention_id="m-462" role="person" realis="true">Mohamed Morsi</em_arg>
+        <em_arg filler_id="f-2485" role="position" realis="true">president</em_arg>
+        <em_arg filler_id="f-3180" role="time" realis="true">July 3</em_arg>
+      </event_mention>
+      <event_mention id="em-3148" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2591" length="6">ouster</trigger>
+        <em_arg entity_id="ent-363" entity_mention_id="m-792" role="person" realis="true">Morsi</em_arg>
+        <em_arg filler_id="f-3173" role="time" realis="true">July 3</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2490">
+      <event_mention id="em-2494" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1491" length="8">protests</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-444" role="entity" realis="true">the students supporting the Brotherhood group and demanding the reinstatement of ousted president Mohamed Morsi</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2492">
+      <event_mention id="em-2522" type="personnel" subtype="startposition" realis="other">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1425" length="13">reinstatement</trigger>
+        <em_arg entity_id="ent-363" entity_mention_id="m-462" role="person" realis="true">Mohamed Morsi</em_arg>
+        <em_arg filler_id="f-2547" role="position" realis="true">president</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2578">
+      <event_mention id="em-2550" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1552" length="10">protesting</trigger>
+        <em_arg entity_id="ent-375" entity_mention_id="m-498" role="entity" realis="true"> the Islamists</em_arg>
+        <em_arg entity_id="ent-372" entity_mention_id="m-492" role="place" realis="true">Mansoura</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2580">
+      <event_mention id="em-2584" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1623" length="5">urged</trigger>
+        <em_arg entity_id="ent-480" entity_mention_id="m-504" role="entity" realis="true">The president of the Mansoura's university</em_arg>
+        <em_arg entity_id="ent-486" entity_mention_id="m-516" role="entity" realis="true">the police forces</em_arg>
+        <em_arg filler_id="f-2616" role="time" realis="true">Tuesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2582">
+      <event_mention id="em-2619" type="movement" subtype="transportperson" realis="other">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1661" length="8">disperse</trigger>
+        <em_arg entity_id="ent-486" entity_mention_id="m-516" role="agent" realis="true">the police forces</em_arg>
+        <em_arg entity_id="ent-375" entity_mention_id="m-522" role="person" realis="true">them</em_arg>
+        <em_arg entity_id="ent-489" entity_mention_id="m-528" role="origin" realis="true">the buildings</em_arg>
+        <em_arg filler_id="f-2658" role="time" realis="true">Tuesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2689">
+      <event_mention id="em-2661" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1778" length="6">orders</trigger>
+        <em_arg entity_id="ent-537" entity_mention_id="m-549" role="entity" realis="true">prosecution</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2693">
+      <event_mention id="em-2730" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1907" length="8">protests</trigger>
+        <em_arg entity_id="ent-576" entity_mention_id="m-591" role="entity" realis="true">supporters and opponents of Brotherhood</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-585" role="place" realis="true">Egyptian</em_arg>
+      </event_mention>
+      <event_mention id="em-4306" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1931" length="4">them</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-585" role="place" realis="true">Egyptian</em_arg>
+        <em_arg entity_id="ent-576" entity_mention_id="m-591" role="entity" realis="true">supporters and opponents of Brotherhood</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2793">
+      <event_mention id="em-2758" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1947" length="7">clashes</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-585" role="place" realis="true">Egyptian</em_arg>
+        <em_arg entity_id="ent-576" entity_mention_id="m-591" role="attacker" realis="true">supporters and opponents of Brotherhood</em_arg>
+        <em_arg entity_id="ent-579" entity_mention_id="m-597" role="attacker" realis="true">supporters and opponents of Brotherhood</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2870">
+      <event_mention id="em-2832" type="life" subtype="injure" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2034" length="7">injured</trigger>
+        <em_arg entity_id="ent-582" entity_mention_id="m-609" role="victim" realis="true">27 people</em_arg>
+        <em_arg entity_id="ent-2860" entity_mention_id="m-624" role="place" realis="true">universities around Egypt</em_arg>
+        <em_arg filler_id="f-2867" role="time" realis="false">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2872">
+      <event_mention id="em-2878" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2045" length="7">clashes</trigger>
+        <em_arg entity_id="ent-2860" entity_mention_id="m-624" role="place" realis="true">universities around Egypt</em_arg>
+        <em_arg filler_id="f-2938" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-2899" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2034" length="7">injured</trigger>
+        <em_arg entity_id="ent-582" entity_mention_id="m-609" role="target" realis="true">27 people</em_arg>
+        <em_arg entity_id="ent-2860" entity_mention_id="m-624" role="place" realis="true">universities around Egypt</em_arg>
+        <em_arg filler_id="f-2931" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2874">
+      <event_mention id="em-2941" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2145" length="6">saying</trigger>
+        <em_arg entity_id="ent-621" entity_mention_id="m-660" role="entity" realis="true">Hazem Beblawi</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2876">
+      <event_mention id="em-2962" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2107" length="6">quoted</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-636" role="entity" realis="true">state</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3011">
+      <event_mention id="em-2983" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2182" length="4">said</trigger>
+        <em_arg entity_id="ent-621" entity_mention_id="m-660" role="entity" realis="true">Hazem Beblawi</em_arg>
+        <em_arg filler_id="f-3008" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3013">
+      <event_mention id="em-3019" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2299" length="8">protests</trigger>
+        <em_arg entity_id="ent-48" entity_mention_id="m-684" role="entity" realis="true">their</em_arg>
+        <em_arg entity_id="ent-618" entity_mention_id="m-690" role="place" realis="true">universities</em_arg>
+      </event_mention>
+      <event_mention id="em-3050" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2444" length="8">protests</trigger>
+        <em_arg entity_id="ent-576" entity_mention_id="m-729" role="entity" realis="true">their</em_arg>
+      </event_mention>
+      <event_mention id="em-3732" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3403" length="14">demonstrations</trigger>
+        <em_arg entity_id="ent-48" entity_mention_id="m-1011" role="entity" realis="true">the group that still continues their demonstrations</em_arg>
+      </event_mention>
+      <event_mention id="em-3838" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3653" length="8">protests</trigger>
+        <em_arg entity_id="ent-996" entity_mention_id="m-1059" role="entity" realis="true">their</em_arg>
+      </event_mention>
+      <event_mention id="em-4065" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3985" length="14">demonstrations</trigger>
+        <em_arg entity_id="ent-576" entity_mention_id="m-1113" role="entity" realis="true">Brotherhood supporters</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3015">
+      <event_mention id="em-3071" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2480" length="9">arresting</trigger>
+        <em_arg entity_id="ent-714" entity_mention_id="m-741" role="agent" realis="true">Egyptian authorities</em_arg>
+        <em_arg entity_id="ent-51" entity_mention_id="m-747" role="person" realis="true">MB leaders and members</em_arg>
+        <em_arg entity_id="ent-759" entity_mention_id="m-753" role="person" realis="true">MB leaders and members</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-735" role="place" realis="true">Egyptian</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3017">
+      <event_mention id="em-3113" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2572" length="8">arrested</trigger>
+        <em_arg entity_id="ent-768" entity_mention_id="m-780" role="person" realis="true">More than 2,000 Brotherhood members and leaders</em_arg>
+        <em_arg entity_id="ent-771" entity_mention_id="m-786" role="person" realis="true">More than 2,000 Brotherhood members and leaders</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3218">
+      <event_mention id="em-3183" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2723" length="8">arrested</trigger>
+        <em_arg entity_id="ent-804" entity_mention_id="m-843" role="place" realis="true">an apartment in the New Cairo district, where he was hiding</em_arg>
+        <em_arg entity_id="ent-774" entity_mention_id="m-819" role="person" realis="true">deputy president of the MB's Freedom and Justice Party</em_arg>
+        <em_arg filler_id="f-3215" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-3280" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2978" length="7">custody</trigger>
+        <em_arg filler_id="f-3297" role="crime" realis="false">instigating violence</em_arg>
+        <em_arg filler_id="f-3305" role="crime" realis="false">killing</em_arg>
+        <em_arg filler_id="f-3312" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-3683" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3246" length="6">arrest</trigger>
+        <em_arg entity_id="ent-774" entity_mention_id="m-999" role="person" realis="true">al-Arian</em_arg>
+        <em_arg filler_id="f-3708" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3220">
+      <event_mention id="em-3224" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2834" length="11">transferred</trigger>
+        <em_arg entity_id="ent-774" entity_mention_id="m-861" role="person" realis="true">Al-Erian</em_arg>
+        <em_arg entity_id="ent-810" entity_mention_id="m-867" role="destination" realis="true">the Tora prison complex in southern Cairo</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3222">
+      <event_mention id="em-3252" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2940" length="8">detained</trigger>
+        <em_arg entity_id="ent-879" entity_mention_id="m-912" role="person" realis="true">many of the Brotherhood's leaders</em_arg>
+        <em_arg entity_id="ent-810" entity_mention_id="m-4400" role="place" realis="true">where</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3366">
+      <event_mention id="em-3372" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3062" length="8">violence</trigger>
+        <em_arg entity_id="ent-936" entity_mention_id="m-930" role="attacker" realis="true">local residents</em_arg>
+        <em_arg entity_id="ent-576" entity_mention_id="m-954" role="target" realis="true">supporters of Brotherhood</em_arg>
+        <em_arg entity_id="ent-945" entity_mention_id="m-972" role="place" realis="true">Beyn el-Sarayat</em_arg>
+        <em_arg filler_id="f-3411" role="time" realis="true">July</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3368">
+      <event_mention id="em-3414" type="life" subtype="injure" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3062" length="8">violence</trigger>
+        <em_arg entity_id="ent-774" entity_mention_id="m-924" role="agent" realis="false">he</em_arg>
+        <em_arg entity_id="ent-936" entity_mention_id="m-930" role="victim" realis="true">local residents</em_arg>
+        <em_arg entity_id="ent-948" entity_mention_id="m-984" role="place" realis="true">Al-Istiqama Mosque</em_arg>
+        <em_arg entity_id="ent-576" entity_mention_id="m-954" role="victim" realis="true">supporters of Brotherhood</em_arg>
+        <em_arg filler_id="f-3467" role="time" realis="true">August</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3370">
+      <event_mention id="em-3470" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3062" length="8">violence</trigger>
+        <em_arg entity_id="ent-576" entity_mention_id="m-954" role="attacker" realis="true">supporters of Brotherhood</em_arg>
+        <em_arg entity_id="ent-936" entity_mention_id="m-930" role="target" realis="true">local residents</em_arg>
+        <em_arg entity_id="ent-945" entity_mention_id="m-972" role="place" realis="true">Beyn el-Sarayat</em_arg>
+        <em_arg filler_id="f-3509" role="time" realis="true">July</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3512">
+      <event_mention id="em-3516" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3062" length="8">violence</trigger>
+        <em_arg entity_id="ent-936" entity_mention_id="m-930" role="attacker" realis="true">local residents</em_arg>
+        <em_arg entity_id="ent-576" entity_mention_id="m-954" role="target" realis="true">supporters of Brotherhood</em_arg>
+        <em_arg entity_id="ent-948" entity_mention_id="m-984" role="place" realis="true">Al-Istiqama Mosque</em_arg>
+        <em_arg filler_id="f-3555" role="time" realis="true">August</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3514">
+      <event_mention id="em-3562" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3062" length="8">violence</trigger>
+        <em_arg entity_id="ent-576" entity_mention_id="m-954" role="attacker" realis="true">supporters of Brotherhood</em_arg>
+        <em_arg entity_id="ent-936" entity_mention_id="m-930" role="target" realis="true">local residents</em_arg>
+        <em_arg entity_id="ent-948" entity_mention_id="m-984" role="place" realis="true">Al-Istiqama Mosque</em_arg>
+        <em_arg filler_id="f-3601" role="time" realis="true">August</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3558">
+      <event_mention id="em-3604" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3075" length="7">killing</trigger>
+        <em_arg entity_id="ent-774" entity_mention_id="m-924" role="agent" realis="true">he</em_arg>
+        <em_arg entity_id="ent-945" entity_mention_id="m-972" role="place" realis="true">Beyn el-Sarayat</em_arg>
+        <em_arg filler_id="f-3636" role="time" realis="false">July</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3560">
+      <event_mention id="em-3753" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3469" length="8">messages</trigger>
+        <em_arg entity_id="ent-774" entity_mention_id="m-1023" role="entity" realis="true">al-Erian</em_arg>
+      </event_mention>
+      <event_mention id="em-3797" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3558" length="8">messages</trigger>
+        <em_arg entity_id="ent-774" entity_mention_id="m-3818" role="entity" realis="true">he</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-1035" role="audience" realis="true">university students and professors who supports Morsi</em_arg>
+        <em_arg entity_id="ent-993" entity_mention_id="m-1047" role="audience" realis="true">university students and professors who supports Morsi</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3681">
+      <event_mention id="em-3639" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3075" length="7">killing</trigger>
+        <em_arg entity_id="ent-774" entity_mention_id="m-924" role="agent" realis="false">he</em_arg>
+        <em_arg entity_id="ent-948" entity_mention_id="m-984" role="place" realis="true">Al-Istiqama Mosque</em_arg>
+        <em_arg filler_id="f-3678" role="time" realis="true">August</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3795">
+      <event_mention id="em-3774" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3504" length="5">aired</trigger>
+        <em_arg entity_id="ent-951" entity_mention_id="m-1029" role="entity" realis="true">Al-Jazeera</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3887">
+      <event_mention id="em-3859" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3766" length="14">demonstrations</trigger>
+        <em_arg entity_id="ent-576" entity_mention_id="m-1077" role="entity" realis="true">Brotherhood supporters</em_arg>
+        <em_arg filler_id="f-3884" role="time" realis="true">Nov. 4</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3889">
+      <event_mention id="em-3897" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3845" length="7">killing</trigger>
+        <em_arg entity_id="ent-363" entity_mention_id="m-1089" role="agent" realis="true">Morsi</em_arg>
+        <em_arg entity_id="ent-1101" entity_mention_id="m-1095" role="victim" realis="true">protesters in front of the Presidential Palace</em_arg>
+        <em_arg entity_id="ent-1104" entity_mention_id="m-1107" role="place" realis="true">Presidential Palace</em_arg>
+        <em_arg filler_id="f-3943" role="time" realis="true">last December</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3891">
+      <event_mention id="em-3946" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3845" length="7">killing</trigger>
+        <em_arg entity_id="ent-1101" entity_mention_id="m-1095" role="target" realis="true">protesters in front of the Presidential Palace</em_arg>
+        <em_arg entity_id="ent-1104" entity_mention_id="m-1107" role="place" realis="true">Presidential Palace</em_arg>
+        <em_arg filler_id="f-3978" role="time" realis="true">last December</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3893">
+      <event_mention id="em-3981" type="life" subtype="injure" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3857" length="9">torturing</trigger>
+        <em_arg entity_id="ent-363" entity_mention_id="m-1089" role="agent" realis="true">Morsi</em_arg>
+        <em_arg entity_id="ent-1101" entity_mention_id="m-1095" role="victim" realis="true">protesters in front of the Presidential Palace</em_arg>
+        <em_arg entity_id="ent-1104" entity_mention_id="m-1107" role="place" realis="true">Presidential Palace</em_arg>
+        <em_arg filler_id="f-4020" role="time" realis="true">last December</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3895">
+      <event_mention id="em-4023" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="3857" length="9">torturing</trigger>
+        <em_arg entity_id="ent-1101" entity_mention_id="m-1095" role="target" realis="true">protesters in front of the Presidential Palace</em_arg>
+        <em_arg entity_id="ent-1104" entity_mention_id="m-1107" role="place" realis="true">Presidential Palace</em_arg>
+        <em_arg filler_id="f-4055" role="time" realis="true">last December</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4304">
+      <event_mention id="em-4262" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="699" length="7">holding</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-222" role="attacker" realis="true">the students</em_arg>
+        <em_arg entity_id="ent-246" entity_mention_id="m-267" role="place" realis="true">his office</em_arg>
+        <em_arg entity_id="ent-243" entity_mention_id="m-255" role="target" realis="true">its chairman</em_arg>
+        <em_arg filler_id="f-4301" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4362">
+      <event_mention id="em-4334" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="1923" length="4">some</trigger>
+        <em_arg entity_id="ent-576" entity_mention_id="m-591" role="entity" realis="true">supporters and opponents of Brotherhood</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-585" role="place" realis="true">Egyptian</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4392">
+      <event_mention id="em-4364" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131031_F00011W2Q" offset="2365" length="12">negotiations</trigger>
+        <em_arg entity_id="ent-48" entity_mention_id="m-696" role="entity" realis="true">their</em_arg>
+        <em_arg entity_id="ent-675" entity_mention_id="m-702" role="entity" realis="true">the interim government</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

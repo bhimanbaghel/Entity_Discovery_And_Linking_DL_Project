@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000011" doc_id="ENG_NW_001278_20131202_F00012UM5" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="101" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-51" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="215" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="282" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-105" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="376" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-198" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="746" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-222" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="793" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-273" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1043" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-288" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1070" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-300" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1107" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-333" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1410" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-348" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="1467" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="1471" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-390" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1579" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-423" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1733" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-489" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1951" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-564" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="2237" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-606" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="2450" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-24" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="138" length="28">
+        <mention_text>Philippine typhoon-hit areas</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="161" length="5">areas</nom_head>
+      </entity_mention>
+      <entity_mention id="m-57" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="252" length="28">
+        <mention_text>Philippine typhoon-hit areas</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="275" length="5">areas</nom_head>
+      </entity_mention>
+      <entity_mention id="m-75" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="319" length="28">
+        <mention_text>Philippine typhoon-hit areas</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="342" length="5">areas</nom_head>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="474" length="47">
+        <mention_text>typhoon-devastated areas in central Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="493" length="5">areas</nom_head>
+      </entity_mention>
+      <entity_mention id="m-243" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="885" length="81">
+        <mention_text>central Philippine regions ravaged by typhoon Haiyan, or locally known as Yolanda</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="904" length="7">regions</nom_head>
+      </entity_mention>
+      <entity_mention id="m-429" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="1804" length="17">
+        <mention_text>typhoon-hit areas</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="1816" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="138" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="252" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="319" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-135" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="510" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-141" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="525" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="529" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-156" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="624" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-210" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="779" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-228" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="819" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-249" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="893" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-306" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1133" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-318" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1259" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-450" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1862" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-507" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="2024" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-558" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="2220" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-657" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="2667" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-663" noun_type="PRO" source="ENG_NW_001278_20131202_F00012UM5" offset="2691" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="187" length="11">
+        <mention_text>Zhao Jiemin</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-93" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-87" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="349" length="6">
+        <mention_text>MANILA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-183" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="698" length="6">
+        <mention_text>Manila</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-102" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-96" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="365" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-117" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-111" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="465" length="56">
+        <mention_text>roads in typhoon-devastated areas in central Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="465" length="5">roads</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-132" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-126" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="502" length="19">
+        <mention_text>central Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="510" length="11">Philippines</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1702" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="885" length="18">
+        <mention_text>central Philippine</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="893" length="10">Philippine</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-153" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-147" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="624" length="28">
+        <mention_text>Philippine Red Cross Society</mention_text>
+      </entity_mention>
+      <entity_mention id="m-162" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="654" length="4">
+        <mention_text>PRCS</mention_text>
+      </entity_mention>
+      <entity_mention id="m-177" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="677" length="4">
+        <mention_text>PRCS</mention_text>
+      </entity_mention>
+      <entity_mention id="m-462" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1903" length="4">
+        <mention_text>PRCS</mention_text>
+      </entity_mention>
+      <entity_mention id="m-477" noun_type="PRO" source="ENG_NW_001278_20131202_F00012UM5" offset="1938" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+      <entity_mention id="m-501" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="2024" length="20">
+        <mention_text>Philippine Red Cross</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-174" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-168" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="677" length="27">
+        <mention_text>PRCS headquarters in Manila</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="682" length="12">headquarters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-195" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-189" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="731" length="34">
+        <mention_text>Association of Chinese Enterprises</mention_text>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="767" length="3">
+        <mention_text>ACE</mention_text>
+      </entity_mention>
+      <entity_mention id="m-534" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="2192" length="3">
+        <mention_text>ACE</mention_text>
+      </entity_mention>
+      <entity_mention id="m-594" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="2446" length="35">
+        <mention_text>the Chinese enterprises association</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="2470" length="11">association</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-240" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-234" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="831" length="9">
+        <mention_text>Ma Keqing</mention_text>
+      </entity_mention>
+      <entity_mention id="m-294" noun_type="PRO" source="ENG_NW_001278_20131202_F00012UM5" offset="1098" length="3">
+        <mention_text>She</mention_text>
+      </entity_mention>
+      <entity_mention id="m-456" noun_type="PRO" source="ENG_NW_001278_20131202_F00012UM5" offset="1881" length="3">
+        <mention_text>she</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-261" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-255" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1006" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-312" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1206" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-270" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-264" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="1039" length="22">
+        <mention_text>the Chinese government</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="1051" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-285" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-279" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1070" length="25">
+        <mention_text>Chinese Red Cross Society</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-330" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-324" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1353" length="4">
+        <mention_text>Cebu</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-345" type="PER" specificity="specificGroup">
+      <entity_mention id="m-339" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="1436" length="76">
+        <mention_text>three medical teams, including the country's largest hospital ship Peace Ark</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="1450" length="5">teams</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-360" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-354" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="1517" length="60">
+        <mention_text>hardest-hit areas in Eastern Visayas including Tacloban city</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="1529" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-369" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-363" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1538" length="15">
+        <mention_text>Eastern Visayas</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-378" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-372" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1564" length="8">
+        <mention_text>Tacloban</mention_text>
+      </entity_mention>
+      <entity_mention id="m-528" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="2129" length="8">
+        <mention_text>Tacloban</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-387" type="PER" specificity="nonspecific">
+      <entity_mention id="m-381" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="1579" length="15">
+        <mention_text>Chinese doctors</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="1587" length="7">doctors</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-402" type="PER" specificity="specificGroup">
+      <entity_mention id="m-396" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="1609" length="25">
+        <mention_text>more than 3, 500 patients</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="1626" length="8">patients</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-411" type="PER" specificity="specificGroup">
+      <entity_mention id="m-405" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="1673" length="10">
+        <mention_text>Two babies</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="1677" length="6">babies</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-420" type="PER" specificity="nonspecific">
+      <entity_mention id="m-414" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="1729" length="18">
+        <mention_text>The Chinese people</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="1741" length="6">people</nom_head>
+      </entity_mention>
+      <entity_mention id="m-435" noun_type="PRO" source="ENG_NW_001278_20131202_F00012UM5" offset="1831" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-483" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="1947" length="18">
+        <mention_text>the Chinese people</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="1959" length="6">people</nom_head>
+      </entity_mention>
+      <entity_mention id="m-495" noun_type="PRO" source="ENG_NW_001278_20131202_F00012UM5" offset="1970" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-447" type="PER" specificity="nonspecific">
+      <entity_mention id="m-441" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="1858" length="21">
+        <mention_text>the Philippine people</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="1873" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-474" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-468" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="1917" length="14">
+        <mention_text>Richard Gordon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-513" noun_type="PRO" source="ENG_NW_001278_20131202_F00012UM5" offset="2048" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-525" type="FAC" specificity="specificIndeterminate">
+      <entity_mention id="m-519" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="2102" length="4">
+        <mention_text>road</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="2102" length="4">road</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-546" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-540" noun_type="NAM" source="ENG_NW_001278_20131202_F00012UM5" offset="2205" length="9">
+        <mention_text>Wang Yong</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-555" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-549" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="2220" length="36">
+        <mention_text>Philippine-based Chinese enterprises</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="2245" length="11">enterprises</nom_head>
+      </entity_mention>
+      <entity_mention id="m-570" noun_type="PRO" source="ENG_NW_001278_20131202_F00012UM5" offset="2270" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-600" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="2450" length="19">
+        <mention_text>Chinese enterprises</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="2458" length="11">enterprises</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-582" type="PER" specificity="specificGroup">
+      <entity_mention id="m-576" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="2295" length="15">
+        <mention_text>typhoon victims</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="2303" length="7">victims</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-591" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-585" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="2423" length="58">
+        <mention_text>the 40-plus members of the Chinese enterprises association</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="2435" length="7">members</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-618" type="PER" specificity="specificGroup">
+      <entity_mention id="m-612" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="2511" length="11">
+        <mention_text>5,670 lives</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="2517" length="5">lives</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-627" type="PER" specificity="specificGroup">
+      <entity_mention id="m-621" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="2535" length="13">
+        <mention_text>26,233 others</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="2542" length="6">others</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-636" type="PER" specificity="specificGroup">
+      <entity_mention id="m-630" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="2555" length="5">
+        <mention_text>1,761</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="2555" length="5">1,761</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-645" type="PER" specificity="specificGroup">
+      <entity_mention id="m-639" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="2576" length="23">
+        <mention_text>The affected population</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="2589" length="10">population</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1696" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="2608" length="10">
+        <mention_text>11 million</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="2611" length="7">million</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-654" type="PER" specificity="specificGroup">
+      <entity_mention id="m-648" noun_type="NOM" source="ENG_NW_001278_20131202_F00012UM5" offset="2632" length="9">
+        <mention_text>4 million</mention_text>
+        <nom_head source="ENG_NW_001278_20131202_F00012UM5" offset="2634" length="7">million</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-787" source="ENG_NW_001278_20131202_F00012UM5" offset="801" length="29" type="title">Ambassador to the Philippines</filler>
+    <filler id="f-907" source="ENG_NW_001278_20131202_F00012UM5" offset="1908" length="8" type="title">Chairman</filler>
+    <filler id="f-957" source="ENG_NW_001278_20131202_F00012UM5" offset="2196" length="8" type="title">Chairman</filler>
+    <filler id="f-1034" source="ENG_NW_001278_20131202_F00012UM5" offset="385" length="6" type="time" nom_time="2013-12-02">Monday</filler>
+    <filler id="f-1041" source="ENG_NW_001278_20131202_F00012UM5" offset="401" length="173" type="vehicle">a batch of payloaders which are badly needed in the clean-up of roads in typhoon-devastated areas in central Philippines as the country embarks on the road of reconstruction</filler>
+    <filler id="f-1084" source="ENG_NW_001278_20131202_F00012UM5" offset="577" length="22" type="vehicle">Three payloader trucks</filler>
+    <filler id="f-1121" source="ENG_NW_001278_20131202_F00012UM5" offset="577" length="22" type="vehicle">Three payloader trucks</filler>
+    <filler id="f-1172" source="ENG_NW_001278_20131202_F00012UM5" offset="998" length="20" type="money">100,000 U.S. dollars</filler>
+    <filler id="f-1202" source="ENG_NW_001278_20131202_F00012UM5" offset="998" length="20" type="money">100,000 U.S. dollars</filler>
+    <filler id="f-1232" source="ENG_NW_001278_20131202_F00012UM5" offset="1171" length="70" type="commodity">The 73 million Pesos (1.67 million U.S. dollars) worth of relief goods</filler>
+    <filler id="f-1247" source="ENG_NW_001278_20131202_F00012UM5" offset="1278" length="7" type="time" nom_time="2013-11-19">Nov. 19</filler>
+    <filler id="f-1269" source="ENG_NW_001278_20131202_F00012UM5" offset="1294" length="47" type="commodity">a cargo of 37.8 million pesos worth of supplies</filler>
+    <filler id="f-1284" source="ENG_NW_001278_20131202_F00012UM5" offset="1361" length="7" type="time" nom_time="2013-11-21">Nov. 21</filler>
+    <filler id="f-1344" source="ENG_NW_001278_20131202_F00012UM5" offset="1399" length="9" type="commodity">materials</filler>
+    <filler id="f-1599" source="ENG_NW_001278_20131202_F00012UM5" offset="2357" length="48" type="vehicle">The payloaders, valued at nearly 8 million pesos</filler>
+    <filler id="f-1807" source="ENG_NW_001278_20131202_F00012UM5" offset="1278" length="7" type="time" nom_time="2013-11-19">Nov. 19</filler>
+    <filler id="f-1814" source="ENG_NW_001278_20131202_F00012UM5" offset="1171" length="70" type="commodity">The 73 million Pesos (1.67 million U.S. dollars) worth of relief goods</filler>
+    <filler id="f-1844" source="ENG_NW_001278_20131202_F00012UM5" offset="1361" length="7" type="time" nom_time="2013-11-21">Nov. 21</filler>
+    <filler id="f-1851" source="ENG_NW_001278_20131202_F00012UM5" offset="1294" length="47" type="commodity">a cargo of 37.8 million pesos worth of supplies</filler>
+    <filler id="f-1881" source="ENG_NW_001278_20131202_F00012UM5" offset="1399" length="9" type="commodity">materials</filler>
+  </fillers>
+  <relations>
+    <relation id="r-300" type="physical" subtype="locatednear">
+      <relation_mention id="relm-669" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-24" role="entity">Philippine typhoon-hit areas</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-33" role="loc">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="138" length="10">Philippine</trigger>
+      </relation_mention>
+      <relation_mention id="relm-679" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-57" role="entity">Philippine typhoon-hit areas</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-63" role="loc">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="252" length="10">Philippine</trigger>
+      </relation_mention>
+      <relation_mention id="relm-689" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-75" role="entity">Philippine typhoon-hit areas</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-81" role="loc">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="319" length="10">Philippine</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-301" type="physical" subtype="locatednear">
+      <relation_mention id="relm-699" realis="true">
+        <rel_arg1 entity_id="ent-117" entity_mention_id="m-111" role="entity">roads in typhoon-devastated areas in central Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-120" role="loc">typhoon-devastated areas in central Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="471" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-302" type="physical" subtype="locatednear">
+      <relation_mention id="relm-709" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-120" role="entity">typhoon-devastated areas in central Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-132" entity_mention_id="m-126" role="loc">central Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="499" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-809" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-243" role="entity">central Philippine regions ravaged by typhoon Haiyan, or locally known as Yolanda</rel_arg1>
+        <rel_arg2 entity_id="ent-132" entity_mention_id="m-1702" role="loc">central Philippine</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-303" type="physical" subtype="locatednear">
+      <relation_mention id="relm-719" realis="true">
+        <rel_arg1 entity_id="ent-132" entity_mention_id="m-126" role="entity">central Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-135" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="502" length="7">central</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1708" realis="true">
+        <rel_arg1 entity_id="ent-132" entity_mention_id="m-1702" role="entity">central Philippine</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-249" role="loc">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="885" length="7">central</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-304" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-729" realis="true">
+        <rel_arg1 entity_id="ent-153" entity_mention_id="m-147" role="org">Philippine Red Cross Society</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-156" role="loc">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="624" length="10">Philippine</trigger>
+      </relation_mention>
+      <relation_mention id="relm-929" realis="true">
+        <rel_arg1 entity_id="ent-153" entity_mention_id="m-501" role="org">Philippine Red Cross</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-507" role="loc">Philippine</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-305" type="physical" subtype="orgheadquarter">
+      <relation_mention id="relm-739" realis="true">
+        <rel_arg1 entity_id="ent-153" entity_mention_id="m-177" role="org">PRCS</rel_arg1>
+        <rel_arg2 entity_id="ent-174" entity_mention_id="m-168" role="loc">PRCS headquarters in Manila</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="682" length="12">headquarters</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-306" type="physical" subtype="locatednear">
+      <relation_mention id="relm-749" realis="true">
+        <rel_arg1 entity_id="ent-174" entity_mention_id="m-168" role="entity">PRCS headquarters in Manila</rel_arg1>
+        <rel_arg2 entity_id="ent-93" entity_mention_id="m-183" role="loc">Manila</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="695" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-307" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-769" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-189" role="org">Association of Chinese Enterprises</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-210" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="772" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-308" type="personalsocial" subtype="role">
+      <relation_mention id="relm-779" realis="true">
+        <rel_arg1 entity_id="ent-240" entity_mention_id="m-234" role="per">Ma Keqing</rel_arg1>
+        <rel_arg2 filler_id="f-787" role="role">Ambassador to the Philippines</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-309" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-789" realis="true">
+        <rel_arg1 entity_id="ent-240" entity_mention_id="m-234" role="employeemember">Ma Keqing</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-222" role="org">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="801" length="10">Ambassador</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-310" type="physical" subtype="resident">
+      <relation_mention id="relm-799" realis="true">
+        <rel_arg1 entity_id="ent-240" entity_mention_id="m-234" role="per">Ma Keqing</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-228" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="801" length="10">Ambassador</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-311" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-819" realis="true">
+        <rel_arg1 entity_id="ent-270" entity_mention_id="m-264" role="suborg">the Chinese government</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-273" role="parent">Chinese</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-312" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-829" realis="true">
+        <rel_arg1 entity_id="ent-285" entity_mention_id="m-279" role="org">Chinese Red Cross Society</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-288" role="loc">Chinese</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-313" type="physical" subtype="locatednear">
+      <relation_mention id="relm-839" realis="true">
+        <rel_arg1 entity_id="ent-345" entity_mention_id="m-339" role="entity">three medical teams, including the country's largest hospital ship Peace Ark</rel_arg1>
+        <rel_arg2 entity_id="ent-360" entity_mention_id="m-354" role="loc">hardest-hit areas in Eastern Visayas including Tacloban city</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1514" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-314" type="physical" subtype="locatednear">
+      <relation_mention id="relm-849" realis="true">
+        <rel_arg1 entity_id="ent-360" entity_mention_id="m-354" role="entity">hardest-hit areas in Eastern Visayas including Tacloban city</rel_arg1>
+        <rel_arg2 entity_id="ent-369" entity_mention_id="m-363" role="loc">Eastern Visayas</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1535" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-315" type="physical" subtype="locatednear">
+      <relation_mention id="relm-859" realis="true">
+        <rel_arg1 entity_id="ent-378" entity_mention_id="m-372" role="entity">Tacloban</rel_arg1>
+        <rel_arg2 entity_id="ent-369" entity_mention_id="m-363" role="loc">Eastern Visayas</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1554" length="9">including</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-316" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-869" realis="true">
+        <rel_arg1 entity_id="ent-387" entity_mention_id="m-381" role="per">Chinese doctors</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-390" role="entity">Chinese</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-317" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-879" realis="true">
+        <rel_arg1 entity_id="ent-420" entity_mention_id="m-414" role="per">The Chinese people</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-423" role="entity">Chinese</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-919" realis="true">
+        <rel_arg1 entity_id="ent-420" entity_mention_id="m-483" role="per">the Chinese people</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-489" role="entity">Chinese</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-318" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-889" realis="true">
+        <rel_arg1 entity_id="ent-447" entity_mention_id="m-441" role="per">the Philippine people</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-450" role="entity">Philippine</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-319" type="personalsocial" subtype="role">
+      <relation_mention id="relm-899" realis="true">
+        <rel_arg1 entity_id="ent-474" entity_mention_id="m-468" role="per">Richard Gordon</rel_arg1>
+        <rel_arg2 filler_id="f-907" role="role">Chairman</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-320" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-909" realis="true">
+        <rel_arg1 entity_id="ent-474" entity_mention_id="m-468" role="leader">Richard Gordon</rel_arg1>
+        <rel_arg2 entity_id="ent-153" entity_mention_id="m-462" role="entity">PRCS</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1908" length="8">Chairman</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-321" type="physical" subtype="locatednear">
+      <relation_mention id="relm-939" realis="true">
+        <rel_arg1 entity_id="ent-525" entity_mention_id="m-519" role="entity">road</rel_arg1>
+        <rel_arg2 entity_id="ent-378" entity_mention_id="m-528" role="loc">Tacloban</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="2116" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-322" type="personalsocial" subtype="role">
+      <relation_mention id="relm-949" realis="true">
+        <rel_arg1 entity_id="ent-546" entity_mention_id="m-540" role="per">Wang Yong</rel_arg1>
+        <rel_arg2 filler_id="f-957" role="role">Chairman</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-323" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-959" realis="true">
+        <rel_arg1 entity_id="ent-546" entity_mention_id="m-540" role="leader">Wang Yong</rel_arg1>
+        <rel_arg2 entity_id="ent-195" entity_mention_id="m-534" role="entity">ACE</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="2196" length="8">Chairman</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-324" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-969" realis="true">
+        <rel_arg1 entity_id="ent-555" entity_mention_id="m-549" role="org">Philippine-based Chinese enterprises</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-558" role="loc">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="2231" length="5">based</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-325" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-979" realis="true">
+        <rel_arg1 entity_id="ent-555" entity_mention_id="m-549" role="org">Philippine-based Chinese enterprises</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-564" role="loc">Chinese</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-999" realis="true">
+        <rel_arg1 entity_id="ent-555" entity_mention_id="m-600" role="org">Chinese enterprises</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-606" role="loc">Chinese</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-326" type="partwhole" subtype="membership">
+      <relation_mention id="relm-989" realis="true">
+        <rel_arg1 entity_id="ent-591" entity_mention_id="m-585" role="member">the 40-plus members of the Chinese enterprises association</rel_arg1>
+        <rel_arg2 entity_id="ent-195" entity_mention_id="m-594" role="org">the Chinese enterprises association</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="2435" length="7">members</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-327" type="personalsocial" subtype="business">
+      <relation_mention id="relm-1718" realis="true">
+        <rel_arg1 entity_id="ent-402" entity_mention_id="m-396" role="per">more than 3, 500 patients</rel_arg1>
+        <rel_arg2 entity_id="ent-387" entity_mention_id="m-381" role="per">Chinese doctors</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1626" length="8">patients</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-328" type="partwhole" subtype="membership">
+      <relation_mention id="relm-1728" realis="true">
+        <rel_arg1 entity_id="ent-555" entity_mention_id="m-600" role="member">Chinese enterprises</rel_arg1>
+        <rel_arg2 entity_id="ent-195" entity_mention_id="m-594" role="org">the Chinese enterprises association</rel_arg2>
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="2470" length="11">association</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1610" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="2503" length="7">claimed</trigger>
+        <em_arg entity_id="ent-618" entity_mention_id="m-612" role="victim" realis="true">5,670 lives</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1065">
+      <event_mention id="em-1044" type="manufacture" subtype="artifact" realis="other">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="560" length="14">reconstruction</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-141" role="agent" realis="true">the country</em_arg>
+      </event_mention>
+      <event_mention id="em-1483" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1778" length="14">reconstruction</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-429" role="place" realis="true">typhoon-hit areas</em_arg>
+      </event_mention>
+      <event_mention id="em-1675" type="manufacture" subtype="artifact" realis="other">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="2719" length="14">reconstruction</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-657" role="agent" realis="true">Philippines</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1102">
+      <event_mention id="em-1009" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="392" length="8">provided</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-105" role="giver" realis="true">China</em_arg>
+        <em_arg filler_id="f-1034" role="time" realis="true">Monday</em_arg>
+        <em_arg filler_id="f-1041" role="thing" realis="true">a batch of payloaders which are badly needed in the clean-up of roads in typhoon-devastated areas in central Philippines as the country embarks on the road of reconstruction</em_arg>
+      </event_mention>
+      <event_mention id="em-1067" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="605" length="11">handed over</trigger>
+        <em_arg filler_id="f-1084" role="thing" realis="true">Three payloader trucks</em_arg>
+        <em_arg entity_id="ent-153" entity_mention_id="m-147" role="recipient" realis="true">Philippine Red Cross Society</em_arg>
+        <em_arg entity_id="ent-174" entity_mention_id="m-168" role="place" realis="true">PRCS headquarters in Manila</em_arg>
+      </event_mention>
+      <event_mention id="em-1104" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="716" length="7">donated</trigger>
+        <em_arg filler_id="f-1121" role="thing" realis="true">Three payloader trucks</em_arg>
+        <em_arg entity_id="ent-195" entity_mention_id="m-189" role="giver" realis="true">Association of Chinese Enterprises</em_arg>
+      </event_mention>
+      <event_mention id="em-1582" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="2412" length="7">donated</trigger>
+        <em_arg filler_id="f-1599" role="thing" realis="true">The payloaders, valued at nearly 8 million pesos</em_arg>
+        <em_arg entity_id="ent-591" entity_mention_id="m-585" role="giver" realis="true">the 40-plus members of the Chinese enterprises association</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1153">
+      <event_mention id="em-1132" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="841" length="4">said</trigger>
+        <em_arg entity_id="ent-240" entity_mention_id="m-234" role="entity" realis="true">Ma Keqing</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1183">
+      <event_mention id="em-1155" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="986" length="8">donation</trigger>
+        <em_arg filler_id="f-1172" role="money" realis="true">100,000 U.S. dollars</em_arg>
+        <em_arg entity_id="ent-270" entity_mention_id="m-264" role="giver" realis="true">the Chinese government</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-243" role="place" realis="true">central Philippine regions ravaged by typhoon Haiyan, or locally known as Yolanda</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1213">
+      <event_mention id="em-1185" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="986" length="8">donation</trigger>
+        <em_arg filler_id="f-1202" role="money" realis="true">100,000 U.S. dollars</em_arg>
+        <em_arg entity_id="ent-285" entity_mention_id="m-279" role="giver" realis="true">Chinese Red Cross Society</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-243" role="place" realis="true">central Philippine regions ravaged by typhoon Haiyan, or locally known as Yolanda</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1250">
+      <event_mention id="em-1215" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1242" length="9">delivered</trigger>
+        <em_arg filler_id="f-1232" role="artifact" realis="true">The 73 million Pesos (1.67 million U.S. dollars) worth of relief goods</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-318" role="destination" realis="true">Philippine</em_arg>
+        <em_arg filler_id="f-1247" role="time" realis="true">Nov. 19</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1287">
+      <event_mention id="em-1252" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1342" length="7">arrived</trigger>
+        <em_arg filler_id="f-1269" role="artifact" realis="true">a cargo of 37.8 million pesos worth of supplies</em_arg>
+        <em_arg entity_id="ent-330" entity_mention_id="m-324" role="destination" realis="true">Cebu</em_arg>
+        <em_arg filler_id="f-1284" role="time" realis="true">Nov. 21</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1317">
+      <event_mention id="em-1289" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1425" length="10">dispatched</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-333" role="giver" realis="true">China</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1347">
+      <event_mention id="em-1319" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1425" length="10">dispatched</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-333" role="giver" realis="true">China</em_arg>
+        <em_arg filler_id="f-1344" role="thing" realis="true">materials</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1384">
+      <event_mention id="em-1349" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1425" length="10">dispatched</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-333" role="agent" realis="true">China</em_arg>
+        <em_arg entity_id="ent-345" entity_mention_id="m-339" role="person" realis="true">three medical teams, including the country's largest hospital ship Peace Ark</em_arg>
+        <em_arg entity_id="ent-360" entity_mention_id="m-354" role="destination" realis="true">hardest-hit areas in Eastern Visayas including Tacloban city</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1451">
+      <event_mention id="em-1423" type="transaction" subtype="transaction" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1115" length="10">assistance</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-300" role="giver" realis="true">China</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-306" role="recipient" realis="true">Philippines</em_arg>
+      </event_mention>
+      <event_mention id="em-1529" type="transaction" subtype="transaction" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1990" length="6">giving</trigger>
+        <em_arg entity_id="ent-420" entity_mention_id="m-495" role="giver" realis="true">their</em_arg>
+        <em_arg entity_id="ent-153" entity_mention_id="m-501" role="recipient" realis="true">Philippine Red Cross</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1481">
+      <event_mention id="em-1453" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1600" length="8">received</trigger>
+        <em_arg entity_id="ent-387" entity_mention_id="m-381" role="entity" realis="true">Chinese doctors</em_arg>
+        <em_arg entity_id="ent-402" entity_mention_id="m-396" role="entity" realis="true">more than 3, 500 patients</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1527">
+      <event_mention id="em-1506" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1932" length="4">said</trigger>
+        <em_arg entity_id="ent-474" entity_mention_id="m-468" role="entity" realis="true">Richard Gordon</em_arg>
+        <em_arg entity_id="ent-420" entity_mention_id="m-483" role="audience" realis="true">the Chinese people</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1557">
+      <event_mention id="em-1631" type="life" subtype="injure" realis="actual">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="2527" length="7">injured</trigger>
+        <em_arg entity_id="ent-627" entity_mention_id="m-621" role="victim" realis="true">26,233 others</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1580">
+      <event_mention id="em-1559" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="2215" length="4">said</trigger>
+        <em_arg entity_id="ent-546" entity_mention_id="m-540" role="entity" realis="true">Wang Yong</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1673">
+      <event_mention id="em-1652" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="2652" length="9">displaced</trigger>
+        <em_arg entity_id="ent-654" entity_mention_id="m-648" role="agent" realis="true">4 million</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1766">
+      <event_mention id="em-1738" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="665" length="8">ceremony</trigger>
+        <em_arg entity_id="ent-174" entity_mention_id="m-168" role="place" realis="true">PRCS headquarters in Manila</em_arg>
+        <em_arg entity_id="ent-153" entity_mention_id="m-147" role="entity" realis="true">Philippine Red Cross Society</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1817">
+      <event_mention id="em-1782" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1242" length="9">delivered</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-318" role="recipient" realis="true">Philippine</em_arg>
+        <em_arg filler_id="f-1807" role="time" realis="true">Nov. 19</em_arg>
+        <em_arg filler_id="f-1814" role="thing" realis="true">The 73 million Pesos (1.67 million U.S. dollars) worth of relief goods</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1854">
+      <event_mention id="em-1819" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1342" length="7">arrived</trigger>
+        <em_arg entity_id="ent-330" entity_mention_id="m-324" role="place" realis="true">Cebu</em_arg>
+        <em_arg filler_id="f-1844" role="time" realis="true">Nov. 21</em_arg>
+        <em_arg filler_id="f-1851" role="thing" realis="true">a cargo of 37.8 million pesos worth of supplies</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1891">
+      <event_mention id="em-1856" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131202_F00012UM5" offset="1425" length="10">dispatched</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-333" role="agent" realis="true">China</em_arg>
+        <em_arg filler_id="f-1881" role="artifact" realis="true">materials</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

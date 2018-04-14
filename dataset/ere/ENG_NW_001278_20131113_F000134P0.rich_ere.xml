@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000004" doc_id="ENG_NW_001278_20131113_F000134P0" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="110" length="9">
+        <mention_text>Indonesia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-51" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="225" length="9">
+        <mention_text>Indonesia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="299" length="9">
+        <mention_text>Indonesia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-114" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="409" length="9">
+        <mention_text>Indonesia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-213" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="723" length="10">
+        <mention_text>Indonesian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-225" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="795" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="799" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-240" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="878" length="9">
+        <mention_text>Indonesia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-288" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1159" length="9">
+        <mention_text>Indonesia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-294" noun_type="PRO" source="ENG_NW_001278_20131113_F000134P0" offset="1181" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-375" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1594" length="9">
+        <mention_text>Indonesia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-396" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1781" length="9">
+        <mention_text>Indonesia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-426" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2039" length="9">
+        <mention_text>Indonesia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-480" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2306" length="9">
+        <mention_text>Indonesia</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="121" length="5">
+        <mention_text>ASEAN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-57" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="236" length="5">
+        <mention_text>ASEAN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-75" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="310" length="5">
+        <mention_text>ASEAN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="423" length="38">
+        <mention_text>Association of Southeast Asian Nations</mention_text>
+      </entity_mention>
+      <entity_mention id="m-126" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="463" length="5">
+        <mention_text>ASEAN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-150" noun_type="PRO" source="ENG_NW_001278_20131113_F000134P0" offset="471" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+      <entity_mention id="m-492" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2343" length="5">
+        <mention_text>ASEAN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-498" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2370" length="5">
+        <mention_text>ASEAN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-525" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2445" length="5">
+        <mention_text>ASEAN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-609" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2938" length="5">
+        <mention_text>ASEAN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-615" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2954" length="5">
+        <mention_text>ASEAN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-627" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="3030" length="5">
+        <mention_text>ASEAN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-639" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="3054" length="5">
+        <mention_text>ASEAN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-657" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="3173" length="5">
+        <mention_text>ASEAN</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="162" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="277" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="351" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-162" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="544" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-168" noun_type="PRO" source="ENG_NW_001278_20131113_F000134P0" offset="556" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+      <entity_mention id="m-192" noun_type="PRO" source="ENG_NW_001278_20131113_F000134P0" offset="661" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-198" noun_type="PRO" source="ENG_NW_001278_20131113_F000134P0" offset="686" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-219" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="753" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-264" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1065" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-363" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="1554" length="19">
+        <mention_text>neighboring country</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="1566" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-369" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1581" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-408" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1889" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-420" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="1962" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="1966" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-447" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2152" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-453" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="2189" length="12">
+        <mention_text>that country</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="2194" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-474" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2288" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-486" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="2332" length="24">
+        <mention_text>the fellow ASEAN country</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="2349" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-684" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="3265" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-690" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="3315" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="3319" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-735" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="3516" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="194" length="5">
+        <mention_text>雅加达分社</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-93" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-87" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="367" length="11">
+        <mention_text>Abu Hanifah</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-102" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-96" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="380" length="7">
+        <mention_text>JAKARTA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-156" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="494" length="4">
+        <mention_text>here</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="494" length="4">here</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-111" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-105" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="398" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-138" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-132" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="438" length="23">
+        <mention_text>Southeast Asian Nations</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="454" length="7">Nations</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-147" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-141" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="448" length="5">
+        <mention_text>Asian</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-180" type="PER" specificity="specificGroup">
+      <entity_mention id="m-174" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="648" length="23">
+        <mention_text>thousands of its people</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="648" length="9">thousands</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-189" type="PER" specificity="specificGroup">
+      <entity_mention id="m-183" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="661" length="10">
+        <mention_text>its people</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="665" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-210" type="FAC" specificity="specificIndeterminate">
+      <entity_mention id="m-204" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="686" length="18">
+        <mention_text>its infrastructure</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="690" length="14">infrastructure</nom_head>
+      </entity_mention>
+      <entity_mention id="m-702" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="3375" length="14">
+        <mention_text>infrastructure</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="3375" length="14">infrastructure</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-237" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-231" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="795" length="22">
+        <mention_text>the country's military</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="809" length="8">military</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-252" type="PER" specificity="specificGroup">
+      <entity_mention id="m-315" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="1221" length="10">
+        <mention_text>volunteers</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="1221" length="10">volunteers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-261" type="PER" specificity="specificGroup">
+      <entity_mention id="m-255" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="1065" length="22">
+        <mention_text>Philippine authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="1076" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-276" type="PER" specificity="specificGroup">
+      <entity_mention id="m-270" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="1125" length="31">
+        <mention_text>survivors in the affected areas</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="1125" length="9">survivors</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-285" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-279" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="1138" length="18">
+        <mention_text>the affected areas</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="1151" length="5">areas</nom_head>
+      </entity_mention>
+      <entity_mention id="m-357" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="1374" length="142">
+        <mention_text>areas affected by the strike of the strongest typhoon recorded in modern history that claimed more than 2,300 lives according to latest report</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="1374" length="5">areas</nom_head>
+      </entity_mention>
+      <entity_mention id="m-540" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="2579" length="18">
+        <mention_text>the affected areas</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="2592" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-306" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-300" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="1181" length="30">
+        <mention_text>its disaster mitigation agency</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="1205" length="6">agency</nom_head>
+      </entity_mention>
+      <entity_mention id="m-309" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1215" length="4">
+        <mention_text>BNPB</mention_text>
+      </entity_mention>
+      <entity_mention id="m-459" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2204" length="4">
+        <mention_text>BNPB</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-327" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-321" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="1233" length="18">
+        <mention_text>related ministries</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="1241" length="10">ministries</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-336" type="PER" specificity="specificGroup">
+      <entity_mention id="m-330" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="1256" length="16">
+        <mention_text>skilled rescuers</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="1264" length="8">rescuers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-339" type="PER" specificity="specificGroup">
+      <entity_mention id="m-246" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="1020" length="10">
+        <mention_text>volunteers</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="1020" length="10">volunteers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-348" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-342" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1284" length="33">
+        <mention_text>national search and rescue agency</mention_text>
+      </entity_mention>
+      <entity_mention id="m-351" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1321" length="8">
+        <mention_text>BASARNAS</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-387" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-381" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1695" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-402" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1833" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-414" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1929" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-432" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2064" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-696" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="3348" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2319" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="1633" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-444" type="PER" specificity="specificGroup">
+      <entity_mention id="m-438" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="2138" length="25">
+        <mention_text>people of the Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="2138" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-471" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-465" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2222" length="20">
+        <mention_text>Sutopo Purwo Nugroho</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-510" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-504" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2394" length="13">
+        <mention_text>Le Luong Minh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-513" noun_type="PRO" source="ENG_NW_001278_20131113_F000134P0" offset="2409" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+      <entity_mention id="m-519" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="2426" length="48">
+        <mention_text>the coordinator of ASEAN Humanitarian Assistance</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="2430" length="11">coordinator</nom_head>
+      </entity_mention>
+      <entity_mention id="m-669" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="3251" length="2">
+        <mention_text>Le</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-537" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-531" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2507" length="10">
+        <mention_text>AHA center</mention_text>
+      </entity_mention>
+      <entity_mention id="m-546" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2608" length="10">
+        <mention_text>AHA Center</mention_text>
+      </entity_mention>
+      <entity_mention id="m-561" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="2655" length="10">
+        <mention_text>the center</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="2659" length="6">center</nom_head>
+      </entity_mention>
+      <entity_mention id="m-651" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="3148" length="10">
+        <mention_text>AHA Center</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2346" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2445" length="29">
+        <mention_text>ASEAN Humanitarian Assistance</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2352" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2476" length="3">
+        <mention_text>AHA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-558" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-552" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2638" length="11">
+        <mention_text>Said Faisal</mention_text>
+      </entity_mention>
+      <entity_mention id="m-585" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="2800" length="6">
+        <mention_text>Faisal</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-573" type="PER" specificity="specificGroup">
+      <entity_mention id="m-567" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="2735" length="12">
+        <mention_text>a field team</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="2743" length="4">team</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-582" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-576" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="2751" length="10">
+        <mention_text>the ground</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="2755" length="6">ground</nom_head>
+      </entity_mention>
+      <entity_mention id="m-600" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="2857" length="10">
+        <mention_text>the ground</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="2861" length="6">ground</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-597" type="PER" specificity="specificGroup">
+      <entity_mention id="m-591" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="2812" length="31">
+        <mention_text>assessment and additional teams</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="2838" length="5">teams</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-606" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-621" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="3022" length="20">
+        <mention_text>another ASEAN member</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="3036" length="6">member</nom_head>
+      </entity_mention>
+      <entity_mention id="m-633" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="3043" length="7">
+        <mention_text>Vietnam</mention_text>
+      </entity_mention>
+      <entity_mention id="m-645" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="3083" length="7">
+        <mention_text>Vietnam</mention_text>
+      </entity_mention>
+      <entity_mention id="m-663" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="3200" length="7">
+        <mention_text>Vietnam</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-681" type="PER" specificity="specificGroup">
+      <entity_mention id="m-675" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="3261" length="27">
+        <mention_text>The Philippines authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="3277" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-714" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-708" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="3394" length="17">
+        <mention_text>public facilities</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="3401" length="10">facilities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-723" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-717" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="3417" length="14">
+        <mention_text>United Nations</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-732" type="PER" specificity="specificGroup">
+      <entity_mention id="m-726" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="3481" length="46">
+        <mention_text>more than 10 million people in the Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="3502" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-757" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-751" noun_type="NAM" source="ENG_NW_001278_20131113_F000134P0" offset="438" length="15">
+        <mention_text>Southeast Asian</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-866" type="PER" specificity="specificGroup">
+      <entity_mention id="m-860" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="2120" length="9">
+        <mention_text>personnel</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="2120" length="9">personnel</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2316" type="PER" specificity="specificGroup">
+      <entity_mention id="m-2310" noun_type="NOM" source="ENG_NW_001278_20131113_F000134P0" offset="1468" length="21">
+        <mention_text>more than 2,300 lives</mention_text>
+        <nom_head source="ENG_NW_001278_20131113_F000134P0" offset="1484" length="5">lives</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-897" source="ENG_NW_001278_20131113_F000134P0" offset="2209" length="12" type="title">Spokesperson</filler>
+    <filler id="f-937" source="ENG_NW_001278_20131113_F000134P0" offset="2376" length="17" type="title">secretary general</filler>
+    <filler id="f-947" source="ENG_NW_001278_20131113_F000134P0" offset="2430" length="11" type="title">coordinator</filler>
+    <filler id="f-977" source="ENG_NW_001278_20131113_F000134P0" offset="2619" length="18" type="title">Executive Director</filler>
+    <filler id="f-1109" source="ENG_NW_001278_20131113_F000134P0" offset="734" length="11" type="commodity">relief aids</filler>
+    <filler id="f-1116" source="ENG_NW_001278_20131113_F000134P0" offset="795" length="50" type="vehicle">the country's military cargo plane C- 130 Hercules</filler>
+    <filler id="f-2479" source="ENG_NW_001278_20131113_F000134P0" offset="778" length="9" type="time" nom_time="2013-11-13">Wednesday</filler>
+    <filler id="f-1146" source="ENG_NW_001278_20131113_F000134P0" offset="723" length="22" type="commodity">Indonesian relief aids</filler>
+    <filler id="f-2486" source="ENG_NW_001278_20131113_F000134P0" offset="778" length="9" type="time" nom_time="2013-11-13">Wednesday</filler>
+    <filler id="f-1183" source="ENG_NW_001278_20131113_F000134P0" offset="897" length="118" type="commodity">75 tons of logistics and supplies that comprised of power generators, blankets, tents, instant foods, medical supplies</filler>
+    <filler id="f-1269" source="ENG_NW_001278_20131113_F000134P0" offset="897" length="118" type="commodity">75 tons of logistics and supplies that comprised of power generators, blankets, tents, instant foods, medical supplies</filler>
+    <filler id="f-1406" source="ENG_NW_001278_20131113_F000134P0" offset="1359" length="11" type="commodity">relief aids</filler>
+    <filler id="f-1469" source="ENG_NW_001278_20131113_F000134P0" offset="1359" length="11" type="commodity">relief aids</filler>
+    <filler id="f-1541" source="ENG_NW_001278_20131113_F000134P0" offset="1685" length="66" type="money">1 million U.S. dollars of cash channeled through banking mechanism</filler>
+    <filler id="f-1578" source="ENG_NW_001278_20131113_F000134P0" offset="1623" length="155" type="commodity">2 million U.S. dollars worth of relief aids that consisted of 1 million U.S. dollars of cash channeled through banking mechanism and logistics and supplies</filler>
+    <filler id="f-1613" source="ENG_NW_001278_20131113_F000134P0" offset="1623" length="155" type="commodity">2 million U.S. dollars worth of relief aids that consisted of 1 million U.S. dollars of cash channeled through banking mechanism and logistics and supplies</filler>
+    <filler id="f-1648" source="ENG_NW_001278_20131113_F000134P0" offset="1807" length="38" type="commodity">relief aids worth 400,000 U.S. dollars</filler>
+    <filler id="f-1662" source="ENG_NW_001278_20131113_F000134P0" offset="1904" length="4" type="time" nom_time="2011-XX-XX">2011</filler>
+    <filler id="f-1699" source="ENG_NW_001278_20131113_F000134P0" offset="1913" length="43" type="commodity">another 500,000 U.S. dollars in relief aids</filler>
+    <filler id="f-1706" source="ENG_NW_001278_20131113_F000134P0" offset="2004" length="13" type="time" nom_time="2011-XX-XX">the same year</filler>
+    <filler id="f-1736" source="ENG_NW_001278_20131113_F000134P0" offset="1807" length="38" type="commodity">relief aids worth 400,000 U.S. dollars</filler>
+    <filler id="f-1750" source="ENG_NW_001278_20131113_F000134P0" offset="1904" length="4" type="time" nom_time="2011-XX-XX">2011</filler>
+    <filler id="f-1780" source="ENG_NW_001278_20131113_F000134P0" offset="1913" length="43" type="commodity">another 500,000 U.S. dollars in relief aids</filler>
+    <filler id="f-1794" source="ENG_NW_001278_20131113_F000134P0" offset="2004" length="13" type="time" nom_time="2011-XX-XX">the same year</filler>
+    <filler id="f-1824" source="ENG_NW_001278_20131113_F000134P0" offset="2020" length="17" type="time" nom_time="2013-XX-XX">Earlier this year</filler>
+    <filler id="f-1831" source="ENG_NW_001278_20131113_F000134P0" offset="2087" length="28" type="commodity">rice, logistics and supplies</filler>
+    <filler id="f-1875" source="ENG_NW_001278_20131113_F000134P0" offset="2020" length="17" type="time" nom_time="2013-XX-XX">Earlier this year</filler>
+    <filler id="f-1882" source="ENG_NW_001278_20131113_F000134P0" offset="2087" length="28" type="commodity">rice, logistics and supplies</filler>
+    <filler id="f-1926" source="ENG_NW_001278_20131113_F000134P0" offset="2020" length="17" type="time" nom_time="2013-XX-XX">Earlier this year</filler>
+    <filler id="f-1970" source="ENG_NW_001278_20131113_F000134P0" offset="2054" length="31" type="money">1 million U.S. dollars of funds</filler>
+    <filler id="f-1991" source="ENG_NW_001278_20131113_F000134P0" offset="2020" length="17" type="time" nom_time="2013-XX-XX">Earlier this year</filler>
+    <filler id="f-2051" source="ENG_NW_001278_20131113_F000134P0" offset="2269" length="11" type="commodity">relief aids</filler>
+    <filler id="f-2088" source="ENG_NW_001278_20131113_F000134P0" offset="2269" length="11" type="commodity">relief aids</filler>
+    <filler id="f-2118" source="ENG_NW_001278_20131113_F000134P0" offset="2490" length="7" type="time" nom_time="2013-11-12">Tuesday</filler>
+    <filler id="f-2140" source="ENG_NW_001278_20131113_F000134P0" offset="2531" length="74" type="commodity">supplies and logistics ready to be delivered to the affected areas anytime</filler>
+    <filler id="f-2185" source="ENG_NW_001278_20131113_F000134P0" offset="2531" length="74" type="commodity">supplies and logistics ready to be delivered to the affected areas anytime</filler>
+  </fillers>
+  <relations>
+    <relation id="r-52" type="physical" subtype="orgheadquarter">
+      <relation_mention id="relm-741" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-150" role="org">which</rel_arg1>
+        <rel_arg2 entity_id="ent-102" entity_mention_id="m-156" role="loc">here</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="480" length="13">headquartered</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-53" type="physical" subtype="locatednear">
+      <relation_mention id="relm-760" realis="true">
+        <rel_arg1 entity_id="ent-138" entity_mention_id="m-132" role="entity">Southeast Asian Nations</rel_arg1>
+        <rel_arg2 entity_id="ent-757" entity_mention_id="m-751" role="loc">Southeast Asian</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="438" length="15">Southeast Asian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-54" type="physical" subtype="locatednear">
+      <relation_mention id="relm-770" realis="true">
+        <rel_arg1 entity_id="ent-757" entity_mention_id="m-751" role="entity">Southeast Asian</rel_arg1>
+        <rel_arg2 entity_id="ent-147" entity_mention_id="m-141" role="loc">Asian</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="438" length="9">Southeast</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-55" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-780" realis="true">
+        <rel_arg1 entity_id="ent-189" entity_mention_id="m-183" role="per">its people</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-192" role="entity">its</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="661" length="3">its</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-56" type="physical" subtype="locatednear">
+      <relation_mention id="relm-800" realis="true">
+        <rel_arg1 entity_id="ent-210" entity_mention_id="m-204" role="entity">its infrastructure</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-198" role="loc">its</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="686" length="3">its</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1019" realis="true">
+        <rel_arg1 entity_id="ent-210" entity_mention_id="m-702" role="entity">infrastructure</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-690" role="loc">the country</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-57" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-810" realis="true">
+        <rel_arg1 entity_id="ent-237" entity_mention_id="m-231" role="suborg">the country's military</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-225" role="parent">the country</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="799" length="9">country's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-58" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-820" realis="true">
+        <rel_arg1 entity_id="ent-261" entity_mention_id="m-255" role="employeemember">Philippine authorities</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-264" role="org">Philippine</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1076" length="11">authorities</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-59" type="physical" subtype="locatednear">
+      <relation_mention id="relm-830" realis="true">
+        <rel_arg1 entity_id="ent-276" entity_mention_id="m-270" role="entity">survivors in the affected areas</rel_arg1>
+        <rel_arg2 entity_id="ent-285" entity_mention_id="m-279" role="loc">the affected areas</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1135" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-60" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-840" realis="true">
+        <rel_arg1 entity_id="ent-306" entity_mention_id="m-300" role="suborg">its disaster mitigation agency</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-294" role="parent">its</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1181" length="3">its</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-61" type="physical" subtype="locatednear">
+      <relation_mention id="relm-850" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-363" role="entity">neighboring country</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-375" role="loc">Indonesia</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1554" length="11">neighboring</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-62" type="physical" subtype="resident">
+      <relation_mention id="relm-869" realis="true">
+        <rel_arg1 entity_id="ent-444" entity_mention_id="m-438" role="per">people of the Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-447" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2145" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-63" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-879" realis="true">
+        <rel_arg1 entity_id="ent-471" entity_mention_id="m-465" role="employeemember">Sutopo Purwo Nugroho</rel_arg1>
+        <rel_arg2 entity_id="ent-306" entity_mention_id="m-459" role="org">BNPB</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2209" length="12">Spokesperson</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-64" type="personalsocial" subtype="role">
+      <relation_mention id="relm-889" realis="true">
+        <rel_arg1 entity_id="ent-471" entity_mention_id="m-465" role="per">Sutopo Purwo Nugroho</rel_arg1>
+        <rel_arg2 filler_id="f-897" role="role">Spokesperson</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-65" type="partwhole" subtype="membership">
+      <relation_mention id="relm-899" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-486" role="member">the fellow ASEAN country</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-492" role="org">ASEAN</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-66" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-919" realis="true">
+        <rel_arg1 entity_id="ent-510" entity_mention_id="m-504" role="leader">Le Luong Minh</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-498" role="entity">ASEAN</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2376" length="17">secretary general</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-67" type="personalsocial" subtype="role">
+      <relation_mention id="relm-929" realis="true">
+        <rel_arg1 entity_id="ent-510" entity_mention_id="m-504" role="per">Le Luong Minh</rel_arg1>
+        <rel_arg2 filler_id="f-937" role="role">secretary general</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-939" realis="true">
+        <rel_arg1 entity_id="ent-510" entity_mention_id="m-519" role="per">the coordinator of ASEAN Humanitarian Assistance</rel_arg1>
+        <rel_arg2 filler_id="f-947" role="role">coordinator</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-68" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-949" realis="true">
+        <rel_arg1 entity_id="ent-510" entity_mention_id="m-519" role="employeemember">the coordinator of ASEAN Humanitarian Assistance</rel_arg1>
+        <rel_arg2 entity_id="ent-537" entity_mention_id="m-2346" role="org">ASEAN Humanitarian Assistance</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2430" length="11">coordinator</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-69" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-959" realis="true">
+        <rel_arg1 entity_id="ent-558" entity_mention_id="m-552" role="leader">Said Faisal</rel_arg1>
+        <rel_arg2 entity_id="ent-537" entity_mention_id="m-546" role="entity">AHA Center</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2619" length="18">Executive Director</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-70" type="personalsocial" subtype="role">
+      <relation_mention id="relm-969" realis="true">
+        <rel_arg1 entity_id="ent-558" entity_mention_id="m-552" role="per">Said Faisal</rel_arg1>
+        <rel_arg2 filler_id="f-977" role="role">Executive Director</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-71" type="physical" subtype="locatednear">
+      <relation_mention id="relm-979" realis="true">
+        <rel_arg1 entity_id="ent-573" entity_mention_id="m-567" role="entity">a field team</rel_arg1>
+        <rel_arg2 entity_id="ent-582" entity_mention_id="m-576" role="loc">the ground</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2748" length="2">on</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-72" type="physical" subtype="locatednear">
+      <relation_mention id="relm-989" realis="true">
+        <rel_arg1 entity_id="ent-597" entity_mention_id="m-591" role="entity">assessment and additional teams</rel_arg1>
+        <rel_arg2 entity_id="ent-582" entity_mention_id="m-600" role="loc">the ground</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2854" length="2">on</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-73" type="partwhole" subtype="membership">
+      <relation_mention id="relm-999" realis="true">
+        <rel_arg1 entity_id="ent-606" entity_mention_id="m-621" role="member">another ASEAN member</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-627" role="org">ASEAN</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="3036" length="6">member</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-74" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1009" realis="true">
+        <rel_arg1 entity_id="ent-681" entity_mention_id="m-675" role="employeemember">The Philippines authorities</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-684" role="org">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="3277" length="11">authorities</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-75" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1029" realis="true">
+        <rel_arg1 entity_id="ent-714" entity_mention_id="m-708" role="entity">public facilities</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-690" role="loc">the country</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-76" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1039" realis="true">
+        <rel_arg1 entity_id="ent-732" entity_mention_id="m-726" role="entity">more than 10 million people in the Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-735" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="3509" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-77" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-2358" realis="true">
+        <rel_arg1 entity_id="ent-537" entity_mention_id="m-2346" role="suborg">ASEAN Humanitarian Assistance</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-525" role="parent">ASEAN</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1049" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="643" length="4">took</trigger>
+        <em_arg entity_id="ent-180" entity_mention_id="m-174" role="victim" realis="true">thousands of its people</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-168" role="place" realis="true">which</em_arg>
+      </event_mention>
+      <event_mention id="em-1472" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1460" length="7">claimed</trigger>
+        <em_arg entity_id="ent-285" entity_mention_id="m-357" role="place" realis="true">areas affected by the strike of the strongest typhoon recorded in modern history that claimed more than 2,300 lives according to latest report</em_arg>
+        <em_arg entity_id="ent-2316" entity_mention_id="m-2310" role="victim" realis="true">more than 2,300 lives</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1119">
+      <event_mention id="em-1077" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="711" length="8">delivery</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-213" role="agent" realis="true">Indonesian</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-219" role="destination" realis="true">Philippines</em_arg>
+        <em_arg filler_id="f-1109" role="artifact" realis="true">relief aids</em_arg>
+        <em_arg filler_id="f-1116" role="instrument" realis="true">the country's military cargo plane C- 130 Hercules</em_arg>
+        <em_arg filler_id="f-2479" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-1158" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="888" length="8">departed</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-240" role="agent" realis="true">Indonesia</em_arg>
+        <em_arg filler_id="f-1183" role="artifact" realis="true">75 tons of logistics and supplies that comprised of power generators, blankets, tents, instant foods, medical supplies</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-264" role="destination" realis="true">Philippine</em_arg>
+      </event_mention>
+      <event_mention id="em-1353" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1348" length="7">sending</trigger>
+        <em_arg entity_id="ent-306" entity_mention_id="m-300" role="agent" realis="false">its disaster mitigation agency</em_arg>
+        <em_arg entity_id="ent-252" entity_mention_id="m-315" role="agent" realis="false">volunteers</em_arg>
+        <em_arg entity_id="ent-327" entity_mention_id="m-321" role="agent" realis="false">related ministries</em_arg>
+        <em_arg entity_id="ent-336" entity_mention_id="m-330" role="agent" realis="false">skilled rescuers</em_arg>
+        <em_arg entity_id="ent-348" entity_mention_id="m-342" role="agent" realis="true">national search and rescue agency</em_arg>
+        <em_arg filler_id="f-1406" role="artifact" realis="true">relief aids</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-288" role="origin" realis="true">Indonesia</em_arg>
+        <em_arg entity_id="ent-285" entity_mention_id="m-357" role="destination" realis="true">areas affected by the strike of the strongest typhoon recorded in modern history that claimed more than 2,300 lives according to latest report</em_arg>
+      </event_mention>
+      <event_mention id="em-1588" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1613" length="9">allocated</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-375" role="agent" realis="true">Indonesia</em_arg>
+        <em_arg filler_id="f-1613" role="artifact" realis="true">2 million U.S. dollars worth of relief aids that consisted of 1 million U.S. dollars of cash channeled through banking mechanism and logistics and supplies</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-369" role="destination" realis="true">Philippines</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1156">
+      <event_mention id="em-1121" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="711" length="8">delivery</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-213" role="giver" realis="true">Indonesian</em_arg>
+        <em_arg filler_id="f-1146" role="thing" realis="true">Indonesian relief aids</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-219" role="recipient" realis="true">Philippines</em_arg>
+        <em_arg filler_id="f-2486" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-1230" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="888" length="8">departed</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-240" role="giver" realis="true">Indonesia</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-264" role="recipient" realis="true">Philippine</em_arg>
+        <em_arg entity_id="ent-276" entity_mention_id="m-270" role="beneficiary" realis="true">survivors in the affected areas</em_arg>
+        <em_arg filler_id="f-1269" role="thing" realis="true">75 tons of logistics and supplies that comprised of power generators, blankets, tents, instant foods, medical supplies</em_arg>
+      </event_mention>
+      <event_mention id="em-1423" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1348" length="7">sending</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-288" role="giver" realis="true">Indonesia</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-363" role="recipient" realis="true">neighboring country</em_arg>
+        <em_arg entity_id="ent-285" entity_mention_id="m-357" role="place" realis="true">areas affected by the strike of the strongest typhoon recorded in modern history that claimed more than 2,300 lives according to latest report</em_arg>
+        <em_arg filler_id="f-1469" role="thing" realis="true">relief aids</em_arg>
+      </event_mention>
+      <event_mention id="em-1553" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1613" length="9">allocated</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-375" role="giver" realis="true">Indonesia</em_arg>
+        <em_arg filler_id="f-1578" role="thing" realis="true">2 million U.S. dollars worth of relief aids that consisted of 1 million U.S. dollars of cash channeled through banking mechanism and logistics and supplies</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-369" role="recipient" realis="true">Philippines</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1228">
+      <event_mention id="em-1193" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="888" length="8">departed</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-240" role="agent" realis="true">Indonesia</em_arg>
+        <em_arg entity_id="ent-339" entity_mention_id="m-246" role="person" realis="true">volunteers</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-264" role="destination" realis="true">Philippine</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1300">
+      <event_mention id="em-1272" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1051" length="8">contacts</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-240" role="entity" realis="true">Indonesia</em_arg>
+        <em_arg entity_id="ent-261" entity_mention_id="m-255" role="entity" realis="true">Philippine authorities</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1351">
+      <event_mention id="em-1302" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1173" length="7">ordered</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-288" role="entity" realis="true">Indonesia</em_arg>
+        <em_arg entity_id="ent-306" entity_mention_id="m-300" role="entity" realis="true">its disaster mitigation agency</em_arg>
+        <em_arg entity_id="ent-252" entity_mention_id="m-315" role="entity" realis="true">volunteers</em_arg>
+        <em_arg entity_id="ent-327" entity_mention_id="m-321" role="entity" realis="true">related ministries</em_arg>
+        <em_arg entity_id="ent-336" entity_mention_id="m-330" role="entity" realis="true">skilled rescuers</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1551">
+      <event_mention id="em-1516" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1613" length="9">allocated</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-375" role="giver" realis="true">Indonesia</em_arg>
+        <em_arg filler_id="f-1541" role="money" realis="true">1 million U.S. dollars of cash channeled through banking mechanism</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-369" role="recipient" realis="true">Philippines</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1665">
+      <event_mention id="em-1623" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1802" length="4">sent</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-396" role="giver" realis="true">Indonesia</em_arg>
+        <em_arg filler_id="f-1648" role="thing" realis="true">relief aids worth 400,000 U.S. dollars</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-408" role="recipient" realis="true">Philippines</em_arg>
+        <em_arg filler_id="f-1662" role="time" realis="true">2011</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1709">
+      <event_mention id="em-1667" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1802" length="4">sent</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-420" role="recipient" realis="true">the country</em_arg>
+        <em_arg filler_id="f-1699" role="thing" realis="true">another 500,000 U.S. dollars in relief aids</em_arg>
+        <em_arg filler_id="f-1706" role="time" realis="true">the same year</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-396" role="giver" realis="true">Indonesia</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1753">
+      <event_mention id="em-1711" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1802" length="4">sent</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-396" role="agent" realis="true">Indonesia</em_arg>
+        <em_arg filler_id="f-1736" role="artifact" realis="true">relief aids worth 400,000 U.S. dollars</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-408" role="destination" realis="true">Philippines</em_arg>
+        <em_arg filler_id="f-1750" role="time" realis="true">2011</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1797">
+      <event_mention id="em-1755" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="1802" length="4">sent</trigger>
+        <em_arg filler_id="f-1780" role="artifact" realis="true">another 500,000 U.S. dollars in relief aids</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-420" role="destination" realis="true">the country</em_arg>
+        <em_arg filler_id="f-1794" role="time" realis="true">the same year</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-396" role="agent" realis="true">Indonesia</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1848">
+      <event_mention id="em-1799" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2049" length="4">sent</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-426" role="giver" realis="true">Indonesia</em_arg>
+        <em_arg filler_id="f-1824" role="time" realis="true">Earlier this year</em_arg>
+        <em_arg filler_id="f-1831" role="thing" realis="true">rice, logistics and supplies</em_arg>
+        <em_arg entity_id="ent-444" entity_mention_id="m-438" role="beneficiary" realis="true">people of the Philippines</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-447" role="recipient" realis="true">Philippines</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1899">
+      <event_mention id="em-1850" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2049" length="4">sent</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-426" role="agent" realis="true">Indonesia</em_arg>
+        <em_arg filler_id="f-1875" role="time" realis="true">Earlier this year</em_arg>
+        <em_arg filler_id="f-1882" role="artifact" realis="true">rice, logistics and supplies</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-447" role="destination" realis="true">Philippines</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1943">
+      <event_mention id="em-1901" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2049" length="4">sent</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-426" role="agent" realis="true">Indonesia</em_arg>
+        <em_arg filler_id="f-1926" role="time" realis="true">Earlier this year</em_arg>
+        <em_arg entity_id="ent-866" entity_mention_id="m-860" role="person" realis="true">personnel</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-447" role="destination" realis="true">Philippines</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1994">
+      <event_mention id="em-1945" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2049" length="4">sent</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-426" role="giver" realis="true">Indonesia</em_arg>
+        <em_arg filler_id="f-1970" role="money" realis="true">1 million U.S. dollars of funds</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-447" role="recipient" realis="true">Philippines</em_arg>
+        <em_arg entity_id="ent-444" entity_mention_id="m-438" role="beneficiary" realis="true">people of the Philippines</em_arg>
+        <em_arg filler_id="f-1991" role="time" realis="true">Earlier this year</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2017">
+      <event_mention id="em-1996" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2243" length="4">said</trigger>
+        <em_arg entity_id="ent-471" entity_mention_id="m-465" role="entity" realis="true">Sutopo Purwo Nugroho</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2054">
+      <event_mention id="em-2019" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2258" length="7">sending</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-480" role="agent" realis="true">Indonesia</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-474" role="destination" realis="true">Philippines</em_arg>
+        <em_arg filler_id="f-2051" role="artifact" realis="true">relief aids</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2091">
+      <event_mention id="em-2056" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2258" length="7">sending</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-480" role="giver" realis="true">Indonesia</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-474" role="recipient" realis="true">Philippines</em_arg>
+        <em_arg filler_id="f-2088" role="thing" realis="true">relief aids</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2121">
+      <event_mention id="em-2093" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2482" length="4">said</trigger>
+        <em_arg entity_id="ent-510" entity_mention_id="m-519" role="entity" realis="true">the coordinator of ASEAN Humanitarian Assistance</em_arg>
+        <em_arg filler_id="f-2118" role="time" realis="true">Tuesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2151">
+      <event_mention id="em-2123" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2566" length="9">delivered</trigger>
+        <em_arg filler_id="f-2140" role="artifact" realis="true">supplies and logistics ready to be delivered to the affected areas anytime</em_arg>
+        <em_arg entity_id="ent-537" entity_mention_id="m-531" role="agent" realis="true">AHA center</em_arg>
+        <em_arg entity_id="ent-285" entity_mention_id="m-540" role="destination" realis="true">the affected areas</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2188">
+      <event_mention id="em-2153" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2566" length="9">delivered</trigger>
+        <em_arg entity_id="ent-537" entity_mention_id="m-531" role="giver" realis="true">AHA center</em_arg>
+        <em_arg entity_id="ent-285" entity_mention_id="m-540" role="place" realis="true">the affected areas</em_arg>
+        <em_arg filler_id="f-2185" role="thing" realis="true">supplies and logistics ready to be delivered to the affected areas anytime</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2218">
+      <event_mention id="em-2197" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2650" length="4">said</trigger>
+        <em_arg entity_id="ent-558" entity_mention_id="m-552" role="entity" realis="true">Said Faisal</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2255">
+      <event_mention id="em-2220" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="2731" length="3">put</trigger>
+        <em_arg entity_id="ent-537" entity_mention_id="m-561" role="agent" realis="true">the center</em_arg>
+        <em_arg entity_id="ent-573" entity_mention_id="m-567" role="person" realis="true">a field team</em_arg>
+        <em_arg entity_id="ent-582" entity_mention_id="m-576" role="destination" realis="true">the ground</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2278">
+      <event_mention id="em-2257" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="3289" length="4">said</trigger>
+        <em_arg entity_id="ent-681" entity_mention_id="m-675" role="entity" realis="true">The Philippines authorities</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2308">
+      <event_mention id="em-2280" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131113_F000134P0" offset="3094" length="9">requested</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-639" role="entity" realis="true">ASEAN</em_arg>
+        <em_arg entity_id="ent-606" entity_mention_id="m-645" role="entity" realis="true">Vietnam</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000052" doc_id="ENG_NW_001278_20130509_F000124PB" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="101" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-33" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="214" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-138" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="907" length="5">
+        <mention_text>state</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="907" length="5">state</nom_head>
+      </entity_mention>
+      <entity_mention id="m-168" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="1117" length="5">
+        <mention_text>state</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="1117" length="5">state</nom_head>
+      </entity_mention>
+      <entity_mention id="m-189" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="1283" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="1287" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-264" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="1965" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-324" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="2514" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+      <entity_mention id="m-381" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="2792" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-45" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-39" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="285" length="7">
+        <mention_text>BEIJING</mention_text>
+      </entity_mention>
+      <entity_mention id="m-108" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="697" length="7">
+        <mention_text>Beijing</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-54" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-48" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="301" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-63" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-57" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="316" length="36">
+        <mention_text>Ministry of Environmental Protection</mention_text>
+      </entity_mention>
+      <entity_mention id="m-66" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="354" length="3">
+        <mention_text>MEP</mention_text>
+      </entity_mention>
+      <entity_mention id="m-72" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="488" length="12">
+        <mention_text>the ministry</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="492" length="8">ministry</nom_head>
+      </entity_mention>
+      <entity_mention id="m-78" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="525" length="12">
+        <mention_text>The ministry</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="529" length="8">ministry</nom_head>
+      </entity_mention>
+      <entity_mention id="m-84" noun_type="PRO" source="ENG_NW_001278_20130509_F000124PB" offset="618" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="753" length="3">
+        <mention_text>MEP</mention_text>
+      </entity_mention>
+      <entity_mention id="m-126" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="764" length="12">
+        <mention_text>the ministry</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="768" length="8">ministry</nom_head>
+      </entity_mention>
+      <entity_mention id="m-132" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="858" length="12">
+        <mention_text>The ministry</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="862" length="8">ministry</nom_head>
+      </entity_mention>
+      <entity_mention id="m-150" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="999" length="12">
+        <mention_text>the ministry</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="1003" length="8">ministry</nom_head>
+      </entity_mention>
+      <entity_mention id="m-162" noun_type="PRO" source="ENG_NW_001278_20130509_F000124PB" offset="1039" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+      <entity_mention id="m-330" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="2556" length="3">
+        <mention_text>MEP</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-96" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-90" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="660" length="22">
+        <mention_text>heavily polluted areas</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="677" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-105" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-114" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="712" length="13">
+        <mention_text>Dong Zhengwei</mention_text>
+      </entity_mention>
+      <entity_mention id="m-144" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="945" length="4">
+        <mention_text>Dong</mention_text>
+      </entity_mention>
+      <entity_mention id="m-156" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="1033" length="4">
+        <mention_text>Dong</mention_text>
+      </entity_mention>
+      <entity_mention id="m-174" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="1206" length="4">
+        <mention_text>Dong</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-186" type="PER" specificity="specificGroup">
+      <entity_mention id="m-180" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="1237" length="11">
+        <mention_text>many people</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="1242" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-201" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-195" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="1307" length="6">
+        <mention_text>Ma Jun</mention_text>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="1315" length="57">
+        <mention_text>head of the Institute of Public and Environmental Affairs</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="1315" length="4">head</nom_head>
+      </entity_mention>
+      <entity_mention id="m-237" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="1626" length="2">
+        <mention_text>Ma</mention_text>
+      </entity_mention>
+      <entity_mention id="m-243" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="1636" length="2">
+        <mention_text>Ma</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-216" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-210" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="1327" length="45">
+        <mention_text>Institute of Public and Environmental Affairs</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-225" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-219" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="1404" length="11">
+        <mention_text>Legal Daily</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-234" type="PER" specificity="nonspecific">
+      <entity_mention id="m-228" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="1556" length="10">
+        <mention_text>the public</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="1560" length="6">public</nom_head>
+      </entity_mention>
+      <entity_mention id="m-258" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="1903" length="10">
+        <mention_text>the public</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="1907" length="6">public</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-255" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-249" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="1865" length="15">
+        <mention_text>74 major cities</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="1874" length="6">cities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-276" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-270" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="2055" length="10">
+        <mention_text>some areas</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="2060" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-285" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-279" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="2067" length="5">
+        <mention_text>mines</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="2067" length="5">mines</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-294" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-288" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="2077" length="9">
+        <mention_text>factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="2077" length="9">factories</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-303" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-297" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="2109" length="16">
+        <mention_text>industrial areas</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="2120" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-312" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-306" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="2144" length="11">
+        <mention_text>arable land</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="2151" length="4">land</nom_head>
+      </entity_mention>
+      <entity_mention id="m-423" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="3282" length="11">
+        <mention_text>arable land</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="3289" length="4">land</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-321" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-315" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="2435" length="30">
+        <mention_text>Ministry of Land and Resources</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-342" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-336" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="2595" length="18">
+        <mention_text>364 rural villages</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="2605" length="8">villages</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-351" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-345" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="2675" length="9">
+        <mention_text>landfills</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="2675" length="9">landfills</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-360" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-354" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="2686" length="5">
+        <mention_text>farms</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="2686" length="5">farms</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-369" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-363" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="2696" length="9">
+        <mention_text>companies</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="2696" length="9">companies</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-378" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-372" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="2786" length="11">
+        <mention_text>north China</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="2792" length="5">China</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-393" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-387" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="2800" length="14">
+        <mention_text>Hebei Province</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-402" type="PER" specificity="specificGroup">
+      <entity_mention id="m-396" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="2904" length="17">
+        <mention_text>Local authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="2910" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-411" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-405" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="2959" length="18">
+        <mention_text>chemical factories</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="2968" length="9">factories</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-420" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-414" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="3023" length="13">
+        <mention_text>State Council</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-435" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-429" noun_type="NOM" source="ENG_NW_001278_20130509_F000124PB" offset="3298" length="25">
+        <mention_text>sources of drinking water</mention_text>
+        <nom_head source="ENG_NW_001278_20130509_F000124PB" offset="3298" length="7">sources</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1023" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-1017" noun_type="NAM" source="ENG_NW_001278_20130509_F000124PB" offset="191" length="6">
+        <mention_text>刘陆,顾瑞珍</mention_text>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-456" source="ENG_NW_001278_20130509_F000124PB" offset="705" length="6" type="title">lawyer</filler>
+    <filler id="f-577" source="ENG_NW_001278_20130509_F000124PB" offset="514" length="8" type="time" nom_time="2013-05-09">Thursday</filler>
+    <filler id="f-614" source="ENG_NW_001278_20130509_F000124PB" offset="688" length="7" type="time" nom_time="2013-01-xx">January</filler>
+    <filler id="f-665" source="ENG_NW_001278_20130509_F000124PB" offset="879" length="8" type="time" nom_time="2013-02-xx">February</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1422" type="physical" subtype="locatednear">
+      <relation_mention id="relm-438" realis="true">
+        <rel_arg1 entity_id="ent-105" entity_mention_id="m-114" role="entity">Dong Zhengwei</rel_arg1>
+        <rel_arg2 entity_id="ent-45" entity_mention_id="m-108" role="loc">Beijing</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1423" type="personalsocial" subtype="role">
+      <relation_mention id="relm-448" realis="true">
+        <rel_arg1 entity_id="ent-105" entity_mention_id="m-114" role="per">Dong Zhengwei</rel_arg1>
+        <rel_arg2 filler_id="f-456" role="role">lawyer</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1424" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-458" realis="true">
+        <rel_arg1 entity_id="ent-201" entity_mention_id="m-204" role="leader">head of the Institute of Public and Environmental Affairs</rel_arg1>
+        <rel_arg2 entity_id="ent-216" entity_mention_id="m-210" role="entity">Institute of Public and Environmental Affairs</rel_arg2>
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="1315" length="4">head</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1425" type="physical" subtype="locatednear">
+      <relation_mention id="relm-468" realis="true">
+        <rel_arg1 entity_id="ent-285" entity_mention_id="m-279" role="entity">mines</rel_arg1>
+        <rel_arg2 entity_id="ent-303" entity_mention_id="m-297" role="loc">industrial areas</rel_arg2>
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="2106" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1426" type="physical" subtype="locatednear">
+      <relation_mention id="relm-478" realis="true">
+        <rel_arg1 entity_id="ent-294" entity_mention_id="m-288" role="entity">factories</rel_arg1>
+        <rel_arg2 entity_id="ent-303" entity_mention_id="m-297" role="loc">industrial areas</rel_arg2>
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="2106" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1427" type="physical" subtype="locatednear">
+      <relation_mention id="relm-488" realis="true">
+        <rel_arg1 entity_id="ent-378" entity_mention_id="m-372" role="entity">north China</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-381" role="loc">China</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1428" type="physical" subtype="locatednear">
+      <relation_mention id="relm-498" realis="true">
+        <rel_arg1 entity_id="ent-393" entity_mention_id="m-387" role="entity">Hebei Province</rel_arg1>
+        <rel_arg2 entity_id="ent-378" entity_mention_id="m-372" role="loc">north China</rel_arg2>
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="2792" length="7">China's</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-508" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="368" length="5">issue</trigger>
+        <em_arg entity_id="ent-63" entity_mention_id="m-57" role="entity" realis="true">Ministry of Environmental Protection</em_arg>
+      </event_mention>
+      <event_mention id="em-619" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="780" length="5">issue</trigger>
+        <em_arg entity_id="ent-63" entity_mention_id="m-126" role="entity" realis="true">the ministry</em_arg>
+      </event_mention>
+      <event_mention id="em-670" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="935" length="5">issue</trigger>
+        <em_arg entity_id="ent-63" entity_mention_id="m-132" role="entity" realis="true">The ministry</em_arg>
+      </event_mention>
+      <event_mention id="em-820" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="1595" length="8">informed</trigger>
+        <em_arg entity_id="ent-234" entity_mention_id="m-228" role="audience" realis="true">the public</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-550">
+      <event_mention id="em-529" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="433" length="7">discuss</trigger>
+        <em_arg entity_id="ent-63" entity_mention_id="m-57" role="entity" realis="true">Ministry of Environmental Protection</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-580">
+      <event_mention id="em-552" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="501" length="9">confirmed</trigger>
+        <em_arg entity_id="ent-63" entity_mention_id="m-72" role="entity" realis="true">the ministry</em_arg>
+        <em_arg filler_id="f-577" role="time" realis="true">Thursday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-617">
+      <event_mention id="em-582" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="726" length="4">sent</trigger>
+        <em_arg entity_id="ent-105" entity_mention_id="m-114" role="entity" realis="true">Dong Zhengwei</em_arg>
+        <em_arg entity_id="ent-63" entity_mention_id="m-120" role="audience" realis="true">MEP</em_arg>
+        <em_arg filler_id="f-614" role="time" realis="false">January</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-668">
+      <event_mention id="em-640" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="871" length="4">said</trigger>
+        <em_arg entity_id="ent-63" entity_mention_id="m-132" role="entity" realis="true">The ministry</em_arg>
+        <em_arg filler_id="f-665" role="time" realis="true">February</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-712">
+      <event_mention id="em-691" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="972" length="4">sent</trigger>
+        <em_arg entity_id="ent-105" entity_mention_id="m-144" role="entity" realis="true">Dong</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-742">
+      <event_mention id="em-714" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="1021" length="8">response</trigger>
+        <em_arg entity_id="ent-63" entity_mention_id="m-150" role="entity" realis="true">the ministry</em_arg>
+        <em_arg entity_id="ent-105" entity_mention_id="m-156" role="audience" realis="true">Dong</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-788">
+      <event_mention id="em-767" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="1213" length="8">requests</trigger>
+        <em_arg entity_id="ent-105" entity_mention_id="m-174" role="entity" realis="true">Dong</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-818">
+      <event_mention id="em-790" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="1385" length="9">interview</trigger>
+        <em_arg entity_id="ent-201" entity_mention_id="m-195" role="entity" realis="true">Ma Jun</em_arg>
+        <em_arg entity_id="ent-225" entity_mention_id="m-219" role="entity" realis="true">Legal Daily</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-841">
+      <event_mention id="em-885" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="1885" length="14">made available</trigger>
+        <em_arg entity_id="ent-234" entity_mention_id="m-258" role="audience" realis="true">the public</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-927">
+      <event_mention id="em-906" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="2504" length="6">report</trigger>
+        <em_arg entity_id="ent-63" entity_mention_id="m-330" role="entity" realis="true">MEP</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-950">
+      <event_mention id="em-929" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="2922" length="4">said</trigger>
+        <em_arg entity_id="ent-402" entity_mention_id="m-396" role="entity" realis="true">Local authorities</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-973">
+      <event_mention id="em-952" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130509_F000124PB" offset="3105" length="8">circular</trigger>
+        <em_arg entity_id="ent-420" entity_mention_id="m-414" role="entity" realis="true">State Council</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

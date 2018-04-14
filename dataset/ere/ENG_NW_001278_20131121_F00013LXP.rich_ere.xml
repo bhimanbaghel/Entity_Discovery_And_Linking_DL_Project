@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000001" doc_id="ENG_NW_001278_20131121_F00013LXP" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="101" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="209" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-54" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="275" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-102" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="482" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-123" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="549" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="553" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-177" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="813" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-183" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="862" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="866" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-207" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="998" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="1002" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-231" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1103" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-243" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1265" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-264" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1352" length="10">
+        <mention_text>Philippine</mention_text>
+      </entity_mention>
+      <entity_mention id="m-279" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="1418" length="5">
+        <mention_text>state</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="1418" length="5">state</nom_head>
+      </entity_mention>
+      <entity_mention id="m-387" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1855" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="157" length="8">
+        <mention_text>official</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="157" length="8">official</nom_head>
+      </entity_mention>
+      <entity_mention id="m-48" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="265" length="8">
+        <mention_text>official</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="265" length="8">official</nom_head>
+      </entity_mention>
+      <entity_mention id="m-60" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="331" length="8">
+        <mention_text>official</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="331" length="8">official</nom_head>
+      </entity_mention>
+      <entity_mention id="m-141" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="660" length="12">
+        <mention_text>Dante Delima</mention_text>
+      </entity_mention>
+      <entity_mention id="m-189" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="882" length="6">
+        <mention_text>Delima</mention_text>
+      </entity_mention>
+      <entity_mention id="m-201" noun_type="PRO" source="ENG_NW_001278_20131121_F00013LXP" offset="945" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-213" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="1034" length="15">
+        <mention_text>The DA official</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="1041" length="8">official</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="186" length="6">
+        <mention_text>Jen Ng</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-72" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-66" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="341" length="6">
+        <mention_text>MANILA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-306" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1538" length="6">
+        <mention_text>Manila</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-81" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-75" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="358" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+      <entity_mention id="m-195" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="915" length="18">
+        <mention_text>Xinhua News Agency</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-90" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-84" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="452" length="41">
+        <mention_text>rice-growing areas in central Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="465" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-99" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-93" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="474" length="19">
+        <mention_text>central Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="482" length="11">Philippines</nom_head>
+      </entity_mention>
+      <entity_mention id="m-381" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="1847" length="19">
+        <mention_text>central Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="1855" length="11">Philippines</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-114" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-108" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="499" length="25">
+        <mention_text>Department of Agriculture</mention_text>
+      </entity_mention>
+      <entity_mention id="m-117" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="526" length="2">
+        <mention_text>DA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-129" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="633" length="11">
+        <mention_text>Agriculture</mention_text>
+      </entity_mention>
+      <entity_mention id="m-219" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1038" length="2">
+        <mention_text>DA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-153" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-147" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="682" length="14">
+        <mention_text>United Nations</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-162" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-156" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="682" length="48">
+        <mention_text>United Nations Food and Agriculture Organization</mention_text>
+      </entity_mention>
+      <entity_mention id="m-165" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="734" length="3">
+        <mention_text>FAO</mention_text>
+      </entity_mention>
+      <entity_mention id="m-171" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="791" length="3">
+        <mention_text>FAO</mention_text>
+      </entity_mention>
+      <entity_mention id="m-225" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1077" length="3">
+        <mention_text>FAO</mention_text>
+      </entity_mention>
+      <entity_mention id="m-237" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1240" length="3">
+        <mention_text>FAO</mention_text>
+      </entity_mention>
+      <entity_mention id="m-249" noun_type="PRO" source="ENG_NW_001278_20131121_F00013LXP" offset="1311" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-261" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-255" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="1348" length="25">
+        <mention_text>The Philippine government</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="1363" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-276" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-270" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="1418" length="17">
+        <mention_text>state food agency</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="1429" length="6">agency</nom_head>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1436" length="23">
+        <mention_text>National Food Authority</mention_text>
+      </entity_mention>
+      <entity_mention id="m-291" noun_type="PRO" source="ENG_NW_001278_20131121_F00013LXP" offset="1460" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-303" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-297" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="1489" length="36">
+        <mention_text>areas affected by natural calamities</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="1489" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-318" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-312" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1579" length="7">
+        <mention_text>Vietnam</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-327" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-321" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="1595" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="1595" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-336" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-330" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="1609" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="1609" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-345" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-339" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1668" length="55">
+        <mention_text>National Disaster Risk Reduction and Management Council</mention_text>
+      </entity_mention>
+      <entity_mention id="m-348" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1725" length="6">
+        <mention_text>NDRRMC</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-360" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-354" noun_type="NAM" source="ENG_NW_001278_20131121_F00013LXP" offset="1791" length="3">
+        <mention_text>U.S</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-369" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-363" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="1756" length="110">
+        <mention_text>10.51 billion pesos (241.5 million U.S. dollars) worth of crops and farm infrastructure in central Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="1829" length="14">infrastructure</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-378" type="FAC" specificity="specificIndeterminate">
+      <entity_mention id="m-372" noun_type="NOM" source="ENG_NW_001278_20131121_F00013LXP" offset="1824" length="4">
+        <mention_text>farm</mention_text>
+        <nom_head source="ENG_NW_001278_20131121_F00013LXP" offset="1824" length="4">farm</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-431" source="ENG_NW_001278_20131121_F00013LXP" offset="645" length="14" type="title">Undersecretary</filler>
+    <filler id="f-528" source="ENG_NW_001278_20131121_F00013LXP" offset="112" length="4" type="commodity">rice</filler>
+    <filler id="f-535" source="ENG_NW_001278_20131121_F00013LXP" offset="128" length="4" type="time" nom_time="2014-XX-XX">2014</filler>
+    <filler id="f-563" source="ENG_NW_001278_20131121_F00013LXP" offset="112" length="4" type="commodity">rice</filler>
+    <filler id="f-570" source="ENG_NW_001278_20131121_F00013LXP" offset="128" length="4" type="time" nom_time="2014-XX-XX">2014</filler>
+    <filler id="f-621" source="ENG_NW_001278_20131121_F00013LXP" offset="220" length="4" type="commodity">rice</filler>
+    <filler id="f-628" source="ENG_NW_001278_20131121_F00013LXP" offset="236" length="4" type="time" nom_time="2014-XX-XX">2014</filler>
+    <filler id="f-656" source="ENG_NW_001278_20131121_F00013LXP" offset="220" length="4" type="commodity">rice</filler>
+    <filler id="f-663" source="ENG_NW_001278_20131121_F00013LXP" offset="236" length="4" type="time" nom_time="2014-XX-XX">2014</filler>
+    <filler id="f-691" source="ENG_NW_001278_20131121_F00013LXP" offset="286" length="4" type="commodity">rice</filler>
+    <filler id="f-698" source="ENG_NW_001278_20131121_F00013LXP" offset="302" length="4" type="time" nom_time="2014-XX-XX">2014</filler>
+    <filler id="f-726" source="ENG_NW_001278_20131121_F00013LXP" offset="286" length="4" type="commodity">rice</filler>
+    <filler id="f-733" source="ENG_NW_001278_20131121_F00013LXP" offset="302" length="4" type="time" nom_time="2014-XX-XX">2014</filler>
+    <filler id="f-761" source="ENG_NW_001278_20131121_F00013LXP" offset="563" length="4" type="commodity">rice</filler>
+    <filler id="f-768" source="ENG_NW_001278_20131121_F00013LXP" offset="580" length="4" type="time" nom_time="2014-XX-XX">2014</filler>
+    <filler id="f-796" source="ENG_NW_001278_20131121_F00013LXP" offset="563" length="4" type="commodity">rice</filler>
+    <filler id="f-803" source="ENG_NW_001278_20131121_F00013LXP" offset="580" length="4" type="time" nom_time="2014-XX-XX">2014</filler>
+    <filler id="f-831" source="ENG_NW_001278_20131121_F00013LXP" offset="780" length="4" type="commodity">rice</filler>
+    <filler id="f-838" source="ENG_NW_001278_20131121_F00013LXP" offset="837" length="9" type="time" nom_time="2014-XX-XX">next year</filler>
+    <filler id="f-866" source="ENG_NW_001278_20131121_F00013LXP" offset="780" length="4" type="commodity">rice</filler>
+    <filler id="f-873" source="ENG_NW_001278_20131121_F00013LXP" offset="837" length="9" type="time" nom_time="2014-XX-XX">next year</filler>
+    <filler id="f-908" source="ENG_NW_001278_20131121_F00013LXP" offset="535" length="8" type="time" nom_time="2013-11-21">Thursday</filler>
+    <filler id="f-938" source="ENG_NW_001278_20131121_F00013LXP" offset="988" length="4" type="commodity">rice</filler>
+    <filler id="f-945" source="ENG_NW_001278_20131121_F00013LXP" offset="1022" length="9" type="time" nom_time="2014-XX-XX">next year</filler>
+    <filler id="f-973" source="ENG_NW_001278_20131121_F00013LXP" offset="988" length="4" type="commodity">rice</filler>
+    <filler id="f-980" source="ENG_NW_001278_20131121_F00013LXP" offset="1022" length="9" type="time" nom_time="2014-XX-XX">next year</filler>
+    <filler id="f-1052" source="ENG_NW_001278_20131121_F00013LXP" offset="1114" length="4" type="commodity">rice</filler>
+    <filler id="f-1059" source="ENG_NW_001278_20131121_F00013LXP" offset="1170" length="4" type="time" nom_time="2014-XX-XX">2014</filler>
+    <filler id="f-1087" source="ENG_NW_001278_20131121_F00013LXP" offset="1114" length="4" type="commodity">rice</filler>
+    <filler id="f-1094" source="ENG_NW_001278_20131121_F00013LXP" offset="1170" length="4" type="time" nom_time="2014-XX-XX">2014</filler>
+    <filler id="f-1122" source="ENG_NW_001278_20131121_F00013LXP" offset="1276" length="4" type="commodity">rice</filler>
+    <filler id="f-1187" source="ENG_NW_001278_20131121_F00013LXP" offset="1382" length="4" type="commodity">rice</filler>
+    <filler id="f-1217" source="ENG_NW_001278_20131121_F00013LXP" offset="1382" length="4" type="commodity">rice</filler>
+    <filler id="f-1261" source="ENG_NW_001278_20131121_F00013LXP" offset="1475" length="10" type="commodity">the staple</filler>
+    <filler id="f-1291" source="ENG_NW_001278_20131121_F00013LXP" offset="1475" length="10" type="commodity">the staple</filler>
+    <filler id="f-1335" source="ENG_NW_001278_20131121_F00013LXP" offset="1554" length="19" type="commodity">205,700 metric tons</filler>
+    <filler id="f-1342" source="ENG_NW_001278_20131121_F00013LXP" offset="1532" length="4" type="time" nom_time="2013-XX-XX">2013</filler>
+    <filler id="f-1372" source="ENG_NW_001278_20131121_F00013LXP" offset="1554" length="19" type="commodity">205,700 metric tons</filler>
+    <filler id="f-1388" source="ENG_NW_001278_20131121_F00013LXP" offset="1532" length="4" type="time" nom_time="2013-XX-XX">2013</filler>
+    <filler id="f-1467" source="ENG_NW_001278_20131121_F00013LXP" offset="535" length="8" type="time" nom_time="2013-11-21">Thursday</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1" type="physical" subtype="locatednear">
+      <relation_mention id="relm-393" realis="true">
+        <rel_arg1 entity_id="ent-90" entity_mention_id="m-84" role="entity">rice-growing areas in central Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-99" entity_mention_id="m-93" role="loc">central Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="471" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2" type="physical" subtype="locatednear">
+      <relation_mention id="relm-403" realis="true">
+        <rel_arg1 entity_id="ent-99" entity_mention_id="m-93" role="entity">central Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-102" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="474" length="7">central</trigger>
+      </relation_mention>
+      <relation_mention id="relm-483" realis="true">
+        <rel_arg1 entity_id="ent-99" entity_mention_id="m-381" role="entity">central Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-387" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1847" length="7">central</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-3" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-413" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-141" role="employeemember">Dante Delima</rel_arg1>
+        <rel_arg2 entity_id="ent-114" entity_mention_id="m-129" role="org">Agriculture</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="645" length="14">Undersecretary</trigger>
+      </relation_mention>
+      <relation_mention id="relm-443" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-213" role="employeemember">The DA official</rel_arg1>
+        <rel_arg2 entity_id="ent-114" entity_mention_id="m-219" role="org">DA</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1041" length="8">official</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-4" type="personalsocial" subtype="role">
+      <relation_mention id="relm-423" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-141" role="per">Dante Delima</rel_arg1>
+        <rel_arg2 filler_id="f-431" role="role">Undersecretary</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-5" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-433" realis="true">
+        <rel_arg1 entity_id="ent-162" entity_mention_id="m-156" role="suborg">United Nations Food and Agriculture Organization</rel_arg1>
+        <rel_arg2 entity_id="ent-153" entity_mention_id="m-147" role="parent">United Nations</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-6" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-453" realis="true">
+        <rel_arg1 entity_id="ent-261" entity_mention_id="m-255" role="suborg">The Philippine government</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-264" role="parent">Philippine</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-7" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-463" realis="true">
+        <rel_arg1 entity_id="ent-276" entity_mention_id="m-270" role="suborg">state food agency</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-279" role="parent">state</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-8" type="physical" subtype="locatednear">
+      <relation_mention id="relm-473" realis="true">
+        <rel_arg1 entity_id="ent-369" entity_mention_id="m-363" role="entity">10.51 billion pesos (241.5 million U.S. dollars) worth of crops and farm infrastructure in central Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-99" entity_mention_id="m-381" role="loc">central Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1844" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-503" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="117" length="6">import</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-18" role="recipient" realis="true">Philippine</em_arg>
+        <em_arg filler_id="f-528" role="thing" realis="true">rice</em_arg>
+        <em_arg filler_id="f-535" role="time" realis="true">2014</em_arg>
+      </event_mention>
+      <event_mention id="em-596" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="225" length="6">import</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-42" role="recipient" realis="true">Philippine</em_arg>
+        <em_arg filler_id="f-621" role="thing" realis="true">rice</em_arg>
+        <em_arg filler_id="f-628" role="time" realis="true">2014</em_arg>
+      </event_mention>
+      <event_mention id="em-666" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="291" length="6">import</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-54" role="recipient" realis="true">Philippine</em_arg>
+        <em_arg filler_id="f-691" role="thing" realis="true">rice</em_arg>
+        <em_arg filler_id="f-698" role="time" realis="true">2014</em_arg>
+      </event_mention>
+      <event_mention id="em-736" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="568" length="7">imports</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-123" role="recipient" realis="true">the country</em_arg>
+        <em_arg filler_id="f-761" role="thing" realis="true">rice</em_arg>
+        <em_arg filler_id="f-768" role="time" realis="true">2014</em_arg>
+      </event_mention>
+      <event_mention id="em-806" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="830" length="6">import</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-177" role="recipient" realis="true">Philippines</em_arg>
+        <em_arg filler_id="f-831" role="thing" realis="true">rice</em_arg>
+        <em_arg filler_id="f-838" role="time" realis="true">next year</em_arg>
+      </event_mention>
+      <event_mention id="em-913" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1015" length="6">import</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-207" role="recipient" realis="true">the country</em_arg>
+        <em_arg filler_id="f-938" role="thing" realis="true">rice</em_arg>
+        <em_arg filler_id="f-945" role="time" realis="true">next year</em_arg>
+      </event_mention>
+      <event_mention id="em-1027" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1119" length="7">imports</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-231" role="recipient" realis="true">Philippine</em_arg>
+        <em_arg filler_id="f-1052" role="thing" realis="true">rice</em_arg>
+        <em_arg filler_id="f-1059" role="time" realis="true">2014</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-573">
+      <event_mention id="em-538" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="117" length="6">import</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-18" role="destination" realis="true">Philippine</em_arg>
+        <em_arg filler_id="f-563" role="artifact" realis="true">rice</em_arg>
+        <em_arg filler_id="f-570" role="time" realis="true">2014</em_arg>
+      </event_mention>
+      <event_mention id="em-631" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="225" length="6">import</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-42" role="destination" realis="true">Philippine</em_arg>
+        <em_arg filler_id="f-656" role="artifact" realis="true">rice</em_arg>
+        <em_arg filler_id="f-663" role="time" realis="true">2014</em_arg>
+      </event_mention>
+      <event_mention id="em-701" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="291" length="6">import</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-54" role="destination" realis="true">Philippine</em_arg>
+        <em_arg filler_id="f-726" role="artifact" realis="true">rice</em_arg>
+        <em_arg filler_id="f-733" role="time" realis="true">2014</em_arg>
+      </event_mention>
+      <event_mention id="em-771" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="568" length="7">imports</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-123" role="destination" realis="true">the country</em_arg>
+        <em_arg filler_id="f-796" role="artifact" realis="true">rice</em_arg>
+        <em_arg filler_id="f-803" role="time" realis="true">2014</em_arg>
+      </event_mention>
+      <event_mention id="em-841" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="830" length="6">import</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-177" role="destination" realis="true">Philippines</em_arg>
+        <em_arg filler_id="f-866" role="artifact" realis="true">rice</em_arg>
+        <em_arg filler_id="f-873" role="time" realis="true">next year</em_arg>
+      </event_mention>
+      <event_mention id="em-948" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1015" length="6">import</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-207" role="destination" realis="true">the country</em_arg>
+        <em_arg filler_id="f-973" role="artifact" realis="true">rice</em_arg>
+        <em_arg filler_id="f-980" role="time" realis="true">next year</em_arg>
+      </event_mention>
+      <event_mention id="em-1062" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1119" length="7">imports</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-231" role="destination" realis="true">Philippine</em_arg>
+        <em_arg filler_id="f-1087" role="artifact" realis="true">rice</em_arg>
+        <em_arg filler_id="f-1094" role="time" realis="true">2014</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-911">
+      <event_mention id="em-876" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="904" length="7">message</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-189" role="entity" realis="true">Delima</em_arg>
+        <em_arg entity_id="ent-81" entity_mention_id="m-195" role="audience" realis="true">Xinhua News Agency</em_arg>
+        <em_arg filler_id="f-908" role="time" realis="true">Thursday</em_arg>
+      </event_mention>
+      <event_mention id="em-983" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1061" length="9">statement</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-213" role="entity" realis="true">The DA official</em_arg>
+      </event_mention>
+      <event_mention id="em-1442" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="530" length="4">said</trigger>
+        <em_arg entity_id="ent-114" entity_mention_id="m-108" role="entity" realis="true">Department of Agriculture</em_arg>
+        <em_arg filler_id="f-1467" role="time" realis="true">Thursday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1025">
+      <event_mention id="em-1004" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1091" length="6">report</trigger>
+        <em_arg entity_id="ent-162" entity_mention_id="m-225" role="entity" realis="true">FAO</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1132">
+      <event_mention id="em-1097" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1281" length="6">output</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-243" role="agent" realis="true">Philippine</em_arg>
+        <em_arg filler_id="f-1122" role="artifact" realis="true">rice</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1190">
+      <event_mention id="em-1155" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1374" length="7">imports</trigger>
+        <em_arg entity_id="ent-261" entity_mention_id="m-255" role="recipient" realis="true">The Philippine government</em_arg>
+        <em_arg entity_id="ent-276" entity_mention_id="m-270" role="beneficiary" realis="true">state food agency</em_arg>
+        <em_arg filler_id="f-1187" role="thing" realis="true">rice</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1227">
+      <event_mention id="em-1192" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1374" length="7">imports</trigger>
+        <em_arg entity_id="ent-261" entity_mention_id="m-255" role="agent" realis="true">The Philippine government</em_arg>
+        <em_arg filler_id="f-1217" role="artifact" realis="true">rice</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-264" role="destination" realis="true">Philippine</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1264">
+      <event_mention id="em-1229" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1466" length="8">provides</trigger>
+        <em_arg entity_id="ent-276" entity_mention_id="m-291" role="giver" realis="true">which</em_arg>
+        <em_arg entity_id="ent-303" entity_mention_id="m-297" role="place" realis="true">areas affected by natural calamities</em_arg>
+        <em_arg filler_id="f-1261" role="thing" realis="true">the staple</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1301">
+      <event_mention id="em-1266" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1466" length="8">provides</trigger>
+        <em_arg entity_id="ent-276" entity_mention_id="m-291" role="agent" realis="true">which</em_arg>
+        <em_arg filler_id="f-1291" role="artifact" realis="true">the staple</em_arg>
+        <em_arg entity_id="ent-303" entity_mention_id="m-297" role="destination" realis="true">areas affected by natural calamities</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1345">
+      <event_mention id="em-1303" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1545" length="8">imported</trigger>
+        <em_arg entity_id="ent-72" entity_mention_id="m-306" role="recipient" realis="true">Manila</em_arg>
+        <em_arg entity_id="ent-318" entity_mention_id="m-312" role="giver" realis="true">Vietnam</em_arg>
+        <em_arg filler_id="f-1335" role="thing" realis="true">205,700 metric tons</em_arg>
+        <em_arg filler_id="f-1342" role="time" realis="true">2013</em_arg>
+      </event_mention>
+      <event_mention id="em-1391" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1620" length="11">transaction</trigger>
+        <em_arg entity_id="ent-327" entity_mention_id="m-321" role="giver" realis="true">government</em_arg>
+        <em_arg entity_id="ent-336" entity_mention_id="m-330" role="recipient" realis="true">government</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1382">
+      <event_mention id="em-1347" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20131121_F00013LXP" offset="1545" length="8">imported</trigger>
+        <em_arg entity_id="ent-72" entity_mention_id="m-306" role="agent" realis="true">Manila</em_arg>
+        <em_arg filler_id="f-1372" role="artifact" realis="true">205,700 metric tons</em_arg>
+        <em_arg entity_id="ent-318" entity_mention_id="m-312" role="origin" realis="true">Vietnam</em_arg>
+        <em_arg filler_id="f-1388" role="time" realis="true">2013</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

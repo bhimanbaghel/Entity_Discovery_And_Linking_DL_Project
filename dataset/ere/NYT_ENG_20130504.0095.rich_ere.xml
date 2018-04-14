@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000066" doc_id="NYT_ENG_20130504.0095" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="186" length="10">
+        <mention_text>BANGLADESH</mention_text>
+      </entity_mention>
+      <entity_mention id="m-51" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="254" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-225" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="938" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-531" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="2142" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="2146" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-546" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="2270" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="2274" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-579" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="2463" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="197" length="8">
+        <mention_text>BUILDING</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="197" length="8">BUILDING</nom_head>
+      </entity_mention>
+      <entity_mention id="m-57" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="289" length="10">
+        <mention_text>Rana Plaza</mention_text>
+      </entity_mention>
+      <entity_mention id="m-99" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="435" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="439" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-114" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="518" length="10">
+        <mention_text>Rana Plaza</mention_text>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="539" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+      <entity_mention id="m-168" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="768" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="772" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1245" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1249" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-345" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1403" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1407" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-384" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1595" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1599" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-390" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="1621" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+      <entity_mention id="m-396" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="1648" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+      <entity_mention id="m-474" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1859" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1863" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-501" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="2001" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="2005" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1384" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="514" length="23">
+        <mention_text>the Rana Plaza building</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="529" length="8">building</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="PER" specificity="specificGroup">
+      <entity_mention id="m-75" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="337" length="10">
+        <mention_text>work crews</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="342" length="5">crews</nom_head>
+      </entity_mention>
+      <entity_mention id="m-144" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="672" length="10">
+        <mention_text>work crews</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="677" length="5">crews</nom_head>
+      </entity_mention>
+      <entity_mention id="m-507" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="2078" length="10">
+        <mention_text>work crews</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="2083" length="5">crews</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-42" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="247" length="5">
+        <mention_text>SAVAR</mention_text>
+      </entity_mention>
+      <entity_mention id="m-339" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="1345" length="5">
+        <mention_text>Savar</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-87" type="PER" specificity="specificGroup">
+      <entity_mention id="m-81" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="396" length="13">
+        <mention_text>investigators</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="396" length="13">investigators</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-96" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-90" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="435" length="20">
+        <mention_text>the building’s owner</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="450" length="5">owner</nom_head>
+      </entity_mention>
+      <entity_mention id="m-237" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1122" length="9">
+        <mention_text>the owner</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1126" length="5">owner</nom_head>
+      </entity_mention>
+      <entity_mention id="m-279" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1245" length="20">
+        <mention_text>the building’s owner</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1260" length="5">owner</nom_head>
+      </entity_mention>
+      <entity_mention id="m-291" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="1267" length="10">
+        <mention_text>Sohel Rana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-378" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1576" length="9">
+        <mention_text>the owner</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1580" length="5">owner</nom_head>
+      </entity_mention>
+      <entity_mention id="m-432" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="1777" length="4">
+        <mention_text>Rana</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-111" type="PER" specificity="specificGroup">
+      <entity_mention id="m-105" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="460" length="27">
+        <mention_text>others arrested in the case</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="460" length="6">others</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-132" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-126" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="552" length="23">
+        <mention_text>five clothing factories</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="566" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-315" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1301" length="13">
+        <mention_text>the factories</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1305" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1390" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1790" length="7">
+        <mention_text>factory</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1790" length="7">factory</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-141" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-135" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="602" length="20">
+        <mention_text>the garment industry</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="614" length="8">industry</nom_head>
+      </entity_mention>
+      <entity_mention id="m-552" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="2270" length="30">
+        <mention_text>the country’s garment industry</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="2292" length="8">industry</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-156" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-150" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="728" length="52">
+        <mention_text>some of the most devastated sections of the building</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="728" length="4">some</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-165" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-159" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="736" length="44">
+        <mention_text>the most devastated sections of the building</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="756" length="8">sections</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-180" type="PER" specificity="specificGroup">
+      <entity_mention id="m-174" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="791" length="22">
+        <mention_text>Thousands of onlookers</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="791" length="9">Thousands</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-189" type="PER" specificity="nonspecific">
+      <entity_mention id="m-183" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="804" length="9">
+        <mention_text>onlookers</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="804" length="9">onlookers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-198" type="PER" specificity="specificGroup">
+      <entity_mention id="m-192" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="815" length="4">
+        <mention_text>some</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-207" type="PER" specificity="specificGroup">
+      <entity_mention id="m-201" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="843" length="32">
+        <mention_text>loved ones still unaccounted for</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="849" length="4">ones</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-216" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-210" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="914" length="22">
+        <mention_text>Mohiuddin Khan Alamgir</mention_text>
+      </entity_mention>
+      <entity_mention id="m-219" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="938" length="26">
+        <mention_text>Bangladesh’s home minister</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="956" length="8">minister</nom_head>
+      </entity_mention>
+      <entity_mention id="m-231" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="1066" length="7">
+        <mention_text>Alamgir</mention_text>
+      </entity_mention>
+      <entity_mention id="m-480" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="1910" length="7">
+        <mention_text>Alamgir</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-249" type="PER" specificity="specificGroup">
+      <entity_mention id="m-243" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1150" length="13">
+        <mention_text>the engineers</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1154" length="9">engineers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-360" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1471" length="13">
+        <mention_text>the engineers</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1475" length="9">engineers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-258" type="PER" specificity="specificGroup">
+      <entity_mention id="m-252" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1168" length="32">
+        <mention_text>the local government authorities</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1189" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-267" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-261" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1172" length="16">
+        <mention_text>local government</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1178" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-276" type="PER" specificity="specificGroup">
+      <entity_mention id="m-270" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1212" length="10">
+        <mention_text>The police</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1216" length="6">police</nom_head>
+      </entity_mention>
+      <entity_mention id="m-402" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1672" length="10">
+        <mention_text>The police</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1676" length="6">police</nom_head>
+      </entity_mention>
+      <entity_mention id="m-408" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="1698" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-420" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="1725" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-303" type="PER" specificity="specificGroup">
+      <entity_mention id="m-297" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1279" length="35">
+        <mention_text>the owners of four of the factories</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1283" length="6">owners</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-312" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-306" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1293" length="21">
+        <mention_text>four of the factories</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1293" length="4">four</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-327" type="PER" specificity="specificGroup">
+      <entity_mention id="m-321" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1319" length="15">
+        <mention_text>three engineers</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1325" length="9">engineers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-336" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-330" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1345" length="13">
+        <mention_text>Savar’s mayor</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1353" length="5">mayor</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-357" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-351" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1464" length="20">
+        <mention_text>one of the engineers</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1464" length="3">one</nom_head>
+      </entity_mention>
+      <entity_mention id="m-366" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="1486" length="19">
+        <mention_text>Abdur Razzaque Khan</mention_text>
+      </entity_mention>
+      <entity_mention id="m-372" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="1531" length="4">
+        <mention_text>Khan</mention_text>
+      </entity_mention>
+      <entity_mention id="m-414" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="1712" length="4">
+        <mention_text>Khan</mention_text>
+      </entity_mention>
+      <entity_mention id="m-426" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="1752" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-456" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1821" length="12">
+        <mention_text>the engineer</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1825" length="8">engineer</nom_head>
+      </entity_mention>
+      <entity_mention id="m-486" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1923" length="12">
+        <mention_text>the engineer</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1927" length="8">engineer</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-444" type="PER" specificity="specificGroup">
+      <entity_mention id="m-438" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1786" length="18">
+        <mention_text>the factory owners</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1798" length="6">owners</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-453" type="PER" specificity="specificGroup">
+      <entity_mention id="m-447" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="1806" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+      <entity_mention id="m-468" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="1849" length="4">
+        <mention_text>them</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-498" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-492" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="1979" length="80">
+        <mention_text>three upper floors of the building that had been added illegally in recent years</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="1991" length="6">floors</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-522" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-516" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="2118" length="22">
+        <mention_text>Abul Maal Abdul Muhith</mention_text>
+      </entity_mention>
+      <entity_mention id="m-525" noun_type="NOM" source="NYT_ENG_20130504.0095" offset="2142" length="30">
+        <mention_text>the country’s finance minister</mention_text>
+        <nom_head source="NYT_ENG_20130504.0095" offset="2164" length="8">minister</nom_head>
+      </entity_mention>
+      <entity_mention id="m-558" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="2344" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-564" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="2399" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-585" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="2553" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-543" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-537" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="2215" length="9">
+        <mention_text>New Delhi</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-576" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-570" noun_type="NAM" source="NYT_ENG_20130504.0095" offset="2425" length="16">
+        <mention_text>Associated Press</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-597" type="PER" specificity="nonspecific">
+      <entity_mention id="m-591" noun_type="PRO" source="NYT_ENG_20130504.0095" offset="2594" length="3">
+        <mention_text>all</mention_text>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-678" source="NYT_ENG_20130504.0095" offset="951" length="13" type="title">home minister</filler>
+    <filler id="f-688" source="NYT_ENG_20130504.0095" offset="1154" length="9" type="title">engineers</filler>
+    <filler id="f-708" source="NYT_ENG_20130504.0095" offset="1325" length="9" type="title">engineers</filler>
+    <filler id="f-718" source="NYT_ENG_20130504.0095" offset="1353" length="5" type="title">mayor</filler>
+    <filler id="f-738" source="NYT_ENG_20130504.0095" offset="1475" length="9" type="title">engineers</filler>
+    <filler id="f-748" source="NYT_ENG_20130504.0095" offset="1825" length="8" type="title">engineer</filler>
+    <filler id="f-758" source="NYT_ENG_20130504.0095" offset="1927" length="8" type="title">engineer</filler>
+    <filler id="f-788" source="NYT_ENG_20130504.0095" offset="2156" length="16" type="title">finance minister</filler>
+    <filler id="f-900" source="NYT_ENG_20130504.0095" offset="326" length="6" type="time" nom_time="2013-05-03">Friday</filler>
+    <filler id="f-995" source="NYT_ENG_20130504.0095" offset="906" length="6" type="time" nom_time="2013-05-03">Friday</filler>
+    <filler id="f-1572" source="NYT_ENG_20130504.0095" offset="1902" length="6" type="time" nom_time="2013-05-03">Friday</filler>
+    <filler id="f-1136" source="NYT_ENG_20130504.0095" offset="1452" length="8" type="time" nom_time="2013-05-02">Thursday</filler>
+    <filler id="f-1602" source="NYT_ENG_20130504.0095" offset="2044" length="15" type="time" nom_time="20XX-XX-XX">in recent years</filler>
+    <filler id="f-1431" source="NYT_ENG_20130504.0095" offset="828" length="47" type="commodity">photographs of loved ones still unaccounted for</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1677" type="physical" subtype="locatednear">
+      <relation_mention id="relm-600" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-24" role="entity">BUILDING</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-18" role="loc">BANGLADESH</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1678" type="physical" subtype="locatednear">
+      <relation_mention id="relm-610" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-42" role="entity">SAVAR</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-51" role="loc">Bangladesh</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1679" type="physical" subtype="locatednear">
+      <relation_mention id="relm-620" realis="true">
+        <rel_arg1 entity_id="ent-132" entity_mention_id="m-126" role="entity">five clothing factories</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-120" role="loc">which</rel_arg2>
+        <trigger source="NYT_ENG_20130504.0095" offset="545" length="6">housed</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1680" type="physical" subtype="locatednear">
+      <relation_mention id="relm-630" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-144" role="entity">work crews</rel_arg1>
+        <rel_arg2 entity_id="ent-156" entity_mention_id="m-150" role="loc">some of the most devastated sections of the building</rel_arg2>
+        <trigger source="NYT_ENG_20130504.0095" offset="723" length="4">from</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1681" type="physical" subtype="locatednear">
+      <relation_mention id="relm-640" realis="true">
+        <rel_arg1 entity_id="ent-165" entity_mention_id="m-159" role="entity">the most devastated sections of the building</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-168" role="loc">the building</rel_arg2>
+        <trigger source="NYT_ENG_20130504.0095" offset="765" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1682" type="personalsocial" subtype="unspecified">
+      <relation_mention id="relm-650" realis="true">
+        <rel_arg1 entity_id="ent-198" entity_mention_id="m-192" role="per">some</rel_arg1>
+        <rel_arg2 entity_id="ent-207" entity_mention_id="m-201" role="per">loved ones still unaccounted for</rel_arg2>
+        <trigger source="NYT_ENG_20130504.0095" offset="843" length="5">loved</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1683" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-660" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-219" role="employeemember">Bangladesh’s home minister</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-225" role="org">Bangladesh</rel_arg2>
+        <trigger source="NYT_ENG_20130504.0095" offset="956" length="8">minister</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1684" type="personalsocial" subtype="role">
+      <relation_mention id="relm-670" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-219" role="per">Bangladesh’s home minister</rel_arg1>
+        <rel_arg2 filler_id="f-678" role="role">home minister</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1685" type="personalsocial" subtype="role">
+      <relation_mention id="relm-680" realis="true">
+        <rel_arg1 entity_id="ent-249" entity_mention_id="m-243" role="per">the engineers</rel_arg1>
+        <rel_arg2 filler_id="f-688" role="role">engineers</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-730" realis="true">
+        <rel_arg1 entity_id="ent-249" entity_mention_id="m-360" role="per">the engineers</rel_arg1>
+        <rel_arg2 filler_id="f-738" role="role">engineers</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1686" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-690" realis="true">
+        <rel_arg1 entity_id="ent-258" entity_mention_id="m-252" role="employeemember">the local government authorities</rel_arg1>
+        <rel_arg2 entity_id="ent-267" entity_mention_id="m-261" role="org">local government</rel_arg2>
+        <trigger source="NYT_ENG_20130504.0095" offset="1189" length="11">authorities</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1687" type="personalsocial" subtype="role">
+      <relation_mention id="relm-700" realis="true">
+        <rel_arg1 entity_id="ent-327" entity_mention_id="m-321" role="per">three engineers</rel_arg1>
+        <rel_arg2 filler_id="f-708" role="role">engineers</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1688" type="personalsocial" subtype="role">
+      <relation_mention id="relm-710" realis="true">
+        <rel_arg1 entity_id="ent-336" entity_mention_id="m-330" role="per">Savar’s mayor</rel_arg1>
+        <rel_arg2 filler_id="f-718" role="role">mayor</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1689" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-720" realis="true">
+        <rel_arg1 entity_id="ent-336" entity_mention_id="m-330" role="leader">Savar’s mayor</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-339" role="entity">Savar</rel_arg2>
+        <trigger source="NYT_ENG_20130504.0095" offset="1353" length="5">mayor</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1690" type="personalsocial" subtype="role">
+      <relation_mention id="relm-740" realis="true">
+        <rel_arg1 entity_id="ent-357" entity_mention_id="m-456" role="per">the engineer</rel_arg1>
+        <rel_arg2 filler_id="f-748" role="role">engineer</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-750" realis="true">
+        <rel_arg1 entity_id="ent-357" entity_mention_id="m-486" role="per">the engineer</rel_arg1>
+        <rel_arg2 filler_id="f-758" role="role">engineer</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1691" type="physical" subtype="locatednear">
+      <relation_mention id="relm-760" realis="true">
+        <rel_arg1 entity_id="ent-498" entity_mention_id="m-492" role="entity">three upper floors of the building that had been added illegally in recent years</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-501" role="loc">the building</rel_arg2>
+        <trigger source="NYT_ENG_20130504.0095" offset="1998" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1692" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-770" realis="true">
+        <rel_arg1 entity_id="ent-522" entity_mention_id="m-525" role="employeemember">the country’s finance minister</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-531" role="org">the country</rel_arg2>
+        <trigger source="NYT_ENG_20130504.0095" offset="2164" length="8">minister</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1693" type="personalsocial" subtype="role">
+      <relation_mention id="relm-780" realis="true">
+        <rel_arg1 entity_id="ent-522" entity_mention_id="m-525" role="per">the country’s finance minister</rel_arg1>
+        <rel_arg2 filler_id="f-788" role="role">finance minister</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1694" type="physical" subtype="locatednear">
+      <relation_mention id="relm-790" realis="true">
+        <rel_arg1 entity_id="ent-522" entity_mention_id="m-516" role="entity">Abul Maal Abdul Muhith</rel_arg1>
+        <rel_arg2 entity_id="ent-543" entity_mention_id="m-537" role="loc">New Delhi</rel_arg2>
+        <trigger source="NYT_ENG_20130504.0095" offset="2212" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1695" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-800" realis="true">
+        <rel_arg1 entity_id="ent-141" entity_mention_id="m-552" role="org">the country’s garment industry</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-546" role="loc">the country</rel_arg2>
+        <trigger source="NYT_ENG_20130504.0095" offset="2274" length="9">country’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1696" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1396" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-75" role="entity">work crews</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-57" role="loc">Rana Plaza</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-810" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130504.0095" offset="172" length="5">DEATH</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-24" role="place" realis="true">BUILDING</em_arg>
+      </event_mention>
+      <event_mention id="em-831" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130504.0095" offset="271" length="5">death</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-57" role="place" realis="true">Rana Plaza</em_arg>
+      </event_mention>
+      <event_mention id="em-926" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130504.0095" offset="643" length="5">death</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-114" role="place" realis="true">Rana Plaza</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-859">
+      <event_mention id="em-861" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130504.0095" offset="423" length="11">interrogate</trigger>
+        <em_arg entity_id="ent-87" entity_mention_id="m-81" role="entity" realis="true">investigators</em_arg>
+        <em_arg entity_id="ent-96" entity_mention_id="m-90" role="entity" realis="true">the building’s owner</em_arg>
+        <em_arg entity_id="ent-111" entity_mention_id="m-105" role="entity" realis="true">others arrested in the case</em_arg>
+        <em_arg filler_id="f-900" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-924">
+      <event_mention id="em-903" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130504.0095" offset="467" length="8">arrested</trigger>
+        <em_arg entity_id="ent-111" entity_mention_id="m-105" role="person" realis="true">others arrested in the case</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-968">
+      <event_mention id="em-947" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130504.0095" offset="877" length="5">visit</trigger>
+        <em_arg entity_id="ent-180" entity_mention_id="m-174" role="agent" realis="true">Thousands of onlookers</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-998">
+      <event_mention id="em-970" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130504.0095" offset="966" length="4">said</trigger>
+        <em_arg entity_id="ent-216" entity_mention_id="m-210" role="entity" realis="true">Mohiuddin Khan Alamgir</em_arg>
+        <em_arg filler_id="f-995" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+      <event_mention id="em-1023" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130504.0095" offset="1085" length="9">interview</trigger>
+        <em_arg entity_id="ent-216" entity_mention_id="m-231" role="entity" realis="true">Alamgir</em_arg>
+        <em_arg filler_id="f-1572" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1086">
+      <event_mention id="em-1044" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130504.0095" offset="1236" length="8">arrested</trigger>
+        <em_arg entity_id="ent-276" entity_mention_id="m-270" role="agent" realis="true">The police</em_arg>
+        <em_arg entity_id="ent-96" entity_mention_id="m-279" role="person" realis="true">the building’s owner</em_arg>
+        <em_arg entity_id="ent-303" entity_mention_id="m-297" role="person" realis="true">the owners of four of the factories</em_arg>
+        <em_arg entity_id="ent-327" entity_mention_id="m-321" role="person" realis="true">three engineers</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1109">
+      <event_mention id="em-1088" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="NYT_ENG_20130504.0095" offset="1418" length="12">construction</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-345" role="artifact" realis="true">the building</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1139">
+      <event_mention id="em-1111" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130504.0095" offset="1445" length="6">arrest</trigger>
+        <em_arg entity_id="ent-357" entity_mention_id="m-351" role="person" realis="true">one of the engineers</em_arg>
+        <em_arg filler_id="f-1136" role="time" realis="true">Thursday</em_arg>
+      </event_mention>
+      <event_mention id="em-1187" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130504.0095" offset="1703" length="8">arrested</trigger>
+        <em_arg entity_id="ent-276" entity_mention_id="m-408" role="agent" realis="true">they</em_arg>
+        <em_arg entity_id="ent-357" entity_mention_id="m-414" role="person" realis="true">Khan</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1162">
+      <event_mention id="em-1459" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130504.0095" offset="1567" length="8">persuade</trigger>
+        <em_arg entity_id="ent-357" entity_mention_id="m-372" role="entity" realis="true">Khan</em_arg>
+        <em_arg entity_id="ent-96" entity_mention_id="m-378" role="entity" realis="true">the owner</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1185">
+      <event_mention id="em-1164" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130504.0095" offset="1693" length="4">said</trigger>
+        <em_arg entity_id="ent-276" entity_mention_id="m-402" role="entity" realis="true">The police</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1243">
+      <event_mention id="em-1215" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130504.0095" offset="1740" length="11">interrogate</trigger>
+        <em_arg entity_id="ent-276" entity_mention_id="m-420" role="entity" realis="true">they</em_arg>
+        <em_arg entity_id="ent-357" entity_mention_id="m-426" role="entity" realis="true">him</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1315">
+      <event_mention id="em-1294" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="NYT_ENG_20130504.0095" offset="2028" length="5">added</trigger>
+        <em_arg entity_id="ent-498" entity_mention_id="m-492" role="artifact" realis="true">three upper floors of the building that had been added illegally in recent years</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-501" role="place" realis="true">the building</em_arg>
+        <em_arg filler_id="f-1602" role="time" realis="true">in recent years</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1352">
+      <event_mention id="em-1324" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130504.0095" offset="2189" length="7">remarks</trigger>
+        <em_arg entity_id="ent-522" entity_mention_id="m-516" role="entity" realis="true">Abul Maal Abdul Muhith</em_arg>
+        <em_arg entity_id="ent-543" entity_mention_id="m-537" role="place" realis="true">New Delhi</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1382">
+      <event_mention id="em-1354" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130504.0095" offset="2206" length="5">visit</trigger>
+        <em_arg entity_id="ent-522" entity_mention_id="m-516" role="agent" realis="true">Abul Maal Abdul Muhith</em_arg>
+        <em_arg entity_id="ent-543" entity_mention_id="m-537" role="destination" realis="true">New Delhi</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1434">
+      <event_mention id="em-1406" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="NYT_ENG_20130504.0095" offset="820" length="7">bearing</trigger>
+        <em_arg entity_id="ent-198" entity_mention_id="m-192" role="agent" realis="true">some</em_arg>
+        <em_arg filler_id="f-1431" role="artifact" realis="true">photographs of loved ones still unaccounted for</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1457">
+      <event_mention id="em-1436" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130504.0095" offset="1545" length="7">praised</trigger>
+        <em_arg entity_id="ent-357" entity_mention_id="m-372" role="audience" realis="true">Khan</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1515">
+      <event_mention id="em-1487" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130504.0095" offset="1762" length="11">accusations</trigger>
+        <em_arg entity_id="ent-96" entity_mention_id="m-432" role="entity" realis="true">Rana</em_arg>
+        <em_arg entity_id="ent-444" entity_mention_id="m-438" role="entity" realis="true">the factory owners</em_arg>
+      </event_mention>
+      <event_mention id="em-1517" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130504.0095" offset="1814" length="6">blamed</trigger>
+        <em_arg entity_id="ent-453" entity_mention_id="m-447" role="entity" realis="true">who</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1566">
+      <event_mention id="em-1538" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130504.0095" offset="1838" length="10">reassuring</trigger>
+        <em_arg entity_id="ent-357" entity_mention_id="m-456" role="entity" realis="true">the engineer</em_arg>
+        <em_arg entity_id="ent-453" entity_mention_id="m-468" role="entity" realis="true">them</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1596">
+      <event_mention id="em-1575" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130504.0095" offset="1940" length="7">accused</trigger>
+        <em_arg entity_id="ent-357" entity_mention_id="m-486" role="entity" realis="true">the engineer</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1605">
+      <event_mention id="em-1607" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130504.0095" offset="2408" length="12">according to</trigger>
+        <em_arg entity_id="ent-576" entity_mention_id="m-570" role="entity" realis="true">Associated Press</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

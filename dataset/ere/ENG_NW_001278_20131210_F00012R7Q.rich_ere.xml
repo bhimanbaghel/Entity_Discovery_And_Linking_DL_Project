@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000027" doc_id="ENG_NW_001278_20131210_F00012R7Q" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="130" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-33" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="241" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-39" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="293" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="371" length="30">
+        <mention_text>former South African president</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="392" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-78" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="402" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-117" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="543" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-300" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="938" length="8">
+        <mention_text>the icon</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="942" length="4">icon</nom_head>
+      </entity_mention>
+      <entity_mention id="m-312" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1073" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-318" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1081" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+      <entity_mention id="m-339" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1174" length="25">
+        <mention_text>Nelson Rolihlahla Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-405" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1381" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-411" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1399" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-429" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1472" length="3">
+        <mention_text>His</mention_text>
+      </entity_mention>
+      <entity_mention id="m-471" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1603" length="6">
+        <mention_text>a hero</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="1605" length="4">hero</nom_head>
+      </entity_mention>
+      <entity_mention id="m-483" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1632" length="28">
+        <mention_text>one of its greatest teachers</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="1632" length="3">one</nom_head>
+      </entity_mention>
+      <entity_mention id="m-495" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1663" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-501" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1727" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-519" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1811" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-525" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1829" length="100">
+        <mention_text>one of the greatest leaders of time who made sacrifices for freedom, humanity, democracy and justice</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="1829" length="3">one</nom_head>
+      </entity_mention>
+      <entity_mention id="m-537" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1932" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-552" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1970" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-576" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2075" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-684" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2475" length="6">
+        <mention_text>Madiba</mention_text>
+      </entity_mention>
+      <entity_mention id="m-759" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2825" length="16">
+        <mention_text>our beloved hero</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2837" length="4">hero</nom_head>
+      </entity_mention>
+      <entity_mention id="m-771" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2843" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-810" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2983" length="7">
+        <mention_text>my hero</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2986" length="4">hero</nom_head>
+      </entity_mention>
+      <entity_mention id="m-822" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="3000" length="3">
+        <mention_text>you</mention_text>
+      </entity_mention>
+      <entity_mention id="m-876" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="3132" length="3">
+        <mention_text>you</mention_text>
+      </entity_mention>
+      <entity_mention id="m-882" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3136" length="4">
+        <mention_text>Tata</mention_text>
+      </entity_mention>
+      <entity_mention id="m-888" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3142" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-894" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3290" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-921" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3349" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-939" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="3435" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-966" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3524" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-972" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="3560" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-978" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3567" length="17">
+        <mention_text>a gallant fighter</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3577" length="7">fighter</nom_head>
+      </entity_mention>
+      <entity_mention id="m-984" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3586" length="15">
+        <mention_text>a revolutionary</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3588" length="13">revolutionary</nom_head>
+      </entity_mention>
+      <entity_mention id="m-990" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="3603" length="3">
+        <mention_text>His</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1005" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="3655" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1017" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="3711" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="180" length="15">
+        <mention_text>Stanley Karombo</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-51" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-45" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="316" length="12">
+        <mention_text>JOHANNESBURG</mention_text>
+      </entity_mention>
+      <entity_mention id="m-84" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="428" length="12">
+        <mention_text>Johannesburg</mention_text>
+      </entity_mention>
+      <entity_mention id="m-186" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="732" length="12">
+        <mention_text>Johannesburg</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-60" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-54" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="339" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-75" type="PER" specificity="specificGroup">
+      <entity_mention id="m-900" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3300" length="7">
+        <mention_text>Parents</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3300" length="7">Parents</nom_head>
+      </entity_mention>
+      <entity_mention id="m-906" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="3322" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-96" type="PER" specificity="specificGroup">
+      <entity_mention id="m-90" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="455" length="29">
+        <mention_text>tens of thousands of mourners</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="476" length="8">mourners</nom_head>
+      </entity_mention>
+      <entity_mention id="m-306" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="987" length="8">
+        <mention_text>mourners</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="987" length="8">mourners</nom_head>
+      </entity_mention>
+      <entity_mention id="m-864" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3065" length="25">
+        <mention_text>the people at the stadium</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3069" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-105" type="PER" specificity="specificGroup">
+      <entity_mention id="m-99" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="489" length="26">
+        <mention_text>more than 90 world leaders</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="508" length="7">leaders</nom_head>
+      </entity_mention>
+      <entity_mention id="m-288" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="904" length="42">
+        <mention_text>the world leaders coming to honor the icon</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="914" length="7">leaders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-114" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-108" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="502" length="5">
+        <mention_text>world</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="502" length="5">world</nom_head>
+      </entity_mention>
+      <entity_mention id="m-294" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="908" length="5">
+        <mention_text>world</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="908" length="5">world</nom_head>
+      </entity_mention>
+      <entity_mention id="m-477" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1617" length="9">
+        <mention_text>the world</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="1621" length="5">world</nom_head>
+      </entity_mention>
+      <entity_mention id="m-489" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1639" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-129" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-123" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="568" length="56">
+        <mention_text>a special representative of Chinese President Xi Jinping</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="578" length="14">representative</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-138" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-132" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="596" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+      <entity_mention id="m-156" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="626" length="7">
+        <mention_text>Chinese</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-147" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-150" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="614" length="10">
+        <mention_text>Xi Jinping</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-168" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-171" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="649" length="11">
+        <mention_text>Li Yuanchao</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-183" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-177" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="717" length="11">
+        <mention_text>FNB Stadium</mention_text>
+      </entity_mention>
+      <entity_mention id="m-588" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2123" length="11">
+        <mention_text>the stadium</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2127" length="7">stadium</nom_head>
+      </entity_mention>
+      <entity_mention id="m-858" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3079" length="11">
+        <mention_text>the stadium</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3083" length="7">stadium</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-198" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-192" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="746" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-207" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-210" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="761" length="12">
+        <mention_text>Barack Obama</mention_text>
+      </entity_mention>
+      <entity_mention id="m-564" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2023" length="5">
+        <mention_text>Obama</mention_text>
+      </entity_mention>
+      <entity_mention id="m-570" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="2029" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-222" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-216" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="775" length="7">
+        <mention_text>British</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-231" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-234" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="798" length="13">
+        <mention_text>David Cameron</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-246" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-240" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="813" length="9">
+        <mention_text>Brazilian</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-255" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-258" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="833" length="14">
+        <mention_text>Dilma Rousseff</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-270" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-282" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="882" length="11">
+        <mention_text>Ban Ki-moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-459" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1568" length="11">
+        <mention_text>Ban Ki-moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-507" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1788" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-513" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1798" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-558" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="2013" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-279" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-273" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="859" length="4">
+        <mention_text>U.N.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-453" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1536" length="13">
+        <mention_text>United Nation</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-330" type="PER" specificity="nonspecific">
+      <entity_mention id="m-324" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1144" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+      <entity_mention id="m-333" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1158" length="3">
+        <mention_text>our</mention_text>
+      </entity_mention>
+      <entity_mention id="m-393" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1352" length="2">
+        <mention_text>us</mention_text>
+      </entity_mention>
+      <entity_mention id="m-399" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1365" length="3">
+        <mention_text>our</mention_text>
+      </entity_mention>
+      <entity_mention id="m-435" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1501" length="4">
+        <mention_text>ours</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-351" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-345" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1203" length="15">
+        <mention_text>Cyril Ramaphosa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-354" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1220" length="54">
+        <mention_text>deputy president of South Africa's governing party ANC</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="1227" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-423" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1462" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-441" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="1526" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-366" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-69" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="378" length="13">
+        <mention_text>South African</mention_text>
+      </entity_mention>
+      <entity_mention id="m-360" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1240" length="12">
+        <mention_text>South Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-417" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1448" length="12">
+        <mention_text>South Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-465" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1585" length="12">
+        <mention_text>South Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-582" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2090" length="10">
+        <mention_text>the nation</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2094" length="6">nation</nom_head>
+      </entity_mention>
+      <entity_mention id="m-603" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2256" length="12">
+        <mention_text>South Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-741" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2785" length="12">
+        <mention_text>South Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-765" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="2825" length="3">
+        <mention_text>our</mention_text>
+      </entity_mention>
+      <entity_mention id="m-795" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2926" length="12">
+        <mention_text>South Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-816" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="2992" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-375" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-369" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1240" length="30">
+        <mention_text>South Africa's governing party</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="1265" length="5">party</nom_head>
+      </entity_mention>
+      <entity_mention id="m-378" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1271" length="3">
+        <mention_text>ANC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-783" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2883" length="25">
+        <mention_text>African national Congress</mention_text>
+      </entity_mention>
+      <entity_mention id="m-789" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2910" length="3">
+        <mention_text>ANC</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-390" type="PER" specificity="nonspecific">
+      <entity_mention id="m-384" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1344" length="10">
+        <mention_text>each of us</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="1344" length="4">each</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-549" type="PER" specificity="nonspecific">
+      <entity_mention id="m-543" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1958" length="10">
+        <mention_text>the people</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="1962" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-600" type="PER" specificity="specificGroup">
+      <entity_mention id="m-594" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2192" length="28">
+        <mention_text>a large contingent of police</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2200" length="10">contingent</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-615" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-627" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2288" length="23">
+        <mention_text>Nosivewe Mapisa-Nqakula</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-639" type="ORG" specificity="nonspecific">
+      <entity_mention id="m-633" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2317" length="9">
+        <mention_text>the media</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2321" length="5">media</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-648" type="PER" specificity="specificGroup">
+      <entity_mention id="m-642" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2332" length="23">
+        <mention_text>more than 11,000 troops</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2349" length="6">troops</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-657" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-651" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2416" length="34">
+        <mention_text>the military, air force and police</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2420" length="8">military</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-666" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-660" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2416" length="34">
+        <mention_text>the military, air force and police</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2434" length="5">force</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-675" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-669" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2416" length="34">
+        <mention_text>the military, air force and police</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2444" length="6">police</nom_head>
+      </entity_mention>
+      <entity_mention id="m-678" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="2454" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+      <entity_mention id="m-690" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2522" length="6">
+        <mention_text>police</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2522" length="6">police</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-702" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-696" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2522" length="19">
+        <mention_text>police spokesperson</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2529" length="12">spokesperson</nom_head>
+      </entity_mention>
+      <entity_mention id="m-705" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2543" length="11">
+        <mention_text>Zweli Mnisi</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-717" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-711" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2560" length="4">
+        <mention_text>ENCA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-726" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-720" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2583" length="11">
+        <mention_text>Susan Khupe</mention_text>
+      </entity_mention>
+      <entity_mention id="m-729" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2596" length="12">
+        <mention_text>a young girl</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2604" length="4">girl</nom_head>
+      </entity_mention>
+      <entity_mention id="m-735" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2684" length="22">
+        <mention_text>one of the early birds</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2684" length="3">one</nom_head>
+      </entity_mention>
+      <entity_mention id="m-747" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="2799" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-753" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="2811" length="2">
+        <mention_text>my</mention_text>
+      </entity_mention>
+      <entity_mention id="m-777" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2865" length="5">
+        <mention_text>Khupe</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-807" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-801" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="2983" length="2">
+        <mention_text>my</mention_text>
+      </entity_mention>
+      <entity_mention id="m-828" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3011" length="27">
+        <mention_text>46-year-old Soweto resident</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3030" length="8">resident</nom_head>
+      </entity_mention>
+      <entity_mention id="m-843" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3039" length="15">
+        <mention_text>Timothy Nxumalo</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-840" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-834" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3023" length="6">
+        <mention_text>Soweto</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-855" type="PER" specificity="specificGroup">
+      <entity_mention id="m-849" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3057" length="33">
+        <mention_text>Some of the people at the stadium</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3057" length="4">Some</nom_head>
+      </entity_mention>
+      <entity_mention id="m-870" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="3124" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-918" type="PER" specificity="specificGroup">
+      <entity_mention id="m-912" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3322" length="14">
+        <mention_text>their children</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3328" length="8">children</nom_head>
+      </entity_mention>
+      <entity_mention id="m-927" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3358" length="12">
+        <mention_text>The children</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3362" length="8">children</nom_head>
+      </entity_mention>
+      <entity_mention id="m-933" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="3410" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-951" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-945" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3451" length="10">
+        <mention_text>Peter Knox</mention_text>
+      </entity_mention>
+      <entity_mention id="m-954" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3463" length="32">
+        <mention_text>a 10-year-old primary school boy</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3492" length="3">boy</nom_head>
+      </entity_mention>
+      <entity_mention id="m-960" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="3502" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1011" noun_type="PRO" source="ENG_NW_001278_20131210_F00012R7Q" offset="3702" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1023" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3717" length="4">
+        <mention_text>Knox</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1002" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-996" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3627" length="12">
+        <mention_text>Robin Island</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1315" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-1309" noun_type="NAM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2883" length="7">
+        <mention_text>African</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1384" type="ORG" specificity="specificIndeterminate">
+      <entity_mention id="m-1378" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3442" length="6">
+        <mention_text>school</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3442" length="6">school</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1393" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-1387" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3477" length="14">
+        <mention_text>primary school</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3485" length="6">school</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1422" type="PER" specificity="specificGroup">
+      <entity_mention id="m-1416" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="3687" length="13">
+        <mention_text>the oppressed</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="3691" length="9">oppressed</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1721" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-1715" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2728" length="8">
+        <mention_text>the gate</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2732" length="4">gate</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1841" type="PER" specificity="nonspecific">
+      <entity_mention id="m-1835" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1836" length="28">
+        <mention_text>the greatest leaders of time</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="1849" length="7">leaders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1850" type="PER" specificity="nonspecific">
+      <entity_mention id="m-1844" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="1639" length="21">
+        <mention_text>its greatest teachers</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="1652" length="8">teachers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1865" type="PER" specificity="specificGroup">
+      <entity_mention id="m-1859" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2691" length="15">
+        <mention_text>the early birds</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2701" length="5">birds</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1932" type="PER" specificity="nonspecific">
+      <entity_mention id="m-1853" noun_type="NOM" source="ENG_NW_001278_20131210_F00012R7Q" offset="2214" length="6">
+        <mention_text>police</mention_text>
+        <nom_head source="ENG_NW_001278_20131210_F00012R7Q" offset="2214" length="6">police</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-1047" source="ENG_NW_001278_20131210_F00012R7Q" offset="392" length="9" type="title">president</filler>
+    <filler id="f-1087" source="ENG_NW_001278_20131210_F00012R7Q" offset="604" length="9" type="title">President</filler>
+    <filler id="f-1107" source="ENG_NW_001278_20131210_F00012R7Q" offset="634" length="14" type="title">Vice President</filler>
+    <filler id="f-1147" source="ENG_NW_001278_20131210_F00012R7Q" offset="751" length="9" type="title">President</filler>
+    <filler id="f-1167" source="ENG_NW_001278_20131210_F00012R7Q" offset="783" length="14" type="title">Prime Minister</filler>
+    <filler id="f-1187" source="ENG_NW_001278_20131210_F00012R7Q" offset="823" length="9" type="title">President</filler>
+    <filler id="f-1207" source="ENG_NW_001278_20131210_F00012R7Q" offset="864" length="17" type="title">Secretary General</filler>
+    <filler id="f-1217" source="ENG_NW_001278_20131210_F00012R7Q" offset="1132" length="2" type="age">95</filler>
+    <filler id="f-1237" source="ENG_NW_001278_20131210_F00012R7Q" offset="1220" length="16" type="title">deputy president</filler>
+    <filler id="f-1257" source="ENG_NW_001278_20131210_F00012R7Q" offset="1550" length="17" type="title">Secretary-General</filler>
+    <filler id="f-1287" source="ENG_NW_001278_20131210_F00012R7Q" offset="2271" length="16" type="title">Defense Minister</filler>
+    <filler id="f-1307" source="ENG_NW_001278_20131210_F00012R7Q" offset="2529" length="12" type="title">spokesperson</filler>
+    <filler id="f-1346" source="ENG_NW_001278_20131210_F00012R7Q" offset="3011" length="2" type="age">46</filler>
+    <filler id="f-1376" source="ENG_NW_001278_20131210_F00012R7Q" offset="3465" length="2" type="age">10</filler>
+    <filler id="f-1450" source="ENG_NW_001278_20131210_F00012R7Q" offset="392" length="9" type="title">president</filler>
+    <filler id="f-1492" source="ENG_NW_001278_20131210_F00012R7Q" offset="444" length="7" type="time" nom_time="2013-12-10">Tuesday</filler>
+    <filler id="f-1536" source="ENG_NW_001278_20131210_F00012R7Q" offset="1111" length="6" type="time" nom_time="2013-12-05">Dec. 5</filler>
+    <filler id="f-1566" source="ENG_NW_001278_20131210_F00012R7Q" offset="1307" length="5" type="time" nom_time="2013-12-10">Today</filler>
+    <filler id="f-1689" source="ENG_NW_001278_20131210_F00012R7Q" offset="2573" length="7" type="time" nom_time="2013-12-10">Tuesday</filler>
+  </fillers>
+  <relations>
+    <relation id="r-847" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1029" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-63" role="leader">former South African president</rel_arg1>
+        <rel_arg2 entity_id="ent-366" entity_mention_id="m-69" role="entity">South African</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="392" length="9">president</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-848" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1039" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-78" role="per">Nelson Mandela</rel_arg1>
+        <rel_arg2 filler_id="f-1047" role="role">president</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-849" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1049" realis="true">
+        <rel_arg1 entity_id="ent-96" entity_mention_id="m-90" role="entity">tens of thousands of mourners</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-84" role="loc">Johannesburg</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="425" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-850" type="personalsocial" subtype="business">
+      <relation_mention id="relm-1059" realis="true">
+        <rel_arg1 entity_id="ent-129" entity_mention_id="m-123" role="per">a special representative of Chinese President Xi Jinping</rel_arg1>
+        <rel_arg2 entity_id="ent-147" entity_mention_id="m-150" role="per">Xi Jinping</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="578" length="14">representative</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-851" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1069" realis="true">
+        <rel_arg1 entity_id="ent-147" entity_mention_id="m-150" role="leader">Xi Jinping</rel_arg1>
+        <rel_arg2 entity_id="ent-138" entity_mention_id="m-132" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="604" length="9">President</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-852" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1079" realis="true">
+        <rel_arg1 entity_id="ent-147" entity_mention_id="m-150" role="per">Xi Jinping</rel_arg1>
+        <rel_arg2 filler_id="f-1087" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-853" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1089" realis="true">
+        <rel_arg1 entity_id="ent-168" entity_mention_id="m-171" role="leader">Li Yuanchao</rel_arg1>
+        <rel_arg2 entity_id="ent-138" entity_mention_id="m-156" role="entity">Chinese</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="634" length="14">Vice President</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-854" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1099" realis="true">
+        <rel_arg1 entity_id="ent-168" entity_mention_id="m-171" role="per">Li Yuanchao</rel_arg1>
+        <rel_arg2 filler_id="f-1107" role="role">Vice President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-855" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1109" realis="true">
+        <rel_arg1 entity_id="ent-168" entity_mention_id="m-171" role="entity">Li Yuanchao</rel_arg1>
+        <rel_arg2 entity_id="ent-183" entity_mention_id="m-177" role="loc">FNB Stadium</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="710" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-856" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1119" realis="true">
+        <rel_arg1 entity_id="ent-183" entity_mention_id="m-177" role="entity">FNB Stadium</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-186" role="loc">Johannesburg</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="729" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-857" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1129" realis="true">
+        <rel_arg1 entity_id="ent-207" entity_mention_id="m-210" role="leader">Barack Obama</rel_arg1>
+        <rel_arg2 entity_id="ent-198" entity_mention_id="m-192" role="entity">U.S.</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="751" length="9">President</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-858" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1139" realis="true">
+        <rel_arg1 entity_id="ent-207" entity_mention_id="m-210" role="per">Barack Obama</rel_arg1>
+        <rel_arg2 filler_id="f-1147" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-859" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1149" realis="true">
+        <rel_arg1 entity_id="ent-231" entity_mention_id="m-234" role="leader">David Cameron</rel_arg1>
+        <rel_arg2 entity_id="ent-222" entity_mention_id="m-216" role="entity">British</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="783" length="14">Prime Minister</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-860" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1159" realis="true">
+        <rel_arg1 entity_id="ent-231" entity_mention_id="m-234" role="per">David Cameron</rel_arg1>
+        <rel_arg2 filler_id="f-1167" role="role">Prime Minister</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-861" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1169" realis="true">
+        <rel_arg1 entity_id="ent-255" entity_mention_id="m-258" role="leader">Dilma Rousseff</rel_arg1>
+        <rel_arg2 entity_id="ent-246" entity_mention_id="m-240" role="entity">Brazilian</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="823" length="9">President</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-862" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1179" realis="true">
+        <rel_arg1 entity_id="ent-255" entity_mention_id="m-258" role="per">Dilma Rousseff</rel_arg1>
+        <rel_arg2 filler_id="f-1187" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-863" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1189" realis="true">
+        <rel_arg1 entity_id="ent-270" entity_mention_id="m-282" role="leader">Ban Ki-moon</rel_arg1>
+        <rel_arg2 entity_id="ent-279" entity_mention_id="m-273" role="entity">U.N.</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="864" length="17">Secretary General</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1239" realis="true">
+        <rel_arg1 entity_id="ent-270" entity_mention_id="m-459" role="leader">Ban Ki-moon</rel_arg1>
+        <rel_arg2 entity_id="ent-279" entity_mention_id="m-453" role="entity">United Nation</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="1550" length="17">Secretary-General</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-864" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1199" realis="true">
+        <rel_arg1 entity_id="ent-270" entity_mention_id="m-282" role="per">Ban Ki-moon</rel_arg1>
+        <rel_arg2 filler_id="f-1207" role="role">Secretary General</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1249" realis="true">
+        <rel_arg1 entity_id="ent-270" entity_mention_id="m-459" role="per">Ban Ki-moon</rel_arg1>
+        <rel_arg2 filler_id="f-1257" role="role">Secretary-General</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-865" type="generalaffiliation" subtype="personage">
+      <relation_mention id="relm-1209" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-318" role="per">who</rel_arg1>
+        <rel_arg2 filler_id="f-1217" role="age">95</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="1125" length="3">age</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-866" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1219" realis="true">
+        <rel_arg1 entity_id="ent-351" entity_mention_id="m-354" role="employeemember">deputy president of South Africa's governing party ANC</rel_arg1>
+        <rel_arg2 entity_id="ent-375" entity_mention_id="m-369" role="org">South Africa's governing party</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="1220" length="6">deputy</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-867" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1229" realis="true">
+        <rel_arg1 entity_id="ent-351" entity_mention_id="m-345" role="per">Cyril Ramaphosa</rel_arg1>
+        <rel_arg2 filler_id="f-1237" role="role">deputy president</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-868" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1269" realis="true">
+        <rel_arg1 entity_id="ent-615" entity_mention_id="m-627" role="employeemember">Nosivewe Mapisa-Nqakula</rel_arg1>
+        <rel_arg2 entity_id="ent-366" entity_mention_id="m-603" role="org">South Africa</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="2271" length="16">Defense Minister</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-869" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1279" realis="true">
+        <rel_arg1 entity_id="ent-615" entity_mention_id="m-627" role="per">Nosivewe Mapisa-Nqakula</rel_arg1>
+        <rel_arg2 filler_id="f-1287" role="role">Defense Minister</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-870" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1289" realis="true">
+        <rel_arg1 entity_id="ent-702" entity_mention_id="m-696" role="employeemember">police spokesperson</rel_arg1>
+        <rel_arg2 entity_id="ent-675" entity_mention_id="m-690" role="org">police</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="2529" length="12">spokesperson</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-871" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1299" realis="true">
+        <rel_arg1 entity_id="ent-702" entity_mention_id="m-696" role="per">police spokesperson</rel_arg1>
+        <rel_arg2 filler_id="f-1307" role="role">spokesperson</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-872" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1318" realis="true">
+        <rel_arg1 entity_id="ent-375" entity_mention_id="m-783" role="org">African national Congress</rel_arg1>
+        <rel_arg2 entity_id="ent-1315" entity_mention_id="m-1309" role="loc">African</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="2883" length="7">African</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-873" type="physical" subtype="resident">
+      <relation_mention id="relm-1328" realis="true">
+        <rel_arg1 entity_id="ent-807" entity_mention_id="m-828" role="per">46-year-old Soweto resident</rel_arg1>
+        <rel_arg2 entity_id="ent-840" entity_mention_id="m-834" role="loc">Soweto</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="3030" length="8">resident</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-874" type="generalaffiliation" subtype="personage">
+      <relation_mention id="relm-1338" realis="true">
+        <rel_arg1 entity_id="ent-807" entity_mention_id="m-828" role="per">46-year-old Soweto resident</rel_arg1>
+        <rel_arg2 filler_id="f-1346" role="age">46</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="3014" length="8">year-old</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-875" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1348" realis="true">
+        <rel_arg1 entity_id="ent-96" entity_mention_id="m-864" role="entity">the people at the stadium</rel_arg1>
+        <rel_arg2 entity_id="ent-183" entity_mention_id="m-858" role="loc">the stadium</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="3076" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-876" type="personalsocial" subtype="family">
+      <relation_mention id="relm-1358" realis="true">
+        <rel_arg1 entity_id="ent-75" entity_mention_id="m-906" role="per">their</rel_arg1>
+        <rel_arg2 entity_id="ent-918" entity_mention_id="m-912" role="per">their children</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="3328" length="8">children</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-877" type="generalaffiliation" subtype="personage">
+      <relation_mention id="relm-1368" realis="true">
+        <rel_arg1 entity_id="ent-951" entity_mention_id="m-954" role="per">a 10-year-old primary school boy</rel_arg1>
+        <rel_arg2 filler_id="f-1376" role="age">10</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="3468" length="8">year-old</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-878" type="orgaffiliation" subtype="studentalum">
+      <relation_mention id="relm-1396" realis="true">
+        <rel_arg1 entity_id="ent-951" entity_mention_id="m-954" role="studentalumni">a 10-year-old primary school boy</rel_arg1>
+        <rel_arg2 entity_id="ent-1393" entity_mention_id="m-1387" role="org">primary school</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-879" type="orgaffiliation" subtype="studentalum">
+      <relation_mention id="relm-1406" realis="true">
+        <rel_arg1 entity_id="ent-918" entity_mention_id="m-933" role="studentalumni">they</rel_arg1>
+        <rel_arg2 entity_id="ent-1384" entity_mention_id="m-1378" role="org">school</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-880" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1617" realis="true">
+        <rel_arg1 entity_id="ent-600" entity_mention_id="m-594" role="entity">a large contingent of police</rel_arg1>
+        <rel_arg2 entity_id="ent-183" entity_mention_id="m-588" role="loc">the stadium</rel_arg2>
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="2120" length="2">In</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1425" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="371" length="6">former</trigger>
+        <em_arg entity_id="ent-366" entity_mention_id="m-69" role="entity" realis="true">South African</em_arg>
+        <em_arg filler_id="f-1450" role="position" realis="true">president</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-63" role="person" realis="true">former South African president</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1509">
+      <event_mention id="em-1460" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="673" length="6">speech</trigger>
+        <em_arg entity_id="ent-168" entity_mention_id="m-171" role="entity" realis="true">Li Yuanchao</em_arg>
+        <em_arg entity_id="ent-183" entity_mention_id="m-177" role="place" realis="true">FNB Stadium</em_arg>
+        <em_arg filler_id="f-1492" role="time" realis="true">Tuesday</em_arg>
+        <em_arg entity_id="ent-96" entity_mention_id="m-90" role="audience" realis="true">tens of thousands of mourners</em_arg>
+        <em_arg entity_id="ent-105" entity_mention_id="m-99" role="audience" realis="true">more than 90 world leaders</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1539">
+      <event_mention id="em-1511" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="1085" length="4">died</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-318" role="victim" realis="true">who</em_arg>
+        <em_arg filler_id="f-1536" role="time" realis="true">Dec. 5</em_arg>
+      </event_mention>
+      <event_mention id="em-1733" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="3281" length="5">death</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-894" role="victim" realis="true">Mandela</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1569">
+      <event_mention id="em-1541" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="1275" length="4">said</trigger>
+        <em_arg entity_id="ent-351" entity_mention_id="m-354" role="entity" realis="true">deputy president of South Africa's governing party ANC</em_arg>
+        <em_arg filler_id="f-1566" role="time" realis="true">Today</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1592">
+      <event_mention id="em-1571" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="1791" length="4">said</trigger>
+        <em_arg entity_id="ent-270" entity_mention_id="m-507" role="entity" realis="true">he</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1615">
+      <event_mention id="em-1594" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="2070" length="4">said</trigger>
+        <em_arg entity_id="ent-207" entity_mention_id="m-564" role="entity" realis="true">Obama</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1655">
+      <event_mention id="em-1627" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="2312" length="4">told</trigger>
+        <em_arg entity_id="ent-615" entity_mention_id="m-627" role="entity" realis="true">Nosivewe Mapisa-Nqakula</em_arg>
+        <em_arg entity_id="ent-639" entity_mention_id="m-633" role="audience" realis="true">the media</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1692">
+      <event_mention id="em-1657" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="2555" length="4">told</trigger>
+        <em_arg entity_id="ent-702" entity_mention_id="m-705" role="entity" realis="true">Zweli Mnisi</em_arg>
+        <em_arg entity_id="ent-717" entity_mention_id="m-711" role="audience" realis="true">ENCA</em_arg>
+        <em_arg filler_id="f-1689" role="time" realis="true">Tuesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1731">
+      <event_mention id="em-1694" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="2610" length="6">walked</trigger>
+        <em_arg entity_id="ent-726" entity_mention_id="m-729" role="person" realis="true">a young girl</em_arg>
+        <em_arg entity_id="ent-1721" entity_mention_id="m-1715" role="destination" realis="true">the gate</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1782">
+      <event_mention id="em-1754" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="3313" length="8">bringing</trigger>
+        <em_arg entity_id="ent-75" entity_mention_id="m-900" role="agent" realis="true">Parents</em_arg>
+        <em_arg entity_id="ent-918" entity_mention_id="m-912" role="person" realis="true">their children</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1833">
+      <event_mention id="em-1805" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="3607" length="12">imprisonment</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-990" role="person" realis="true">His</em_arg>
+        <em_arg entity_id="ent-1002" entity_mention_id="m-996" role="place" realis="true">Robin Island</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1930">
+      <event_mention id="em-1874" type="movement" subtype="transportperson" realis="other">
+        <trigger source="ENG_NW_001278_20131210_F00012R7Q" offset="922" length="6">coming</trigger>
+        <em_arg entity_id="ent-105" entity_mention_id="m-288" role="agent" realis="true">the world leaders coming to honor the icon</em_arg>
+        <em_arg entity_id="ent-183" entity_mention_id="m-177" role="destination" realis="true">FNB Stadium</em_arg>
+        <em_arg entity_id="ent-207" entity_mention_id="m-210" role="agent" realis="true">Barack Obama</em_arg>
+        <em_arg entity_id="ent-231" entity_mention_id="m-234" role="agent" realis="true">David Cameron</em_arg>
+        <em_arg entity_id="ent-255" entity_mention_id="m-258" role="agent" realis="true">Dilma Rousseff</em_arg>
+        <em_arg entity_id="ent-270" entity_mention_id="m-282" role="agent" realis="true">Ban Ki-moon</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

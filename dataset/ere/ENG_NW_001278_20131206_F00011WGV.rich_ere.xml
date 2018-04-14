@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000084" doc_id="ENG_NW_001278_20131206_F00011WGV" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="119" length="12">
+        <mention_text>Lee Kuan Yew</mention_text>
+      </entity_mention>
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="228" length="12">
+        <mention_text>Lee Kuan Yew</mention_text>
+      </entity_mention>
+      <entity_mention id="m-54" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="291" length="12">
+        <mention_text>Lee Kuan Yew</mention_text>
+      </entity_mention>
+      <entity_mention id="m-132" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="472" length="12">
+        <mention_text>Lee Kuan Yew</mention_text>
+      </entity_mention>
+      <entity_mention id="m-162" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="587" length="12">
+        <mention_text>Lee Kuan Yew</mention_text>
+      </entity_mention>
+      <entity_mention id="m-168" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="601" length="39">
+        <mention_text>the founding father of modern Singapore</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="614" length="6">father</nom_head>
+      </entity_mention>
+      <entity_mention id="m-180" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="645" length="32">
+        <mention_text>a member of Mandela's generation</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="647" length="6">member</nom_head>
+      </entity_mention>
+      <entity_mention id="m-198" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="684" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-276" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="945" length="12">
+        <mention_text>Lee Kuan Yew</mention_text>
+      </entity_mention>
+      <entity_mention id="m-306" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1044" length="2">
+        <mention_text>My</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-24" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-36" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="148" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-48" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="257" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-60" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="320" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-150" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="520" length="39">
+        <mention_text>South Africa's late anti-apartheid icon</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="555" length="4">icon</nom_head>
+      </entity_mention>
+      <entity_mention id="m-156" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="560" length="14">
+        <mention_text>Nelson Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-186" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="657" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="703" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-222" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="744" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-228" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="756" length="38">
+        <mention_text>an inspiration to an entire generation</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="759" length="11">inspiration</nom_head>
+      </entity_mention>
+      <entity_mention id="m-246" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="809" length="38">
+        <mention_text>an inspiration to an entire generation</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="812" length="11">inspiration</nom_head>
+      </entity_mention>
+      <entity_mention id="m-252" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="798" length="6">
+        <mention_text>Nelson</mention_text>
+      </entity_mention>
+      <entity_mention id="m-258" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="857" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-282" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="967" length="29">
+        <mention_text>A charming and unassuming man</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="993" length="3">man</nom_head>
+      </entity_mention>
+      <entity_mention id="m-294" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="998" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-312" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1070" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-318" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1084" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-360" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1246" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-366" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="1264" length="34">
+        <mention_text>a historic leader for South Africa</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="1275" length="6">leader</nom_head>
+      </entity_mention>
+      <entity_mention id="m-378" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1303" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-390" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1369" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-420" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1501" length="3">
+        <mention_text>His</mention_text>
+      </entity_mention>
+      <entity_mention id="m-456" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1667" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-468" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1709" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-474" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1730" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-480" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="1738" length="26">
+        <mention_text>one of the greatest of men</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="1738" length="3">one</nom_head>
+      </entity_mention>
+      <entity_mention id="m-513" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1873" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-519" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="1886" length="13">
+        <mention_text>a wise leader</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="1893" length="6">leader</nom_head>
+      </entity_mention>
+      <entity_mention id="m-525" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="1904" length="19">
+        <mention_text>a great human being</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="1912" length="5">human</nom_head>
+      </entity_mention>
+      <entity_mention id="m-537" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1941" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-543" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1993" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-564" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="2087" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-588" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="2166" length="7">
+        <mention_text>Mandela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-594" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="2197" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-27" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-66" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="336" length="9">
+        <mention_text>SINGAPORE</mention_text>
+      </entity_mention>
+      <entity_mention id="m-72" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="366" length="9">
+        <mention_text>Singapore</mention_text>
+      </entity_mention>
+      <entity_mention id="m-174" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="631" length="9">
+        <mention_text>Singapore</mention_text>
+      </entity_mention>
+      <entity_mention id="m-414" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1468" length="9">
+        <mention_text>Singapore</mention_text>
+      </entity_mention>
+      <entity_mention id="m-507" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="1812" length="12">
+        <mention_text>the republic</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="1816" length="8">republic</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="specificGroup">
+      <entity_mention id="m-78" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="366" length="19">
+        <mention_text>Singapore statesmen</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="376" length="9">statesmen</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-33" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-84" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="409" length="15">
+        <mention_text>Lee Hsien Loong</mention_text>
+      </entity_mention>
+      <entity_mention id="m-330" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1143" length="15">
+        <mention_text>Lee Hsien Loong</mention_text>
+      </entity_mention>
+      <entity_mention id="m-354" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1220" length="15">
+        <mention_text>Lee Hsien Loong</mention_text>
+      </entity_mention>
+      <entity_mention id="m-408" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="1464" length="28">
+        <mention_text>the Singapore prime minister</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="1484" length="8">minister</nom_head>
+      </entity_mention>
+      <entity_mention id="m-438" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1604" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-444" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1615" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-450" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1632" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-90" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-120" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="436" length="8">
+        <mention_text>Tony Tan</mention_text>
+      </entity_mention>
+      <entity_mention id="m-324" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1118" length="8">
+        <mention_text>Tony Tan</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-93" type="PER" specificity="specificGroup">
+      <entity_mention id="m-832" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="449" length="22">
+        <mention_text>former prime ministers</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="462" length="9">ministers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-96" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-138" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="489" length="13">
+        <mention_text>Goh Chok Tong</mention_text>
+      </entity_mention>
+      <entity_mention id="m-495" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1768" length="13">
+        <mention_text>Goh Chok Tong</mention_text>
+      </entity_mention>
+      <entity_mention id="m-501" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="1783" length="83">
+        <mention_text>the second prime minister of the republic who is currently Emeritus Senior Minister</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="1800" length="8">minister</nom_head>
+      </entity_mention>
+      <entity_mention id="m-531" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1927" length="3">
+        <mention_text>Goh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-570" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="2109" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-576" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="2128" length="3">
+        <mention_text>Goh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-582" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="2137" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-99" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-144" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="520" length="12">
+        <mention_text>South Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-264" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="888" length="37">
+        <mention_text>the democratic and multiracial nation</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="919" length="6">nation</nom_head>
+      </entity_mention>
+      <entity_mention id="m-270" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="862" length="12">
+        <mention_text>South Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-288" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="931" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+      <entity_mention id="m-372" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1286" length="12">
+        <mention_text>South Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-384" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="1313" length="24">
+        <mention_text>a deeply divided country</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="1330" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-396" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1410" length="12">
+        <mention_text>South Africa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-402" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1437" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-102" type="PER" specificity="specificGroup">
+      <entity_mention id="m-192" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="657" length="20">
+        <mention_text>Mandela's generation</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="667" length="10">generation</nom_head>
+      </entity_mention>
+      <entity_mention id="m-234" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="774" length="20">
+        <mention_text>an entire generation</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="784" length="10">generation</nom_head>
+      </entity_mention>
+      <entity_mention id="m-240" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="827" length="20">
+        <mention_text>an entire generation</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="837" length="10">generation</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-105" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-210" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="703" length="14">
+        <mention_text>Mandela's wife</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="713" length="4">wife</nom_head>
+      </entity_mention>
+      <entity_mention id="m-216" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="718" length="12">
+        <mention_text>Graca Machel</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-108" type="PER" specificity="specificGroup">
+      <entity_mention id="m-300" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="1034" length="8">
+        <mention_text>millions</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="1034" length="8">millions</nom_head>
+      </entity_mention>
+      <entity_mention id="m-426" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="1576" length="25">
+        <mention_text>millions around the world</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="1576" length="8">millions</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-111" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-336" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1180" length="11">
+        <mention_text>K Shanmugam</mention_text>
+      </entity_mention>
+      <entity_mention id="m-462" noun_type="NAM" source="ENG_NW_001278_20131206_F00011WGV" offset="1678" length="9">
+        <mention_text>Shanmugam</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-114" type="PER" specificity="specificGroup">
+      <entity_mention id="m-342" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1192" length="3">
+        <mention_text>all</mention_text>
+      </entity_mention>
+      <entity_mention id="m-348" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="1201" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-117" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-432" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="1592" length="9">
+        <mention_text>the world</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="1596" length="5">world</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-492" type="PER" specificity="nonspecific">
+      <entity_mention id="m-486" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="1761" length="3">
+        <mention_text>men</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="1761" length="3">men</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-555" type="PER" specificity="nonspecific">
+      <entity_mention id="m-549" noun_type="NOM" source="ENG_NW_001278_20131206_F00011WGV" offset="2002" length="6">
+        <mention_text>people</mention_text>
+        <nom_head source="ENG_NW_001278_20131206_F00011WGV" offset="2002" length="6">people</nom_head>
+      </entity_mention>
+      <entity_mention id="m-558" noun_type="PRO" source="ENG_NW_001278_20131206_F00011WGV" offset="2024" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-639" source="ENG_NW_001278_20131206_F00011WGV" offset="376" length="9" type="title">statesmen</filler>
+    <filler id="f-649" source="ENG_NW_001278_20131206_F00011WGV" offset="394" length="14" type="title">Prime Minister</filler>
+    <filler id="f-659" source="ENG_NW_001278_20131206_F00011WGV" offset="426" length="9" type="title">President</filler>
+    <filler id="f-669" source="ENG_NW_001278_20131206_F00011WGV" offset="456" length="15" type="title">prime ministers</filler>
+    <filler id="f-709" source="ENG_NW_001278_20131206_F00011WGV" offset="1108" length="9" type="title">President</filler>
+    <filler id="f-719" source="ENG_NW_001278_20131206_F00011WGV" offset="1128" length="14" type="title">Prime Minister</filler>
+    <filler id="f-729" source="ENG_NW_001278_20131206_F00011WGV" offset="1163" length="16" type="title">Foreign Minister</filler>
+    <filler id="f-759" source="ENG_NW_001278_20131206_F00011WGV" offset="1478" length="14" type="title">prime minister</filler>
+    <filler id="f-789" source="ENG_NW_001278_20131206_F00011WGV" offset="1794" length="14" type="title">prime minister</filler>
+    <filler id="f-809" source="ENG_NW_001278_20131206_F00011WGV" offset="1842" length="24" type="title">Emeritus Senior Minister</filler>
+    <filler id="f-842" source="ENG_NW_001278_20131206_F00011WGV" offset="456" length="15" type="title">prime ministers</filler>
+  </fillers>
+  <relations>
+    <relation id="r-2236" type="personalsocial" subtype="role">
+      <relation_mention id="relm-631" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-78" role="per">Singapore statesmen</rel_arg1>
+        <rel_arg2 filler_id="f-639" role="role">statesmen</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-2237" type="personalsocial" subtype="role">
+      <relation_mention id="relm-641" realis="true">
+        <rel_arg1 entity_id="ent-33" entity_mention_id="m-84" role="per">Lee Hsien Loong</rel_arg1>
+        <rel_arg2 filler_id="f-649" role="role">Prime Minister</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-711" realis="true">
+        <rel_arg1 entity_id="ent-33" entity_mention_id="m-330" role="per">Lee Hsien Loong</rel_arg1>
+        <rel_arg2 filler_id="f-719" role="role">Prime Minister</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-751" realis="true">
+        <rel_arg1 entity_id="ent-33" entity_mention_id="m-408" role="per">the Singapore prime minister</rel_arg1>
+        <rel_arg2 filler_id="f-759" role="role">prime minister</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-2238" type="personalsocial" subtype="role">
+      <relation_mention id="relm-651" realis="true">
+        <rel_arg1 entity_id="ent-90" entity_mention_id="m-120" role="per">Tony Tan</rel_arg1>
+        <rel_arg2 filler_id="f-659" role="role">President</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-701" realis="true">
+        <rel_arg1 entity_id="ent-90" entity_mention_id="m-324" role="per">Tony Tan</rel_arg1>
+        <rel_arg2 filler_id="f-709" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-2239" type="personalsocial" subtype="role">
+      <relation_mention id="relm-661" realis="true">
+        <rel_arg1 entity_id="ent-93" entity_mention_id="m-832" role="per">former prime ministers</rel_arg1>
+        <rel_arg2 filler_id="f-669" role="role">prime ministers</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-2240" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-671" realis="true">
+        <rel_arg1 entity_id="ent-24" entity_mention_id="m-150" role="per">South Africa's late anti-apartheid icon</rel_arg1>
+        <rel_arg2 entity_id="ent-99" entity_mention_id="m-144" role="entity">South Africa</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="520" length="14">South Africa's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2241" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-681" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-78" role="leader">Singapore statesmen</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-72" role="entity">Singapore</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="376" length="9">statesmen</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2242" type="personalsocial" subtype="family">
+      <relation_mention id="relm-691" realis="true">
+        <rel_arg1 entity_id="ent-24" entity_mention_id="m-204" role="per">Mandela</rel_arg1>
+        <rel_arg2 entity_id="ent-105" entity_mention_id="m-210" role="per">Mandela's wife</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="713" length="4">wife</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2243" type="personalsocial" subtype="role">
+      <relation_mention id="relm-721" realis="true">
+        <rel_arg1 entity_id="ent-111" entity_mention_id="m-336" role="per">K Shanmugam</rel_arg1>
+        <rel_arg2 filler_id="f-729" role="role">Foreign Minister</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-2244" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-731" realis="true">
+        <rel_arg1 entity_id="ent-24" entity_mention_id="m-366" role="leader">a historic leader for South Africa</rel_arg1>
+        <rel_arg2 entity_id="ent-99" entity_mention_id="m-372" role="entity">South Africa</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="1275" length="6">leader</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2245" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-741" realis="true">
+        <rel_arg1 entity_id="ent-33" entity_mention_id="m-408" role="leader">the Singapore prime minister</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-414" role="entity">Singapore</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="1478" length="14">prime minister</trigger>
+      </relation_mention>
+      <relation_mention id="relm-852" realis="true">
+        <rel_arg1 entity_id="ent-33" entity_mention_id="m-84" role="leader">Lee Hsien Loong</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-72" role="entity">Singapore</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="376" length="9">statesmen</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2246" type="physical" subtype="locatednear">
+      <relation_mention id="relm-761" realis="true">
+        <rel_arg1 entity_id="ent-108" entity_mention_id="m-426" role="entity">millions around the world</rel_arg1>
+        <rel_arg2 entity_id="ent-117" entity_mention_id="m-432" role="loc">the world</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="1585" length="6">around</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2247" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-771" realis="true">
+        <rel_arg1 entity_id="ent-96" entity_mention_id="m-501" role="leader">the second prime minister of the republic who is currently Emeritus Senior Minister</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-507" role="entity">the republic</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="1794" length="14">prime minister</trigger>
+      </relation_mention>
+      <relation_mention id="relm-882" realis="true">
+        <rel_arg1 entity_id="ent-96" entity_mention_id="m-138" role="leader">Goh Chok Tong</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-72" role="entity">Singapore</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="376" length="9">statesmen</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2248" type="personalsocial" subtype="role">
+      <relation_mention id="relm-781" realis="true">
+        <rel_arg1 entity_id="ent-96" entity_mention_id="m-501" role="per">the second prime minister of the republic who is currently Emeritus Senior Minister</rel_arg1>
+        <rel_arg2 filler_id="f-789" role="role">prime minister</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-801" realis="true">
+        <rel_arg1 entity_id="ent-96" entity_mention_id="m-501" role="per">the second prime minister of the republic who is currently Emeritus Senior Minister</rel_arg1>
+        <rel_arg2 filler_id="f-809" role="role">Emeritus Senior Minister</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-2249" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-862" realis="true">
+        <rel_arg1 entity_id="ent-90" entity_mention_id="m-120" role="leader">Tony Tan</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-72" role="entity">Singapore</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="376" length="9">statesmen</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2250" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-872" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-132" role="leader">Lee Kuan Yew</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-72" role="entity">Singapore</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="376" length="9">statesmen</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2251" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-952" realis="true">
+        <rel_arg1 entity_id="ent-93" entity_mention_id="m-832" role="leader">former prime ministers</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-72" role="entity">Singapore</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="376" length="9">statesmen</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-2252" type="personalsocial" subtype="unspecified">
+      <relation_mention id="relm-1181" realis="true">
+        <rel_arg1 entity_id="ent-96" entity_mention_id="m-582" role="per">he</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-594" role="per">him</rel_arg2>
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="2192" length="4">know</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-811" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="449" length="6">former</trigger>
+        <em_arg entity_id="ent-93" entity_mention_id="m-832" role="person" realis="true">former prime ministers</em_arg>
+        <em_arg filler_id="f-842" role="position" realis="true">prime ministers</em_arg>
+        <em_arg entity_id="ent-27" entity_mention_id="m-72" role="entity" realis="true">Singapore</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-920">
+      <event_mention id="em-892" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="449" length="6">former</trigger>
+        <em_arg entity_id="ent-27" entity_mention_id="m-72" role="entity" realis="true">Singapore</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-132" role="person" realis="true">Lee Kuan Yew</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-950">
+      <event_mention id="em-922" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="449" length="6">former</trigger>
+        <em_arg entity_id="ent-27" entity_mention_id="m-72" role="entity" realis="true">Singapore</em_arg>
+        <em_arg entity_id="ent-96" entity_mention_id="m-138" role="person" realis="true">Goh Chok Tong</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-990">
+      <event_mention id="em-962" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="688" length="11">condolences</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-198" role="entity" realis="true">his</em_arg>
+        <em_arg entity_id="ent-105" entity_mention_id="m-210" role="audience" realis="true">Mandela's wife</em_arg>
+      </event_mention>
+      <event_mention id="em-992" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="1099" length="6">letter</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-318" role="entity" realis="true">he</em_arg>
+      </event_mention>
+      <event_mention id="em-1191" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="958" length="5">wrote</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-276" role="entity" realis="true">Lee Kuan Yew</em_arg>
+        <em_arg entity_id="ent-105" entity_mention_id="m-216" role="audience" realis="true">Graca Machel</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1034">
+      <event_mention id="em-1013" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="1207" length="11">condolences</trigger>
+        <em_arg entity_id="ent-114" entity_mention_id="m-348" role="entity" realis="true">their</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1057">
+      <event_mention id="em-1036" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="1236" length="4">said</trigger>
+        <em_arg entity_id="ent-33" entity_mention_id="m-354" role="entity" realis="true">Lee Hsien Loong</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1080">
+      <event_mention id="em-1059" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="1623" length="5">wrote</trigger>
+        <em_arg entity_id="ent-33" entity_mention_id="m-444" role="entity" realis="true">He</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1103">
+      <event_mention id="em-1082" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="1718" length="6">saying</trigger>
+        <em_arg entity_id="ent-111" entity_mention_id="m-462" role="entity" realis="true">Shanmugam</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1126">
+      <event_mention id="em-1105" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="1868" length="4">said</trigger>
+        <em_arg entity_id="ent-96" entity_mention_id="m-501" role="entity" realis="true">the second prime minister of the republic who is currently Emeritus Senior Minister</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1149">
+      <event_mention id="em-1128" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="2098" length="7">Writing</trigger>
+        <em_arg entity_id="ent-96" entity_mention_id="m-576" role="entity" realis="true">Goh</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1179">
+      <event_mention id="em-1151" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="2162" length="3">met</trigger>
+        <em_arg entity_id="ent-96" entity_mention_id="m-582" role="entity" realis="true">he</em_arg>
+        <em_arg entity_id="ent-24" entity_mention_id="m-588" role="entity" realis="true">Mandela</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1240">
+      <event_mention id="em-1219" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131206_F00011WGV" offset="1493" length="4">said</trigger>
+        <em_arg entity_id="ent-33" entity_mention_id="m-408" role="entity" realis="true">the Singapore prime minister</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

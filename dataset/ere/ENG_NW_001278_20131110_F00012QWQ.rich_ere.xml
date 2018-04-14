@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000005" doc_id="ENG_NW_001278_20131110_F00012QWQ" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="110" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="219" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-54" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="280" length="14">
+        <mention_text>UNITED NATIONS</mention_text>
+      </entity_mention>
+      <entity_mention id="m-78" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="319" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-84" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="354" length="14">
+        <mention_text>the world body</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="364" length="4">body</nom_head>
+      </entity_mention>
+      <entity_mention id="m-138" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="561" length="14">
+        <mention_text>United Nations</mention_text>
+      </entity_mention>
+      <entity_mention id="m-213" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="853" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-231" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1223" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-411" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1925" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-843" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3732" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="139" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-48" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="248" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-99" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="387" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-105" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="402" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-144" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="592" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-462" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2015" length="7">
+        <mention_text>country</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2015" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-483" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2059" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-684" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3054" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-711" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3202" length="17">
+        <mention_text>the Asian country</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3212" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-771" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3543" length="7">
+        <mention_text>Country</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3543" length="7">Country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-867" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3871" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3875" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-900" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3975" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-930" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4169" length="11">
+        <mention_text>Philippines</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1017" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4491" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="4495" length="7">country</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-66" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-60" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="304" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-75" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-69" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="315" length="19">
+        <mention_text>The UN relief chief</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="329" length="5">chief</nom_head>
+      </entity_mention>
+      <entity_mention id="m-201" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="835" length="12">
+        <mention_text>Valerie Amos</mention_text>
+      </entity_mention>
+      <entity_mention id="m-207" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="849" length="55">
+        <mention_text>the UN under-secretary-general for humanitarian affairs</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="856" length="23">under-secretary-general</nom_head>
+      </entity_mention>
+      <entity_mention id="m-513" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2264" length="4">
+        <mention_text>Amos</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-96" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-90" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="358" length="5">
+        <mention_text>world</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="358" length="5">world</nom_head>
+      </entity_mention>
+      <entity_mention id="m-432" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1961" length="5">
+        <mention_text>World</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="1961" length="5">World</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-117" type="PER" specificity="specificGroup">
+      <entity_mention id="m-111" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="496" length="20">
+        <mention_text>more than 150 people</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="510" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-126" type="PER" specificity="specificGroup">
+      <entity_mention id="m-120" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="528" length="16">
+        <mention_text>over 4.6 million</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="537" length="7">million</nom_head>
+      </entity_mention>
+      <entity_mention id="m-468" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2038" length="14">
+        <mention_text>those affected</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2038" length="5">those</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-135" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-129" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="557" length="46">
+        <mention_text>The United Nations agencies in the Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="576" length="8">agencies</nom_head>
+      </entity_mention>
+      <entity_mention id="m-150" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="610" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-162" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-156" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="610" length="27">
+        <mention_text>their humanitarian partners</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="629" length="8">partners</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-171" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-165" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="654" length="14">
+        <mention_text>the government</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="658" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-519" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2276" length="14">
+        <mention_text>The government</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2280" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-894" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3942" length="44">
+        <mention_text>the people and government of the Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3957" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-180" type="PER" specificity="specificGroup">
+      <entity_mention id="m-174" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="673" length="16">
+        <mention_text>other responders</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="679" length="10">responders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-189" type="PER" specificity="specificGroup">
+      <entity_mention id="m-225" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1223" length="29">
+        <mention_text>UN Disaster Coordination Team</mention_text>
+      </entity_mention>
+      <entity_mention id="m-369" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1700" length="14">
+        <mention_text>The UNDAC team</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="1710" length="4">team</nom_head>
+      </entity_mention>
+      <entity_mention id="m-381" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="1720" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-198" type="PER" specificity="specificGroup">
+      <entity_mention id="m-192" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="811" length="21">
+        <mention_text>the local authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="821" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-249" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-243" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1272" length="8">
+        <mention_text>the city</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="1276" length="4">city</nom_head>
+      </entity_mention>
+      <entity_mention id="m-252" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1284" length="8">
+        <mention_text>Tacloban</mention_text>
+      </entity_mention>
+      <entity_mention id="m-258" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1294" length="30">
+        <mention_text>one of the most affected areas</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="1294" length="3">one</nom_head>
+      </entity_mention>
+      <entity_mention id="m-759" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3485" length="8">
+        <mention_text>Tacloban</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-270" type="LOC" specificity="specificGroup">
+      <entity_mention id="m-264" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1301" length="23">
+        <mention_text>the most affected areas</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="1319" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-279" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-273" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1373" length="38">
+        <mention_text>all roads from the airport to the town</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="1377" length="5">roads</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-288" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-282" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1388" length="11">
+        <mention_text>the airport</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="1392" length="7">airport</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-297" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-291" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1403" length="8">
+        <mention_text>the town</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="1407" length="4">town</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-306" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-300" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="1437" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-327" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1523" length="17">
+        <mention_text>the head of UNDAC</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="1527" length="4">head</nom_head>
+      </entity_mention>
+      <entity_mention id="m-339" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1542" length="23">
+        <mention_text>Sebastian Rhodes Stampa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-354" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="1690" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-315" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-309" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1495" length="12">
+        <mention_text>Indian Ocean</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-324" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-318" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1495" length="6">
+        <mention_text>Indian</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-351" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-345" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1653" length="11">
+        <mention_text>the streets</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="1657" length="7">streets</nom_head>
+      </entity_mention>
+      <entity_mention id="m-396" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1880" length="20">
+        <mention_text>the impassable roads</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="1895" length="5">roads</nom_head>
+      </entity_mention>
+      <entity_mention id="m-561" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2439" length="5">
+        <mention_text>roads</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2439" length="5">roads</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-366" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-237" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1254" length="5">
+        <mention_text>UNDAC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-333" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1535" length="5">
+        <mention_text>UNDAC</mention_text>
+      </entity_mention>
+      <entity_mention id="m-360" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1223" length="24">
+        <mention_text>UN Disaster Coordination</mention_text>
+      </entity_mention>
+      <entity_mention id="m-375" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1704" length="5">
+        <mention_text>UNDAC</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-393" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-387" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1765" length="6">
+        <mention_text>agency</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="1765" length="6">agency</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-408" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-402" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1925" length="18">
+        <mention_text>UN Children's Fund</mention_text>
+      </entity_mention>
+      <entity_mention id="m-417" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1945" length="6">
+        <mention_text>UNICEF</mention_text>
+      </entity_mention>
+      <entity_mention id="m-585" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2523" length="6">
+        <mention_text>UNICEF</mention_text>
+      </entity_mention>
+      <entity_mention id="m-600" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2588" length="10">
+        <mention_text>The agency</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2592" length="6">agency</nom_head>
+      </entity_mention>
+      <entity_mention id="m-606" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="2613" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-645" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2845" length="6">
+        <mention_text>UNICEF</mention_text>
+      </entity_mention>
+      <entity_mention id="m-669" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="3028" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-429" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-423" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1961" length="18">
+        <mention_text>World Food Program</mention_text>
+      </entity_mention>
+      <entity_mention id="m-438" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="1981" length="3">
+        <mention_text>WFP</mention_text>
+      </entity_mention>
+      <entity_mention id="m-696" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3097" length="3">
+        <mention_text>WFP</mention_text>
+      </entity_mention>
+      <entity_mention id="m-744" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3372" length="3">
+        <mention_text>WFP</mention_text>
+      </entity_mention>
+      <entity_mention id="m-765" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3520" length="3">
+        <mention_text>WFP</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-450" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-444" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="2006" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-459" type="PER" specificity="specificGroup">
+      <entity_mention id="m-453" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2006" length="22">
+        <mention_text>their in-country teams</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2023" length="5">teams</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-480" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-474" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2059" length="21">
+        <mention_text>Philippines Red Cross</mention_text>
+      </entity_mention>
+      <entity_mention id="m-498" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="2086" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-495" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-489" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2071" length="9">
+        <mention_text>Red Cross</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-510" type="LOC" specificity="specificIndeterminate">
+      <entity_mention id="m-504" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2129" length="28">
+        <mention_text>two areas hit by the typhoon</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2133" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-531" type="PER" specificity="specificGroup">
+      <entity_mention id="m-525" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2306" length="23">
+        <mention_text>some 4.3 million people</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2323" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-540" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-534" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2351" length="12">
+        <mention_text>36 provinces</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2354" length="9">provinces</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-549" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-543" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2399" length="18">
+        <mention_text>thousands of homes</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2399" length="9">thousands</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-558" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-552" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2412" length="5">
+        <mention_text>homes</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2412" length="5">homes</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-573" type="PER" specificity="specificGroup">
+      <entity_mention id="m-567" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2464" length="6">
+        <mention_text>people</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2464" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-582" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-576" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2489" length="7">
+        <mention_text>shelter</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2489" length="7">shelter</nom_head>
+      </entity_mention>
+      <entity_mention id="m-639" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2771" length="7">
+        <mention_text>shelter</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2771" length="7">shelter</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-597" type="PER" specificity="specificGroup">
+      <entity_mention id="m-591" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2531" length="26">
+        <mention_text>up to 1.7 million children</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2549" length="8">children</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-618" type="PER" specificity="specificGroup">
+      <entity_mention id="m-612" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2613" length="9">
+        <mention_text>its staff</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2617" length="5">staff</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-627" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-621" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2728" length="10">
+        <mention_text>Copenhagen</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-636" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-630" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2740" length="7">
+        <mention_text>Denmark</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-657" type="PER" specificity="specificGroup">
+      <entity_mention id="m-651" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="2999" length="8">
+        <mention_text>children</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="2999" length="8">children</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-666" type="PER" specificity="specificGroup">
+      <entity_mention id="m-660" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3012" length="8">
+        <mention_text>families</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3012" length="8">families</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-681" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-675" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3028" length="37">
+        <mention_text>its representative in the Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3032" length="14">representative</nom_head>
+      </entity_mention>
+      <entity_mention id="m-690" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3067" length="12">
+        <mention_text>Tomoo Hozumi</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-708" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-702" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3127" length="3">
+        <mention_text>U.S</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-723" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-717" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3206" length="5">
+        <mention_text>Asian</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-732" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-726" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3318" length="5">
+        <mention_text>Dubai</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-741" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-735" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3329" length="20">
+        <mention_text>United Arab Emirates</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-756" type="PER" specificity="specificGroup">
+      <entity_mention id="m-750" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="3475" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-783" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-777" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3560" length="15">
+        <mention_text>Praveen Agrawal</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-792" type="PER" specificity="specificGroup">
+      <entity_mention id="m-786" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3578" length="6">
+        <mention_text>People</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3578" length="6">People</nom_head>
+      </entity_mention>
+      <entity_mention id="m-795" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="3595" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-807" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-801" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3595" length="11">
+        <mention_text>their homes</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3601" length="5">homes</nom_head>
+      </entity_mention>
+      <entity_mention id="m-924" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4040" length="11">
+        <mention_text>their homes</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="4046" length="5">homes</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-816" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-810" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3642" length="14">
+        <mention_text>infrastructure</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3642" length="14">infrastructure</nom_head>
+      </entity_mention>
+      <entity_mention id="m-861" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3849" length="33">
+        <mention_text>the infrastructure of the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3853" length="14">infrastructure</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-831" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-825" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3717" length="13">
+        <mention_text>his spokesman</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3721" length="9">spokesman</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-840" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-834" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="3717" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-849" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3753" length="11">
+        <mention_text>Ban Ki-moon</mention_text>
+      </entity_mention>
+      <entity_mention id="m-855" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="3770" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-873" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3886" length="21">
+        <mention_text>The secretary-general</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3890" length="17">secretary-general</nom_head>
+      </entity_mention>
+      <entity_mention id="m-879" noun_type="PRO" source="ENG_NW_001278_20131110_F00012QWQ" offset="3915" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-891" type="PER" specificity="specificGroup">
+      <entity_mention id="m-885" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3942" length="44">
+        <mention_text>the people and government of the Philippines</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3946" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-912" type="PER" specificity="specificGroup">
+      <entity_mention id="m-906" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4004" length="96">
+        <mention_text>those who have lost family members, their homes or have been otherwise affected by this disaster</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="4004" length="5">those</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-921" type="PER" specificity="specificGroup">
+      <entity_mention id="m-915" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4024" length="14">
+        <mention_text>family members</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="4031" length="7">members</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-942" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-936" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4217" length="5">
+        <mention_text>Bohol</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-951" type="PER" specificity="specificGroup">
+      <entity_mention id="m-945" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4243" length="26">
+        <mention_text>more than 3 million people</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="4263" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-960" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-954" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4303" length="6">
+        <mention_text>houses</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="4303" length="6">houses</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-969" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-963" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4325" length="7">
+        <mention_text>bridges</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="4325" length="7">bridges</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-978" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-972" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4350" length="22">
+        <mention_text>centuries-old churches</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="4364" length="8">churches</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-987" type="PER" specificity="specificGroup">
+      <entity_mention id="m-981" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4389" length="27">
+        <mention_text>tens of thousands of people</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="4410" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1005" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-999" noun_type="NAM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4452" length="14">
+        <mention_text>Zamboanga City</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1014" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-1008" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4470" length="32">
+        <mention_text>the southern part of the country</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="4483" length="4">part</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1489" type="PER" specificity="specificGroup">
+      <entity_mention id="m-1483" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="4024" length="6">
+        <mention_text>family</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="4024" length="6">family</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2323" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-819" noun_type="NOM" source="ENG_NW_001278_20131110_F00012QWQ" offset="3697" length="4">
+        <mention_text>here</mention_text>
+        <nom_head source="ENG_NW_001278_20131110_F00012QWQ" offset="3697" length="4">here</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-1031" source="ENG_NW_001278_20131110_F00012QWQ" offset="329" length="5" type="title">chief</filler>
+    <filler id="f-1101" source="ENG_NW_001278_20131110_F00012QWQ" offset="856" length="23" type="title">under-secretary-general</filler>
+    <filler id="f-1181" source="ENG_NW_001278_20131110_F00012QWQ" offset="1527" length="4" type="title">head</filler>
+    <filler id="f-1321" source="ENG_NW_001278_20131110_F00012QWQ" offset="3032" length="14" type="title">representative</filler>
+    <filler id="f-1371" source="ENG_NW_001278_20131110_F00012QWQ" offset="3524" length="14" type="title">Representative</filler>
+    <filler id="f-1381" source="ENG_NW_001278_20131110_F00012QWQ" offset="3543" length="16" type="title">Country Director</filler>
+    <filler id="f-1411" source="ENG_NW_001278_20131110_F00012QWQ" offset="3721" length="9" type="title">spokesman</filler>
+    <filler id="f-1431" source="ENG_NW_001278_20131110_F00012QWQ" offset="3735" length="17" type="title">Secretary-General</filler>
+    <filler id="f-1451" source="ENG_NW_001278_20131110_F00012QWQ" offset="3890" length="17" type="title">secretary-general</filler>
+    <filler id="f-1655" source="ENG_NW_001278_20131110_F00012QWQ" offset="340" length="8" type="time" nom_time="2013-11-09">Saturday</filler>
+    <filler id="f-1699" source="ENG_NW_001278_20131110_F00012QWQ" offset="1201" length="8" type="time" nom_time="2013-11-09">Saturday</filler>
+    <filler id="f-1738" source="ENG_NW_001278_20131110_F00012QWQ" offset="1201" length="8" type="time" nom_time="2013-11-09">Saturday</filler>
+    <filler id="f-1931" source="ENG_NW_001278_20131110_F00012QWQ" offset="2205" length="6" type="time" nom_time="2013-11-08">Friday</filler>
+    <filler id="f-1992" source="ENG_NW_001278_20131110_F00012QWQ" offset="2634" length="33" type="commodity">pre-positioned emergency supplies</filler>
+    <filler id="f-2022" source="ENG_NW_001278_20131110_F00012QWQ" offset="2634" length="33" type="commodity">pre-positioned emergency supplies</filler>
+    <filler id="f-2052" source="ENG_NW_001278_20131110_F00012QWQ" offset="2687" length="35" type="commodity">some 60 tons of additional supplies</filler>
+    <filler id="f-2096" source="ENG_NW_001278_20131110_F00012QWQ" offset="2923" length="72" type="commodity">essential medicines, nutrition supplies, safe water and hygiene supplies</filler>
+    <filler id="f-2140" source="ENG_NW_001278_20131110_F00012QWQ" offset="2923" length="72" type="commodity">essential medicines, nutrition supplies, safe water and hygiene supplies</filler>
+    <filler id="f-2193" source="ENG_NW_001278_20131110_F00012QWQ" offset="3115" length="24" type="money">two million U.S. dollars</filler>
+    <filler id="f-2238" source="ENG_NW_001278_20131110_F00012QWQ" offset="3263" length="31" type="commodity">40 tons of high-energy biscuits</filler>
+    <filler id="f-2260" source="ENG_NW_001278_20131110_F00012QWQ" offset="3354" length="15" type="time" nom_time="2013-11-XX">the coming days</filler>
+    <filler id="f-2320" source="ENG_NW_001278_20131110_F00012QWQ" offset="3705" length="8" type="time" nom_time="2013-11-09">Saturday</filler>
+    <filler id="f-2456" source="ENG_NW_001278_20131110_F00012QWQ" offset="4378" length="9" type="time" nom_time="2013-09-XX">September</filler>
+    <filler id="f-2486" source="ENG_NW_001278_20131110_F00012QWQ" offset="4378" length="9" type="time" nom_time="2013-09-XX">September</filler>
+    <filler id="f-2508" source="ENG_NW_001278_20131110_F00012QWQ" offset="2822" length="19" type="time" nom_time="2013-11-XX">the next three days</filler>
+  </fillers>
+  <relations>
+    <relation id="r-78" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1023" realis="true">
+        <rel_arg1 entity_id="ent-75" entity_mention_id="m-69" role="per">The UN relief chief</rel_arg1>
+        <rel_arg2 filler_id="f-1031" role="role">chief</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1093" realis="true">
+        <rel_arg1 entity_id="ent-75" entity_mention_id="m-207" role="per">the UN under-secretary-general for humanitarian affairs</rel_arg1>
+        <rel_arg2 filler_id="f-1101" role="role">under-secretary-general</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-79" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1033" realis="true">
+        <rel_arg1 entity_id="ent-75" entity_mention_id="m-69" role="employeemember">The UN relief chief</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-78" role="org">UN</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="329" length="5">chief</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1103" realis="true">
+        <rel_arg1 entity_id="ent-75" entity_mention_id="m-207" role="employeemember">the UN under-secretary-general for humanitarian affairs</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-213" role="org">UN</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="856" length="23">under-secretary-general</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-80" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1043" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-84" role="org">the world body</rel_arg1>
+        <rel_arg2 entity_id="ent-96" entity_mention_id="m-90" role="loc">world</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-81" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1053" realis="true">
+        <rel_arg1 entity_id="ent-135" entity_mention_id="m-129" role="org">The United Nations agencies in the Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-144" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="585" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-82" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1063" realis="true">
+        <rel_arg1 entity_id="ent-135" entity_mention_id="m-129" role="suborg">The United Nations agencies in the Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-138" role="parent">United Nations</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-83" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1113" realis="true">
+        <rel_arg1 entity_id="ent-366" entity_mention_id="m-360" role="suborg">UN Disaster Coordination</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-231" role="parent">UN</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-84" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1123" realis="true">
+        <rel_arg1 entity_id="ent-189" entity_mention_id="m-225" role="employeemember">UN Disaster Coordination Team</rel_arg1>
+        <rel_arg2 entity_id="ent-366" entity_mention_id="m-360" role="org">UN Disaster Coordination</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1193" realis="true">
+        <rel_arg1 entity_id="ent-189" entity_mention_id="m-369" role="employeemember">The UNDAC team</rel_arg1>
+        <rel_arg2 entity_id="ent-366" entity_mention_id="m-375" role="org">UNDAC</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-85" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1133" realis="true">
+        <rel_arg1 entity_id="ent-189" entity_mention_id="m-225" role="entity">UN Disaster Coordination Team</rel_arg1>
+        <rel_arg2 entity_id="ent-249" entity_mention_id="m-243" role="loc">the city</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="1269" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-86" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1143" realis="true">
+        <rel_arg1 entity_id="ent-279" entity_mention_id="m-273" role="entity">all roads from the airport to the town</rel_arg1>
+        <rel_arg2 entity_id="ent-288" entity_mention_id="m-282" role="loc">the airport</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="1383" length="4">from</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-87" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1153" realis="true">
+        <rel_arg1 entity_id="ent-279" entity_mention_id="m-273" role="entity">all roads from the airport to the town</rel_arg1>
+        <rel_arg2 entity_id="ent-297" entity_mention_id="m-291" role="loc">the town</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="1400" length="2">to</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-88" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1163" realis="true">
+        <rel_arg1 entity_id="ent-315" entity_mention_id="m-309" role="entity">Indian Ocean</rel_arg1>
+        <rel_arg2 entity_id="ent-324" entity_mention_id="m-318" role="loc">Indian</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="1495" length="6">Indian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-89" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1173" realis="true">
+        <rel_arg1 entity_id="ent-306" entity_mention_id="m-327" role="per">the head of UNDAC</rel_arg1>
+        <rel_arg2 filler_id="f-1181" role="role">head</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-90" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1183" realis="true">
+        <rel_arg1 entity_id="ent-306" entity_mention_id="m-327" role="leader">the head of UNDAC</rel_arg1>
+        <rel_arg2 entity_id="ent-366" entity_mention_id="m-333" role="entity">UNDAC</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="1527" length="4">head</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-91" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1203" realis="true">
+        <rel_arg1 entity_id="ent-408" entity_mention_id="m-402" role="suborg">UN Children's Fund</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-411" role="parent">UN</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-92" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1213" realis="true">
+        <rel_arg1 entity_id="ent-429" entity_mention_id="m-423" role="org">World Food Program</rel_arg1>
+        <rel_arg2 entity_id="ent-96" entity_mention_id="m-432" role="loc">World</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-93" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1223" realis="true">
+        <rel_arg1 entity_id="ent-459" entity_mention_id="m-453" role="entity">their in-country teams</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-462" role="loc">country</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2012" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-94" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1233" realis="true">
+        <rel_arg1 entity_id="ent-126" entity_mention_id="m-468" role="entity">those affected</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-462" role="loc">country</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1582" realis="true">
+        <rel_arg1 entity_id="ent-126" entity_mention_id="m-120" role="entity">over 4.6 million</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-99" role="loc">Philippines</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-95" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1243" realis="true">
+        <rel_arg1 entity_id="ent-480" entity_mention_id="m-474" role="org">Philippines Red Cross</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-483" role="loc">Philippines</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-96" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1253" realis="true">
+        <rel_arg1 entity_id="ent-480" entity_mention_id="m-474" role="suborg">Philippines Red Cross</rel_arg1>
+        <rel_arg2 entity_id="ent-495" entity_mention_id="m-489" role="parent">Red Cross</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-97" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1263" realis="false">
+        <rel_arg1 entity_id="ent-573" entity_mention_id="m-567" role="entity">people</rel_arg1>
+        <rel_arg2 entity_id="ent-582" entity_mention_id="m-576" role="loc">shelter</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-98" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1273" realis="true">
+        <rel_arg1 entity_id="ent-618" entity_mention_id="m-612" role="employeemember">its staff</rel_arg1>
+        <rel_arg2 entity_id="ent-408" entity_mention_id="m-606" role="org">its</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2613" length="3">its</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-99" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1283" realis="true">
+        <rel_arg1 entity_id="ent-627" entity_mention_id="m-621" role="entity">Copenhagen</rel_arg1>
+        <rel_arg2 entity_id="ent-636" entity_mention_id="m-630" role="loc">Denmark</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-100" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1293" realis="true">
+        <rel_arg1 entity_id="ent-681" entity_mention_id="m-675" role="employeemember">its representative in the Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-408" entity_mention_id="m-669" role="org">its</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3028" length="3">its</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-101" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1303" realis="true">
+        <rel_arg1 entity_id="ent-681" entity_mention_id="m-675" role="entity">its representative in the Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-684" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3047" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-102" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1313" realis="true">
+        <rel_arg1 entity_id="ent-681" entity_mention_id="m-675" role="per">its representative in the Philippines</rel_arg1>
+        <rel_arg2 filler_id="f-1321" role="role">representative</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-103" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1323" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-711" role="entity">the Asian country</rel_arg1>
+        <rel_arg2 entity_id="ent-723" entity_mention_id="m-717" role="loc">Asian</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3206" length="5">Asian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-104" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1333" realis="true">
+        <rel_arg1 entity_id="ent-732" entity_mention_id="m-726" role="entity">Dubai</rel_arg1>
+        <rel_arg2 entity_id="ent-741" entity_mention_id="m-735" role="loc">United Arab Emirates</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-105" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1343" realis="true">
+        <rel_arg1 entity_id="ent-756" entity_mention_id="m-750" role="entity">we</rel_arg1>
+        <rel_arg2 entity_id="ent-249" entity_mention_id="m-759" role="loc">Tacloban</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3482" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-106" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1353" realis="true">
+        <rel_arg1 entity_id="ent-783" entity_mention_id="m-777" role="employeemember">Praveen Agrawal</rel_arg1>
+        <rel_arg2 entity_id="ent-429" entity_mention_id="m-765" role="org">WFP</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3524" length="14">Representative</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-107" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1363" realis="true">
+        <rel_arg1 entity_id="ent-783" entity_mention_id="m-777" role="per">Praveen Agrawal</rel_arg1>
+        <rel_arg2 filler_id="f-1371" role="role">Representative</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1373" realis="true">
+        <rel_arg1 entity_id="ent-783" entity_mention_id="m-777" role="per">Praveen Agrawal</rel_arg1>
+        <rel_arg2 filler_id="f-1381" role="role">Country Director</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-108" type="physical" subtype="resident">
+      <relation_mention id="relm-1383" realis="true">
+        <rel_arg1 entity_id="ent-792" entity_mention_id="m-795" role="per">their</rel_arg1>
+        <rel_arg2 entity_id="ent-807" entity_mention_id="m-801" role="loc">their homes</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3595" length="5">their</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-109" type="personalsocial" subtype="business">
+      <relation_mention id="relm-1393" realis="true">
+        <rel_arg1 entity_id="ent-831" entity_mention_id="m-825" role="per">his spokesman</rel_arg1>
+        <rel_arg2 entity_id="ent-840" entity_mention_id="m-834" role="per">his</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3721" length="9">spokesman</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-110" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1403" realis="true">
+        <rel_arg1 entity_id="ent-831" entity_mention_id="m-825" role="per">his spokesman</rel_arg1>
+        <rel_arg2 filler_id="f-1411" role="role">spokesman</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-111" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1413" realis="true">
+        <rel_arg1 entity_id="ent-840" entity_mention_id="m-849" role="leader">Ban Ki-moon</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-843" role="entity">UN</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3735" length="17">Secretary-General</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-112" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1423" realis="true">
+        <rel_arg1 entity_id="ent-840" entity_mention_id="m-849" role="per">Ban Ki-moon</rel_arg1>
+        <rel_arg2 filler_id="f-1431" role="role">Secretary-General</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1443" realis="true">
+        <rel_arg1 entity_id="ent-840" entity_mention_id="m-873" role="per">The secretary-general</rel_arg1>
+        <rel_arg2 filler_id="f-1451" role="role">secretary-general</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-113" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1433" realis="true">
+        <rel_arg1 entity_id="ent-816" entity_mention_id="m-861" role="entity">the infrastructure of the country</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-867" role="loc">the country</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3868" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-114" type="physical" subtype="resident">
+      <relation_mention id="relm-1453" realis="true">
+        <rel_arg1 entity_id="ent-891" entity_mention_id="m-885" role="per">the people and government of the Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-900" role="loc">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3968" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-115" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1463" realis="true">
+        <rel_arg1 entity_id="ent-171" entity_mention_id="m-894" role="suborg">the people and government of the Philippines</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-900" role="parent">Philippines</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3968" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-116" type="personalsocial" subtype="family">
+      <relation_mention id="relm-1492" realis="true">
+        <rel_arg1 entity_id="ent-921" entity_mention_id="m-915" role="per">family members</rel_arg1>
+        <rel_arg2 entity_id="ent-1489" entity_mention_id="m-1483" role="per">family</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="4031" length="7">members</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-117" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1502" realis="true">
+        <rel_arg1 entity_id="ent-951" entity_mention_id="m-945" role="entity">more than 3 million people</rel_arg1>
+        <rel_arg2 entity_id="ent-942" entity_mention_id="m-936" role="loc">Bohol</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-118" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1512" realis="true">
+        <rel_arg1 entity_id="ent-960" entity_mention_id="m-954" role="entity">houses</rel_arg1>
+        <rel_arg2 entity_id="ent-942" entity_mention_id="m-936" role="loc">Bohol</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-119" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1522" realis="true">
+        <rel_arg1 entity_id="ent-969" entity_mention_id="m-963" role="entity">bridges</rel_arg1>
+        <rel_arg2 entity_id="ent-942" entity_mention_id="m-936" role="loc">Bohol</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-120" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1532" realis="true">
+        <rel_arg1 entity_id="ent-978" entity_mention_id="m-972" role="entity">centuries-old churches</rel_arg1>
+        <rel_arg2 entity_id="ent-942" entity_mention_id="m-936" role="loc">Bohol</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-121" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1542" realis="true">
+        <rel_arg1 entity_id="ent-987" entity_mention_id="m-981" role="entity">tens of thousands of people</rel_arg1>
+        <rel_arg2 entity_id="ent-1005" entity_mention_id="m-999" role="loc">Zamboanga City</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-122" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1552" realis="true">
+        <rel_arg1 entity_id="ent-1005" entity_mention_id="m-999" role="entity">Zamboanga City</rel_arg1>
+        <rel_arg2 entity_id="ent-1014" entity_mention_id="m-1008" role="loc">the southern part of the country</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="4467" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-123" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1562" realis="true">
+        <rel_arg1 entity_id="ent-1014" entity_mention_id="m-1008" role="entity">the southern part of the country</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-1017" role="loc">the country</rel_arg2>
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="4488" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-124" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1572" realis="true">
+        <rel_arg1 entity_id="ent-117" entity_mention_id="m-111" role="entity">more than 150 people</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-99" role="loc">Philippines</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-125" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2335" realis="true">
+        <rel_arg1 entity_id="ent-831" entity_mention_id="m-825" role="entity">his spokesman</rel_arg1>
+        <rel_arg2 entity_id="ent-2323" entity_mention_id="m-819" role="loc">here</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1592" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="517" length="6">killed</trigger>
+        <em_arg entity_id="ent-117" entity_mention_id="m-111" role="victim" realis="true">more than 150 people</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-99" role="place" realis="true">Philippines</em_arg>
+      </event_mention>
+      <event_mention id="em-2345" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3810" length="12">loss of life</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-867" role="place" realis="true">the country</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1658">
+      <event_mention id="em-1630" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="916" length="9">statement</trigger>
+        <em_arg entity_id="ent-75" entity_mention_id="m-207" role="entity" realis="true">the UN under-secretary-general for humanitarian affairs</em_arg>
+        <em_arg filler_id="f-1655" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1702">
+      <event_mention id="em-1660" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="1261" length="7">arrived</trigger>
+        <em_arg entity_id="ent-189" entity_mention_id="m-225" role="person" realis="true">UN Disaster Coordination Team</em_arg>
+        <em_arg entity_id="ent-366" entity_mention_id="m-360" role="agent" realis="true">UN Disaster Coordination</em_arg>
+        <em_arg entity_id="ent-249" entity_mention_id="m-252" role="destination" realis="true">Tacloban</em_arg>
+        <em_arg filler_id="f-1699" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1725">
+      <event_mention id="em-1704" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="1330" length="8">reported</trigger>
+        <em_arg entity_id="ent-189" entity_mention_id="m-225" role="entity" realis="true">UN Disaster Coordination Team</em_arg>
+        <em_arg entity_id="ent-249" entity_mention_id="m-252" role="place" realis="true">Tacloban</em_arg>
+        <em_arg filler_id="f-1738" role="time" realis="true">Saturday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1762">
+      <event_mention id="em-1741" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="1518" length="4">said</trigger>
+        <em_arg entity_id="ent-306" entity_mention_id="m-327" role="entity" realis="true">the head of UNDAC</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1806">
+      <event_mention id="em-1764" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="1996" length="9">mobilized</trigger>
+        <em_arg entity_id="ent-408" entity_mention_id="m-402" role="agent" realis="true">UN Children's Fund</em_arg>
+        <em_arg entity_id="ent-429" entity_mention_id="m-423" role="agent" realis="true">World Food Program</em_arg>
+        <em_arg entity_id="ent-459" entity_mention_id="m-453" role="person" realis="true">their in-country teams</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1829">
+      <event_mention id="em-1808" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2081" length="4">said</trigger>
+        <em_arg entity_id="ent-480" entity_mention_id="m-474" role="entity" realis="true">Philippines Red Cross</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-483" role="place" realis="true">Philippines</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1852">
+      <event_mention id="em-1831" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2102" length="7">reports</trigger>
+        <em_arg entity_id="ent-480" entity_mention_id="m-498" role="audience" realis="true">it</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-483" role="place" realis="true">Philippines</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1889">
+      <event_mention id="em-1868" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2119" length="6">deaths</trigger>
+        <em_arg entity_id="ent-510" entity_mention_id="m-504" role="place" realis="true">two areas hit by the typhoon</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1935">
+      <event_mention id="em-1914" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2193" length="8">reported</trigger>
+        <em_arg filler_id="f-1931" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1965">
+      <event_mention id="em-1937" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2603" length="9">mobilized</trigger>
+        <em_arg entity_id="ent-408" entity_mention_id="m-600" role="agent" realis="true">The agency</em_arg>
+        <em_arg entity_id="ent-618" entity_mention_id="m-612" role="person" realis="true">its staff</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1995">
+      <event_mention id="em-1967" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2626" length="7">deliver</trigger>
+        <em_arg entity_id="ent-618" entity_mention_id="m-612" role="agent" realis="true">its staff</em_arg>
+        <em_arg filler_id="f-1992" role="artifact" realis="true">pre-positioned emergency supplies</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2025">
+      <event_mention id="em-1997" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2626" length="7">deliver</trigger>
+        <em_arg entity_id="ent-618" entity_mention_id="m-612" role="giver" realis="true">its staff</em_arg>
+        <em_arg filler_id="f-2022" role="thing" realis="true">pre-positioned emergency supplies</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2062">
+      <event_mention id="em-2027" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2677" length="6">flying</trigger>
+        <em_arg entity_id="ent-408" entity_mention_id="m-600" role="agent" realis="true">The agency</em_arg>
+        <em_arg filler_id="f-2052" role="artifact" realis="true">some 60 tons of additional supplies</em_arg>
+        <em_arg entity_id="ent-627" entity_mention_id="m-621" role="origin" realis="true">Copenhagen</em_arg>
+      </event_mention>
+      <event_mention id="em-2491" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2812" length="6">arrive</trigger>
+        <em_arg filler_id="f-2508" role="time" realis="true">the next three days</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2099">
+      <event_mention id="em-2071" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2915" length="7">getting</trigger>
+        <em_arg entity_id="ent-408" entity_mention_id="m-645" role="agent" realis="true">UNICEF</em_arg>
+        <em_arg filler_id="f-2096" role="artifact" realis="true">essential medicines, nutrition supplies, safe water and hygiene supplies</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2143">
+      <event_mention id="em-2101" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="2915" length="7">getting</trigger>
+        <em_arg entity_id="ent-408" entity_mention_id="m-645" role="giver" realis="true">UNICEF</em_arg>
+        <em_arg entity_id="ent-657" entity_mention_id="m-651" role="recipient" realis="true">children</em_arg>
+        <em_arg entity_id="ent-666" entity_mention_id="m-660" role="recipient" realis="true">families</em_arg>
+        <em_arg filler_id="f-2140" role="thing" realis="true">essential medicines, nutrition supplies, safe water and hygiene supplies</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2166">
+      <event_mention id="em-2145" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3023" length="4">said</trigger>
+        <em_arg entity_id="ent-681" entity_mention_id="m-675" role="entity" realis="true">its representative in the Philippines</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2196">
+      <event_mention id="em-2168" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3105" length="9">mobilized</trigger>
+        <em_arg entity_id="ent-429" entity_mention_id="m-696" role="giver" realis="true">WFP</em_arg>
+        <em_arg filler_id="f-2193" role="money" realis="true">two million U.S. dollars</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2219">
+      <event_mention id="em-2198" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3168" length="6">appeal</trigger>
+        <em_arg entity_id="ent-429" entity_mention_id="m-696" role="entity" realis="true">WFP</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2263">
+      <event_mention id="em-2221" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3304" length="5">flown</trigger>
+        <em_arg filler_id="f-2238" role="artifact" realis="true">40 tons of high-energy biscuits</em_arg>
+        <em_arg entity_id="ent-732" entity_mention_id="m-726" role="origin" realis="true">Dubai</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-711" role="destination" realis="true">the Asian country</em_arg>
+        <em_arg filler_id="f-2260" role="time" realis="true">the coming days</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2286">
+      <event_mention id="em-2265" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3515" length="4">said</trigger>
+        <em_arg entity_id="ent-783" entity_mention_id="m-777" role="entity" realis="true">Praveen Agrawal</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2333">
+      <event_mention id="em-2288" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="3680" length="9">statement</trigger>
+        <em_arg entity_id="ent-840" entity_mention_id="m-849" role="entity" realis="true">Ban Ki-moon</em_arg>
+        <em_arg filler_id="f-2320" role="time" realis="true">Saturday</em_arg>
+        <em_arg entity_id="ent-831" entity_mention_id="m-825" role="entity" realis="true">his spokesman</em_arg>
+        <em_arg entity_id="ent-2323" entity_mention_id="m-819" role="place" realis="true">here</em_arg>
+      </event_mention>
+      <event_mention id="em-2396" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="4107" length="9">statement</trigger>
+        <em_arg entity_id="ent-840" entity_mention_id="m-873" role="entity" realis="true">The secretary-general</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2394">
+      <event_mention id="em-2366" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="4019" length="4">lost</trigger>
+        <em_arg entity_id="ent-921" entity_mention_id="m-915" role="victim" realis="true">family members</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-900" role="place" realis="true">Philippines</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2459">
+      <event_mention id="em-2424" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="4422" length="9">displaced</trigger>
+        <em_arg entity_id="ent-987" entity_mention_id="m-981" role="person" realis="true">tens of thousands of people</em_arg>
+        <em_arg entity_id="ent-1005" entity_mention_id="m-999" role="origin" realis="true">Zamboanga City</em_arg>
+        <em_arg filler_id="f-2456" role="time" realis="true">September</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2489">
+      <event_mention id="em-2461" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20131110_F00012QWQ" offset="4441" length="7">clashes</trigger>
+        <em_arg entity_id="ent-1005" entity_mention_id="m-999" role="place" realis="true">Zamboanga City</em_arg>
+        <em_arg filler_id="f-2486" role="time" realis="true">September</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

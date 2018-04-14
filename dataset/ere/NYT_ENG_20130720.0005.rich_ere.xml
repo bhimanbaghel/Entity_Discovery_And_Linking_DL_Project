@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000015" doc_id="NYT_ENG_20130720.0005" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificGroup">
+      <entity_mention id="m-18" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="172" length="6">
+        <mention_text>CROWDS</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="172" length="6">CROWDS</nom_head>
+      </entity_mention>
+      <entity_mention id="m-87" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="481" length="19">
+        <mention_text>Thousands of people</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="481" length="9">Thousands</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="188" length="5">
+        <mention_text>EGYPT</mention_text>
+      </entity_mention>
+      <entity_mention id="m-123" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="590" length="8">
+        <mention_text>Egyptian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-162" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="675" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-240" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="883" length="5">
+        <mention_text>state</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="883" length="5">state</nom_head>
+      </entity_mention>
+      <entity_mention id="m-261" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="972" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-291" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1170" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1174" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-354" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="1375" length="8">
+        <mention_text>Egyptian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-390" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="1574" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1086" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="4513" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="205" length="5">
+        <mention_text>MORSI</mention_text>
+      </entity_mention>
+      <entity_mention id="m-108" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="534" length="14">
+        <mention_text>Mohammed Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-168" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="724" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-192" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="830" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-246" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="919" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-267" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="1004" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-279" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="1103" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="1137" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-297" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="1190" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-360" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1456" length="20">
+        <mention_text>the former president</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1467" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-372" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="1481" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-405" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="1616" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-498" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="1826" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-504" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="1854" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-525" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="1966" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-624" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="2457" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-831" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="3353" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-879" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3487" length="20">
+        <mention_text>the former president</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3498" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-945" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="3828" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1008" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="4036" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specificGroup">
+      <entity_mention id="m-42" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="313" length="17">
+        <mention_text>NYT photo clients</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="323" length="7">clients</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-57" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-51" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="313" length="3">
+        <mention_text>NYT</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-66" type="PER" specificity="nonspecific">
+      <entity_mention id="m-60" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="332" length="14">
+        <mention_text>Nonsubscribers</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="332" length="14">Nonsubscribers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-75" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-69" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="424" length="16">
+        <mention_text>Asmaa al Zohairy</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-84" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-78" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="473" length="5">
+        <mention_text>CAIRO</mention_text>
+      </entity_mention>
+      <entity_mention id="m-480" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="1793" length="5">
+        <mention_text>Cairo</mention_text>
+      </entity_mention>
+      <entity_mention id="m-891" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="3536" length="5">
+        <mention_text>Cairo</mention_text>
+      </entity_mention>
+      <entity_mention id="m-915" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3642" length="8">
+        <mention_text>the city</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3646" length="4">city</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-99" type="PER" specificity="specificGroup">
+      <entity_mention id="m-1128" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="4713" length="6">
+        <mention_text>people</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="4713" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-120" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-114" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="582" length="23">
+        <mention_text>several Egyptian cities</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="599" length="6">cities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-135" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-129" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="617" length="36">
+        <mention_text>the U.N. chief human rights official</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="645" length="8">official</nom_head>
+      </entity_mention>
+      <entity_mention id="m-147" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="659" length="3">
+        <mention_text>she</mention_text>
+      </entity_mention>
+      <entity_mention id="m-321" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="1294" length="11">
+        <mention_text>Navi Pillay</mention_text>
+      </entity_mention>
+      <entity_mention id="m-327" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1307" length="43">
+        <mention_text>the U.N. high commissioner for human rights</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1321" length="12">commissioner</nom_head>
+      </entity_mention>
+      <entity_mention id="m-339" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="1357" length="3">
+        <mention_text>she</mention_text>
+      </entity_mention>
+      <entity_mention id="m-384" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="1546" length="6">
+        <mention_text>Pillay</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-144" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-138" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="621" length="4">
+        <mention_text>U.N.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-333" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="1311" length="4">
+        <mention_text>U.N.</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-159" type="PER" specificity="specificGroup">
+      <entity_mention id="m-153" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="675" length="19">
+        <mention_text>Egypt’s new leaders</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="687" length="7">leaders</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-180" type="PER" specificity="specificGroup">
+      <entity_mention id="m-174" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="759" length="21">
+        <mention_text>At least three people</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="774" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-189" type="PER" specificity="specificGroup">
+      <entity_mention id="m-183" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="816" length="30">
+        <mention_text>pro- and anti-Morsi protesters</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="836" length="10">protesters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-204" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-198" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="850" length="19">
+        <mention_text>the Nile Delta city</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="865" length="4">city</nom_head>
+      </entity_mention>
+      <entity_mention id="m-225" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="873" length="8">
+        <mention_text>Mansoura</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-213" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-207" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="854" length="10">
+        <mention_text>Nile Delta</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-222" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-216" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="854" length="4">
+        <mention_text>Nile</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-237" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-231" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="883" length="16">
+        <mention_text>state news media</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="894" length="5">media</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-258" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-252" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="972" length="16">
+        <mention_text>Egypt’s military</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="980" length="8">military</nom_head>
+      </entity_mention>
+      <entity_mention id="m-273" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1053" length="12">
+        <mention_text>The military</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1057" length="8">military</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1032" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="4143" length="12">
+        <mention_text>the military</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="4147" length="8">military</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1038" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="4201" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1044" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="4304" length="12">
+        <mention_text>the military</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="4308" length="8">military</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1140" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="4815" length="12">
+        <mention_text>the military</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="4819" length="8">military</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1146" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="4865" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1173" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="5035" length="16">
+        <mention_text>its armed forces</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="5045" length="6">forces</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-309" type="PER" specificity="specificGroup">
+      <entity_mention id="m-303" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1206" length="26">
+        <mention_text>Several presidential aides</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1227" length="5">aides</nom_head>
+      </entity_mention>
+      <entity_mention id="m-366" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1481" length="21">
+        <mention_text>his presidential team</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1498" length="4">team</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-318" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-312" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1278" length="72">
+        <mention_text>a spokesman for Navi Pillay, the U.N. high commissioner for human rights</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1280" length="9">spokesman</nom_head>
+      </entity_mention>
+      <entity_mention id="m-378" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1527" length="13">
+        <mention_text>The spokesman</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1531" length="9">spokesman</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-351" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-345" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1371" length="23">
+        <mention_text>the Egyptian government</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1384" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-996" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="4006" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="4006" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-402" type="PER" specificity="specificGroup">
+      <entity_mention id="m-396" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1616" length="27">
+        <mention_text>Morsi’s Islamist supporters</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1633" length="10">supporters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-447" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1718" length="90">
+        <mention_text>more than 50 people who were camped outside the Republican Guard club near Cairo’s airport</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1731" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-426" type="PER" specificity="specificGroup">
+      <entity_mention id="m-420" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1660" length="15">
+        <mention_text>police officers</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1667" length="8">officers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-435" type="PER" specificity="specificGroup">
+      <entity_mention id="m-429" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1680" length="8">
+        <mention_text>soldiers</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1680" length="8">soldiers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-444" type="PER" specificity="specificGroup">
+      <entity_mention id="m-438" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1698" length="10">
+        <mention_text>protesters</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1698" length="10">protesters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-459" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-453" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1762" length="46">
+        <mention_text>the Republican Guard club near Cairo’s airport</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1783" length="4">club</nom_head>
+      </entity_mention>
+      <entity_mention id="m-486" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1810" length="8">
+        <mention_text>The club</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1814" length="4">club</nom_head>
+      </entity_mention>
+      <entity_mention id="m-531" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1884" length="37">
+        <mention_text>a focal point of their demonstrations</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1892" length="5">point</nom_head>
+      </entity_mention>
+      <entity_mention id="m-570" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2161" length="25">
+        <mention_text>the Republican Guard club</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2182" length="4">club</nom_head>
+      </entity_mention>
+      <entity_mention id="m-714" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2780" length="17">
+        <mention_text>the military club</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2793" length="4">club</nom_head>
+      </entity_mention>
+      <entity_mention id="m-4577" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="1820" length="5">
+        <mention_text>where</mention_text>
+      </entity_mention>
+      <entity_mention id="m-4583" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="2188" length="5">
+        <mention_text>where</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-468" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-462" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="1766" length="16">
+        <mention_text>Republican Guard</mention_text>
+      </entity_mention>
+      <entity_mention id="m-576" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="2165" length="16">
+        <mention_text>Republican Guard</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-477" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-471" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1793" length="15">
+        <mention_text>Cairo’s airport</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1801" length="7">airport</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-522" type="PER" specificity="specificGroup">
+      <entity_mention id="m-492" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1826" length="18">
+        <mention_text>Morsi’s supporters</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1834" length="10">supporters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-510" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="1901" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-516" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="1966" length="18">
+        <mention_text>Morsi’s supporters</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="1974" length="10">supporters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1002" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="4036" length="18">
+        <mention_text>Morsi’s supporters</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="4044" length="10">supporters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-543" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-537" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2026" length="8">
+        <mention_text>the army</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2030" length="4">army</nom_head>
+      </entity_mention>
+      <entity_mention id="m-654" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2576" length="8">
+        <mention_text>the army</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2580" length="4">army</nom_head>
+      </entity_mention>
+      <entity_mention id="m-921" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3699" length="8">
+        <mention_text>the army</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3703" length="4">army</nom_head>
+      </entity_mention>
+      <entity_mention id="m-966" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3880" length="4">
+        <mention_text>army</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3880" length="4">army</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-552" type="PER" specificity="nonspecific">
+      <entity_mention id="m-546" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2051" length="28">
+        <mention_text>protesters who used violence</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2051" length="10">protesters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-555" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="2096" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-567" type="PER" specificity="specificGroup">
+      <entity_mention id="m-561" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2132" length="12">
+        <mention_text>large crowds</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2138" length="6">crowds</nom_head>
+      </entity_mention>
+      <entity_mention id="m-591" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2267" length="14">
+        <mention_text>The protesters</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2271" length="10">protesters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-612" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="2332" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-618" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2457" length="18">
+        <mention_text>Morsi’s supporters</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2465" length="10">supporters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-660" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2596" length="14">
+        <mention_text>the protesters</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2600" length="10">protesters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-675" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="2661" length="4">
+        <mention_text>They</mention_text>
+      </entity_mention>
+      <entity_mention id="m-720" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2799" length="14">
+        <mention_text>The protesters</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2803" length="10">protesters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-726" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="2824" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+      <entity_mention id="m-738" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="2888" length="4">
+        <mention_text>them</mention_text>
+      </entity_mention>
+      <entity_mention id="m-765" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3043" length="14">
+        <mention_text>The protesters</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3047" length="10">protesters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-843" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3399" length="13">
+        <mention_text>the Islamists</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3403" length="9">Islamists</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-588" type="PER" specificity="specificGroup">
+      <entity_mention id="m-582" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2194" length="8">
+        <mention_text>soldiers</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2194" length="8">soldiers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-603" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-597" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="2307" length="16">
+        <mention_text>Rabaa al-Adawiya</mention_text>
+      </entity_mention>
+      <entity_mention id="m-606" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2332" length="41">
+        <mention_text>their encampment for the last three weeks</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2338" length="10">encampment</nom_head>
+      </entity_mention>
+      <entity_mention id="m-648" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2533" length="14">
+        <mention_text>the encampment</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2537" length="10">encampment</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-636" type="PER" specificity="nonspecific">
+      <entity_mention id="m-630" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2491" length="56">
+        <mention_text>residents of the neighborhood surrounding the encampment</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2491" length="9">residents</nom_head>
+      </entity_mention>
+      <entity_mention id="m-690" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="2692" length="3">
+        <mention_text>our</mention_text>
+      </entity_mention>
+      <entity_mention id="m-759" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="3013" length="2">
+        <mention_text>We</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-645" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-639" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2504" length="43">
+        <mention_text>the neighborhood surrounding the encampment</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2508" length="12">neighborhood</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-672" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-666" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2616" length="33">
+        <mention_text>an increasingly constricted space</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2644" length="5">space</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-687" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-681" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2692" length="11">
+        <mention_text>our streets</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2696" length="7">streets</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-702" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-696" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2711" length="86">
+        <mention_text>a resident watching the protest go by on Asmaa Zaghloul Street, near the military club</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2713" length="8">resident</nom_head>
+      </entity_mention>
+      <entity_mention id="m-732" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="2868" length="12">
+        <mention_text>The resident</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="2872" length="8">resident</nom_head>
+      </entity_mention>
+      <entity_mention id="m-744" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="2967" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-771" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3095" length="12">
+        <mention_text>the resident</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3099" length="8">resident</nom_head>
+      </entity_mention>
+      <entity_mention id="m-777" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="3131" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-711" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-705" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="2752" length="21">
+        <mention_text>Asmaa Zaghloul Street</mention_text>
+      </entity_mention>
+      <entity_mention id="m-783" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3169" length="10">
+        <mention_text>the street</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3173" length="6">street</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-756" type="PER" specificity="nonspecific">
+      <entity_mention id="m-750" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3002" length="9">
+        <mention_text>many dead</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3007" length="4">dead</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-795" type="PER" specificity="specificGroup">
+      <entity_mention id="m-789" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3240" length="15">
+        <mention_text>some protesters</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3245" length="10">protesters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-804" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-798" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3297" length="10">
+        <mention_text>the driver</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3301" length="6">driver</nom_head>
+      </entity_mention>
+      <entity_mention id="m-807" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="3322" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-837" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="3378" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-855" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="3427" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-819" type="ORG" specificity="nonspecific">
+      <entity_mention id="m-813" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3339" length="9">
+        <mention_text>the media</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3343" length="5">media</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-828" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-822" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3351" length="17">
+        <mention_text>a Morsi supporter</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3359" length="9">supporter</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-867" type="PER" specificity="specificGroup">
+      <entity_mention id="m-861" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3461" length="46">
+        <mention_text>thousands of opponents of the former president</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3461" length="9">thousands</nom_head>
+      </entity_mention>
+      <entity_mention id="m-885" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="3513" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-876" type="PER" specificity="nonspecific">
+      <entity_mention id="m-870" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3474" length="33">
+        <mention_text>opponents of the former president</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3474" length="9">opponents</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-903" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-897" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="3553" length="13">
+        <mention_text>Tahrir Square</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-912" type="PER" specificity="nonspecific">
+      <entity_mention id="m-906" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3584" length="6">
+        <mention_text>crowds</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3584" length="6">crowds</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-933" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-927" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="3724" length="5">
+        <mention_text>Sinai</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-942" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-936" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="3758" length="6">
+        <mention_text>Israel</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-957" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-951" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="3853" length="21">
+        <mention_text>Abdel Fattah el-Sissi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-960" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3876" length="18">
+        <mention_text>the army commander</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3885" length="9">commander</nom_head>
+      </entity_mention>
+      <entity_mention id="m-972" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="3952" length="8">
+        <mention_text>El-Sissi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1014" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="4064" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1020" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="4087" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1026" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="4097" length="11">
+        <mention_text>The general</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="4101" length="7">general</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1050" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="4340" length="8">
+        <mention_text>el-Sissi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1098" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="4550" length="8">
+        <mention_text>el-Sissi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1104" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="4593" length="11">
+        <mention_text>the general</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="4597" length="7">general</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1110" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="4609" length="9">
+        <mention_text>a soldier</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="4611" length="7">soldier</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1122" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="4698" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1134" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="4735" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1152" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="4911" length="8">
+        <mention_text>el-Sissi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1158" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="4964" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-4555" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="3896" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+      <entity_mention id="m-4561" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3911" length="30">
+        <mention_text>something of a local celebrity</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3932" length="9">celebrity</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-984" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-978" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3981" length="5">
+        <mention_text>shops</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="3981" length="5">shops</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-993" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-987" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="3991" length="35">
+        <mention_text>at least a few government buildings</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="4017" length="9">buildings</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1062" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-1056" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="4397" length="11">
+        <mention_text>a spokesman</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="4399" length="9">spokesman</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1065" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="4415" length="9">
+        <mention_text>Ahmed Ali</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1092" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="4520" length="3">
+        <mention_text>Ali</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1116" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="4669" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1077" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-1071" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="4475" length="25">
+        <mention_text>an English-language paper</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="4495" length="5">paper</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1080" noun_type="NAM" source="NYT_ENG_20130720.0005" offset="4502" length="16">
+        <mention_text>Daily News Egypt</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1170" type="PER" specificity="nonspecific">
+      <entity_mention id="m-1164" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="5020" length="10">
+        <mention_text>the people</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="5024" length="6">people</nom_head>
+      </entity_mention>
+      <entity_mention id="m-1179" noun_type="PRO" source="NYT_ENG_20130720.0005" offset="5035" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+      <entity_mention id="m-4589" noun_type="NOM" source="NYT_ENG_20130720.0005" offset="494" length="6">
+        <mention_text>people</mention_text>
+        <nom_head source="NYT_ENG_20130720.0005" offset="494" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-1353" source="NYT_ENG_20130720.0005" offset="1316" length="34" type="title">high commissioner for human rights</filler>
+    <filler id="f-1373" source="NYT_ENG_20130720.0005" offset="1467" length="9" type="title">president</filler>
+    <filler id="f-1583" source="NYT_ENG_20130720.0005" offset="3498" length="9" type="title">president</filler>
+    <filler id="f-1623" source="NYT_ENG_20130720.0005" offset="3848" length="4" type="title">Gen.</filler>
+    <filler id="f-1633" source="NYT_ENG_20130720.0005" offset="1280" length="9" type="title">spokesman</filler>
+    <filler id="f-1643" source="NYT_ENG_20130720.0005" offset="1531" length="9" type="title">spokesman</filler>
+    <filler id="f-1673" source="NYT_ENG_20130720.0005" offset="4101" length="7" type="title">general</filler>
+    <filler id="f-1683" source="NYT_ENG_20130720.0005" offset="4368" length="9" type="title">president</filler>
+    <filler id="f-1693" source="NYT_ENG_20130720.0005" offset="4399" length="9" type="title">spokesman</filler>
+    <filler id="f-1703" source="NYT_ENG_20130720.0005" offset="4410" length="4" type="title">Col.</filler>
+    <filler id="f-1713" source="NYT_ENG_20130720.0005" offset="4597" length="7" type="title">general</filler>
+    <filler id="f-4575" source="NYT_ENG_20130720.0005" offset="524" length="9" type="title">president</filler>
+    <filler id="f-1811" source="NYT_ENG_20130720.0005" offset="360" length="15" type="commodity">one-time rights</filler>
+    <filler id="f-1841" source="NYT_ENG_20130720.0005" offset="253" length="41" type="commodity">Photos XNYT1, 3-5, 7-9, 11, 12, 14-17, 62</filler>
+    <filler id="f-1940" source="NYT_ENG_20130720.0005" offset="524" length="9" type="title">president</filler>
+    <filler id="f-1995" source="NYT_ENG_20130720.0005" offset="606" length="6" type="time" nom_time="2013-07-19">Friday</filler>
+    <filler id="f-2030" source="NYT_ENG_20130720.0005" offset="606" length="6" type="time" nom_time="2013-07-19">Friday</filler>
+    <filler id="f-2072" source="NYT_ENG_20130720.0005" offset="606" length="6" type="time" nom_time="2013-07-19">Friday</filler>
+    <filler id="f-2303" source="NYT_ENG_20130720.0005" offset="992" length="6" type="time" nom_time="2013-07-03">July 3</filler>
+    <filler id="f-2361" source="NYT_ENG_20130720.0005" offset="992" length="6" type="time" nom_time="2013-07-03">July 3</filler>
+    <filler id="f-2572" source="NYT_ENG_20130720.0005" offset="1270" length="6" type="time" nom_time="2013-07-19">Friday</filler>
+    <filler id="f-2691" source="NYT_ENG_20130720.0005" offset="1647" length="6" type="time" nom_time="2013-07-08">July 8</filler>
+    <filler id="f-2721" source="NYT_ENG_20130720.0005" offset="1647" length="6" type="time" nom_time="2013-07-08">July 8</filler>
+    <filler id="f-2765" source="NYT_ENG_20130720.0005" offset="1647" length="6" type="time" nom_time="2013-07-08">July 8</filler>
+    <filler id="f-2795" source="NYT_ENG_20130720.0005" offset="1647" length="6" type="time" nom_time="2013-07-08">July 8</filler>
+    <filler id="f-2846" source="NYT_ENG_20130720.0005" offset="1647" length="6" type="time" nom_time="2013-07-08">July 8</filler>
+    <filler id="f-2895" source="NYT_ENG_20130720.0005" offset="1647" length="6" type="time" nom_time="2013-07-08">July 8</filler>
+    <filler id="f-2973" source="NYT_ENG_20130720.0005" offset="1952" length="6" type="time" nom_time="2013-07-19">Friday</filler>
+    <filler id="f-3164" source="NYT_ENG_20130720.0005" offset="2109" length="21" type="time" nom_time="2013-07-19">Late in the afternoon</filler>
+    <filler id="f-3186" source="NYT_ENG_20130720.0005" offset="2109" length="21" type="time" nom_time="2013-07-19">Late in the afternoon</filler>
+    <filler id="f-3283" source="NYT_ENG_20130720.0005" offset="2559" length="6" type="time" nom_time="2013-07-08">July 8</filler>
+    <filler id="f-3304" source="NYT_ENG_20130720.0005" offset="2559" length="6" type="time" nom_time="2013-07-08">July 8</filler>
+    <filler id="f-3625" source="NYT_ENG_20130720.0005" offset="3187" length="5" type="vehicle">a car</filler>
+    <filler id="f-3670" source="NYT_ENG_20130720.0005" offset="3187" length="5" type="vehicle">a car</filler>
+    <filler id="f-3955" source="NYT_ENG_20130720.0005" offset="3445" length="6" type="time" nom_time="2013-07-19">Friday</filler>
+    <filler id="f-4031" source="NYT_ENG_20130720.0005" offset="3498" length="9" type="title">president</filler>
+    <filler id="f-4051" source="NYT_ENG_20130720.0005" offset="3652" length="17" type="vehicle">military aircraft</filler>
+    <filler id="f-4082" source="NYT_ENG_20130720.0005" offset="3741" length="4" type="time" nom_time="1973-xx-xx">1973</filler>
+    <filler id="f-4119" source="NYT_ENG_20130720.0005" offset="3741" length="4" type="time" nom_time="1973-xx-xx">1973</filler>
+    <filler id="f-4286" source="NYT_ENG_20130720.0005" offset="4165" length="9" type="time" nom_time="2013-07-xx">last week</filler>
+    <filler id="f-4316" source="NYT_ENG_20130720.0005" offset="4296" length="6" type="time" nom_time="2013-07-19">Friday</filler>
+    <filler id="f-4346" source="NYT_ENG_20130720.0005" offset="4368" length="9" type="title">president</filler>
+    <filler id="f-4429" source="NYT_ENG_20130720.0005" offset="4746" length="10" type="title">presidency</filler>
+    <filler id="f-4457" source="NYT_ENG_20130720.0005" offset="4807" length="6" type="time" nom_time="2013-07-19">Friday</filler>
+    <filler id="f-4531" source="NYT_ENG_20130720.0005" offset="4952" length="10" type="title">presidency</filler>
+  </fillers>
+  <relations>
+    <relation id="r-453" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1185" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-18" role="entity">CROWDS</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-24" role="loc">EGYPT</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="185" length="2">IN</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-454" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1205" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-42" role="employeemember">NYT photo clients</rel_arg1>
+        <rel_arg2 entity_id="ent-57" entity_mention_id="m-51" role="org">NYT</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="323" length="7">clients</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-455" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1215" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-87" role="entity">Thousands of people</rel_arg1>
+        <rel_arg2 entity_id="ent-120" entity_mention_id="m-114" role="loc">several Egyptian cities</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="579" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-456" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1225" realis="true">
+        <rel_arg1 entity_id="ent-120" entity_mention_id="m-114" role="entity">several Egyptian cities</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-123" role="loc">Egyptian</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-457" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-1245" realis="true">
+        <rel_arg1 entity_id="ent-135" entity_mention_id="m-129" role="employeemember">the U.N. chief human rights official</rel_arg1>
+        <rel_arg2 entity_id="ent-144" entity_mention_id="m-138" role="org">U.N.</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="645" length="8">official</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1335" realis="true">
+        <rel_arg1 entity_id="ent-135" entity_mention_id="m-327" role="employeemember">the U.N. high commissioner for human rights</rel_arg1>
+        <rel_arg2 entity_id="ent-144" entity_mention_id="m-333" role="org">U.N.</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-458" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1255" realis="true">
+        <rel_arg1 entity_id="ent-159" entity_mention_id="m-153" role="leader">Egypt’s new leaders</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-162" role="entity">Egypt</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="687" length="7">leaders</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-459" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1265" realis="true">
+        <rel_arg1 entity_id="ent-189" entity_mention_id="m-183" role="entity">pro- and anti-Morsi protesters</rel_arg1>
+        <rel_arg2 entity_id="ent-204" entity_mention_id="m-198" role="loc">the Nile Delta city</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="847" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-460" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1275" realis="true">
+        <rel_arg1 entity_id="ent-180" entity_mention_id="m-174" role="entity">At least three people</rel_arg1>
+        <rel_arg2 entity_id="ent-204" entity_mention_id="m-198" role="loc">the Nile Delta city</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="847" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-461" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1285" realis="true">
+        <rel_arg1 entity_id="ent-204" entity_mention_id="m-198" role="entity">the Nile Delta city</rel_arg1>
+        <rel_arg2 entity_id="ent-213" entity_mention_id="m-207" role="loc">Nile Delta</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-462" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1295" realis="true">
+        <rel_arg1 entity_id="ent-222" entity_mention_id="m-216" role="entity">Nile</rel_arg1>
+        <rel_arg2 entity_id="ent-213" entity_mention_id="m-207" role="loc">Nile Delta</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-463" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1305" realis="true">
+        <rel_arg1 entity_id="ent-237" entity_mention_id="m-231" role="suborg">state news media</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-240" role="parent">state</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-464" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1315" realis="true">
+        <rel_arg1 entity_id="ent-258" entity_mention_id="m-252" role="suborg">Egypt’s military</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-261" role="parent">Egypt</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="972" length="7">Egypt’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-465" type="personalsocial" subtype="business">
+      <relation_mention id="relm-1325" realis="true">
+        <rel_arg1 entity_id="ent-318" entity_mention_id="m-312" role="per">a spokesman for Navi Pillay, the U.N. high commissioner for human rights</rel_arg1>
+        <rel_arg2 entity_id="ent-135" entity_mention_id="m-321" role="per">Navi Pillay</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="1290" length="3">for</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-466" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1345" realis="true">
+        <rel_arg1 entity_id="ent-135" entity_mention_id="m-327" role="per">the U.N. high commissioner for human rights</rel_arg1>
+        <rel_arg2 filler_id="f-1353" role="role">high commissioner for human rights</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-467" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-1355" realis="true">
+        <rel_arg1 entity_id="ent-351" entity_mention_id="m-345" role="suborg">the Egyptian government</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-354" role="parent">Egyptian</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-468" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1365" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-360" role="per">the former president</rel_arg1>
+        <rel_arg2 filler_id="f-1373" role="role">president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1575" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-879" role="per">the former president</rel_arg1>
+        <rel_arg2 filler_id="f-1583" role="role">president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-4567" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-108" role="per">Mohammed Morsi</rel_arg1>
+        <rel_arg2 filler_id="f-4575" role="role">president</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-469" type="personalsocial" subtype="business">
+      <relation_mention id="relm-1375" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-372" role="per">his</rel_arg1>
+        <rel_arg2 entity_id="ent-309" entity_mention_id="m-366" role="per">his presidential team</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-470" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1395" realis="true">
+        <rel_arg1 entity_id="ent-402" entity_mention_id="m-447" role="entity">more than 50 people who were camped outside the Republican Guard club near Cairo’s airport</rel_arg1>
+        <rel_arg2 entity_id="ent-459" entity_mention_id="m-453" role="loc">the Republican Guard club near Cairo’s airport</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="1754" length="7">outside</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-471" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1405" realis="true">
+        <rel_arg1 entity_id="ent-468" entity_mention_id="m-462" role="org">Republican Guard</rel_arg1>
+        <rel_arg2 entity_id="ent-459" entity_mention_id="m-453" role="loc">the Republican Guard club near Cairo’s airport</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1465" realis="true">
+        <rel_arg1 entity_id="ent-468" entity_mention_id="m-576" role="org">Republican Guard</rel_arg1>
+        <rel_arg2 entity_id="ent-459" entity_mention_id="m-570" role="loc">the Republican Guard club</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-472" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1415" realis="true">
+        <rel_arg1 entity_id="ent-459" entity_mention_id="m-453" role="entity">the Republican Guard club near Cairo’s airport</rel_arg1>
+        <rel_arg2 entity_id="ent-477" entity_mention_id="m-471" role="loc">Cairo’s airport</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="1788" length="4">near</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-473" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1425" realis="true">
+        <rel_arg1 entity_id="ent-477" entity_mention_id="m-471" role="entity">Cairo’s airport</rel_arg1>
+        <rel_arg2 entity_id="ent-84" entity_mention_id="m-480" role="loc">Cairo</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="1793" length="7">Cairo’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-474" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1435" realis="true">
+        <rel_arg1 entity_id="ent-522" entity_mention_id="m-510" role="entity">their</rel_arg1>
+        <rel_arg2 entity_id="ent-459" entity_mention_id="m-531" role="loc">a focal point of their demonstrations</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="1886" length="11">focal point</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-475" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1445" realis="false">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-504" role="entity">he</rel_arg1>
+        <rel_arg2 entity_id="ent-459" entity_mention_id="m-486" role="loc">The club</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="1820" length="5">where</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-476" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1455" realis="true">
+        <rel_arg1 entity_id="ent-567" entity_mention_id="m-561" role="entity">large crowds</rel_arg1>
+        <rel_arg2 entity_id="ent-459" entity_mention_id="m-570" role="loc">the Republican Guard club</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="2154" length="6">toward</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-477" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1475" realis="true">
+        <rel_arg1 entity_id="ent-588" entity_mention_id="m-582" role="entity">soldiers</rel_arg1>
+        <rel_arg2 entity_id="ent-459" entity_mention_id="m-570" role="loc">the Republican Guard club</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="2188" length="5">where</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-478" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1485" realis="true">
+        <rel_arg1 entity_id="ent-567" entity_mention_id="m-591" role="entity">The protesters</rel_arg1>
+        <rel_arg2 entity_id="ent-603" entity_mention_id="m-597" role="loc">Rabaa al-Adawiya</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="2300" length="6">toward</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1495" realis="true">
+        <rel_arg1 entity_id="ent-567" entity_mention_id="m-612" role="entity">their</rel_arg1>
+        <rel_arg2 entity_id="ent-603" entity_mention_id="m-606" role="loc">their encampment for the last three weeks</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="2338" length="10">encampment</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-479" type="physical" subtype="resident">
+      <relation_mention id="relm-1505" realis="true">
+        <rel_arg1 entity_id="ent-636" entity_mention_id="m-630" role="per">residents of the neighborhood surrounding the encampment</rel_arg1>
+        <rel_arg2 entity_id="ent-645" entity_mention_id="m-639" role="loc">the neighborhood surrounding the encampment</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="2501" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-480" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1515" realis="true">
+        <rel_arg1 entity_id="ent-645" entity_mention_id="m-639" role="entity">the neighborhood surrounding the encampment</rel_arg1>
+        <rel_arg2 entity_id="ent-603" entity_mention_id="m-648" role="loc">the encampment</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="2521" length="11">surrounding</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-481" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1525" realis="true">
+        <rel_arg1 entity_id="ent-567" entity_mention_id="m-660" role="entity">the protesters</rel_arg1>
+        <rel_arg2 entity_id="ent-672" entity_mention_id="m-666" role="loc">an increasingly constricted space</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="2611" length="4">into</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-482" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1535" realis="true">
+        <rel_arg1 entity_id="ent-567" entity_mention_id="m-675" role="entity">They</rel_arg1>
+        <rel_arg2 entity_id="ent-687" entity_mention_id="m-681" role="loc">our streets</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="2687" length="4">onto</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-483" type="physical" subtype="resident">
+      <relation_mention id="relm-1545" realis="true">
+        <rel_arg1 entity_id="ent-636" entity_mention_id="m-690" role="per">our</rel_arg1>
+        <rel_arg2 entity_id="ent-687" entity_mention_id="m-681" role="loc">our streets</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-484" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1555" realis="true">
+        <rel_arg1 entity_id="ent-711" entity_mention_id="m-705" role="entity">Asmaa Zaghloul Street</rel_arg1>
+        <rel_arg2 entity_id="ent-459" entity_mention_id="m-714" role="loc">the military club</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="2775" length="4">near</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-485" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1585" realis="true">
+        <rel_arg1 entity_id="ent-867" entity_mention_id="m-861" role="entity">thousands of opponents of the former president</rel_arg1>
+        <rel_arg2 entity_id="ent-903" entity_mention_id="m-897" role="loc">Tahrir Square</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="3533" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-486" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1595" realis="true">
+        <rel_arg1 entity_id="ent-903" entity_mention_id="m-897" role="entity">Tahrir Square</rel_arg1>
+        <rel_arg2 entity_id="ent-84" entity_mention_id="m-891" role="loc">Cairo</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="3544" length="8">downtown</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-487" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1605" realis="true">
+        <rel_arg1 entity_id="ent-543" entity_mention_id="m-921" role="org">the army</rel_arg1>
+        <rel_arg2 entity_id="ent-933" entity_mention_id="m-927" role="loc">Sinai</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="3719" length="4">into</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-488" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1615" realis="true">
+        <rel_arg1 entity_id="ent-957" entity_mention_id="m-951" role="per">Abdel Fattah el-Sissi</rel_arg1>
+        <rel_arg2 filler_id="f-1623" role="role">Gen.</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1665" realis="true">
+        <rel_arg1 entity_id="ent-957" entity_mention_id="m-1026" role="per">The general</rel_arg1>
+        <rel_arg2 filler_id="f-1673" role="role">general</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1705" realis="true">
+        <rel_arg1 entity_id="ent-957" entity_mention_id="m-1104" role="per">the general</rel_arg1>
+        <rel_arg2 filler_id="f-1713" role="role">general</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-489" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1625" realis="true">
+        <rel_arg1 entity_id="ent-318" entity_mention_id="m-312" role="per">a spokesman for Navi Pillay, the U.N. high commissioner for human rights</rel_arg1>
+        <rel_arg2 filler_id="f-1633" role="role">spokesman</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1635" realis="true">
+        <rel_arg1 entity_id="ent-318" entity_mention_id="m-378" role="per">The spokesman</rel_arg1>
+        <rel_arg2 filler_id="f-1643" role="role">spokesman</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-490" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1645" realis="true">
+        <rel_arg1 entity_id="ent-957" entity_mention_id="m-960" role="leader">the army commander</rel_arg1>
+        <rel_arg2 entity_id="ent-543" entity_mention_id="m-966" role="entity">army</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="3885" length="9">commander</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-491" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-1655" realis="true">
+        <rel_arg1 entity_id="ent-351" entity_mention_id="m-996" role="org">government</rel_arg1>
+        <rel_arg2 entity_id="ent-993" entity_mention_id="m-987" role="loc">at least a few government buildings</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-492" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1675" realis="false">
+        <rel_arg1 entity_id="ent-957" entity_mention_id="m-1050" role="per">el-Sissi</rel_arg1>
+        <rel_arg2 filler_id="f-1683" role="role">president</rel_arg2>
+        <trigger source="NYT_ENG_20130720.0005" offset="4364" length="3">for</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-493" type="personalsocial" subtype="role">
+      <relation_mention id="relm-1685" realis="true">
+        <rel_arg1 entity_id="ent-1062" entity_mention_id="m-1056" role="per">a spokesman</rel_arg1>
+        <rel_arg2 filler_id="f-1693" role="role">spokesman</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-1695" realis="true">
+        <rel_arg1 entity_id="ent-1062" entity_mention_id="m-1065" role="per">Ahmed Ali</rel_arg1>
+        <rel_arg2 filler_id="f-1703" role="role">Col.</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1735" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="179" length="5">MARCH</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-18" role="entity" realis="true">CROWDS</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-24" role="place" realis="true">EGYPT</em_arg>
+      </event_mention>
+      <event_mention id="em-1998" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="571" length="7">marched</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-87" role="entity" realis="true">Thousands of people</em_arg>
+        <em_arg entity_id="ent-120" entity_mention_id="m-114" role="place" realis="true">several Egyptian cities</em_arg>
+        <em_arg filler_id="f-2030" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+      <event_mention id="em-2431" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="197" length="7">PROTEST</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-18" role="entity" realis="true">CROWDS</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-24" role="place" realis="true">EGYPT</em_arg>
+      </event_mention>
+      <event_mention id="em-2956" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1943" length="8">protests</trigger>
+        <em_arg filler_id="f-2973" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+      <event_mention id="em-3088" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="2051" length="10">protesters</trigger>
+        <em_arg entity_id="ent-552" entity_mention_id="m-546" role="entity" realis="true">protesters who used violence</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1784">
+      <event_mention id="em-1763" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="211" length="9">DETENTION</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-33" role="person" realis="true">MORSI</em_arg>
+      </event_mention>
+      <event_mention id="em-2107" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="740" length="8">detained</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-168" role="person" realis="true">Morsi</em_arg>
+      </event_mention>
+      <event_mention id="em-2459" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1107" length="9">detention</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-279" role="person" realis="true">his</em_arg>
+      </event_mention>
+      <event_mention id="em-2503" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1149" length="4">held</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-285" role="person" realis="true">he</em_arg>
+      </event_mention>
+      <event_mention id="em-2624" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1507" length="8">detained</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-360" role="person" realis="true">the former president</em_arg>
+      </event_mention>
+      <event_mention id="em-2898" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1867" length="4">held</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-504" role="person" realis="true">he</em_arg>
+        <em_arg entity_id="ent-459" entity_mention_id="m-486" role="place" realis="false">The club</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1814">
+      <event_mention id="em-1786" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130720.0005" offset="351" length="8">purchase</trigger>
+        <em_arg entity_id="ent-66" entity_mention_id="m-60" role="recipient" realis="true">Nonsubscribers</em_arg>
+        <em_arg filler_id="f-1811" role="thing" realis="true">one-time rights</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1844">
+      <event_mention id="em-1816" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130720.0005" offset="305" length="4">sent</trigger>
+        <em_arg entity_id="ent-48" entity_mention_id="m-42" role="recipient" realis="true">NYT photo clients</em_arg>
+        <em_arg filler_id="f-1841" role="thing" realis="true">Photos XNYT1, 3-5, 7-9, 11, 12, 14-17, 62</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1867">
+      <event_mention id="em-1846" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130720.0005" offset="351" length="8">purchase</trigger>
+        <em_arg entity_id="ent-66" entity_mention_id="m-60" role="giver" realis="true">Nonsubscribers</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1890">
+      <event_mention id="em-1869" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="379" length="7">calling</trigger>
+        <em_arg entity_id="ent-66" entity_mention_id="m-60" role="entity" realis="true">Nonsubscribers</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1913">
+      <event_mention id="em-1892" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130720.0005" offset="453" length="9">reporting</trigger>
+        <em_arg entity_id="ent-75" entity_mention_id="m-69" role="entity" realis="true">Asmaa al Zohairy</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1943">
+      <event_mention id="em-1915" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="517" length="6">ousted</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-108" role="person" realis="true">Mohammed Morsi</em_arg>
+        <em_arg filler_id="f-1940" role="position" realis="true">president</em_arg>
+      </event_mention>
+      <event_mention id="em-2278" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="961" length="7">deposed</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-246" role="person" realis="true">Morsi</em_arg>
+        <em_arg filler_id="f-2303" role="time" realis="true">July 3</em_arg>
+      </event_mention>
+      <event_mention id="em-4006" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3491" length="6">former</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-879" role="person" realis="true">the former president</em_arg>
+        <em_arg filler_id="f-4031" role="position" realis="true">president</em_arg>
+      </event_mention>
+      <event_mention id="em-4152" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3838" length="6">ousted</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-945" role="person" realis="true">Morsi</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1966">
+      <event_mention id="em-1945" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="502" length="9">demanding</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-87" role="entity" realis="true">Thousands of people</em_arg>
+        <em_arg filler_id="f-1995" role="time" realis="true">Friday</em_arg>
+        <em_arg entity_id="ent-120" entity_mention_id="m-114" role="place" realis="true">several Egyptian cities</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1989">
+      <event_mention id="em-1968" type="personnel" subtype="startposition" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="552" length="8">returned</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-108" role="person" realis="true">Mohammed Morsi</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2075">
+      <event_mention id="em-2047" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="654" length="4">said</trigger>
+        <em_arg entity_id="ent-135" entity_mention_id="m-129" role="entity" realis="true">the U.N. chief human rights official</em_arg>
+        <em_arg filler_id="f-2072" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+      <event_mention id="em-2547" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="1352" length="4">said</trigger>
+        <em_arg entity_id="ent-318" entity_mention_id="m-312" role="entity" realis="true">a spokesman for Navi Pillay, the U.N. high commissioner for human rights</em_arg>
+        <em_arg filler_id="f-2572" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2105">
+      <event_mention id="em-2077" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="667" length="7">pressed</trigger>
+        <em_arg entity_id="ent-135" entity_mention_id="m-147" role="entity" realis="true">she</em_arg>
+        <em_arg entity_id="ent-159" entity_mention_id="m-153" role="audience" realis="true">Egypt’s new leaders</em_arg>
+      </event_mention>
+      <event_mention id="em-2575" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="1365" length="5">asked</trigger>
+        <em_arg entity_id="ent-135" entity_mention_id="m-339" role="entity" realis="true">she</em_arg>
+        <em_arg entity_id="ent-351" entity_mention_id="m-345" role="audience" realis="true">the Egyptian government</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2156">
+      <event_mention id="em-2128" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="786" length="6">killed</trigger>
+        <em_arg entity_id="ent-180" entity_mention_id="m-174" role="victim" realis="true">At least three people</em_arg>
+        <em_arg entity_id="ent-204" entity_mention_id="m-198" role="place" realis="true">the Nile Delta city</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2186">
+      <event_mention id="em-2158" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="786" length="6">killed</trigger>
+        <em_arg entity_id="ent-180" entity_mention_id="m-174" role="target" realis="true">At least three people</em_arg>
+        <em_arg entity_id="ent-204" entity_mention_id="m-198" role="place" realis="true">the Nile Delta city</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2223">
+      <event_mention id="em-2188" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="800" length="7">clashes</trigger>
+        <em_arg entity_id="ent-189" entity_mention_id="m-183" role="attacker" realis="true">pro- and anti-Morsi protesters</em_arg>
+        <em_arg entity_id="ent-204" entity_mention_id="m-198" role="place" realis="true">the Nile Delta city</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2253">
+      <event_mention id="em-2225" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="836" length="10">protesters</trigger>
+        <em_arg entity_id="ent-189" entity_mention_id="m-183" role="entity" realis="true">pro- and anti-Morsi protesters</em_arg>
+        <em_arg entity_id="ent-204" entity_mention_id="m-198" role="place" realis="true">the Nile Delta city</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2276">
+      <event_mention id="em-2255" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130720.0005" offset="900" length="8">reported</trigger>
+        <em_arg entity_id="ent-237" entity_mention_id="m-231" role="entity" realis="true">state news media</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2327">
+      <event_mention id="em-2306" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="517" length="6">ousted</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-108" role="target" realis="true">Mohammed Morsi</em_arg>
+      </event_mention>
+      <event_mention id="em-2329" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="961" length="7">deposed</trigger>
+        <em_arg entity_id="ent-258" entity_mention_id="m-252" role="attacker" realis="true">Egypt’s military</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-246" role="target" realis="true">Morsi</em_arg>
+        <em_arg filler_id="f-2361" role="time" realis="true">July 3</em_arg>
+      </event_mention>
+      <event_mention id="em-4124" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3838" length="6">ousted</trigger>
+        <em_arg entity_id="ent-957" entity_mention_id="m-951" role="attacker" realis="true">Abdel Fattah el-Sissi</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-945" role="target" realis="true">Morsi</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2385">
+      <event_mention id="em-2364" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="938" length="10">heard from</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-246" role="entity" realis="true">Morsi</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2408">
+      <event_mention id="em-2387" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130720.0005" offset="1081" length="7">divulge</trigger>
+        <em_arg entity_id="ent-258" entity_mention_id="m-273" role="entity" realis="true">The military</em_arg>
+      </event_mention>
+      <event_mention id="em-2410" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130720.0005" offset="698" length="7">provide</trigger>
+        <em_arg entity_id="ent-159" entity_mention_id="m-153" role="entity" realis="true">Egypt’s new leaders</em_arg>
+      </event_mention>
+      <event_mention id="em-2603" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130720.0005" offset="1398" length="7">provide</trigger>
+        <em_arg entity_id="ent-351" entity_mention_id="m-345" role="entity" realis="true">the Egyptian government</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2501">
+      <event_mention id="em-2480" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="1128" length="3">say</trigger>
+        <em_arg entity_id="ent-258" entity_mention_id="m-273" role="entity" realis="true">The military</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2545">
+      <event_mention id="em-2524" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1248" length="8">detained</trigger>
+        <em_arg entity_id="ent-309" entity_mention_id="m-303" role="person" realis="true">Several presidential aides</em_arg>
+      </event_mention>
+      <event_mention id="em-2645" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1507" length="8">detained</trigger>
+        <em_arg entity_id="ent-309" entity_mention_id="m-366" role="person" realis="true">his presidential team</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2694">
+      <event_mention id="em-2666" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1605" length="7">killing</trigger>
+        <em_arg entity_id="ent-402" entity_mention_id="m-396" role="target" realis="true">Morsi’s Islamist supporters</em_arg>
+        <em_arg filler_id="f-2691" role="time" realis="true">July 8</em_arg>
+      </event_mention>
+      <event_mention id="em-2800" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1710" length="7">killing</trigger>
+        <em_arg entity_id="ent-426" entity_mention_id="m-420" role="attacker" realis="true">police officers</em_arg>
+        <em_arg entity_id="ent-435" entity_mention_id="m-429" role="attacker" realis="true">soldiers</em_arg>
+        <em_arg entity_id="ent-402" entity_mention_id="m-447" role="target" realis="true">more than 50 people who were camped outside the Republican Guard club near Cairo’s airport</em_arg>
+        <em_arg entity_id="ent-459" entity_mention_id="m-453" role="place" realis="true">the Republican Guard club near Cairo’s airport</em_arg>
+        <em_arg filler_id="f-2846" role="time" realis="true">July 8</em_arg>
+      </event_mention>
+      <event_mention id="em-3266" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="2566" length="8">killings</trigger>
+        <em_arg filler_id="f-3283" role="time" realis="true">July 8</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2724">
+      <event_mention id="em-2696" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1605" length="7">killing</trigger>
+        <em_arg entity_id="ent-402" entity_mention_id="m-396" role="victim" realis="true">Morsi’s Islamist supporters</em_arg>
+        <em_arg filler_id="f-2721" role="time" realis="true">July 8</em_arg>
+      </event_mention>
+      <event_mention id="em-2849" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1710" length="7">killing</trigger>
+        <em_arg entity_id="ent-426" entity_mention_id="m-420" role="agent" realis="true">police officers</em_arg>
+        <em_arg entity_id="ent-435" entity_mention_id="m-429" role="agent" realis="true">soldiers</em_arg>
+        <em_arg entity_id="ent-402" entity_mention_id="m-447" role="victim" realis="true">more than 50 people who were camped outside the Republican Guard club near Cairo’s airport</em_arg>
+        <em_arg entity_id="ent-459" entity_mention_id="m-453" role="place" realis="true">the Republican Guard club near Cairo’s airport</em_arg>
+        <em_arg filler_id="f-2895" role="time" realis="true">July 8</em_arg>
+      </event_mention>
+      <event_mention id="em-3287" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="2566" length="8">killings</trigger>
+        <em_arg filler_id="f-3304" role="time" realis="true">July 8</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2768">
+      <event_mention id="em-2726" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1689" length="5">fired</trigger>
+        <em_arg entity_id="ent-426" entity_mention_id="m-420" role="attacker" realis="true">police officers</em_arg>
+        <em_arg entity_id="ent-435" entity_mention_id="m-429" role="attacker" realis="true">soldiers</em_arg>
+        <em_arg entity_id="ent-444" entity_mention_id="m-438" role="target" realis="true">protesters</em_arg>
+        <em_arg filler_id="f-2765" role="time" realis="true">July 8</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2798">
+      <event_mention id="em-2770" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="1698" length="10">protesters</trigger>
+        <em_arg entity_id="ent-444" entity_mention_id="m-438" role="entity" realis="true">protesters</em_arg>
+        <em_arg filler_id="f-2795" role="time" realis="true">July 8</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2954">
+      <event_mention id="em-2926" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="NYT_ENG_20130720.0005" offset="1907" length="14">demonstrations</trigger>
+        <em_arg entity_id="ent-522" entity_mention_id="m-510" role="entity" realis="true">their</em_arg>
+        <em_arg entity_id="ent-459" entity_mention_id="m-531" role="place" realis="true">a focal point of their demonstrations</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2998">
+      <event_mention id="em-2977" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="2039" length="6">warned</trigger>
+        <em_arg entity_id="ent-543" entity_mention_id="m-537" role="entity" realis="true">the army</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3021">
+      <event_mention id="em-3000" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="1985" length="6">billed</trigger>
+        <em_arg entity_id="ent-522" entity_mention_id="m-516" role="entity" realis="true">Morsi’s supporters</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3086">
+      <event_mention id="em-3065" type="conflict" subtype="attack" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="2071" length="8">violence</trigger>
+        <em_arg entity_id="ent-552" entity_mention_id="m-546" role="attacker" realis="true">protesters who used violence</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3130">
+      <event_mention id="em-3109" type="life" subtype="die" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="2087" length="8">endanger</trigger>
+        <em_arg entity_id="ent-552" entity_mention_id="m-555" role="victim" realis="true">their</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3167">
+      <event_mention id="em-3132" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="2145" length="8">streamed</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-561" role="agent" realis="true">large crowds</em_arg>
+        <em_arg entity_id="ent-459" entity_mention_id="m-570" role="destination" realis="true">the Republican Guard club</em_arg>
+        <em_arg filler_id="f-3164" role="time" realis="true">Late in the afternoon</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3190">
+      <event_mention id="em-3169" type="conflict" subtype="attack" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="2242" length="14">confrontations</trigger>
+        <em_arg filler_id="f-3186" role="time" realis="true">Late in the afternoon</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3213">
+      <event_mention id="em-3192" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="2271" length="10">protesters</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-591" role="entity" realis="true">The protesters</em_arg>
+      </event_mention>
+      <event_mention id="em-3390" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="2735" length="7">protest</trigger>
+        <em_arg entity_id="ent-711" entity_mention_id="m-705" role="place" realis="true">Asmaa Zaghloul Street</em_arg>
+      </event_mention>
+      <event_mention id="em-3411" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="2803" length="10">protesters</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-720" role="entity" realis="true">The protesters</em_arg>
+      </event_mention>
+      <event_mention id="em-3675" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3213" length="5">march</trigger>
+        <em_arg entity_id="ent-711" entity_mention_id="m-783" role="place" realis="true">the street</em_arg>
+      </event_mention>
+      <event_mention id="em-3696" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3245" length="10">protesters</trigger>
+        <em_arg entity_id="ent-795" entity_mention_id="m-789" role="entity" realis="true">some protesters</em_arg>
+        <em_arg entity_id="ent-711" entity_mention_id="m-783" role="place" realis="true">the street</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3243">
+      <event_mention id="em-3215" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="2293" length="6">headed</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-591" role="agent" realis="true">The protesters</em_arg>
+        <em_arg entity_id="ent-603" entity_mention_id="m-597" role="destination" realis="true">Rabaa al-Adawiya</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3308">
+      <event_mention id="em-3245" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="NYT_ENG_20130720.0005" offset="2426" length="7">marches</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-618" role="entity" realis="true">Morsi’s supporters</em_arg>
+      </event_mention>
+      <event_mention id="em-3310" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="NYT_ENG_20130720.0005" offset="2600" length="10">protesters</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-660" role="entity" realis="true">the protesters</em_arg>
+      </event_mention>
+      <event_mention id="em-3522" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="NYT_ENG_20130720.0005" offset="3047" length="10">protesters</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-765" role="entity" realis="true">The protesters</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3365">
+      <event_mention id="em-3337" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="NYT_ENG_20130720.0005" offset="2682" length="4">move</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-675" role="agent" realis="true">They</em_arg>
+        <em_arg entity_id="ent-687" entity_mention_id="m-681" role="destination" realis="true">our streets</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3388">
+      <event_mention id="em-3367" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130720.0005" offset="2706" length="4">said</trigger>
+        <em_arg entity_id="ent-702" entity_mention_id="m-696" role="entity" realis="true">a resident watching the protest go by on Asmaa Zaghloul Street, near the military club</em_arg>
+      </event_mention>
+      <event_mention id="em-3564" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="3134" length="5">spoke</trigger>
+        <em_arg entity_id="ent-702" entity_mention_id="m-777" role="entity" realis="true">he</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3453">
+      <event_mention id="em-3432" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="2814" length="7">chanted</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-720" role="entity" realis="true">The protesters</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3520">
+      <event_mention id="em-3499" type="life" subtype="die" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="3007" length="4">dead</trigger>
+        <em_arg entity_id="ent-756" entity_mention_id="m-750" role="victim" realis="true">many dead</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3606">
+      <event_mention id="em-3585" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3141" length="6">fights</trigger>
+        <em_arg entity_id="ent-711" entity_mention_id="m-783" role="place" realis="true">the street</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3636">
+      <event_mention id="em-3608" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3193" length="10">encroached</trigger>
+        <em_arg filler_id="f-3625" role="instrument" realis="true">a car</em_arg>
+        <em_arg entity_id="ent-711" entity_mention_id="m-783" role="destination" realis="true">the street</em_arg>
+      </event_mention>
+      <event_mention id="em-3745" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3301" length="6">driver</trigger>
+        <em_arg entity_id="ent-804" entity_mention_id="m-798" role="person" realis="true">the driver</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3673">
+      <event_mention id="em-3638" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3231" length="8">striking</trigger>
+        <em_arg entity_id="ent-795" entity_mention_id="m-789" role="target" realis="true">some protesters</em_arg>
+        <em_arg entity_id="ent-711" entity_mention_id="m-783" role="place" realis="true">the street</em_arg>
+        <em_arg filler_id="f-3670" role="instrument" realis="true">a car</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3787">
+      <event_mention id="em-3766" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3308" length="7">escaped</trigger>
+        <em_arg entity_id="ent-804" entity_mention_id="m-798" role="agent" realis="true">the driver</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3838">
+      <event_mention id="em-3810" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="3331" length="4">talk</trigger>
+        <em_arg entity_id="ent-804" entity_mention_id="m-807" role="entity" realis="true">he</em_arg>
+        <em_arg entity_id="ent-819" entity_mention_id="m-813" role="entity" realis="true">the media</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3861">
+      <event_mention id="em-3840" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130720.0005" offset="3369" length="6">yelled</trigger>
+        <em_arg entity_id="ent-828" entity_mention_id="m-822" role="entity" realis="true">a Morsi supporter</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3891">
+      <event_mention id="em-3863" type="conflict" subtype="attack" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="3422" length="4">kill</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-843" role="attacker" realis="true">the Islamists</em_arg>
+        <em_arg entity_id="ent-804" entity_mention_id="m-855" role="target" realis="true">him</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3921">
+      <event_mention id="em-3893" type="life" subtype="die" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="3422" length="4">kill</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-843" role="agent" realis="true">the Islamists</em_arg>
+        <em_arg entity_id="ent-804" entity_mention_id="m-855" role="victim" realis="true">him</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3958">
+      <event_mention id="em-3923" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3523" length="9">gathering</trigger>
+        <em_arg entity_id="ent-867" entity_mention_id="m-885" role="entity" realis="true">their</em_arg>
+        <em_arg entity_id="ent-903" entity_mention_id="m-897" role="place" realis="true">Tahrir Square</em_arg>
+        <em_arg filler_id="f-3955" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-3981">
+      <event_mention id="em-3960" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="NYT_ENG_20130720.0005" offset="3573" length="7">contest</trigger>
+        <em_arg entity_id="ent-912" entity_mention_id="m-906" role="entity" realis="true">crowds</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4004">
+      <event_mention id="em-3983" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3619" length="7">marches</trigger>
+        <em_arg entity_id="ent-84" entity_mention_id="m-915" role="place" realis="true">the city</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4055">
+      <event_mention id="em-4034" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3670" length="4">flew</trigger>
+        <em_arg filler_id="f-4051" role="instrument" realis="true">military aircraft</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4085">
+      <event_mention id="em-4057" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3710" length="8">crossing</trigger>
+        <em_arg entity_id="ent-933" entity_mention_id="m-927" role="destination" realis="true">Sinai</em_arg>
+        <em_arg filler_id="f-4082" role="time" realis="true">1973</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4122">
+      <event_mention id="em-4087" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130720.0005" offset="3746" length="3">war</trigger>
+        <em_arg entity_id="ent-543" entity_mention_id="m-921" role="attacker" realis="true">the army</em_arg>
+        <em_arg entity_id="ent-942" entity_mention_id="m-936" role="target" realis="true">Israel</em_arg>
+        <em_arg filler_id="f-4119" role="time" realis="true">1973</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4236">
+      <event_mention id="em-4215" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="4055" length="4">call</trigger>
+        <em_arg entity_id="ent-522" entity_mention_id="m-1002" role="entity" realis="true">Morsi’s supporters</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4259">
+      <event_mention id="em-4238" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="4074" length="7">removed</trigger>
+        <em_arg entity_id="ent-957" entity_mention_id="m-1014" role="person" realis="true">him</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4289">
+      <event_mention id="em-4261" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130720.0005" offset="4156" length="8">released</trigger>
+        <em_arg entity_id="ent-258" entity_mention_id="m-1032" role="entity" realis="true">the military</em_arg>
+        <em_arg filler_id="f-4286" role="time" realis="true">last week</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4319">
+      <event_mention id="em-4291" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="4317" length="10">fended off</trigger>
+        <em_arg entity_id="ent-258" entity_mention_id="m-1044" role="entity" realis="true">the military</em_arg>
+        <em_arg filler_id="f-4316" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+      <event_mention id="em-4432" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130720.0005" offset="4839" length="9">statement</trigger>
+        <em_arg entity_id="ent-258" entity_mention_id="m-1140" role="entity" realis="true">the military</em_arg>
+        <em_arg filler_id="f-4457" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4349">
+      <event_mention id="em-4321" type="personnel" subtype="elect" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="4360" length="3">run</trigger>
+        <em_arg entity_id="ent-957" entity_mention_id="m-1050" role="person" realis="true">el-Sissi</em_arg>
+        <em_arg filler_id="f-4346" role="position" realis="true">president</em_arg>
+      </event_mention>
+      <event_mention id="em-4404" type="personnel" subtype="elect" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="4738" length="3">run</trigger>
+        <em_arg entity_id="ent-957" entity_mention_id="m-1134" role="person" realis="true">he</em_arg>
+        <em_arg filler_id="f-4429" role="position" realis="true">presidency</em_arg>
+      </event_mention>
+      <event_mention id="em-4506" type="personnel" subtype="elect" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="4940" length="7">seeking</trigger>
+        <em_arg entity_id="ent-957" entity_mention_id="m-1152" role="person" realis="true">el-Sissi</em_arg>
+        <em_arg filler_id="f-4531" role="position" realis="true">presidency</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4379">
+      <event_mention id="em-4351" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130720.0005" offset="4460" length="9">interview</trigger>
+        <em_arg entity_id="ent-1062" entity_mention_id="m-1065" role="entity" realis="true">Ahmed Ali</em_arg>
+        <em_arg entity_id="ent-1077" entity_mention_id="m-1071" role="entity" realis="true">an English-language paper</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4402">
+      <event_mention id="em-4381" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130720.0005" offset="4701" length="7">retired</trigger>
+        <em_arg entity_id="ent-957" entity_mention_id="m-1122" role="person" realis="true">he</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4481">
+      <event_mention id="em-4460" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="4720" length="9">suggested</trigger>
+        <em_arg entity_id="ent-99" entity_mention_id="m-1128" role="entity" realis="true">people</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-4504">
+      <event_mention id="em-4483" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130720.0005" offset="4930" length="6">spoken</trigger>
+        <em_arg entity_id="ent-957" entity_mention_id="m-1152" role="entity" realis="true">el-Sissi</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

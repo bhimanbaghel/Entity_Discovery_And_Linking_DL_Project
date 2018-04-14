@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000048" doc_id="NYT_ENG_20130702.0103" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="172" length="7">
+        <mention_text>SNOWDEN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-99" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="572" length="17">
+        <mention_text>Edward J. Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-105" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="591" length="74">
+        <mention_text>the former National Security Agency contractor wanted by the United States</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="627" length="10">contractor</nom_head>
+      </entity_mention>
+      <entity_mention id="m-162" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="797" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-168" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="842" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-234" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1120" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-252" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1188" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-282" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1308" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-306" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1423" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-318" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1472" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-336" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1628" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-357" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1669" length="3">
+        <mention_text>him</mention_text>
+      </entity_mention>
+      <entity_mention id="m-381" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1712" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-393" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1759" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-399" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1773" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+      <entity_mention id="m-435" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1933" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-456" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2023" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-462" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="2042" length="14">
+        <mention_text>a truth-teller</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="2044" length="12">truth-teller</nom_head>
+      </entity_mention>
+      <entity_mention id="m-492" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2160" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-543" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2327" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+      <entity_mention id="m-594" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2731" length="7">
+        <mention_text>Snowden</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="198" length="4">
+        <mention_text>U.S.</mention_text>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="652" length="13">
+        <mention_text>United States</mention_text>
+      </entity_mention>
+      <entity_mention id="m-270" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1271" length="13">
+        <mention_text>United States</mention_text>
+      </entity_mention>
+      <entity_mention id="m-294" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1352" length="10">
+        <mention_text>Washington</mention_text>
+      </entity_mention>
+      <entity_mention id="m-324" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1529" length="13">
+        <mention_text>United States</mention_text>
+      </entity_mention>
+      <entity_mention id="m-411" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1816" length="8">
+        <mention_text>American</mention_text>
+      </entity_mention>
+      <entity_mention id="m-642" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2911" length="13">
+        <mention_text>United States</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="214" length="6">
+        <mention_text>RUSSIA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-126" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="694" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-183" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="885" length="7">
+        <mention_text>Russian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="963" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="967" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-264" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1240" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-312" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1454" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-387" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="1729" length="4">
+        <mention_text>here</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="1729" length="4">here</nom_head>
+      </entity_mention>
+      <entity_mention id="m-417" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1812" length="3">
+        <mention_text>our</mention_text>
+      </entity_mention>
+      <entity_mention id="m-450" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1967" length="7">
+        <mention_text>Russian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-537" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2298" length="18">
+        <mention_text>Russian Federation</mention_text>
+      </entity_mention>
+      <entity_mention id="m-555" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2497" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-606" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2752" length="7">
+        <mention_text>Russian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-612" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2778" length="6">
+        <mention_text>Russia</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-42" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="222" length="5">
+        <mention_text>PUTIN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-228" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1066" length="5">
+        <mention_text>Putin</mention_text>
+      </entity_mention>
+      <entity_mention id="m-246" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1178" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-258" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1204" length="5">
+        <mention_text>Putin</mention_text>
+      </entity_mention>
+      <entity_mention id="m-276" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1289" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-288" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1321" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-300" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1412" length="5">
+        <mention_text>Putin</mention_text>
+      </entity_mention>
+      <entity_mention id="m-330" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1555" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-369" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1685" length="2">
+        <mention_text>my</mention_text>
+      </entity_mention>
+      <entity_mention id="m-375" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1696" length="5">
+        <mention_text>Putin</mention_text>
+      </entity_mention>
+      <entity_mention id="m-423" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1867" length="2">
+        <mention_text>my</mention_text>
+      </entity_mention>
+      <entity_mention id="m-429" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1907" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-486" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2098" length="5">
+        <mention_text>Putin</mention_text>
+      </entity_mention>
+      <entity_mention id="m-570" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2634" length="5">
+        <mention_text>Putin</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-57" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-51" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="425" length="8">
+        <mention_text>New York</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-66" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-60" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="452" length="6">
+        <mention_text>MOSCOW</mention_text>
+      </entity_mention>
+      <entity_mention id="m-897" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="2588" length="4">
+        <mention_text>here</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="2588" length="4">here</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-75" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-69" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="464" length="7">
+        <mention_text>Kremlin</mention_text>
+      </entity_mention>
+      <entity_mention id="m-78" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="478" length="6">
+        <mention_text>itself</mention_text>
+      </entity_mention>
+      <entity_mention id="m-84" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="511" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+      <entity_mention id="m-498" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2195" length="7">
+        <mention_text>Kremlin</mention_text>
+      </entity_mention>
+      <entity_mention id="m-549" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2392" length="7">
+        <mention_text>Kremlin</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-96" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-90" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="546" length="11">
+        <mention_text>an official</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="549" length="8">official</nom_head>
+      </entity_mention>
+      <entity_mention id="m-132" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="732" length="17">
+        <mention_text>Kim N. Shevchenko</mention_text>
+      </entity_mention>
+      <entity_mention id="m-138" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="751" length="34">
+        <mention_text>the consul at Sheremetyevo airport</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="755" length="6">consul</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-117" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-111" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="602" length="24">
+        <mention_text>National Security Agency</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-150" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-144" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="765" length="20">
+        <mention_text>Sheremetyevo airport</mention_text>
+      </entity_mention>
+      <entity_mention id="m-198" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="920" length="11">
+        <mention_text>the airport</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="924" length="7">airport</nom_head>
+      </entity_mention>
+      <entity_mention id="m-240" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="1138" length="20">
+        <mention_text>Sheremetyevo airport</mention_text>
+      </entity_mention>
+      <entity_mention id="m-513" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2226" length="12">
+        <mention_text>Sheremetyevo</mention_text>
+      </entity_mention>
+      <entity_mention id="m-600" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="2748" length="19">
+        <mention_text>the Russian airport</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="2760" length="7">airport</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-159" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-153" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="797" length="29">
+        <mention_text>Snowden’s traveling companion</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="817" length="9">companion</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-180" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-174" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="883" length="48">
+        <mention_text>a Russian consulate in Terminal F of the airport</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="893" length="9">consulate</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-195" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-189" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="906" length="10">
+        <mention_text>Terminal F</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-216" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-210" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="977" length="16">
+        <mention_text>Foreign Ministry</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-225" type="PER" specificity="nonspecific">
+      <entity_mention id="m-219" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="1004" length="23">
+        <mention_text>No high-level officials</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="1018" length="9">officials</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-348" type="GPE" specificity="nonspecific">
+      <entity_mention id="m-342" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1643" length="9">
+        <mention_text>somewhere</mention_text>
+      </entity_mention>
+      <entity_mention id="m-351" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="1657" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+      <entity_mention id="m-363" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="1685" length="8">
+        <mention_text>my guest</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="1688" length="5">guest</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-447" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-441" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="1967" length="20">
+        <mention_text>Russian intelligence</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="1975" length="12">intelligence</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-474" type="PER" specificity="nonspecific">
+      <entity_mention id="m-468" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="2072" length="15">
+        <mention_text>some supporters</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="2077" length="10">supporters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-483" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-477" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="2098" length="17">
+        <mention_text>Putin’s spokesman</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="2106" length="9">spokesman</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-510" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-504" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="2226" length="27">
+        <mention_text>Sheremetyevo’s transit zone</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="2249" length="4">zone</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-525" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-519" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="2269" length="47">
+        <mention_text>the part of territory of the Russian Federation</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="2273" length="4">part</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-534" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-528" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="2281" length="35">
+        <mention_text>territory of the Russian Federation</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="2281" length="9">territory</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-567" type="PER" specificity="specificGroup">
+      <entity_mention id="m-561" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="2609" length="8">
+        <mention_text>analysts</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="2609" length="8">analysts</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-582" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-576" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2654" length="14">
+        <mention_text>Nicolás Maduro</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-591" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-585" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2672" length="9">
+        <mention_text>Venezuela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-618" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2807" length="9">
+        <mention_text>Venezuela</mention_text>
+      </entity_mention>
+      <entity_mention id="m-624" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="2818" length="40">
+        <mention_text>a major arms customer and energy partner</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="2831" length="8">customer</nom_head>
+      </entity_mention>
+      <entity_mention id="m-630" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="2818" length="40">
+        <mention_text>a major arms customer and energy partner</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="2851" length="7">partner</nom_head>
+      </entity_mention>
+      <entity_mention id="m-636" noun_type="PRO" source="NYT_ENG_20130702.0103" offset="2860" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-654" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-648" noun_type="NAM" source="NYT_ENG_20130702.0103" offset="2939" length="13">
+        <mention_text>Latin America</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1614" type="PER" specificity="specificGroup">
+      <entity_mention id="m-405" noun_type="NOM" source="NYT_ENG_20130702.0103" offset="1812" length="21">
+        <mention_text>our American partners</mention_text>
+        <nom_head source="NYT_ENG_20130702.0103" offset="1825" length="8">partners</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-695" source="NYT_ENG_20130702.0103" offset="755" length="6" type="title">consul</filler>
+    <filler id="f-805" source="NYT_ENG_20130702.0103" offset="2106" length="9" type="title">spokesman</filler>
+    <filler id="f-825" source="NYT_ENG_20130702.0103" offset="627" length="10" type="title">contractor</filler>
+    <filler id="f-875" source="NYT_ENG_20130702.0103" offset="2644" length="9" type="title">President</filler>
+    <filler id="f-951" source="NYT_ENG_20130702.0103" offset="414" length="8" type="time" nom_time="2013-07-03">tomorrow</filler>
+    <filler id="f-1051" source="NYT_ENG_20130702.0103" offset="533" length="6" type="time" nom_time="2013-07-01">Monday</filler>
+    <filler id="f-1012" source="NYT_ENG_20130702.0103" offset="627" length="10" type="title">contractor</filler>
+    <filler id="f-1137" source="NYT_ENG_20130702.0103" offset="842" length="17" type="commodity">Snowden’s request</filler>
+    <filler id="f-1144" source="NYT_ENG_20130702.0103" offset="860" length="19" type="time" nom_time="2013-06-30">late Sunday evening</filler>
+    <filler id="f-1174" source="NYT_ENG_20130702.0103" offset="941" length="2" type="commodity">it</filler>
+    <filler id="f-1253" source="NYT_ENG_20130702.0103" offset="1159" length="14" type="time" nom_time="2013-06-24">eight days ago</filler>
+    <filler id="f-1306" source="NYT_ENG_20130702.0103" offset="1404" length="6" type="time" nom_time="2013-07-01">Monday</filler>
+    <filler id="f-1417" source="NYT_ENG_20130702.0103" offset="2133" length="21" type="time" nom_time="2013-06-30">as recently as Sunday</filler>
+    <filler id="f-1477" source="NYT_ENG_20130702.0103" offset="2509" length="21" type="time" nom_time="2013-0x-xx">the last several days</filler>
+    <filler id="f-1507" source="NYT_ENG_20130702.0103" offset="2593" length="14" type="time" nom_time="2013-07-01">Monday morning</filler>
+    <filler id="f-1597" source="NYT_ENG_20130702.0103" offset="2826" length="4" type="weapon">arms</filler>
+    <filler id="f-1725" source="NYT_ENG_20130702.0103" offset="842" length="17" type="commodity">Snowden’s request</filler>
+    <filler id="f-1732" source="NYT_ENG_20130702.0103" offset="860" length="19" type="time" nom_time="2013-06-30">late Sunday evening</filler>
+    <filler id="f-1754" source="NYT_ENG_20130702.0103" offset="941" length="2" type="commodity">it</filler>
+    <filler id="f-1792" source="NYT_ENG_20130702.0103" offset="1049" length="6" type="time" nom_time="2013-07-01">Monday</filler>
+    <filler id="f-1977" source="NYT_ENG_20130702.0103" offset="2593" length="14" type="time" nom_time="2013-07-01">Monday morning</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1303" type="physical" subtype="locatednear">
+      <relation_mention id="relm-657" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-18" role="entity">SNOWDEN</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-33" role="loc">RUSSIA</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="211" length="2">IN</trigger>
+      </relation_mention>
+      <relation_mention id="relm-757" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-306" role="entity">Snowden</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-312" role="loc">Russia</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="1451" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-777" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-381" role="entity">he</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-387" role="loc">here</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="1724" length="4">stay</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1304" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-667" realis="true">
+        <rel_arg1 entity_id="ent-96" entity_mention_id="m-90" role="employeemember">an official</rel_arg1>
+        <rel_arg2 entity_id="ent-75" entity_mention_id="m-69" role="org">Kremlin</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="549" length="8">official</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1305" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-677" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-105" role="employeemember">the former National Security Agency contractor wanted by the United States</rel_arg1>
+        <rel_arg2 entity_id="ent-117" entity_mention_id="m-111" role="org">National Security Agency</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="627" length="10">contractor</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1306" type="personalsocial" subtype="role">
+      <relation_mention id="relm-687" realis="true">
+        <rel_arg1 entity_id="ent-96" entity_mention_id="m-138" role="per">the consul at Sheremetyevo airport</rel_arg1>
+        <rel_arg2 filler_id="f-695" role="role">consul</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1307" type="physical" subtype="locatednear">
+      <relation_mention id="relm-697" realis="true">
+        <rel_arg1 entity_id="ent-96" entity_mention_id="m-138" role="entity">the consul at Sheremetyevo airport</rel_arg1>
+        <rel_arg2 entity_id="ent-150" entity_mention_id="m-144" role="loc">Sheremetyevo airport</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="762" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1308" type="physical" subtype="locatednear">
+      <relation_mention id="relm-727" realis="true">
+        <rel_arg1 entity_id="ent-180" entity_mention_id="m-174" role="entity">a Russian consulate in Terminal F of the airport</rel_arg1>
+        <rel_arg2 entity_id="ent-195" entity_mention_id="m-189" role="loc">Terminal F</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="903" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1309" type="physical" subtype="locatednear">
+      <relation_mention id="relm-737" realis="true">
+        <rel_arg1 entity_id="ent-195" entity_mention_id="m-189" role="entity">Terminal F</rel_arg1>
+        <rel_arg2 entity_id="ent-150" entity_mention_id="m-198" role="loc">the airport</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="917" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1310" type="physical" subtype="locatednear">
+      <relation_mention id="relm-747" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-234" role="entity">Snowden</rel_arg1>
+        <rel_arg2 entity_id="ent-150" entity_mention_id="m-240" role="loc">Sheremetyevo airport</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="1135" length="2">at</trigger>
+      </relation_mention>
+      <relation_mention id="relm-1627" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-594" role="entity">Snowden</rel_arg1>
+        <rel_arg2 entity_id="ent-150" entity_mention_id="m-600" role="loc">the Russian airport</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="2742" length="5">leave</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1311" type="physical" subtype="locatednear">
+      <relation_mention id="relm-767" realis="false">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-336" role="entity">he</rel_arg1>
+        <rel_arg2 entity_id="ent-348" entity_mention_id="m-342" role="loc">somewhere</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="1640" length="2">go</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1312" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-787" realis="true">
+        <rel_arg1 entity_id="ent-447" entity_mention_id="m-441" role="suborg">Russian intelligence</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-450" role="parent">Russian</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1313" type="personalsocial" subtype="role">
+      <relation_mention id="relm-797" realis="true">
+        <rel_arg1 entity_id="ent-483" entity_mention_id="m-477" role="per">Putin’s spokesman</rel_arg1>
+        <rel_arg2 filler_id="f-805" role="role">spokesman</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1314" type="personalsocial" subtype="business">
+      <relation_mention id="relm-807" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-486" role="per">Putin</rel_arg1>
+        <rel_arg2 entity_id="ent-483" entity_mention_id="m-477" role="per">Putin’s spokesman</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="2098" length="7">Putin’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1315" type="personalsocial" subtype="role">
+      <relation_mention id="relm-817" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-105" role="per">the former National Security Agency contractor wanted by the United States</rel_arg1>
+        <rel_arg2 filler_id="f-825" role="role">contractor</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1316" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-827" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-210" role="suborg">Foreign Ministry</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-204" role="parent">the country</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="967" length="9">country’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1317" type="physical" subtype="locatednear">
+      <relation_mention id="relm-837" realis="true">
+        <rel_arg1 entity_id="ent-510" entity_mention_id="m-504" role="entity">Sheremetyevo’s transit zone</rel_arg1>
+        <rel_arg2 entity_id="ent-150" entity_mention_id="m-513" role="loc">Sheremetyevo</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="2226" length="14">Sheremetyevo’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1318" type="physical" subtype="locatednear">
+      <relation_mention id="relm-847" realis="true">
+        <rel_arg1 entity_id="ent-525" entity_mention_id="m-519" role="entity">the part of territory of the Russian Federation</rel_arg1>
+        <rel_arg2 entity_id="ent-534" entity_mention_id="m-528" role="loc">territory of the Russian Federation</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="2278" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1319" type="physical" subtype="locatednear">
+      <relation_mention id="relm-857" realis="true">
+        <rel_arg1 entity_id="ent-534" entity_mention_id="m-528" role="entity">territory of the Russian Federation</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-537" role="loc">Russian Federation</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="2291" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1320" type="personalsocial" subtype="role">
+      <relation_mention id="relm-867" realis="true">
+        <rel_arg1 entity_id="ent-582" entity_mention_id="m-576" role="per">Nicolás Maduro</rel_arg1>
+        <rel_arg2 filler_id="f-875" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1321" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-877" realis="true">
+        <rel_arg1 entity_id="ent-582" entity_mention_id="m-576" role="leader">Nicolás Maduro</rel_arg1>
+        <rel_arg2 entity_id="ent-591" entity_mention_id="m-585" role="entity">Venezuela</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="2644" length="9">President</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1322" type="physical" subtype="locatednear">
+      <relation_mention id="relm-887" realis="true">
+        <rel_arg1 entity_id="ent-150" entity_mention_id="m-600" role="entity">the Russian airport</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-606" role="loc">Russian</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="2752" length="7">Russian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1323" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-1617" realis="true">
+        <rel_arg1 entity_id="ent-1614" entity_mention_id="m-405" role="per">our American partners</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-411" role="entity">American</rel_arg2>
+        <trigger source="NYT_ENG_20130702.0103" offset="1816" length="8">American</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-913" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130702.0103" offset="228" length="4">SAYS</trigger>
+        <em_arg entity_id="ent-48" entity_mention_id="m-42" role="entity" realis="true">PUTIN</em_arg>
+      </event_mention>
+      <event_mention id="em-1281" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130702.0103" offset="1390" length="10">conference</trigger>
+        <em_arg entity_id="ent-48" entity_mention_id="m-300" role="entity" realis="true">Putin</em_arg>
+        <em_arg filler_id="f-1306" role="time" realis="true">Monday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-955">
+      <event_mention id="em-934" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130702.0103" offset="404" length="6">appear</trigger>
+        <em_arg filler_id="f-951" role="time" realis="true">tomorrow</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-978">
+      <event_mention id="em-957" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130702.0103" offset="558" length="8">revealed</trigger>
+        <em_arg entity_id="ent-96" entity_mention_id="m-90" role="entity" realis="true">an official</em_arg>
+        <em_arg filler_id="f-1051" role="time" realis="true">Monday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1015">
+      <event_mention id="em-980" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130702.0103" offset="595" length="6">former</trigger>
+        <em_arg entity_id="ent-117" entity_mention_id="m-111" role="entity" realis="true">National Security Agency</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-105" role="person" realis="true">the former National Security Agency contractor wanted by the United States</em_arg>
+        <em_arg filler_id="f-1012" role="position" realis="true">contractor</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1045">
+      <event_mention id="em-1017" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130702.0103" offset="683" length="7">request</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-99" role="entity" realis="true">Edward J. Snowden</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-126" role="entity" realis="true">Russia</em_arg>
+      </event_mention>
+      <event_mention id="em-1637" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130702.0103" offset="852" length="7">request</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-168" role="entity" realis="true">Snowden</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-183" role="entity" realis="true">Russian</em_arg>
+      </event_mention>
+      <event_mention id="em-1915" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130702.0103" offset="2337" length="11">application</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-543" role="entity" realis="true">Snowden</em_arg>
+        <em_arg entity_id="ent-75" entity_mention_id="m-549" role="entity" realis="true">Kremlin</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1103">
+      <event_mention id="em-1075" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130702.0103" offset="807" length="9">traveling</trigger>
+        <em_arg entity_id="ent-159" entity_mention_id="m-153" role="agent" realis="true">Snowden’s traveling companion</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-162" role="agent" realis="true">Snowden</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1147">
+      <event_mention id="em-1105" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="NYT_ENG_20130702.0103" offset="827" length="14">hand-delivered</trigger>
+        <em_arg entity_id="ent-159" entity_mention_id="m-153" role="agent" realis="true">Snowden’s traveling companion</em_arg>
+        <em_arg entity_id="ent-180" entity_mention_id="m-174" role="destination" realis="true">a Russian consulate in Terminal F of the airport</em_arg>
+        <em_arg filler_id="f-1137" role="artifact" realis="true">Snowden’s request</em_arg>
+        <em_arg filler_id="f-1144" role="time" realis="true">late Sunday evening</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1177">
+      <event_mention id="em-1149" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130702.0103" offset="953" length="6">passed</trigger>
+        <em_arg entity_id="ent-216" entity_mention_id="m-210" role="recipient" realis="true">Foreign Ministry</em_arg>
+        <em_arg filler_id="f-1174" role="thing" realis="true">it</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1256">
+      <event_mention id="em-1221" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130702.0103" offset="1128" length="6">landed</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-234" role="agent" realis="true">Snowden</em_arg>
+        <em_arg entity_id="ent-150" entity_mention_id="m-240" role="destination" realis="true">Sheremetyevo airport</em_arg>
+        <em_arg filler_id="f-1253" role="time" realis="true">eight days ago</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1279">
+      <event_mention id="em-1258" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="NYT_ENG_20130702.0103" offset="1312" length="7">capture</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-282" role="person" realis="true">his</em_arg>
+        <em_arg entity_id="ent-48" entity_mention_id="m-276" role="agent" realis="true">he</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1330">
+      <event_mention id="em-1309" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130702.0103" offset="1483" length="10">publishing</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-318" role="entity" realis="true">he</em_arg>
+      </event_mention>
+      <event_mention id="em-1827" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130702.0103" offset="1777" length="4">work</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-399" role="entity" realis="true">his</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1360">
+      <event_mention id="em-1332" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130702.0103" offset="1640" length="2">go</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-336" role="agent" realis="true">he</em_arg>
+        <em_arg entity_id="ent-348" entity_mention_id="m-342" role="destination" realis="true">somewhere</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1390">
+      <event_mention id="em-1362" type="personnel" subtype="startposition" realis="other">
+        <trigger source="NYT_ENG_20130702.0103" offset="1954" length="9">recruited</trigger>
+        <em_arg entity_id="ent-447" entity_mention_id="m-441" role="entity" realis="true">Russian intelligence</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-435" role="person" realis="true">Snowden</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1420">
+      <event_mention id="em-1392" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130702.0103" offset="2128" length="4">said</trigger>
+        <em_arg entity_id="ent-483" entity_mention_id="m-477" role="entity" realis="true">Putin’s spokesman</em_arg>
+        <em_arg filler_id="f-1417" role="time" realis="true">as recently as Sunday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1450">
+      <event_mention id="em-1422" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="NYT_ENG_20130702.0103" offset="2241" length="7">transit</trigger>
+        <em_arg entity_id="ent-510" entity_mention_id="m-504" role="origin" realis="true">Sheremetyevo’s transit zone</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1480">
+      <event_mention id="em-1452" type="contact" subtype="contact" realis="generic" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130702.0103" offset="2483" length="10">discussion</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-555" role="place" realis="true">Russia</em_arg>
+        <em_arg filler_id="f-1477" role="time" realis="true">the last several days</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1510">
+      <event_mention id="em-1482" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130702.0103" offset="2573" length="5">forum</trigger>
+        <em_arg entity_id="ent-66" entity_mention_id="m-897" role="place" realis="true">here</em_arg>
+        <em_arg filler_id="f-1507" role="time" realis="true">Monday morning</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1540">
+      <event_mention id="em-1512" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130702.0103" offset="2711" length="9">negotiate</trigger>
+        <em_arg entity_id="ent-48" entity_mention_id="m-570" role="entity" realis="true">Putin</em_arg>
+        <em_arg entity_id="ent-582" entity_mention_id="m-576" role="entity" realis="true">Nicolás Maduro</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1570">
+      <event_mention id="em-1542" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130702.0103" offset="2742" length="5">leave</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-594" role="agent" realis="true">Snowden</em_arg>
+        <em_arg entity_id="ent-150" entity_mention_id="m-600" role="origin" realis="true">the Russian airport</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1600">
+      <event_mention id="em-1572" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130702.0103" offset="2831" length="8">customer</trigger>
+        <em_arg entity_id="ent-591" entity_mention_id="m-624" role="recipient" realis="true">a major arms customer and energy partner</em_arg>
+        <em_arg filler_id="f-1597" role="thing" realis="true">arms</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-612" role="giver" realis="true">Russia</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1735">
+      <event_mention id="em-1693" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130702.0103" offset="827" length="14">hand-delivered</trigger>
+        <em_arg entity_id="ent-159" entity_mention_id="m-153" role="giver" realis="true">Snowden’s traveling companion</em_arg>
+        <em_arg entity_id="ent-180" entity_mention_id="m-174" role="place" realis="true">a Russian consulate in Terminal F of the airport</em_arg>
+        <em_arg filler_id="f-1725" role="thing" realis="true">Snowden’s request</em_arg>
+        <em_arg filler_id="f-1732" role="time" realis="true">late Sunday evening</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1765">
+      <event_mention id="em-1737" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="NYT_ENG_20130702.0103" offset="953" length="6">passed</trigger>
+        <em_arg filler_id="f-1754" role="artifact" realis="true">it</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-204" role="destination" realis="true">the country</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1795">
+      <event_mention id="em-1767" type="contact" subtype="contact" realis="other" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130702.0103" offset="1028" length="9">confirmed</trigger>
+        <em_arg entity_id="ent-225" entity_mention_id="m-219" role="entity" realis="true">No high-level officials</em_arg>
+        <em_arg filler_id="f-1792" role="time" realis="true">Monday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1825">
+      <event_mention id="em-1804" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130702.0103" offset="1483" length="10">publishing</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-318" role="entity" realis="true">he</em_arg>
+      </event_mention>
+      <event_mention id="em-1848" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130702.0103" offset="1777" length="4">work</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-399" role="entity" realis="true">his</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1890">
+      <event_mention id="em-1869" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130702.0103" offset="1924" length="3">say</trigger>
+        <em_arg entity_id="ent-48" entity_mention_id="m-429" role="entity" realis="true">he</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1913">
+      <event_mention id="em-1892" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130702.0103" offset="2050" length="6">teller</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-462" role="entity" realis="true">a truth-teller</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1980">
+      <event_mention id="em-1952" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130702.0103" offset="2618" length="10">speculated</trigger>
+        <em_arg entity_id="ent-567" entity_mention_id="m-561" role="entity" realis="true">analysts</em_arg>
+        <em_arg filler_id="f-1977" role="time" realis="true">Monday morning</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2010">
+      <event_mention id="em-1982" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130702.0103" offset="2831" length="8">customer</trigger>
+        <em_arg entity_id="ent-591" entity_mention_id="m-624" role="giver" realis="true">a major arms customer and energy partner</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-612" role="recipient" realis="true">Russia</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000022" doc_id="ENG_NW_001278_20130720_F000133K8" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="129" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="234" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-60" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="293" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-87" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="324" length="14">
+        <mention_text>UNITED NATIONS</mention_text>
+      </entity_mention>
+      <entity_mention id="m-117" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="427" length="14">
+        <mention_text>United Nations</mention_text>
+      </entity_mention>
+      <entity_mention id="m-123" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="468" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-150" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="545" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-171" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="578" length="4">
+        <mention_text>here</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="578" length="4">here</nom_head>
+      </entity_mention>
+      <entity_mention id="m-237" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="806" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-273" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1154" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-339" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1329" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+      <entity_mention id="m-474" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1918" length="2">
+        <mention_text>UN</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="139" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-48" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="244" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-66" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="303" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-111" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="395" length="5">
+        <mention_text>Syria</mention_text>
+      </entity_mention>
+      <entity_mention id="m-381" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1525" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-408" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1675" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-468" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1887" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1891" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-489" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1943" length="6">
+        <mention_text>Syrian</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="146" length="12">
+        <mention_text>spokesperson</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="146" length="12">spokesperson</nom_head>
+      </entity_mention>
+      <entity_mention id="m-54" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="251" length="12">
+        <mention_text>spokesperson</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="251" length="12">spokesperson</nom_head>
+      </entity_mention>
+      <entity_mention id="m-72" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="310" length="12">
+        <mention_text>spokesperson</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="310" length="12">spokesperson</nom_head>
+      </entity_mention>
+      <entity_mention id="m-144" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="526" length="51">
+        <mention_text>a spokesperson for UN Secretary-general Ban Ki-moon</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="528" length="12">spokesperson</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-84" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-78" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="179" length="10">
+        <mention_text>Ni Hongmei</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-99" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-93" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="349" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-108" type="LOC" specificity="specificGroup">
+      <entity_mention id="m-102" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="381" length="19">
+        <mention_text>many parts of Syria</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="386" length="5">parts</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-135" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-129" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="468" length="11">
+        <mention_text>UN agencies</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="471" length="8">agencies</nom_head>
+      </entity_mention>
+      <entity_mention id="m-138" noun_type="PRO" source="ENG_NW_001278_20130720_F000133K8" offset="495" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-279" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1150" length="15">
+        <mention_text>the UN agencies</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1157" length="8">agencies</nom_head>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="PRO" source="ENG_NW_001278_20130720_F000133K8" offset="1181" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-162" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-165" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="566" length="11">
+        <mention_text>Ban Ki-moon</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-189" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-183" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="607" length="21">
+        <mention_text>the eastern provinces</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="619" length="9">provinces</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-198" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-192" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="643" length="14">
+        <mention_text>rural Damascus</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="649" length="8">Damascus</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-207" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-201" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="649" length="8">
+        <mention_text>Damascus</mention_text>
+      </entity_mention>
+      <entity_mention id="m-387" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1554" length="8">
+        <mention_text>Damascus</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-216" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-210" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="662" length="6">
+        <mention_text>Dera'a</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-225" type="LOC" specificity="specificGroup">
+      <entity_mention id="m-219" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="710" length="55">
+        <mention_text>A number of areas with immense need of humanitarian aid</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="712" length="6">number</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-234" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-228" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="806" length="54">
+        <mention_text>UN Office for the Coordination of Humanitarian Affairs</mention_text>
+      </entity_mention>
+      <entity_mention id="m-243" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="864" length="10">
+        <mention_text>The Office</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="868" length="6">Office</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-255" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-249" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="932" length="11">
+        <mention_text>checkpoints</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="932" length="11">checkpoints</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-264" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-258" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1110" length="14">
+        <mention_text>Martin Nesirky</mention_text>
+      </entity_mention>
+      <entity_mention id="m-267" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1127" length="7">
+        <mention_text>Nesirky</mention_text>
+      </entity_mention>
+      <entity_mention id="m-324" noun_type="PRO" source="ENG_NW_001278_20130720_F000133K8" offset="1314" length="2">
+        <mention_text>he</mention_text>
+      </entity_mention>
+      <entity_mention id="m-402" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1652" length="16">
+        <mention_text>the spokesperson</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1656" length="12">spokesperson</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-297" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-291" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1204" length="18">
+        <mention_text>World Food Program</mention_text>
+      </entity_mention>
+      <entity_mention id="m-300" noun_type="PRO" source="ENG_NW_001278_20130720_F000133K8" offset="1247" length="3">
+        <mention_text>its</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-312" type="PER" specificity="specificGroup">
+      <entity_mention id="m-306" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1274" length="16">
+        <mention_text>3 million people</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1284" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-321" type="PER" specificity="specificGroup">
+      <entity_mention id="m-315" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1300" length="11">
+        <mention_text>2.5 million</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1300" length="11">2.5 million</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-336" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-330" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1329" length="26">
+        <mention_text>UN Relief and Works Agency</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-351" type="PER" specificity="specificGroup">
+      <entity_mention id="m-345" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1368" length="18">
+        <mention_text>over 58,000 people</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1380" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-360" type="PER" specificity="specificGroup">
+      <entity_mention id="m-354" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1412" length="13">
+        <mention_text>59,000 people</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1419" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-369" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-363" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1485" length="25">
+        <mention_text>World Health Organization</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-378" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-372" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1525" length="25">
+        <mention_text>Syrian Ministry of Health</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-399" type="PER" specificity="specificGroup">
+      <entity_mention id="m-393" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1622" length="23">
+        <mention_text>more than 90,000 people</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1639" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-420" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-414" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1727" length="17">
+        <mention_text>government forces</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1738" length="6">forces</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-429" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-423" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1727" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1727" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-438" type="PER" specificity="specificGroup">
+      <entity_mention id="m-432" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1749" length="58">
+        <mention_text>armed opposition seeking to oust President Bashar al-Assad</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1755" length="10">opposition</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-447" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-441" noun_type="NAM" source="ENG_NW_001278_20130720_F000133K8" offset="1792" length="15">
+        <mention_text>Bashar al-Assad</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-456" type="PER" specificity="specificGroup">
+      <entity_mention id="m-450" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1820" length="23">
+        <mention_text>more than 93,000 people</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1837" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-465" type="PER" specificity="specificGroup">
+      <entity_mention id="m-459" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1855" length="23">
+        <mention_text>over 1.7 million people</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1872" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-486" type="PER" specificity="specificGroup">
+      <entity_mention id="m-480" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1922" length="34">
+        <mention_text>at least 6.8 million Syrian people</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1950" length="6">people</nom_head>
+      </entity_mention>
+      <entity_mention id="m-504" noun_type="PRO" source="ENG_NW_001278_20130720_F000133K8" offset="1998" length="4">
+        <mention_text>them</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-501" type="PER" specificity="specificGroup">
+      <entity_mention id="m-495" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="1990" length="12">
+        <mention_text>half of them</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="1990" length="4">half</nom_head>
+      </entity_mention>
+      <entity_mention id="m-510" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="2003" length="8">
+        <mention_text>children</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="2003" length="8">children</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-992" type="LOC" specificity="specificGroup">
+      <entity_mention id="m-986" noun_type="NOM" source="ENG_NW_001278_20130720_F000133K8" offset="722" length="43">
+        <mention_text>areas with immense need of humanitarian aid</mention_text>
+        <nom_head source="ENG_NW_001278_20130720_F000133K8" offset="722" length="5">areas</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-564" source="ENG_NW_001278_20130720_F000133K8" offset="528" length="12" type="title">spokesperson</filler>
+    <filler id="f-574" source="ENG_NW_001278_20130720_F000133K8" offset="548" length="17" type="title">Secretary-general</filler>
+    <filler id="f-644" source="ENG_NW_001278_20130720_F000133K8" offset="1656" length="12" type="title">spokesperson</filler>
+    <filler id="f-664" source="ENG_NW_001278_20130720_F000133K8" offset="1782" length="9" type="title">President</filler>
+    <filler id="f-846" source="ENG_NW_001278_20130720_F000133K8" offset="973" length="18" type="commodity">humanitarian goods</filler>
+    <filler id="f-879" source="ENG_NW_001278_20130720_F000133K8" offset="1450" length="18" type="time" nom_time="2013-07-XX">the past two weeks</filler>
+    <filler id="f-923" source="ENG_NW_001278_20130720_F000133K8" offset="1708" length="10" type="time" nom_time="2011-03-XX">March 2011</filler>
+    <filler id="f-1102" source="ENG_NW_001278_20130720_F000133K8" offset="586" length="6" type="time" nom_time="2013-07-19">Friday</filler>
+    <filler id="f-1236" source="ENG_NW_001278_20130720_F000133K8" offset="1392" length="4" type="commodity">food</filler>
+    <filler id="f-1243" source="ENG_NW_001278_20130720_F000133K8" offset="1450" length="18" type="time" nom_time="2013-07-xx">the past two weeks</filler>
+    <filler id="f-1265" source="ENG_NW_001278_20130720_F000133K8" offset="1392" length="4" type="commodity">food</filler>
+    <filler id="f-1289" source="ENG_NW_001278_20130720_F000133K8" offset="1450" length="18" type="time" nom_time="2013-07-xx">the past two weeks</filler>
+    <filler id="f-1331" source="ENG_NW_001278_20130720_F000133K8" offset="1708" length="10" type="time" nom_time="2011-03-xx">March 2011</filler>
+  </fillers>
+  <relations>
+    <relation id="r-730" type="physical" subtype="locatednear">
+      <relation_mention id="relm-516" realis="true">
+        <rel_arg1 entity_id="ent-108" entity_mention_id="m-102" role="entity">many parts of Syria</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-111" role="loc">Syria</rel_arg2>
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="392" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-731" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-526" realis="true">
+        <rel_arg1 entity_id="ent-135" entity_mention_id="m-129" role="suborg">UN agencies</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-123" role="parent">UN</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-596" realis="true">
+        <rel_arg1 entity_id="ent-135" entity_mention_id="m-279" role="suborg">the UN agencies</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-273" role="parent">UN</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-732" type="personalsocial" subtype="business">
+      <relation_mention id="relm-536" realis="true">
+        <rel_arg1 entity_id="ent-162" entity_mention_id="m-165" role="per">Ban Ki-moon</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-144" role="per">a spokesperson for UN Secretary-general Ban Ki-moon</rel_arg2>
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="541" length="3">for</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-733" type="personalsocial" subtype="role">
+      <relation_mention id="relm-556" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-144" role="per">a spokesperson for UN Secretary-general Ban Ki-moon</rel_arg1>
+        <rel_arg2 filler_id="f-564" role="role">spokesperson</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-734" type="personalsocial" subtype="role">
+      <relation_mention id="relm-566" realis="true">
+        <rel_arg1 entity_id="ent-162" entity_mention_id="m-165" role="per">Ban Ki-moon</rel_arg1>
+        <rel_arg2 filler_id="f-574" role="role">Secretary-general</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-735" type="physical" subtype="locatednear">
+      <relation_mention id="relm-576" realis="true">
+        <rel_arg1 entity_id="ent-198" entity_mention_id="m-192" role="entity">rural Damascus</rel_arg1>
+        <rel_arg2 entity_id="ent-207" entity_mention_id="m-201" role="loc">Damascus</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-736" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-586" realis="true">
+        <rel_arg1 entity_id="ent-234" entity_mention_id="m-228" role="suborg">UN Office for the Coordination of Humanitarian Affairs</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-237" role="parent">UN</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-737" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-606" realis="true">
+        <rel_arg1 entity_id="ent-336" entity_mention_id="m-330" role="suborg">UN Relief and Works Agency</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-339" role="parent">UN</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-738" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-616" realis="true">
+        <rel_arg1 entity_id="ent-378" entity_mention_id="m-372" role="suborg">Syrian Ministry of Health</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-381" role="parent">Syrian</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-739" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-626" realis="true">
+        <rel_arg1 entity_id="ent-378" entity_mention_id="m-372" role="org">Syrian Ministry of Health</rel_arg1>
+        <rel_arg2 entity_id="ent-207" entity_mention_id="m-387" role="loc">Damascus</rel_arg2>
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1551" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-740" type="personalsocial" subtype="role">
+      <relation_mention id="relm-636" realis="true">
+        <rel_arg1 entity_id="ent-264" entity_mention_id="m-402" role="per">the spokesperson</rel_arg1>
+        <rel_arg2 filler_id="f-644" role="role">spokesperson</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-741" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-646" realis="true">
+        <rel_arg1 entity_id="ent-420" entity_mention_id="m-414" role="suborg">government forces</rel_arg1>
+        <rel_arg2 entity_id="ent-429" entity_mention_id="m-423" role="parent">government</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-742" type="personalsocial" subtype="role">
+      <relation_mention id="relm-656" realis="true">
+        <rel_arg1 entity_id="ent-447" entity_mention_id="m-441" role="per">Bashar al-Assad</rel_arg1>
+        <rel_arg2 filler_id="f-664" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-743" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-666" realis="true">
+        <rel_arg1 entity_id="ent-486" entity_mention_id="m-480" role="per">at least 6.8 million Syrian people</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-489" role="entity">Syrian</rel_arg2>
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1943" length="6">Syrian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-744" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-995" realis="true">
+        <rel_arg1 entity_id="ent-162" entity_mention_id="m-165" role="leader">Ban Ki-moon</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-150" role="entity">UN</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-745" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-1055" realis="true">
+        <rel_arg1 entity_id="ent-447" entity_mention_id="m-441" role="leader">Bashar al-Assad</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-408" role="entity">Syrian</rel_arg2>
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1782" length="9">President</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-746" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1065" realis="true">
+        <rel_arg1 entity_id="ent-465" entity_mention_id="m-459" role="entity">over 1.7 million people</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-468" role="loc">the country</rel_arg2>
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1882" length="4">flee</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-676" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="112" length="8">violence</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-24" role="place" realis="true">Syria</em_arg>
+      </event_mention>
+      <event_mention id="em-697" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="217" length="8">violence</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-48" role="place" realis="true">Syria</em_arg>
+      </event_mention>
+      <event_mention id="em-718" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="276" length="8">violence</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-66" role="place" realis="true">Syria</em_arg>
+      </event_mention>
+      <event_mention id="em-739" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="369" length="8">violence</trigger>
+        <em_arg entity_id="ent-108" entity_mention_id="m-102" role="place" realis="true">many parts of Syria</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-781">
+      <event_mention id="em-760" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="595" length="8">Fighting</trigger>
+        <em_arg entity_id="ent-189" entity_mention_id="m-183" role="place" realis="true">the eastern provinces</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-804">
+      <event_mention id="em-783" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="595" length="8">Fighting</trigger>
+        <em_arg entity_id="ent-198" entity_mention_id="m-192" role="place" realis="true">rural Damascus</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-827">
+      <event_mention id="em-806" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="595" length="8">Fighting</trigger>
+        <em_arg entity_id="ent-216" entity_mention_id="m-210" role="place" realis="true">Dera'a</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-850">
+      <event_mention id="em-829" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="961" length="8">movement</trigger>
+        <em_arg filler_id="f-846" role="artifact" realis="true">humanitarian goods</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-873">
+      <event_mention id="em-852" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1431" length="4">cash</trigger>
+        <em_arg entity_id="ent-360" entity_mention_id="m-354" role="beneficiary" realis="true">59,000 people</em_arg>
+        <em_arg filler_id="f-879" role="time" realis="true">the past two weeks</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-882">
+      <event_mention id="em-884" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1688" length="3">war</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-408" role="place" realis="true">Syrian</em_arg>
+        <em_arg entity_id="ent-420" entity_mention_id="m-414" role="attacker" realis="true">government forces</em_arg>
+        <em_arg entity_id="ent-438" entity_mention_id="m-432" role="attacker" realis="true">armed opposition seeking to oust President Bashar al-Assad</em_arg>
+        <em_arg filler_id="f-923" role="time" realis="true">March 2011</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-954">
+      <event_mention id="em-926" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1813" length="6">killed</trigger>
+        <em_arg entity_id="ent-456" entity_mention_id="m-450" role="victim" realis="true">more than 93,000 people</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-468" role="place" realis="true">the country</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-984">
+      <event_mention id="em-956" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1882" length="4">flee</trigger>
+        <em_arg entity_id="ent-465" entity_mention_id="m-459" role="person" realis="true">over 1.7 million people</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-468" role="origin" realis="true">the country</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1096">
+      <event_mention id="em-1075" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="521" length="4">said</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-144" role="entity" realis="true">a spokesperson for UN Secretary-general Ban Ki-moon</em_arg>
+        <em_arg filler_id="f-1102" role="time" realis="true">Friday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1126">
+      <event_mention id="em-1105" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1105" length="4">said</trigger>
+        <em_arg entity_id="ent-264" entity_mention_id="m-258" role="entity" realis="true">Martin Nesirky</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1156">
+      <event_mention id="em-1128" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1251" length="13">distributions</trigger>
+        <em_arg entity_id="ent-297" entity_mention_id="m-291" role="agent" realis="true">World Food Program</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1186">
+      <event_mention id="em-1158" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1251" length="13">distributions</trigger>
+        <em_arg entity_id="ent-297" entity_mention_id="m-291" role="giver" realis="true">World Food Program</em_arg>
+        <em_arg entity_id="ent-312" entity_mention_id="m-306" role="beneficiary" realis="true">3 million people</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1246">
+      <event_mention id="em-1211" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1397" length="10">assistance</trigger>
+        <em_arg entity_id="ent-336" entity_mention_id="m-330" role="agent" realis="true">UN Relief and Works Agency</em_arg>
+        <em_arg filler_id="f-1236" role="artifact" realis="true">food</em_arg>
+        <em_arg filler_id="f-1243" role="time" realis="true">the past two weeks</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1283">
+      <event_mention id="em-1248" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1397" length="10">assistance</trigger>
+        <em_arg filler_id="f-1265" role="thing" realis="true">food</em_arg>
+        <em_arg entity_id="ent-351" entity_mention_id="m-345" role="beneficiary" realis="true">over 58,000 people</em_arg>
+        <em_arg entity_id="ent-336" entity_mention_id="m-330" role="giver" realis="true">UN Relief and Works Agency</em_arg>
+        <em_arg filler_id="f-1289" role="time" realis="false">the past two weeks</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1341">
+      <event_mention id="em-1292" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130720_F000133K8" offset="1813" length="6">killed</trigger>
+        <em_arg entity_id="ent-420" entity_mention_id="m-414" role="attacker" realis="true">government forces</em_arg>
+        <em_arg entity_id="ent-438" entity_mention_id="m-432" role="attacker" realis="true">armed opposition seeking to oust President Bashar al-Assad</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-408" role="place" realis="true">Syrian</em_arg>
+        <em_arg filler_id="f-1331" role="time" realis="true">March 2011</em_arg>
+        <em_arg entity_id="ent-456" entity_mention_id="m-450" role="target" realis="true">more than 93,000 people</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

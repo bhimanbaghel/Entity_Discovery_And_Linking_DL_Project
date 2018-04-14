@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000016" doc_id="ENG_NW_001278_20130815_F00011L1E" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="101" length="13">
+        <mention_text>Indonesian FM</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="112" length="2">FM</nom_head>
+      </entity_mention>
+      <entity_mention id="m-51" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="188" length="13">
+        <mention_text>Indonesian FM</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="199" length="2">FM</nom_head>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="234" length="13">
+        <mention_text>Indonesian FM</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="245" length="2">FM</nom_head>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="345" length="16">
+        <mention_text>Marty Natalegawa</mention_text>
+      </entity_mention>
+      <entity_mention id="m-177" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="776" length="5">
+        <mention_text>Marty</mention_text>
+      </entity_mention>
+      <entity_mention id="m-183" noun_type="PRO" source="ENG_NW_001278_20130815_F00011L1E" offset="790" length="3">
+        <mention_text>his</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-24" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="101" length="10">
+        <mention_text>Indonesian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-57" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="188" length="10">
+        <mention_text>Indonesian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-75" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="234" length="10">
+        <mention_text>Indonesian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-105" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="309" length="10">
+        <mention_text>Indonesian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-141" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="465" length="9">
+        <mention_text>Indonesia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-225" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="942" length="9">
+        <mention_text>Indonesia</mention_text>
+      </entity_mention>
+      <entity_mention id="m-258" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1001" length="54">
+        <mention_text>an active member of Organization of Islamic Conference</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1011" length="6">member</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-33" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="140" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="227" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="273" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-135" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="446" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-147" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="528" length="5">
+        <mention_text>there</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="528" length="5">there</nom_head>
+      </entity_mention>
+      <entity_mention id="m-171" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="736" length="5">
+        <mention_text>Egypt</mention_text>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="907" length="8">
+        <mention_text>Egyptian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-324" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1151" length="8">
+        <mention_text>Egyptian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-372" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1427" length="8">
+        <mention_text>Egyptian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-405" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1563" length="8">
+        <mention_text>Egyptian</mention_text>
+      </entity_mention>
+      <entity_mention id="m-420" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1626" length="11">
+        <mention_text>the country</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1630" length="7">country</nom_head>
+      </entity_mention>
+      <entity_mention id="m-435" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1750" length="23">
+        <mention_text>the Middle East country</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1766" length="7">country</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-42" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="166" length="5">
+        <mention_text>雅加达分社</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-93" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-87" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="280" length="7">
+        <mention_text>JAKARTA</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-102" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-96" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="298" length="6">
+        <mention_text>Xinhua</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-117" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-111" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="320" length="15">
+        <mention_text>Foreign Affairs</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-126" type="PER" specificity="specificGroup">
+      <entity_mention id="m-129" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="429" length="22">
+        <mention_text>demonstrators in Egypt</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="429" length="13">demonstrators</nom_head>
+      </entity_mention>
+      <entity_mention id="m-198" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="881" length="58">
+        <mention_text>supporters of the deposed Egyptian president Mohamed Morsi</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="881" length="10">supporters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-294" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1105" length="16">
+        <mention_text>Morsi supporters</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1111" length="10">supporters</nom_head>
+      </entity_mention>
+      <entity_mention id="m-393" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1546" length="10">
+        <mention_text>protesters</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1546" length="10">protesters</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-159" type="PER" specificity="specificGroup">
+      <entity_mention id="m-153" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="644" length="27">
+        <mention_text>The international community</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="662" length="9">community</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-168" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-162" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="721" length="20">
+        <mention_text>the parties in Egypt</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="725" length="7">parties</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-195" type="PER" specificity="specificGroup">
+      <entity_mention id="m-189" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="861" length="11">
+        <mention_text>authorities</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="861" length="11">authorities</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-216" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-210" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="926" length="13">
+        <mention_text>Mohamed Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-219" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="895" length="30">
+        <mention_text>the deposed Egyptian president</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="916" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-300" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1105" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-450" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1800" length="13">
+        <mention_text>Mohamed Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-456" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1847" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+      <entity_mention id="m-462" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1854" length="109">
+        <mention_text>the president-elect from the Muslim Brotherhood party who was elected through a democratic election last year</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1858" length="15">president-elect</nom_head>
+      </entity_mention>
+      <entity_mention id="m-516" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="2078" length="5">
+        <mention_text>Morsi</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-237" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-231" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="956" length="9">
+        <mention_text>the world</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="960" length="5">world</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-246" type="PER" specificity="specificGroup">
+      <entity_mention id="m-240" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="956" length="37">
+        <mention_text>the world's largest Muslim population</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="983" length="10">population</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-270" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-264" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1021" length="34">
+        <mention_text>Organization of Islamic Conference</mention_text>
+      </entity_mention>
+      <entity_mention id="m-273" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1057" length="3">
+        <mention_text>OIC</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-291" type="PER" specificity="specificGroup">
+      <entity_mention id="m-285" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1092" length="29">
+        <mention_text>thousands of Morsi supporters</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1092" length="9">thousands</nom_head>
+      </entity_mention>
+      <entity_mention id="m-330" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1200" length="77">
+        <mention_text>the demonstrators staging protests in Cairo's landmark Rabiah Adawiyah square</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1204" length="13">demonstrators</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-312" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-306" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1151" length="28">
+        <mention_text>Egyptian military and police</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1160" length="8">military</nom_head>
+      </entity_mention>
+      <entity_mention id="m-486" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1979" length="12">
+        <mention_text>the military</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1983" length="8">military</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-321" type="PER" specificity="specificGroup">
+      <entity_mention id="m-315" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1151" length="28">
+        <mention_text>Egyptian military and police</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1173" length="6">police</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-342" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-336" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1238" length="5">
+        <mention_text>Cairo</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-351" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-345" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1255" length="22">
+        <mention_text>Rabiah Adawiyah square</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-360" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-354" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1255" length="15">
+        <mention_text>Rabiah Adawiyah</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-369" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-363" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1405" length="52">
+        <mention_text>the vice president of Egyptian transition government</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1414" length="9">president</nom_head>
+      </entity_mention>
+      <entity_mention id="m-387" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1458" length="18">
+        <mention_text>Mohamed El Baradei</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-384" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-378" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1427" length="30">
+        <mention_text>Egyptian transition government</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1447" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-399" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1559" length="23">
+        <mention_text>The Egyptian government</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1572" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-492" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1993" length="53">
+        <mention_text>A transition government led by President Adly Mansour</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="2006" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-417" type="GPE" specificity="specificGroup">
+      <entity_mention id="m-411" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1606" length="31">
+        <mention_text>14 provinces across the country</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1609" length="9">provinces</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-432" type="PER" specificity="specificGroup">
+      <entity_mention id="m-426" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="1697" length="10">
+        <mention_text>278 people</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="1701" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-447" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-441" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1754" length="11">
+        <mention_text>Middle East</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-474" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-468" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="1883" length="18">
+        <mention_text>Muslim Brotherhood</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-504" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-498" noun_type="NAM" source="ENG_NW_001278_20130815_F00011L1E" offset="2034" length="12">
+        <mention_text>Adly Mansour</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-513" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-507" noun_type="NOM" source="ENG_NW_001278_20130815_F00011L1E" offset="2074" length="24">
+        <mention_text>the Morsi administration</mention_text>
+        <nom_head source="ENG_NW_001278_20130815_F00011L1E" offset="2084" length="14">administration</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-540" source="ENG_NW_001278_20130815_F00011L1E" offset="112" length="2" type="title">FM</filler>
+    <filler id="f-560" source="ENG_NW_001278_20130815_F00011L1E" offset="199" length="2" type="title">FM</filler>
+    <filler id="f-580" source="ENG_NW_001278_20130815_F00011L1E" offset="245" length="2" type="title">FM</filler>
+    <filler id="f-620" source="ENG_NW_001278_20130815_F00011L1E" offset="336" length="8" type="title">Minister</filler>
+    <filler id="f-650" source="ENG_NW_001278_20130815_F00011L1E" offset="916" length="9" type="title">president</filler>
+    <filler id="f-770" source="ENG_NW_001278_20130815_F00011L1E" offset="1409" length="14" type="title">vice president</filler>
+    <filler id="f-830" source="ENG_NW_001278_20130815_F00011L1E" offset="1858" length="15" type="title">president-elect</filler>
+    <filler id="f-880" source="ENG_NW_001278_20130815_F00011L1E" offset="2024" length="9" type="title">President</filler>
+    <filler id="f-1103" source="ENG_NW_001278_20130815_F00011L1E" offset="371" length="8" type="time" nom_time="2013-08-15">Thursday</filler>
+    <filler id="f-1947" source="ENG_NW_001278_20130815_F00011L1E" offset="916" length="9" type="title">president</filler>
+    <filler id="f-1200" source="ENG_NW_001278_20130815_F00011L1E" offset="1136" length="9" type="time" nom_time="2013-08-14">Wednesday</filler>
+    <filler id="f-1235" source="ENG_NW_001278_20130815_F00011L1E" offset="1283" length="5" type="weapon">tanks</filler>
+    <filler id="f-1242" source="ENG_NW_001278_20130815_F00011L1E" offset="1290" length="11" type="vehicle">helicopters</filler>
+    <filler id="f-1249" source="ENG_NW_001278_20130815_F00011L1E" offset="1306" length="10" type="vehicle">bulldozers</filler>
+    <filler id="f-1298" source="ENG_NW_001278_20130815_F00011L1E" offset="1283" length="5" type="weapon">tanks</filler>
+    <filler id="f-1305" source="ENG_NW_001278_20130815_F00011L1E" offset="1290" length="11" type="vehicle">helicopters</filler>
+    <filler id="f-1312" source="ENG_NW_001278_20130815_F00011L1E" offset="1306" length="10" type="vehicle">bulldozers</filler>
+    <filler id="f-1416" source="ENG_NW_001278_20130815_F00011L1E" offset="1409" length="14" type="title">vice president</filler>
+    <filler id="f-1513" source="ENG_NW_001278_20130815_F00011L1E" offset="1136" length="9" type="time" nom_time="2013-08-14">Wednesday</filler>
+    <filler id="f-1606" source="ENG_NW_001278_20130815_F00011L1E" offset="1641" length="9" type="time" nom_time="2013-08-14">Wednesday</filler>
+    <filler id="f-1626" source="ENG_NW_001278_20130815_F00011L1E" offset="1641" length="9" type="time" nom_time="2013-08-14">Wednesday</filler>
+    <filler id="f-1662" source="ENG_NW_001278_20130815_F00011L1E" offset="1774" length="56" type="time" nom_time="2013-XX-XX">following the downfall of Mohamed Morsi early last Month</filler>
+    <filler id="f-1692" source="ENG_NW_001278_20130815_F00011L1E" offset="1774" length="56" type="time" nom_time="2013-XX-XX">following the downfall of Mohamed Morsi early last Month</filler>
+    <filler id="f-1729" source="ENG_NW_001278_20130815_F00011L1E" offset="1774" length="56" type="time" nom_time="2013-XX-XX">following the downfall of Mohamed Morsi early last Month</filler>
+    <filler id="f-1759" source="ENG_NW_001278_20130815_F00011L1E" offset="1814" length="16" type="time" nom_time="2013-07-XX">early last Month</filler>
+    <filler id="f-1810" source="ENG_NW_001278_20130815_F00011L1E" offset="1858" length="15" type="title">president-elect</filler>
+    <filler id="f-1846" source="ENG_NW_001278_20130815_F00011L1E" offset="1954" length="9" type="time" nom_time="2012-XX-XX">last year</filler>
+    <filler id="f-1954" source="ENG_NW_001278_20130815_F00011L1E" offset="1858" length="15" type="title">president-elect</filler>
+    <filler id="f-2001" source="ENG_NW_001278_20130815_F00011L1E" offset="371" length="8" type="time" nom_time="2013-08-15">Thursday</filler>
+  </fillers>
+  <relations>
+    <relation id="r-494" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-522" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-18" role="employeemember">Indonesian FM</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-24" role="org">Indonesian</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="112" length="2">FM</trigger>
+      </relation_mention>
+      <relation_mention id="relm-542" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-51" role="employeemember">Indonesian FM</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-57" role="org">Indonesian</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="199" length="2">FM</trigger>
+      </relation_mention>
+      <relation_mention id="relm-562" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-69" role="employeemember">Indonesian FM</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-75" role="org">Indonesian</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="245" length="2">FM</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-495" type="personalsocial" subtype="role">
+      <relation_mention id="relm-532" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-18" role="per">Indonesian FM</rel_arg1>
+        <rel_arg2 filler_id="f-540" role="role">FM</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-552" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-51" role="per">Indonesian FM</rel_arg1>
+        <rel_arg2 filler_id="f-560" role="role">FM</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-572" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-69" role="per">Indonesian FM</rel_arg1>
+        <rel_arg2 filler_id="f-580" role="role">FM</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-612" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-120" role="per">Marty Natalegawa</rel_arg1>
+        <rel_arg2 filler_id="f-620" role="role">Minister</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-496" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-582" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-120" role="leader">Marty Natalegawa</rel_arg1>
+        <rel_arg2 entity_id="ent-117" entity_mention_id="m-111" role="entity">Foreign Affairs</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="336" length="8">Minister</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-497" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-592" realis="true">
+        <rel_arg1 entity_id="ent-117" entity_mention_id="m-111" role="suborg">Foreign Affairs</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-105" role="parent">Indonesian</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="309" length="10">Indonesian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-498" type="physical" subtype="locatednear">
+      <relation_mention id="relm-602" realis="true">
+        <rel_arg1 entity_id="ent-126" entity_mention_id="m-129" role="entity">demonstrators in Egypt</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-135" role="loc">Egypt</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="443" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-499" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-622" realis="true">
+        <rel_arg1 entity_id="ent-168" entity_mention_id="m-162" role="org">the parties in Egypt</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-171" role="loc">Egypt</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="733" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-500" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-632" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-219" role="leader">the deposed Egyptian president</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-204" role="entity">Egyptian</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="916" length="9">president</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-501" type="personalsocial" subtype="role">
+      <relation_mention id="relm-642" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-219" role="per">the deposed Egyptian president</rel_arg1>
+        <rel_arg2 filler_id="f-650" role="role">president</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-822" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-462" role="per">the president-elect from the Muslim Brotherhood party who was elected through a democratic election last year</rel_arg1>
+        <rel_arg2 filler_id="f-830" role="role">president-elect</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-502" type="physical" subtype="resident">
+      <relation_mention id="relm-652" realis="true">
+        <rel_arg1 entity_id="ent-246" entity_mention_id="m-240" role="per">the world's largest Muslim population</rel_arg1>
+        <rel_arg2 entity_id="ent-30" entity_mention_id="m-225" role="loc">Indonesia</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="952" length="3">has</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-503" type="partwhole" subtype="membership">
+      <relation_mention id="relm-682" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-258" role="member">an active member of Organization of Islamic Conference</rel_arg1>
+        <rel_arg2 entity_id="ent-270" entity_mention_id="m-264" role="org">Organization of Islamic Conference</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1011" length="6">member</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-504" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-692" realis="true">
+        <rel_arg1 entity_id="ent-312" entity_mention_id="m-306" role="suborg">Egyptian military and police</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-324" role="parent">Egyptian</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1151" length="8">Egyptian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-505" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-702" realis="true">
+        <rel_arg1 entity_id="ent-321" entity_mention_id="m-315" role="employeemember">Egyptian military and police</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-324" role="org">Egyptian</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1151" length="8">Egyptian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-506" type="physical" subtype="locatednear">
+      <relation_mention id="relm-712" realis="true">
+        <rel_arg1 entity_id="ent-291" entity_mention_id="m-330" role="entity">the demonstrators staging protests in Cairo's landmark Rabiah Adawiyah square</rel_arg1>
+        <rel_arg2 entity_id="ent-351" entity_mention_id="m-345" role="loc">Rabiah Adawiyah square</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1235" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-507" type="physical" subtype="locatednear">
+      <relation_mention id="relm-722" realis="true">
+        <rel_arg1 entity_id="ent-351" entity_mention_id="m-345" role="entity">Rabiah Adawiyah square</rel_arg1>
+        <rel_arg2 entity_id="ent-342" entity_mention_id="m-336" role="loc">Cairo</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1238" length="7">Cairo's</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-508" type="physical" subtype="locatednear">
+      <relation_mention id="relm-732" realis="true">
+        <rel_arg1 entity_id="ent-321" entity_mention_id="m-315" role="entity">Egyptian military and police</rel_arg1>
+        <rel_arg2 entity_id="ent-351" entity_mention_id="m-345" role="loc">Rabiah Adawiyah square</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-509" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-742" realis="true">
+        <rel_arg1 entity_id="ent-312" entity_mention_id="m-306" role="org">Egyptian military and police</rel_arg1>
+        <rel_arg2 entity_id="ent-351" entity_mention_id="m-345" role="loc">Rabiah Adawiyah square</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-510" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-752" realis="true">
+        <rel_arg1 entity_id="ent-369" entity_mention_id="m-363" role="leader">the vice president of Egyptian transition government</rel_arg1>
+        <rel_arg2 entity_id="ent-384" entity_mention_id="m-378" role="entity">Egyptian transition government</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1409" length="14">vice president</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-511" type="personalsocial" subtype="role">
+      <relation_mention id="relm-762" realis="true">
+        <rel_arg1 entity_id="ent-369" entity_mention_id="m-363" role="per">the vice president of Egyptian transition government</rel_arg1>
+        <rel_arg2 filler_id="f-770" role="role">vice president</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-512" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-772" realis="true">
+        <rel_arg1 entity_id="ent-384" entity_mention_id="m-378" role="suborg">Egyptian transition government</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-372" role="parent">Egyptian</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1427" length="8">Egyptian</trigger>
+      </relation_mention>
+      <relation_mention id="relm-782" realis="true">
+        <rel_arg1 entity_id="ent-384" entity_mention_id="m-399" role="suborg">The Egyptian government</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-405" role="parent">Egyptian</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1563" length="8">Egyptian</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-513" type="physical" subtype="locatednear">
+      <relation_mention id="relm-792" realis="true">
+        <rel_arg1 entity_id="ent-417" entity_mention_id="m-411" role="entity">14 provinces across the country</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-420" role="loc">the country</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1619" length="6">across</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-514" type="physical" subtype="locatednear">
+      <relation_mention id="relm-802" realis="true">
+        <rel_arg1 entity_id="ent-432" entity_mention_id="m-426" role="entity">278 people</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-435" role="loc">the Middle East country</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1747" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-515" type="physical" subtype="locatednear">
+      <relation_mention id="relm-812" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-435" role="entity">the Middle East country</rel_arg1>
+        <rel_arg2 entity_id="ent-447" entity_mention_id="m-441" role="loc">Middle East</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-516" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-842" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-462" role="employeemember">the president-elect from the Muslim Brotherhood party who was elected through a democratic election last year</rel_arg1>
+        <rel_arg2 entity_id="ent-474" entity_mention_id="m-468" role="org">Muslim Brotherhood</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1874" length="4">from</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-517" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-862" realis="true">
+        <rel_arg1 entity_id="ent-504" entity_mention_id="m-498" role="leader">Adly Mansour</rel_arg1>
+        <rel_arg2 entity_id="ent-384" entity_mention_id="m-492" role="entity">A transition government led by President Adly Mansour</rel_arg2>
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="2017" length="3">led</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-518" type="personalsocial" subtype="role">
+      <relation_mention id="relm-872" realis="true">
+        <rel_arg1 entity_id="ent-504" entity_mention_id="m-498" role="per">Adly Mansour</rel_arg1>
+        <rel_arg2 filler_id="f-880" role="role">President</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-519" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-882" realis="true">
+        <rel_arg1 entity_id="ent-216" entity_mention_id="m-516" role="leader">Morsi</rel_arg1>
+        <rel_arg2 entity_id="ent-513" entity_mention_id="m-507" role="entity">the Morsi administration</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-520" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1966" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-225" role="entity">Indonesia</rel_arg1>
+        <rel_arg2 entity_id="ent-237" entity_mention_id="m-231" role="loc">the world</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-892" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="128" length="8">violence</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-33" role="place" realis="true">Egypt</em_arg>
+      </event_mention>
+      <event_mention id="em-913" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="215" length="8">violence</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-63" role="place" realis="true">Egypt</em_arg>
+      </event_mention>
+      <event_mention id="em-934" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="261" length="8">violence</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-81" role="place" realis="true">Egypt</em_arg>
+      </event_mention>
+      <event_mention id="em-955" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="400" length="8">violence</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-135" role="place" realis="true">Egypt</em_arg>
+        <em_arg entity_id="ent-126" entity_mention_id="m-129" role="target" realis="true">demonstrators in Egypt</em_arg>
+      </event_mention>
+      <event_mention id="em-1029" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="765" length="8">violence</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-171" role="place" realis="true">Egypt</em_arg>
+      </event_mention>
+      <event_mention id="em-1518" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1503" length="8">violence</trigger>
+        <em_arg entity_id="ent-126" entity_mention_id="m-393" role="target" realis="true">protesters</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-983">
+      <event_mention id="em-1050" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="839" length="8">violence</trigger>
+        <em_arg entity_id="ent-195" entity_mention_id="m-189" role="attacker" realis="true">authorities</em_arg>
+        <em_arg entity_id="ent-126" entity_mention_id="m-198" role="target" realis="true">supporters of the deposed Egyptian president Mohamed Morsi</em_arg>
+      </event_mention>
+      <event_mention id="em-1161" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1075" length="8">violence</trigger>
+        <em_arg entity_id="ent-312" entity_mention_id="m-306" role="attacker" realis="true">Egyptian military and police</em_arg>
+        <em_arg entity_id="ent-321" entity_mention_id="m-315" role="attacker" realis="true">Egyptian military and police</em_arg>
+        <em_arg entity_id="ent-291" entity_mention_id="m-285" role="target" realis="true">thousands of Morsi supporters</em_arg>
+        <em_arg filler_id="f-1200" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-1203" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1180" length="10">forcefully</trigger>
+        <em_arg entity_id="ent-291" entity_mention_id="m-330" role="target" realis="true">the demonstrators staging protests in Cairo's landmark Rabiah Adawiyah square</em_arg>
+        <em_arg entity_id="ent-351" entity_mention_id="m-345" role="place" realis="true">Rabiah Adawiyah square</em_arg>
+        <em_arg filler_id="f-1235" role="instrument" realis="true">tanks</em_arg>
+        <em_arg filler_id="f-1242" role="instrument" realis="true">helicopters</em_arg>
+        <em_arg filler_id="f-1249" role="instrument" realis="true">bulldozers</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1027">
+      <event_mention id="em-1006" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="601" length="4">loss</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-171" role="place" realis="true">Egypt</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1106">
+      <event_mention id="em-1078" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="803" length="9">statement</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-177" role="entity" realis="true">Marty</em_arg>
+        <em_arg filler_id="f-1103" role="time" realis="true">Thursday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1136">
+      <event_mention id="em-1108" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="899" length="7">deposed</trigger>
+        <em_arg entity_id="ent-216" entity_mention_id="m-219" role="person" realis="true">the deposed Egyptian president</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-204" role="entity" realis="true">Egyptian</em_arg>
+        <em_arg filler_id="f-1947" role="position" realis="true">president</em_arg>
+      </event_mention>
+      <event_mention id="em-1734" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1788" length="8">downfall</trigger>
+        <em_arg entity_id="ent-216" entity_mention_id="m-450" role="person" realis="true">Mohamed Morsi</em_arg>
+        <em_arg filler_id="f-1759" role="time" realis="true">early last Month</em_arg>
+      </event_mention>
+      <event_mention id="em-1850" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1969" length="6">ousted</trigger>
+        <em_arg entity_id="ent-216" entity_mention_id="m-462" role="person" realis="true">the president-elect from the Muslim Brotherhood party who was elected through a democratic election last year</em_arg>
+        <em_arg filler_id="f-1954" role="position" realis="true">president-elect</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1159">
+      <event_mention id="em-1871" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1969" length="6">ousted</trigger>
+        <em_arg entity_id="ent-312" entity_mention_id="m-486" role="attacker" realis="true">the military</em_arg>
+        <em_arg entity_id="ent-216" entity_mention_id="m-462" role="target" realis="true">the president-elect from the Muslim Brotherhood party who was elected through a democratic election last year</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1315">
+      <event_mention id="em-1252" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1191" length="8">disperse</trigger>
+        <em_arg entity_id="ent-312" entity_mention_id="m-306" role="agent" realis="true">Egyptian military and police</em_arg>
+        <em_arg entity_id="ent-321" entity_mention_id="m-315" role="agent" realis="true">Egyptian military and police</em_arg>
+        <em_arg entity_id="ent-291" entity_mention_id="m-330" role="person" realis="true">the demonstrators staging protests in Cairo's landmark Rabiah Adawiyah square</em_arg>
+        <em_arg entity_id="ent-351" entity_mention_id="m-345" role="origin" realis="true">Rabiah Adawiyah square</em_arg>
+        <em_arg filler_id="f-1298" role="instrument" realis="true">tanks</em_arg>
+        <em_arg filler_id="f-1305" role="instrument" realis="true">helicopters</em_arg>
+        <em_arg filler_id="f-1312" role="instrument" realis="true">bulldozers</em_arg>
+      </event_mention>
+      <event_mention id="em-1609" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1673" length="10">dispersion</trigger>
+        <em_arg filler_id="f-1626" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1419">
+      <event_mention id="em-1384" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1477" length="6">resign</trigger>
+        <em_arg entity_id="ent-369" entity_mention_id="m-387" role="person" realis="true">Mohamed El Baradei</em_arg>
+        <em_arg entity_id="ent-384" entity_mention_id="m-378" role="entity" realis="true">Egyptian transition government</em_arg>
+        <em_arg filler_id="f-1416" role="position" realis="true">vice president</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1449">
+      <event_mention id="em-1421" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="418" length="10">dispersing</trigger>
+        <em_arg entity_id="ent-126" entity_mention_id="m-129" role="person" realis="true">demonstrators in Egypt</em_arg>
+      </event_mention>
+      <event_mention id="em-1539" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1537" length="8">disperse</trigger>
+        <em_arg entity_id="ent-126" entity_mention_id="m-393" role="person" realis="true">protesters</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1479">
+      <event_mention id="em-1451" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="429" length="13">demonstrators</trigger>
+        <em_arg entity_id="ent-126" entity_mention_id="m-129" role="entity" realis="true">demonstrators in Egypt</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-135" role="place" realis="true">Egypt</em_arg>
+      </event_mention>
+      <event_mention id="em-1560" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1546" length="10">protesters</trigger>
+        <em_arg entity_id="ent-126" entity_mention_id="m-393" role="entity" realis="true">protesters</em_arg>
+      </event_mention>
+      <event_mention id="em-1667" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1737" length="9">commotion</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-435" role="place" realis="true">the Middle East country</em_arg>
+        <em_arg filler_id="f-1692" role="time" realis="true">following the downfall of Mohamed Morsi early last Month</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1516">
+      <event_mention id="em-1481" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1226" length="8">protests</trigger>
+        <em_arg entity_id="ent-291" entity_mention_id="m-330" role="entity" realis="true">the demonstrators staging protests in Cairo's landmark Rabiah Adawiyah square</em_arg>
+        <em_arg entity_id="ent-351" entity_mention_id="m-345" role="place" realis="true">Rabiah Adawiyah square</em_arg>
+        <em_arg filler_id="f-1513" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-1581" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1665" length="7">protest</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-420" role="place" realis="true">the country</em_arg>
+        <em_arg filler_id="f-1606" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1665">
+      <event_mention id="em-1630" type="life" subtype="die" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1713" length="6">killed</trigger>
+        <em_arg entity_id="ent-432" entity_mention_id="m-426" role="victim" realis="true">278 people</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-435" role="place" realis="true">the Middle East country</em_arg>
+        <em_arg filler_id="f-1662" role="time" realis="true">following the downfall of Mohamed Morsi early last Month</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1732">
+      <event_mention id="em-1697" type="conflict" subtype="attack" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1713" length="6">killed</trigger>
+        <em_arg entity_id="ent-432" entity_mention_id="m-426" role="target" realis="true">278 people</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-435" role="place" realis="true">the Middle East country</em_arg>
+        <em_arg filler_id="f-1729" role="time" realis="true">following the downfall of Mohamed Morsi early last Month</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1827">
+      <event_mention id="em-1785" type="personnel" subtype="elect" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1916" length="7">elected</trigger>
+        <em_arg entity_id="ent-216" entity_mention_id="m-462" role="person" realis="true">the president-elect from the Muslim Brotherhood party who was elected through a democratic election last year</em_arg>
+        <em_arg filler_id="f-1810" role="position" realis="true">president-elect</em_arg>
+      </event_mention>
+      <event_mention id="em-1829" type="personnel" subtype="elect" realis="actual">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="1945" length="8">election</trigger>
+        <em_arg filler_id="f-1846" role="time" realis="true">last year</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2004">
+      <event_mention id="em-1976" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="ENG_NW_001278_20130815_F00011L1E" offset="453" length="6">saying</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-120" role="entity" realis="true">Marty Natalegawa</em_arg>
+        <em_arg filler_id="f-2001" role="time" realis="false">Thursday</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

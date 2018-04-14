@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="5733b8b10000000000000074" doc_id="NYT_ENG_20130522.0183" source_type="newswire">
+  <entities>
+    <entity id="ent-8" type="FAC" specificity="specificIndividual">
+      <entity_mention id="m-18" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="193" length="8">
+        <mention_text>BUILDING</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="193" length="8">BUILDING</nom_head>
+      </entity_mention>
+      <entity_mention id="m-57" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="277" length="58">
+        <mention_text>A factory building that collapsed last month outside Dhaka</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="287" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-93" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="630" length="32">
+        <mention_text>the Rana Plaza building in Savar</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="645" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-99" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="634" length="10">
+        <mention_text>Rana Plaza</mention_text>
+      </entity_mention>
+      <entity_mention id="m-168" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="877" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="881" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-192" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="970" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="974" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-222" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1131" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1135" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="1336" length="10">
+        <mention_text>Rana Plaza</mention_text>
+      </entity_mention>
+      <entity_mention id="m-384" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="1798" length="10">
+        <mention_text>Rana Plaza</mention_text>
+      </entity_mention>
+      <entity_mention id="m-426" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2098" length="31">
+        <mention_text>the poorly constructed building</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2121" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-432" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2232" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2236" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-438" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2254" length="13">
+        <mention_text>the structure</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2258" length="9">structure</nom_head>
+      </entity_mention>
+      <entity_mention id="m-468" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2329" length="13">
+        <mention_text>the structure</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2333" length="9">structure</nom_head>
+      </entity_mention>
+      <entity_mention id="m-474" noun_type="PRO" source="NYT_ENG_20130522.0183" offset="2355" length="2">
+        <mention_text>it</mention_text>
+      </entity_mention>
+      <entity_mention id="m-513" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2457" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2461" length="8">building</nom_head>
+      </entity_mention>
+      <entity_mention id="m-525" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2555" length="12">
+        <mention_text>the building</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2559" length="8">building</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-24" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-39" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="182" length="10">
+        <mention_text>BANGLADESH</mention_text>
+      </entity_mention>
+      <entity_mention id="m-51" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="264" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-279" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="1268" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-303" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="1433" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-327" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="1528" length="10">
+        <mention_text>Bangladesh</mention_text>
+      </entity_mention>
+      <entity_mention id="m-360" noun_type="PRO" source="NYT_ENG_20130522.0183" offset="1650" length="2">
+        <mention_text>It</mention_text>
+      </entity_mention>
+      <entity_mention id="m-366" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1664" length="20">
+        <mention_text>an export powerhouse</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1674" length="10">powerhouse</nom_head>
+      </entity_mention>
+      <entity_mention id="m-2729" noun_type="PRO" source="NYT_ENG_20130522.0183" offset="1445" length="5">
+        <mention_text>which</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2735" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1458" length="47">
+        <mention_text>the world’s second-leading exporter of clothing</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1485" length="8">exporter</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-27" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-45" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="257" length="5">
+        <mention_text>DHAKA</mention_text>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="330" length="5">
+        <mention_text>Dhaka</mention_text>
+      </entity_mention>
+      <entity_mention id="m-138" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="688" length="5">
+        <mention_text>Dhaka</mention_text>
+      </entity_mention>
+      <entity_mention id="m-144" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="695" length="11">
+        <mention_text>the capital</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="699" length="7">capital</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="specificGroup">
+      <entity_mention id="m-75" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="345" length="23">
+        <mention_text>more than 1,000 workers</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="361" length="7">workers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-150" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="771" length="12">
+        <mention_text>1,127 people</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="777" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-33" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-81" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="507" length="8">
+        <mention_text>building</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="507" length="8">building</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-36" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-87" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="536" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="536" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-390" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1847" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1847" length="10">government</nom_head>
+      </entity_mention>
+      <entity_mention id="m-519" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2492" length="10">
+        <mention_text>government</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2492" length="10">government</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-111" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-105" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="657" length="5">
+        <mention_text>Savar</mention_text>
+      </entity_mention>
+      <entity_mention id="m-132" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="664" length="29">
+        <mention_text>an industrial suburb of Dhaka</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="678" length="6">suburb</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-114" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-156" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="795" length="9">
+        <mention_text>the mayor</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="799" length="5">mayor</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-117" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-162" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="877" length="20">
+        <mention_text>the building’s owner</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="892" length="5">owner</nom_head>
+      </entity_mention>
+      <entity_mention id="m-174" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="899" length="10">
+        <mention_text>Sohel Rana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-396" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="1876" length="4">
+        <mention_text>Rana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-480" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="2374" length="4">
+        <mention_text>Rana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-537" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="2670" length="4">
+        <mention_text>Rana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-555" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="2756" length="4">
+        <mention_text>Rana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2281" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="634" length="4">
+        <mention_text>Rana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2287" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="1336" length="4">
+        <mention_text>Rana</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2293" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="1798" length="4">
+        <mention_text>Rana</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-120" type="PER" specificity="specificGroup">
+      <entity_mention id="m-180" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="926" length="56">
+        <mention_text>the owners of the five garment factories in the building</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="930" length="6">owners</nom_head>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1052" length="18">
+        <mention_text>The factory owners</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1064" length="6">owners</nom_head>
+      </entity_mention>
+      <entity_mention id="m-228" noun_type="PRO" source="NYT_ENG_20130522.0183" offset="1183" length="4">
+        <mention_text>They</mention_text>
+      </entity_mention>
+      <entity_mention id="m-486" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2383" length="18">
+        <mention_text>the factory bosses</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2395" length="6">bosses</nom_head>
+      </entity_mention>
+      <entity_mention id="m-492" noun_type="PRO" source="NYT_ENG_20130522.0183" offset="2438" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-543" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2679" length="18">
+        <mention_text>the factory owners</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2691" length="6">owners</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-126" type="PER" specificity="specificGroup">
+      <entity_mention id="m-198" noun_type="PRO" source="NYT_ENG_20130522.0183" offset="1023" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-129" type="PER" specificity="specificGroup">
+      <entity_mention id="m-210" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1077" length="7">
+        <mention_text>workers</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1077" length="7">workers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-216" noun_type="PRO" source="NYT_ENG_20130522.0183" offset="1098" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-234" noun_type="PRO" source="NYT_ENG_20130522.0183" offset="1198" length="4">
+        <mention_text>them</mention_text>
+      </entity_mention>
+      <entity_mention id="m-414" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1953" length="24">
+        <mention_text>several thousand workers</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1970" length="7">workers</nom_head>
+      </entity_mention>
+      <entity_mention id="m-507" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2438" length="13">
+        <mention_text>their workers</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2444" length="7">workers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-246" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-240" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="1219" length="20">
+        <mention_text>Main Uddin Khandaker</mention_text>
+      </entity_mention>
+      <entity_mention id="m-267" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1241" length="53">
+        <mention_text>a high-ranking official in Bangladesh’s Home Ministry</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1256" length="8">official</nom_head>
+      </entity_mention>
+      <entity_mention id="m-531" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="2634" length="9">
+        <mention_text>Khandaker</mention_text>
+      </entity_mention>
+      <entity_mention id="m-549" noun_type="PRO" source="NYT_ENG_20130522.0183" offset="2733" length="2">
+        <mention_text>He</mention_text>
+      </entity_mention>
+      <entity_mention id="m-2263" noun_type="PRO" source="NYT_ENG_20130522.0183" offset="1296" length="3">
+        <mention_text>who</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-249" type="ORG" specificity="specificIndividual">
+      <entity_mention id="m-273" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="1281" length="13">
+        <mention_text>Home Ministry</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-252" type="LOC" specificity="specificIndividual">
+      <entity_mention id="m-315" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1458" length="9">
+        <mention_text>the world</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1462" length="5">world</nom_head>
+      </entity_mention>
+      <entity_mention id="m-354" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1612" length="9">
+        <mention_text>the world</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1616" length="5">world</nom_head>
+      </entity_mention>
+      <entity_mention id="m-372" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1758" length="9">
+        <mention_text>the world</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1762" length="5">world</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-255" type="GPE" specificity="specificIndividual">
+      <entity_mention id="m-321" noun_type="NAM" source="NYT_ENG_20130522.0183" offset="1521" length="5">
+        <mention_text>China</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-258" type="PER" specificity="nonspecific">
+      <entity_mention id="m-378" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1772" length="15">
+        <mention_text>garment workers</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1780" length="7">workers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-261" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-333" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1543" length="33">
+        <mention_text>more than 5,000 garment factories</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1567" length="9">factories</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-264" type="FAC" specificity="specificGroup">
+      <entity_mention id="m-402" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1903" length="12">
+        <mention_text>upper floors</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1909" length="6">floors</nom_head>
+      </entity_mention>
+      <entity_mention id="m-420" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2021" length="18">
+        <mention_text>these upper floors</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2033" length="6">floors</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-351" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-345" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1598" length="50">
+        <mention_text>nearly all of the world’s top brands and retailers</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1605" length="3">all</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-450" type="PER" specificity="specificGroup">
+      <entity_mention id="m-444" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2280" length="12">
+        <mention_text>many workers</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2285" length="7">workers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-453" type="PER" specificity="specificIndividual">
+      <entity_mention id="m-462" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2299" length="43">
+        <mention_text>An engineer called to inspect the structure</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2302" length="8">engineer</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-459" type="PER" specificity="specificGroup">
+      <entity_mention id="m-561" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2772" length="15">
+        <mention_text>local officials</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2778" length="9">officials</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-501" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-186" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="940" length="42">
+        <mention_text>the five garment factories in the building</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="957" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-408" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1925" length="52">
+        <mention_text>garment factories employing several thousand workers</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1933" length="9">factories</nom_head>
+      </entity_mention>
+      <entity_mention id="m-715" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1056" length="7">
+        <mention_text>factory</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1056" length="7">factory</nom_head>
+      </entity_mention>
+      <entity_mention id="m-2213" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2683" length="7">
+        <mention_text>factory</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2683" length="7">factory</nom_head>
+      </entity_mention>
+      <entity_mention id="m-2257" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="279" length="7">
+        <mention_text>factory</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="279" length="7">factory</nom_head>
+      </entity_mention>
+      <entity_mention id="m-2275" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="2387" length="7">
+        <mention_text>factory</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="2387" length="7">factory</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2219" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-2369" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1612" length="36">
+        <mention_text>the world’s top brands and retailers</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1639" length="9">retailers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-2400" type="ORG" specificity="specificGroup">
+      <entity_mention id="m-2394" noun_type="NOM" source="NYT_ENG_20130522.0183" offset="1612" length="36">
+        <mention_text>the world’s top brands and retailers</mention_text>
+        <nom_head source="NYT_ENG_20130522.0183" offset="1628" length="6">brands</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-703" source="NYT_ENG_20130522.0183" offset="799" length="5" type="title">mayor</filler>
+    <filler id="f-789" source="NYT_ENG_20130522.0183" offset="1256" length="8" type="title">official</filler>
+    <filler id="f-929" source="NYT_ENG_20130522.0183" offset="2302" length="8" type="title">engineer</filler>
+    <filler id="f-1113" source="NYT_ENG_20130522.0183" offset="311" length="10" type="time" nom_time="2013-04-XX">last month</filler>
+    <filler id="f-1169" source="NYT_ENG_20130522.0183" offset="456" length="21" type="commodity">substandard materials</filler>
+    <filler id="f-1204" source="NYT_ENG_20130522.0183" offset="561" length="9" type="time" nom_time="2013-05-22">Wednesday</filler>
+    <filler id="f-1267" source="NYT_ENG_20130522.0183" offset="739" length="8" type="time" nom_time="2013-04-24">April 24</filler>
+    <filler id="f-1505" source="NYT_ENG_20130522.0183" offset="1497" length="8" type="commodity">clothing</filler>
+    <filler id="f-1547" source="NYT_ENG_20130522.0183" offset="1497" length="8" type="commodity">clothing</filler>
+    <filler id="f-1581" source="NYT_ENG_20130522.0183" offset="1559" length="7" type="commodity">garment</filler>
+    <filler id="f-1810" source="NYT_ENG_20130522.0183" offset="1988" length="22" type="commodity">Large power generators</filler>
+    <filler id="f-1916" source="NYT_ENG_20130522.0183" offset="2199" length="8" type="time" nom_time="2013-04-23">April 23</filler>
+    <filler id="f-1952" source="NYT_ENG_20130522.0183" offset="2199" length="8" type="time" nom_time="2013-04-23">April 23</filler>
+    <filler id="f-1987" source="NYT_ENG_20130522.0183" offset="2199" length="8" type="time" nom_time="2013-04-23">April 23</filler>
+    <filler id="f-2042" source="NYT_ENG_20130522.0183" offset="2199" length="8" type="time" nom_time="2013-04-23">April 23</filler>
+    <filler id="f-2077" source="NYT_ENG_20130522.0183" offset="2470" length="16" type="time" nom_time="2013-04-24">the next morning</filler>
+    <filler id="f-2112" source="NYT_ENG_20130522.0183" offset="2470" length="16" type="time" nom_time="2013-04-24">the next morning</filler>
+    <filler id="f-2524" source="NYT_ENG_20130522.0183" offset="1497" length="8" type="commodity">clothing</filler>
+    <filler id="f-2559" source="NYT_ENG_20130522.0183" offset="1497" length="8" type="commodity">clothing</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1939" type="physical" subtype="locatednear">
+      <relation_mention id="relm-585" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-18" role="entity">BUILDING</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-39" role="loc">BANGLADESH</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-811" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-285" role="entity">Rana Plaza</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-303" role="loc">Bangladesh</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1406" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1940" type="physical" subtype="locatednear">
+      <relation_mention id="relm-595" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-57" role="entity">A factory building that collapsed last month outside Dhaka</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-69" role="loc">Dhaka</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="322" length="7">outside</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1941" type="physical" subtype="locatednear">
+      <relation_mention id="relm-605" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-75" role="entity">more than 1,000 workers</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-57" role="loc">A factory building that collapsed last month outside Dhaka</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-645" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-150" role="entity">1,127 people</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-93" role="loc">the Rana Plaza building in Savar</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1942" type="physical" subtype="locatednear">
+      <relation_mention id="relm-625" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-93" role="entity">the Rana Plaza building in Savar</rel_arg1>
+        <rel_arg2 entity_id="ent-111" entity_mention_id="m-105" role="loc">Savar</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="654" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1943" type="physical" subtype="locatednear">
+      <relation_mention id="relm-635" realis="true">
+        <rel_arg1 entity_id="ent-111" entity_mention_id="m-132" role="entity">an industrial suburb of Dhaka</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-138" role="loc">Dhaka</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="685" length="2">of</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1944" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-685" realis="true">
+        <rel_arg1 entity_id="ent-501" entity_mention_id="m-186" role="org">the five garment factories in the building</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-192" role="loc">the building</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="967" length="2">in</trigger>
+      </relation_mention>
+      <relation_mention id="relm-2309" realis="true">
+        <rel_arg1 entity_id="ent-501" entity_mention_id="m-2257" role="org">factory</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-57" role="loc">A factory building that collapsed last month outside Dhaka</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1945" type="personalsocial" subtype="role">
+      <relation_mention id="relm-695" realis="true">
+        <rel_arg1 entity_id="ent-114" entity_mention_id="m-156" role="per">the mayor</rel_arg1>
+        <rel_arg2 filler_id="f-703" role="role">mayor</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1946" type="personalsocial" subtype="business">
+      <relation_mention id="relm-705" realis="true">
+        <rel_arg1 entity_id="ent-120" entity_mention_id="m-204" role="per">The factory owners</rel_arg1>
+        <rel_arg2 entity_id="ent-129" entity_mention_id="m-210" role="per">workers</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1077" length="7">workers</trigger>
+      </relation_mention>
+      <relation_mention id="relm-741" realis="true">
+        <rel_arg1 entity_id="ent-120" entity_mention_id="m-228" role="per">They</rel_arg1>
+        <rel_arg2 entity_id="ent-129" entity_mention_id="m-234" role="per">them</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-971" realis="true">
+        <rel_arg1 entity_id="ent-120" entity_mention_id="m-492" role="per">their</rel_arg1>
+        <rel_arg2 entity_id="ent-129" entity_mention_id="m-507" role="per">their workers</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="2444" length="7">workers</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1947" type="physical" subtype="locatednear">
+      <relation_mention id="relm-731" realis="true">
+        <rel_arg1 entity_id="ent-129" entity_mention_id="m-210" role="entity">workers</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-222" role="loc">the building</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1088" length="6">return</trigger>
+      </relation_mention>
+      <relation_mention id="relm-991" realis="true">
+        <rel_arg1 entity_id="ent-129" entity_mention_id="m-507" role="entity">their workers</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-513" role="loc">the building</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="2452" length="4">into</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1948" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-761" realis="true">
+        <rel_arg1 entity_id="ent-246" entity_mention_id="m-267" role="employeemember">a high-ranking official in Bangladesh’s Home Ministry</rel_arg1>
+        <rel_arg2 entity_id="ent-249" entity_mention_id="m-273" role="org">Home Ministry</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1265" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1949" type="personalsocial" subtype="role">
+      <relation_mention id="relm-781" realis="true">
+        <rel_arg1 entity_id="ent-246" entity_mention_id="m-267" role="per">a high-ranking official in Bangladesh’s Home Ministry</rel_arg1>
+        <rel_arg2 filler_id="f-789" role="role">official</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1950" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-821" realis="true">
+        <rel_arg1 entity_id="ent-261" entity_mention_id="m-333" role="org">more than 5,000 garment factories</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-327" role="loc">Bangladesh</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1539" length="3">has</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1951" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-831" realis="true">
+        <rel_arg1 entity_id="ent-351" entity_mention_id="m-345" role="org">nearly all of the world’s top brands and retailers</rel_arg1>
+        <rel_arg2 entity_id="ent-252" entity_mention_id="m-354" role="loc">the world</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1616" length="7">world’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1952" type="physical" subtype="locatednear">
+      <relation_mention id="relm-861" realis="true">
+        <rel_arg1 entity_id="ent-24" entity_mention_id="m-366" role="entity">an export powerhouse</rel_arg1>
+        <rel_arg2 entity_id="ent-252" entity_mention_id="m-372" role="loc">the world</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1755" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1953" type="physical" subtype="locatednear">
+      <relation_mention id="relm-871" realis="true">
+        <rel_arg1 entity_id="ent-258" entity_mention_id="m-378" role="entity">garment workers</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-366" role="loc">an export powerhouse</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1954" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-881" realis="true">
+        <rel_arg1 entity_id="ent-501" entity_mention_id="m-408" role="org">garment factories employing several thousand workers</rel_arg1>
+        <rel_arg2 entity_id="ent-264" entity_mention_id="m-402" role="loc">upper floors</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1919" length="5">house</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1955" type="orgaffiliation" subtype="employmentmembership">
+      <relation_mention id="relm-891" realis="true">
+        <rel_arg1 entity_id="ent-129" entity_mention_id="m-414" role="employeemember">several thousand workers</rel_arg1>
+        <rel_arg2 entity_id="ent-501" entity_mention_id="m-408" role="org">garment factories employing several thousand workers</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1943" length="9">employing</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1956" type="physical" subtype="locatednear">
+      <relation_mention id="relm-901" realis="true">
+        <rel_arg1 entity_id="ent-264" entity_mention_id="m-420" role="entity">these upper floors</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-426" role="loc">the poorly constructed building</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1957" type="physical" subtype="locatednear">
+      <relation_mention id="relm-911" realis="true">
+        <rel_arg1 entity_id="ent-450" entity_mention_id="m-444" role="entity">many workers</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-438" role="loc">the structure</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="2293" length="4">fled</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1958" type="personalsocial" subtype="role">
+      <relation_mention id="relm-921" realis="true">
+        <rel_arg1 entity_id="ent-453" entity_mention_id="m-462" role="per">An engineer called to inspect the structure</rel_arg1>
+        <rel_arg2 filler_id="f-929" role="role">engineer</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1959" type="physical" subtype="locatednear">
+      <relation_mention id="relm-931" realis="true">
+        <rel_arg1 entity_id="ent-453" entity_mention_id="m-462" role="entity">An engineer called to inspect the structure</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-468" role="loc">the structure</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1960" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2299" realis="true">
+        <rel_arg1 entity_id="ent-27" entity_mention_id="m-45" role="entity">DHAKA</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-51" role="loc">Bangladesh</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1961" type="orgaffiliation" subtype="ownership">
+      <relation_mention id="relm-2319" realis="true">
+        <rel_arg1 entity_id="ent-120" entity_mention_id="m-180" role="owner">the owners of the five garment factories in the building</rel_arg1>
+        <rel_arg2 entity_id="ent-501" entity_mention_id="m-186" role="org">the five garment factories in the building</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="930" length="6">owners</trigger>
+      </relation_mention>
+      <relation_mention id="relm-2329" realis="true">
+        <rel_arg1 entity_id="ent-120" entity_mention_id="m-204" role="owner">The factory owners</rel_arg1>
+        <rel_arg2 entity_id="ent-501" entity_mention_id="m-715" role="org">factory</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1064" length="6">owners</trigger>
+      </relation_mention>
+      <relation_mention id="relm-2433" realis="true">
+        <rel_arg1 entity_id="ent-120" entity_mention_id="m-543" role="owner">the factory owners</rel_arg1>
+        <rel_arg2 entity_id="ent-501" entity_mention_id="m-2213" role="org">factory</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="2691" length="6">owners</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1962" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-2339" realis="true">
+        <rel_arg1 entity_id="ent-249" entity_mention_id="m-273" role="suborg">Home Ministry</rel_arg1>
+        <rel_arg2 entity_id="ent-24" entity_mention_id="m-279" role="parent">Bangladesh</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1268" length="12">Bangladesh’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1963" type="physical" subtype="locatednear">
+      <relation_mention id="relm-2359" realis="true">
+        <rel_arg1 entity_id="ent-255" entity_mention_id="m-321" role="entity">China</rel_arg1>
+        <rel_arg2 entity_id="ent-252" entity_mention_id="m-315" role="loc">the world</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1964" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-2375" realis="true">
+        <rel_arg1 entity_id="ent-2219" entity_mention_id="m-2369" role="org">the world’s top brands and retailers</rel_arg1>
+        <rel_arg2 entity_id="ent-252" entity_mention_id="m-354" role="loc">the world</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1616" length="7">world’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1965" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-2413" realis="true">
+        <rel_arg1 entity_id="ent-2400" entity_mention_id="m-2394" role="org">the world’s top brands and retailers</rel_arg1>
+        <rel_arg2 entity_id="ent-252" entity_mention_id="m-354" role="loc">the world</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="1616" length="7">world’s</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1966" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-2423" realis="true">
+        <rel_arg1 entity_id="ent-120" entity_mention_id="m-486" role="leader">the factory bosses</rel_arg1>
+        <rel_arg2 entity_id="ent-501" entity_mention_id="m-2275" role="entity">factory</rel_arg2>
+        <trigger source="NYT_ENG_20130522.0183" offset="2395" length="6">bosses</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-1031" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130522.0183" offset="172" length="6">REPORT</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-39" role="place" realis="true">BANGLADESH</em_arg>
+      </event_mention>
+      <event_mention id="em-1179" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130522.0183" offset="547" length="6">report</trigger>
+        <em_arg entity_id="ent-36" entity_mention_id="m-87" role="entity" realis="true">government</em_arg>
+        <em_arg filler_id="f-1204" role="time" realis="true">Wednesday</em_arg>
+      </event_mention>
+      <event_mention id="em-1709" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130522.0183" offset="1858" length="6">report</trigger>
+        <em_arg entity_id="ent-36" entity_mention_id="m-390" role="entity" realis="true">government</em_arg>
+      </event_mention>
+      <event_mention id="em-2115" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130522.0183" offset="2503" length="6">report</trigger>
+        <em_arg entity_id="ent-36" entity_mention_id="m-519" role="entity" realis="true">government</em_arg>
+      </event_mention>
+      <event_mention id="em-2136" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130522.0183" offset="2646" length="6">report</trigger>
+        <em_arg entity_id="ent-246" entity_mention_id="m-531" role="entity" realis="true">Khandaker</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1052">
+      <event_mention id="em-1074" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="337" length="7">killing</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-75" role="victim" realis="true">more than 1,000 workers</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-57" role="place" realis="true">A factory building that collapsed last month outside Dhaka</em_arg>
+        <em_arg filler_id="f-1113" role="time" realis="true">last month</em_arg>
+      </event_mention>
+      <event_mention id="em-1228" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="764" length="6">killed</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-150" role="victim" realis="true">1,127 people</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-93" role="place" realis="true">the Rana Plaza building in Savar</em_arg>
+        <em_arg filler_id="f-1267" role="time" realis="true">April 24</em_arg>
+        <em_arg entity_id="ent-114" entity_mention_id="m-156" role="agent" realis="true">the mayor</em_arg>
+        <em_arg entity_id="ent-117" entity_mention_id="m-162" role="agent" realis="true">the building’s owner</em_arg>
+        <em_arg entity_id="ent-120" entity_mention_id="m-180" role="agent" realis="true">the owners of the five garment factories in the building</em_arg>
+      </event_mention>
+      <event_mention id="em-2669" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="2723" length="8">homicide</trigger>
+        <em_arg entity_id="ent-117" entity_mention_id="m-537" role="agent" realis="false">Rana</em_arg>
+        <em_arg entity_id="ent-120" entity_mention_id="m-543" role="agent" realis="false">the factory owners</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1054">
+      <event_mention id="em-1144" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="439" length="11">constructed</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-57" role="artifact" realis="true">A factory building that collapsed last month outside Dhaka</em_arg>
+        <em_arg filler_id="f-1169" role="instrument" realis="true">substandard materials</em_arg>
+        <em_arg entity_id="ent-27" entity_mention_id="m-69" role="place" realis="true">Dhaka</em_arg>
+      </event_mention>
+      <event_mention id="em-1828" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="2109" length="11">constructed</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-426" role="artifact" realis="true">the poorly constructed building</em_arg>
+      </event_mention>
+      <event_mention id="em-2222" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="2792" length="12">construction</trigger>
+        <em_arg entity_id="ent-117" entity_mention_id="m-555" role="agent" realis="true">Rana</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1058">
+      <event_mention id="em-1354" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130522.0183" offset="1071" length="5">urged</trigger>
+        <em_arg entity_id="ent-120" entity_mention_id="m-204" role="entity" realis="true">The factory owners</em_arg>
+        <em_arg entity_id="ent-129" entity_mention_id="m-210" role="entity" realis="true">workers</em_arg>
+      </event_mention>
+      <event_mention id="em-1431" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130522.0183" offset="1188" length="9">compelled</trigger>
+        <em_arg entity_id="ent-120" entity_mention_id="m-228" role="entity" realis="true">They</em_arg>
+        <em_arg entity_id="ent-129" entity_mention_id="m-234" role="entity" realis="true">them</em_arg>
+      </event_mention>
+      <event_mention id="em-2045" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130522.0183" offset="2430" length="7">ordered</trigger>
+        <em_arg entity_id="ent-120" entity_mention_id="m-492" role="entity" realis="true">their</em_arg>
+        <em_arg entity_id="ent-129" entity_mention_id="m-507" role="entity" realis="true">their workers</em_arg>
+        <em_arg filler_id="f-2077" role="time" realis="true">the next morning</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1060">
+      <event_mention id="em-1382" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="1088" length="6">return</trigger>
+        <em_arg entity_id="ent-129" entity_mention_id="m-210" role="person" realis="true">workers</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-222" role="destination" realis="true">the building</em_arg>
+        <em_arg entity_id="ent-120" entity_mention_id="m-204" role="agent" realis="true">The factory owners</em_arg>
+      </event_mention>
+      <event_mention id="em-2080" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130522.0183" offset="2452" length="4">into</trigger>
+        <em_arg entity_id="ent-129" entity_mention_id="m-507" role="person" realis="true">their workers</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-513" role="destination" realis="true">the building</em_arg>
+        <em_arg filler_id="f-2112" role="time" realis="true">the next morning</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1062">
+      <event_mention id="em-1459" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130522.0183" offset="1214" length="4">said</trigger>
+        <em_arg entity_id="ent-246" entity_mention_id="m-240" role="entity" realis="true">Main Uddin Khandaker</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1064">
+      <event_mention id="em-1480" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="1485" length="8">exporter</trigger>
+        <em_arg filler_id="f-1505" role="artifact" realis="true">clothing</em_arg>
+        <em_arg entity_id="ent-24" entity_mention_id="m-2735" role="origin" realis="true">the world’s second-leading exporter of clothing</em_arg>
+        <em_arg entity_id="ent-252" entity_mention_id="m-315" role="destination" realis="true">the world</em_arg>
+      </event_mention>
+      <event_mention id="em-1674" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="1667" length="6">export</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-366" role="agent" realis="true">an export powerhouse</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1066">
+      <event_mention id="em-1522" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="1485" length="8">exporter</trigger>
+        <em_arg entity_id="ent-255" entity_mention_id="m-321" role="agent" realis="true">China</em_arg>
+        <em_arg filler_id="f-1547" role="artifact" realis="true">clothing</em_arg>
+        <em_arg entity_id="ent-252" entity_mention_id="m-315" role="destination" realis="true">the world</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1068">
+      <event_mention id="em-1564" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="1578" length="8">handling</trigger>
+        <em_arg filler_id="f-1581" role="artifact" realis="true">garment</em_arg>
+        <em_arg entity_id="ent-261" entity_mention_id="m-333" role="agent" realis="true">more than 5,000 garment factories</em_arg>
+        <em_arg entity_id="ent-24" entity_mention_id="m-327" role="place" realis="true">Bangladesh</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1070">
+      <event_mention id="em-1611" type="transaction" subtype="transaction" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130522.0183" offset="1587" length="6">orders</trigger>
+        <em_arg entity_id="ent-351" entity_mention_id="m-345" role="recipient" realis="true">nearly all of the world’s top brands and retailers</em_arg>
+        <em_arg entity_id="ent-261" entity_mention_id="m-333" role="giver" realis="true">more than 5,000 garment factories</em_arg>
+        <em_arg entity_id="ent-252" entity_mention_id="m-354" role="place" realis="true">the world</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1599">
+      <event_mention id="em-1639" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130522.0183" offset="1587" length="6">orders</trigger>
+        <em_arg entity_id="ent-351" entity_mention_id="m-345" role="entity" realis="true">nearly all of the world’s top brands and retailers</em_arg>
+        <em_arg entity_id="ent-252" entity_mention_id="m-354" role="place" realis="true">the world</em_arg>
+        <em_arg entity_id="ent-261" entity_mention_id="m-333" role="audience" realis="true">more than 5,000 garment factories</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1605">
+      <event_mention id="em-1793" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="2011" length="6">placed</trigger>
+        <em_arg filler_id="f-1810" role="artifact" realis="true">Large power generators</em_arg>
+        <em_arg entity_id="ent-264" entity_mention_id="m-420" role="destination" realis="true">these upper floors</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1607">
+      <event_mention id="em-1884" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="2293" length="4">fled</trigger>
+        <em_arg entity_id="ent-450" entity_mention_id="m-444" role="agent" realis="true">many workers</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-438" role="origin" realis="true">the structure</em_arg>
+        <em_arg filler_id="f-1916" role="time" realis="true">April 23</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1609">
+      <event_mention id="em-1927" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130522.0183" offset="2311" length="6">called</trigger>
+        <em_arg entity_id="ent-453" entity_mention_id="m-462" role="entity" realis="true">An engineer called to inspect the structure</em_arg>
+        <em_arg filler_id="f-1952" role="time" realis="true">April 23</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1919">
+      <event_mention id="em-1955" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="2318" length="2">to</trigger>
+        <em_arg entity_id="ent-453" entity_mention_id="m-462" role="person" realis="true">An engineer called to inspect the structure</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-468" role="destination" realis="true">the structure</em_arg>
+        <em_arg filler_id="f-1987" role="time" realis="true">April 23</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1921">
+      <event_mention id="em-1996" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130522.0183" offset="2343" length="6">warned</trigger>
+        <em_arg entity_id="ent-453" entity_mention_id="m-462" role="entity" realis="true">An engineer called to inspect the structure</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-468" role="place" realis="true">the structure</em_arg>
+        <em_arg entity_id="ent-117" entity_mention_id="m-480" role="entity" realis="true">Rana</em_arg>
+        <em_arg entity_id="ent-120" entity_mention_id="m-486" role="entity" realis="true">the factory bosses</em_arg>
+        <em_arg filler_id="f-2042" role="time" realis="true">April 23</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1923">
+      <event_mention id="em-2178" type="transaction" subtype="transaction" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130522.0183" offset="2765" length="6">bribed</trigger>
+        <em_arg entity_id="ent-117" entity_mention_id="m-555" role="giver" realis="true">Rana</em_arg>
+        <em_arg entity_id="ent-459" entity_mention_id="m-561" role="recipient" realis="true">local officials</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1925">
+      <event_mention id="em-2492" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130522.0183" offset="1485" length="8">exporter</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-2735" role="giver" realis="true">the world’s second-leading exporter of clothing</em_arg>
+        <em_arg entity_id="ent-252" entity_mention_id="m-315" role="place" realis="true">the world</em_arg>
+        <em_arg filler_id="f-2524" role="thing" realis="true">clothing</em_arg>
+      </event_mention>
+      <event_mention id="em-2590" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130522.0183" offset="1667" length="6">export</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-366" role="giver" realis="true">an export powerhouse</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1990">
+      <event_mention id="em-2527" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130522.0183" offset="1485" length="8">exporter</trigger>
+        <em_arg entity_id="ent-255" entity_mention_id="m-321" role="giver" realis="true">China</em_arg>
+        <em_arg entity_id="ent-252" entity_mention_id="m-315" role="place" realis="true">the world</em_arg>
+        <em_arg filler_id="f-2559" role="thing" realis="true">clothing</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1992">
+      <event_mention id="em-2618" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130522.0183" offset="1749" length="5">wages</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-366" role="giver" realis="true">an export powerhouse</em_arg>
+        <em_arg entity_id="ent-258" entity_mention_id="m-378" role="recipient" realis="true">garment workers</em_arg>
+        <em_arg entity_id="ent-252" entity_mention_id="m-372" role="place" realis="true">the world</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1994">
+      <event_mention id="em-1737" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="1891" length="11">constructed</trigger>
+        <em_arg entity_id="ent-117" entity_mention_id="m-396" role="agent" realis="true">Rana</em_arg>
+        <em_arg entity_id="ent-264" entity_mention_id="m-402" role="artifact" realis="true">upper floors</em_arg>
+        <em_arg entity_id="ent-8" entity_mention_id="m-384" role="place" realis="true">Rana Plaza</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-2727">
+      <event_mention id="em-2699" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130522.0183" offset="2723" length="8">homicide</trigger>
+        <em_arg entity_id="ent-117" entity_mention_id="m-537" role="attacker" realis="false">Rana</em_arg>
+        <em_arg entity_id="ent-120" entity_mention_id="m-543" role="attacker" realis="false">the factory owners</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>
